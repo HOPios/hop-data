@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "generated_at": "2026-09-25T16:52:18Z",
+ "generated_at": "2026-09-25T21:16:39Z",
  "base": "USD",
  "source": "open.er-api.com",
  "status": "ok",
- "checked_at": "2026-09-25T16:52:18Z",
+ "checked_at": "2026-09-25T21:16:39Z",
  "count": 166,
  "rates": {
   "AED": 3.6725,
