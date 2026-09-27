@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "generated_at": "2026-09-27T10:47:08.558Z",
+ "dates": {},
+ "stats": {
+  "run_date": "2026-09-27",
+  "destinations_checked": 0,
+  "fetches": 0,
+  "fetch_failures": 0,
+  "failure_rate": 0,
+  "sentences_checked": 0,
+  "sentences_found": 0,
+  "entries_checked": 0,
+  "dates_moved": 0,
+  "published": true
+ }
+}
