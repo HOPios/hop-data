@@ -1,17 +1,26 @@
 {
  "schema": 1,
- "generated_at": "2026-09-27T23:51:55.267Z",
- "dates": {},
+ "generated_at": "2026-09-28T05:37:40.477Z",
+ "dates": {
+  "IE": {
+   "Niger": "2026-09-28"
+  }
+ },
  "stats": {
-  "run_date": "2026-09-27",
-  "destinations_checked": 0,
-  "fetches": 0,
-  "fetch_failures": 0,
-  "failure_rate": 0,
-  "sentences_checked": 0,
-  "sentences_found": 0,
-  "entries_checked": 0,
-  "dates_moved": 0,
-  "published": true
+  "run_date": "2026-09-28",
+  "destinations_checked": 2,
+  "fetches": 6,
+  "fetch_failures": 1,
+  "failure_rate": 0.1667,
+  "sentences_checked": 35,
+  "sentences_found": 26,
+  "entries_checked": 4,
+  "dates_moved": 1,
+  "published": true,
+  "pages_read": {
+   "plain": 5,
+   "pdf": 0,
+   "browser": 0
+  }
  }
 }
