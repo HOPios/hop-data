@@ -1,26 +1,28 @@
 {
  "schema": 1,
- "generated_at": "2026-09-28T05:37:40.477Z",
+ "generated_at": "2026-09-29T01:07:14.408Z",
  "dates": {
   "IE": {
-   "Niger": "2026-09-28"
+   "Ethiopia": "2026-09-29",
+   "Niger": "2026-09-28",
+   "Trinidad and Tobago": "2026-09-29"
   }
  },
  "stats": {
-  "run_date": "2026-09-28",
+  "run_date": "2026-09-29",
   "destinations_checked": 2,
-  "fetches": 6,
-  "fetch_failures": 1,
-  "failure_rate": 0.1667,
-  "sentences_checked": 35,
-  "sentences_found": 26,
-  "entries_checked": 4,
-  "dates_moved": 1,
+  "fetches": 5,
+  "fetch_failures": 0,
+  "failure_rate": 0,
+  "sentences_checked": 17,
+  "sentences_found": 17,
+  "entries_checked": 2,
+  "dates_moved": 2,
   "published": true,
   "pages_read": {
-   "plain": 5,
-   "pdf": 0,
-   "browser": 0
+   "plain": 2,
+   "pdf": 1,
+   "browser": 2
   }
  }
 }
