@@ -1,27 +1,29 @@
 {
  "schema": 1,
- "generated_at": "2026-09-30T00:38:08.557Z",
+ "generated_at": "2026-10-01T00:40:09.289Z",
  "dates": {
   "IE": {
+   "Algeria": "2026-10-01",
    "Ethiopia": "2026-09-29",
    "Gambia": "2026-09-30",
+   "Guyana": "2026-10-01",
    "Niger": "2026-09-28",
    "Trinidad and Tobago": "2026-09-29"
   }
  },
  "stats": {
-  "run_date": "2026-09-30",
-  "destinations_checked": 1,
-  "fetches": 1,
+  "run_date": "2026-10-01",
+  "destinations_checked": 2,
+  "fetches": 5,
   "fetch_failures": 0,
   "failure_rate": 0,
-  "sentences_checked": 7,
-  "sentences_found": 7,
-  "entries_checked": 1,
-  "dates_moved": 1,
+  "sentences_checked": 21,
+  "sentences_found": 21,
+  "entries_checked": 2,
+  "dates_moved": 2,
   "published": true,
   "pages_read": {
-   "plain": 1,
+   "plain": 5,
    "pdf": 0,
    "browser": 0
   }
