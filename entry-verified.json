@@ -1,13 +1,16 @@
 {
  "schema": 1,
- "generated_at": "2026-10-02T00:58:49.260Z",
+ "generated_at": "2026-10-03T00:35:38.815Z",
  "dates": {
+  "CA": {
+   "Belarus": "2026-10-03"
+  },
   "IE": {
    "Algeria": "2026-10-01",
    "Ethiopia": "2026-09-29",
    "Gambia": "2026-09-30",
    "Guyana": "2026-10-01",
-   "Niger": "2026-09-28",
+   "Niger": "2026-10-03",
    "Trinidad and Tobago": "2026-09-29"
   },
   "KR": {
@@ -18,20 +21,20 @@
   }
  },
  "stats": {
-  "run_date": "2026-10-02",
+  "run_date": "2026-10-03",
   "destinations_checked": 2,
-  "fetches": 6,
+  "fetches": 5,
   "fetch_failures": 0,
   "failure_rate": 0,
-  "sentences_checked": 15,
-  "sentences_found": 15,
+  "sentences_checked": 22,
+  "sentences_found": 22,
   "entries_checked": 2,
   "dates_moved": 2,
   "published": true,
   "pages_read": {
-   "plain": 5,
-   "pdf": 0,
-   "browser": 1
+   "plain": 4,
+   "pdf": 1,
+   "browser": 0
   }
  }
 }
