@@ -1,9 +1,10 @@
 {
  "schema": 1,
- "generated_at": "2026-10-03T23:57:52.441Z",
+ "generated_at": "2026-10-05T00:03:09.327Z",
  "dates": {
   "CA": {
-   "Belarus": "2026-10-03"
+   "Belarus": "2026-10-03",
+   "Estonia": "2026-10-05"
   },
   "IE": {
    "Algeria": "2026-10-01",
@@ -16,24 +17,27 @@
   "KR": {
    "Austria": "2026-10-02"
   },
+  "NL": {
+   "Peru": "2026-10-05"
+  },
   "NZ": {
    "Latvia": "2026-10-02"
   }
  },
  "stats": {
-  "run_date": "2026-10-03",
+  "run_date": "2026-10-05",
   "destinations_checked": 2,
-  "fetches": 5,
-  "fetch_failures": 0,
-  "failure_rate": 0,
-  "sentences_checked": 22,
-  "sentences_found": 22,
-  "entries_checked": 2,
-  "dates_moved": 0,
+  "fetches": 6,
+  "fetch_failures": 1,
+  "failure_rate": 0.1667,
+  "sentences_checked": 28,
+  "sentences_found": 24,
+  "entries_checked": 3,
+  "dates_moved": 2,
   "published": true,
   "pages_read": {
-   "plain": 4,
-   "pdf": 1,
+   "plain": 5,
+   "pdf": 0,
    "browser": 0
   }
  }
