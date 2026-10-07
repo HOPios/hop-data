@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-06T15:47:17.407Z",
+ "generated_at": "2026-10-07T00:52:34.010Z",
  "dates": {
   "AU": {
    "Austria": "2026-10-06",
@@ -196,7 +196,7 @@
    "Democratic Republic of the Congo": "2026-10-06",
    "Eritrea": "2026-10-06",
    "Ethiopia": "2026-10-06",
-   "Gambia": "2026-09-30",
+   "Gambia": "2026-10-07",
    "Guyana": "2026-10-01",
    "Hong Kong": "2026-10-06",
    "Jamaica": "2026-10-06",
@@ -492,19 +492,20 @@
   }
  },
  "stats": {
-  "run_date": "2026-10-06",
-  "method": "page",
-  "pages": 244,
-  "entries_checked": 598,
-  "fetches": 253,
-  "fetch_failures": 7,
-  "failure_rate": 0.0277,
-  "unchanged": 453,
-  "changed": 4,
-  "held": 0,
-  "unreachable_entries": 0,
-  "manual_waiting": 0,
-  "dates_moved": 13,
-  "published": true
+  "run_date": "2026-10-07",
+  "destinations_checked": 1,
+  "fetches": 1,
+  "fetch_failures": 0,
+  "failure_rate": 0,
+  "sentences_checked": 7,
+  "sentences_found": 7,
+  "entries_checked": 1,
+  "dates_moved": 1,
+  "published": true,
+  "pages_read": {
+   "plain": 1,
+   "pdf": 0,
+   "browser": 0
+  }
  }
 }
