@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-08T01:09:09.918Z",
+ "generated_at": "2026-10-08T03:18:33.462Z",
  "dates": {
   "AU": {
    "Austria": "2026-10-07",
@@ -639,15 +639,15 @@
   "run_date": "2026-10-08",
   "destinations_checked": 2,
   "fetches": 5,
-  "fetch_failures": 0,
-  "failure_rate": 0,
+  "fetch_failures": 1,
+  "failure_rate": 0.2,
   "sentences_checked": 21,
-  "sentences_found": 21,
+  "sentences_found": 19,
   "entries_checked": 2,
-  "dates_moved": 2,
+  "dates_moved": 0,
   "published": true,
   "pages_read": {
-   "plain": 5,
+   "plain": 4,
    "pdf": 0,
    "browser": 0
   }
