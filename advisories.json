@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at": "2026-10-09T23:48:31Z",
+ "generated_at": "2026-10-10T23:13:09Z",
  "uk_rule_version": "2026-09-12",
  "feeds": {
   "AU": {
    "status": "ok",
    "cadence": "daily",
-   "next_due": "2026-10-10T20:00:00Z",
-   "fetched_at": "2026-10-09T23:48:31Z",
+   "next_due": "2026-10-11T20:00:00Z",
+   "fetched_at": "2026-10-10T23:13:09Z",
    "source_records": 181,
    "joined": 179,
    "unmatched_source": [],
@@ -16,59 +16,59 @@
   "CA": {
    "status": "ok",
    "cadence": "daily",
-   "next_due": "2026-10-10T20:00:00Z",
-   "fetched_at": "2026-10-09T23:48:31Z",
+   "next_due": "2026-10-11T20:00:00Z",
+   "fetched_at": "2026-10-10T23:13:09Z",
    "source_records": 230,
    "joined": 228,
    "unmatched_source": [],
-   "newest_source_date": "2026-10-09"
+   "newest_source_date": "2026-10-10"
   },
   "US": {
    "status": "ok",
    "cadence": "daily",
-   "next_due": "2026-10-10T20:00:00Z",
-   "fetched_at": "2026-10-09T23:48:31Z",
+   "next_due": "2026-10-11T20:00:00Z",
+   "fetched_at": "2026-10-10T23:13:09Z",
    "source_records": 223,
    "joined": 213,
    "unmatched_source": [],
-   "newest_source_date": "2026-09-15"
+   "newest_source_date": "2026-10-10"
   },
   "UK": {
    "status": "ok",
    "cadence": "daily",
-   "next_due": "2026-10-10T20:00:00Z",
-   "fetched_at": "2026-10-09T23:48:31Z",
+   "next_due": "2026-10-11T20:00:00Z",
+   "fetched_at": "2026-10-10T23:13:09Z",
    "source_records": 226,
    "joined": 228,
    "unmatched_source": [],
-   "newest_source_date": "2026-10-09"
+   "newest_source_date": "2026-10-10"
   },
   "NZ": {
    "status": "ok",
    "cadence": "weekly",
    "next_due": "2026-10-11T20:00:00Z",
-   "fetched_at": "2026-10-09T23:48:31Z",
+   "fetched_at": "2026-10-10T23:13:09Z",
    "source_records": 222,
    "joined": 152,
    "unmatched_source": [],
-   "newest_source_date": "2026-10-09"
+   "newest_source_date": "2026-10-11"
   },
   "DE": {
    "status": "ok",
    "cadence": "daily",
-   "next_due": "2026-10-10T20:00:00Z",
-   "fetched_at": "2026-10-09T23:48:31Z",
+   "next_due": "2026-10-11T20:00:00Z",
+   "fetched_at": "2026-10-10T23:13:09Z",
    "source_records": 200,
    "joined": 200,
    "unmatched_source": [],
-   "newest_source_date": "2026-10-09",
+   "newest_source_date": "2026-10-10",
    "attribution": "Data (c) Auswaertiges Amt (German Federal Foreign Office); taken over completely and kept current every run via https://www.auswaertiges-amt.de/opendata/travelwarning"
   },
   "NL": {
    "status": "ok",
    "cadence": "daily",
-   "next_due": "2026-10-10T20:00:00Z",
-   "fetched_at": "2026-10-09T23:48:31Z",
+   "next_due": "2026-10-11T20:00:00Z",
+   "fetched_at": "2026-10-10T23:13:09Z",
    "source_records": 223,
    "joined": 223,
    "unmatched_source": [],
@@ -1877,7 +1877,7 @@
    "Samoa": "2026-09-24",
    "San Marino": "2026-09-24",
    "Sao Tome and Principe": "2026-09-24",
-   "Saudi Arabia": "2026-10-09",
+   "Saudi Arabia": "2026-10-10",
    "Senegal": "2026-09-28",
    "Serbia": "2026-10-09",
    "Seychelles": "2026-09-24",
@@ -2096,7 +2096,7 @@
    "Saint Vincent and the Grenadines": "2026-07-07",
    "Samoa": "2026-07-07",
    "Sao Tome and Principe": "2026-09-04",
-   "Saudi Arabia": "2026-09-15",
+   "Saudi Arabia": "2026-10-10",
    "Senegal": "2025-12-01",
    "Serbia": "2026-08-27",
    "Seychelles": "2025-12-09",
@@ -2138,7 +2138,7 @@
    "Vanuatu": "2025-05-22",
    "Venezuela": "2026-06-27",
    "Vietnam": "2026-06-24",
-   "Yemen": "2025-12-19",
+   "Yemen": "2026-10-10",
    "Zambia": "2023-07-31",
    "Zimbabwe": "2023-06-27"
   },
@@ -2321,7 +2321,7 @@
    "Samoa": "2026-03-19",
    "San Marino": "2025-12-10",
    "Sao Tome and Principe": "2025-12-10",
-   "Saudi Arabia": "2026-10-09",
+   "Saudi Arabia": "2026-10-10",
    "Senegal": "2026-05-13",
    "Serbia": "2026-08-13",
    "Seychelles": "2026-01-21",
@@ -2487,7 +2487,7 @@
    "Russia": "2026-08-17",
    "Rwanda": "2026-05-22",
    "Samoa": "2025-11-25",
-   "Saudi Arabia": "2026-09-16",
+   "Saudi Arabia": "2026-10-11",
    "Senegal": "2025-07-24",
    "Serbia": "2025-07-25",
    "Sierra Leone": "2025-07-24",
@@ -2665,7 +2665,7 @@
    "Pakistan": "2026-09-29",
    "Palau": "2026-07-10",
    "Palestine": "2026-09-21",
-   "Panama": "2026-10-09",
+   "Panama": "2026-10-10",
    "Papua New Guinea": "2026-08-18",
    "Paraguay": "2026-07-07",
    "Peru": "2026-08-24",
@@ -2682,7 +2682,7 @@
    "Samoa": "2026-04-22",
    "San Marino": "2026-04-22",
    "Sao Tome and Principe": "2026-10-07",
-   "Saudi Arabia": "2026-10-08",
+   "Saudi Arabia": "2026-10-10",
    "Senegal": "2026-09-14",
    "Serbia": "2026-08-11",
    "Seychelles": "2026-09-04",
@@ -3178,5 +3178,20 @@
   "Western Sahara": "2026-06-29 imposed",
   "Zambia": "2021-12-15 lifted",
   "Zimbabwe": "2021-12-15 lifted"
+ },
+ "joined_cards": {
+  "AU": [],
+  "CA": [],
+  "US": [
+   "Bonaire",
+   "Guadeloupe",
+   "Martinique",
+   "Palestine",
+   "Saint Barthélemy"
+  ],
+  "UK": [],
+  "NZ": [],
+  "DE": [],
+  "NL": []
  }
 }
