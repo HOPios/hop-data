@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-09T01:19:04.379Z",
+ "generated_at": "2026-10-10T01:03:52.861Z",
  "dates": {
   "AU": {
    "Austria": "2026-10-07",
@@ -69,7 +69,7 @@
    "Azerbaijan": "2026-10-07",
    "Bahamas": "2026-10-07",
    "Barbados": "2026-10-07",
-   "Belarus": "2026-10-03",
+   "Belarus": "2026-10-10",
    "Belgium": "2026-10-07",
    "Belize": "2026-10-07",
    "Bhutan": "2026-10-07",
@@ -243,7 +243,7 @@
    "Mongolia": "2026-10-07",
    "Mozambique": "2026-10-07",
    "Myanmar": "2026-10-07",
-   "Niger": "2026-10-03",
+   "Niger": "2026-10-10",
    "Paraguay": "2026-10-07",
    "Rwanda": "2026-10-07",
    "Réunion": "2026-10-07",
@@ -636,20 +636,20 @@
   }
  },
  "stats": {
-  "run_date": "2026-10-09",
+  "run_date": "2026-10-10",
   "destinations_checked": 2,
-  "fetches": 6,
+  "fetches": 5,
   "fetch_failures": 0,
   "failure_rate": 0,
-  "sentences_checked": 15,
-  "sentences_found": 15,
+  "sentences_checked": 22,
+  "sentences_found": 22,
   "entries_checked": 2,
   "dates_moved": 2,
   "published": true,
   "pages_read": {
-   "plain": 5,
-   "pdf": 0,
-   "browser": 1
+   "plain": 4,
+   "pdf": 1,
+   "browser": 0
   }
  }
 }
