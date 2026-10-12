@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-11T00:18:03.519Z",
+ "generated_at": "2026-10-12T00:40:26.527Z",
  "dates": {
   "AU": {
    "Austria": "2026-10-07",
@@ -91,7 +91,7 @@
    "Dominica": "2026-10-07",
    "Dominican Republic": "2026-10-07",
    "El Salvador": "2026-10-07",
-   "Estonia": "2026-10-07",
+   "Estonia": "2026-10-12",
    "Eswatini": "2026-10-07",
    "Ethiopia": "2026-10-07",
    "Finland": "2026-10-07",
@@ -298,6 +298,7 @@
    "Myanmar": "2026-10-07",
    "Netherlands": "2026-10-07",
    "Norway": "2026-10-07",
+   "Panama": "2026-10-12",
    "Poland": "2026-10-07",
    "Portugal": "2026-10-07",
    "Romania": "2026-10-07",
@@ -636,23 +637,27 @@
    "Tonga": "2026-10-07"
   }
  },
- "review": [],
- "review_sentence": [],
+ "review": [
+  "IN|Estonia"
+ ],
+ "review_sentence": [
+  "IN|Estonia"
+ ],
  "stats": {
-  "run_date": "2026-10-11",
+  "run_date": "2026-10-12",
   "destinations_checked": 2,
-  "fetches": 4,
+  "fetches": 6,
   "fetch_failures": 0,
   "failure_rate": 0,
   "sentences_checked": 20,
-  "sentences_found": 20,
+  "sentences_found": 16,
   "entries_checked": 3,
-  "dates_moved": 3,
+  "dates_moved": 2,
   "published": true,
   "pages_read": {
-   "plain": 4,
+   "plain": 5,
    "pdf": 0,
-   "browser": 0
+   "browser": 1
   }
  }
 }
