@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-13T02:39:37.235Z",
+ "generated_at": "2026-10-14T00:26:36.887Z",
  "dates": {
   "AU": {
    "Austria": "2026-10-12",
@@ -231,7 +231,7 @@
    "Democratic Republic of the Congo": "2026-10-12",
    "Eritrea": "2026-10-12",
    "Ethiopia": "2026-10-13",
-   "Gambia": "2026-10-07",
+   "Gambia": "2026-10-14",
    "Guyana": "2026-10-08",
    "Hong Kong": "2026-10-12",
    "Jamaica": "2026-10-12",
@@ -663,20 +663,20 @@
   "IN|Estonia"
  ],
  "stats": {
-  "run_date": "2026-10-13",
-  "destinations_checked": 2,
-  "fetches": 4,
+  "run_date": "2026-10-14",
+  "destinations_checked": 1,
+  "fetches": 1,
   "fetch_failures": 0,
   "failure_rate": 0,
-  "sentences_checked": 21,
-  "sentences_found": 21,
-  "entries_checked": 2,
-  "dates_moved": 2,
+  "sentences_checked": 7,
+  "sentences_found": 7,
+  "entries_checked": 1,
+  "dates_moved": 1,
   "published": true,
   "pages_read": {
-   "plain": 2,
+   "plain": 1,
    "pdf": 0,
-   "browser": 2
+   "browser": 0
   }
  }
 }
