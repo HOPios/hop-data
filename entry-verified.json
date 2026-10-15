@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-14T00:26:36.887Z",
+ "generated_at": "2026-10-14T23:59:59.894Z",
  "dates": {
   "AU": {
    "Austria": "2026-10-12",
@@ -671,7 +671,7 @@
   "sentences_checked": 7,
   "sentences_found": 7,
   "entries_checked": 1,
-  "dates_moved": 1,
+  "dates_moved": 0,
   "published": true,
   "pages_read": {
    "plain": 1,
