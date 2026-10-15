@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-14T23:59:59.894Z",
+ "generated_at": "2026-10-15T23:45:03.826Z",
  "dates": {
   "AU": {
    "Austria": "2026-10-12",
@@ -219,7 +219,7 @@
    "Vietnam": "2026-10-07"
   },
   "IE": {
-   "Algeria": "2026-10-08",
+   "Algeria": "2026-10-15",
    "Armenia": "2026-10-12",
    "Bahamas": "2026-10-12",
    "Barbados": "2026-10-12",
@@ -232,7 +232,7 @@
    "Eritrea": "2026-10-12",
    "Ethiopia": "2026-10-13",
    "Gambia": "2026-10-14",
-   "Guyana": "2026-10-08",
+   "Guyana": "2026-10-15",
    "Hong Kong": "2026-10-12",
    "Jamaica": "2026-10-12",
    "Kiribati": "2026-10-12",
@@ -663,18 +663,18 @@
   "IN|Estonia"
  ],
  "stats": {
-  "run_date": "2026-10-14",
-  "destinations_checked": 1,
-  "fetches": 1,
+  "run_date": "2026-10-15",
+  "destinations_checked": 2,
+  "fetches": 5,
   "fetch_failures": 0,
   "failure_rate": 0,
-  "sentences_checked": 7,
-  "sentences_found": 7,
-  "entries_checked": 1,
-  "dates_moved": 0,
+  "sentences_checked": 21,
+  "sentences_found": 21,
+  "entries_checked": 2,
+  "dates_moved": 2,
   "published": true,
   "pages_read": {
-   "plain": 1,
+   "plain": 5,
    "pdf": 0,
    "browser": 0
   }
