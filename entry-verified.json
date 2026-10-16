@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-15T23:45:03.826Z",
+ "generated_at": "2026-10-16T23:44:47.766Z",
  "dates": {
   "AU": {
    "Austria": "2026-10-12",
@@ -468,7 +468,7 @@
    "Italy": "2026-10-07",
    "Kazakhstan": "2026-10-12",
    "Kiribati": "2026-10-12",
-   "Latvia": "2026-10-12",
+   "Latvia": "2026-10-16",
    "Lithuania": "2026-10-07",
    "Luxembourg": "2026-10-07",
    "Madagascar": "2026-10-06",
@@ -663,20 +663,20 @@
   "IN|Estonia"
  ],
  "stats": {
-  "run_date": "2026-10-15",
+  "run_date": "2026-10-16",
   "destinations_checked": 2,
-  "fetches": 5,
+  "fetches": 6,
   "fetch_failures": 0,
   "failure_rate": 0,
-  "sentences_checked": 21,
-  "sentences_found": 21,
+  "sentences_checked": 15,
+  "sentences_found": 15,
   "entries_checked": 2,
-  "dates_moved": 2,
+  "dates_moved": 1,
   "published": true,
   "pages_read": {
    "plain": 5,
    "pdf": 0,
-   "browser": 0
+   "browser": 1
   }
  }
 }
