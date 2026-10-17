@@ -58,8 +58,10 @@
       "passport": "CA",
       "destination": "Bolivia",
       "fields": {
-        "stay": "30 days on entry, extendable twice by 30 days at no cost, up to 90 days per calendar year"
-      }
+        "stay": "30 days on entry, extendable twice by 30 days at no cost, up to 90 days per calendar year",
+        "extension": "Possible — apply to the General Directorate of Migration before the end of the 30-day period; a 30-day extension can be obtained twice, to a maximum of 90 days in a calendar year"
+      },
+      "checked": "2026-10-16"
     },
     {
       "passport": "UK",
@@ -251,6 +253,79 @@
       "destination": "Palau",
       "fields": {
         "note": "30-day visa issued on arrival, extendable to 90 — the UK is not on Palau's waiver list (only Schengen states, Russia and Taiwan are). All tourists sign the Palau Pledge; the USD 100 Pristine Paradise Environmental Fee is included in your airline ticket."
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Antigua and Barbuda",
+      "fields": {
+        "extension": "Possible — up to 3 months (90 days) per extension; apply to the Chief Immigration Officer / Immigration Department before the entry endorsement expires"
+      },
+      "checked": "2026-10-16"
+    },
+    {
+      "passport": "AU",
+      "destination": "Palau",
+      "fields": {
+        "extension": "Two further 30-day periods; apply at least 7 days before expiry at the Division of Immigration"
+      },
+      "checked": "2026-10-16"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Palau",
+      "fields": {
+        "apply": "Tourist visa issued upon arrival. Submit the Palau Entry Form at most 72 hours before departure at https://www.palautravel.pw/ (the QR code is shown at check-in and on arrival)"
+      },
+      "checked": "2026-10-16"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Madagascar",
+      "fields": {
+        "apply": "https://evisamada.gov.mg/"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Madagascar",
+      "fields": {
+        "apply": "evisamada.gov.mg · gov.uk/foreign-travel-advice/madagascar"
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Madagascar",
+      "fields": {
+        "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Madagascar",
+      "fields": {
+        "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters"
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Madagascar",
+      "fields": {
+        "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Madagascar",
+      "fields": {
+        "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Madagascar",
+      "fields": {
+        "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters"
       }
     }
   ],
