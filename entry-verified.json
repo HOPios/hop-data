@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-17T23:16:08.918Z",
+ "generated_at": "2026-10-18T23:26:01.322Z",
  "dates": {
   "AU": {
    "Austria": "2026-10-12",
@@ -244,7 +244,7 @@
    "Mozambique": "2026-10-12",
    "Myanmar": "2026-10-12",
    "Niger": "2026-10-17",
-   "Niue": "2026-10-11",
+   "Niue": "2026-10-18",
    "Paraguay": "2026-10-12",
    "Rwanda": "2026-10-12",
    "Réunion": "2026-10-12",
@@ -323,7 +323,7 @@
    "Bosnia and Herzegovina": "2026-10-12",
    "Bulgaria": "2026-10-07",
    "Canada": "2026-10-12",
-   "China": "2026-10-12",
+   "China": "2026-10-18",
    "Cook Islands": "2026-10-12",
    "Croatia": "2026-10-07",
    "Czech Republic": "2026-10-07",
@@ -420,7 +420,7 @@
    "Mozambique": "2026-10-12",
    "Myanmar": "2026-10-12",
    "New Caledonia": "2026-10-07",
-   "Niue": "2026-10-12",
+   "Niue": "2026-10-18",
    "Oman": "2026-10-12",
    "Panama": "2026-10-12",
    "Paraguay": "2026-10-12",
@@ -663,19 +663,19 @@
   "IN|Estonia"
  ],
  "stats": {
-  "run_date": "2026-10-17",
+  "run_date": "2026-10-18",
   "destinations_checked": 2,
-  "fetches": 5,
+  "fetches": 4,
   "fetch_failures": 0,
   "failure_rate": 0,
-  "sentences_checked": 22,
-  "sentences_found": 22,
-  "entries_checked": 2,
-  "dates_moved": 2,
+  "sentences_checked": 20,
+  "sentences_found": 20,
+  "entries_checked": 3,
+  "dates_moved": 3,
   "published": true,
   "pages_read": {
    "plain": 4,
-   "pdf": 1,
+   "pdf": 0,
    "browser": 0
   }
  }
