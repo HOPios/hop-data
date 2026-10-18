@@ -327,6 +327,112 @@
       "fields": {
         "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters"
       }
+    },
+    {
+      "passport": "CA",
+      "destination": "Denmark",
+      "fields": {
+        "stay": "Up to 3 months from first entry into Denmark or another Nordic country (time spent in the preceding 6 months deducted); this applies regardless of earlier stays in other Schengen countries",
+        "note": "Denmark names Canadians explicitly under a Nordic arrangement: the 3 months runs from your first entry into Denmark OR any other Nordic country, and time spent in any Nordic country in the preceding 6 months is deducted. This applies regardless of whether you have stayed in another Schengen country prior to entry into Denmark. Denmark publishes indicative funds of about DKK 350 a day in private accommodation or DKK 500 in a hotel, wants a passport valid 3 months beyond departure, and counts both the entry and the exit day. Denmark's bilateral visa waiver with Canada, notified to the EU, has been in force since 1 May 1958 and covers 3 months (all passports)."
+      },
+      "checked": "2026-10-17"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Denmark",
+      "fields": {
+        "stay": "Up to 3 months from first entry into Denmark (time spent in Denmark in the preceding 6 months deducted); regardless of earlier stays in other Schengen countries",
+        "note": "Denmark counts New Zealanders' time from first entry into Denmark rather than pooling it with the rest of Schengen, and deducts any time spent in Denmark in the preceding 6 months. This applies regardless of whether you have stayed in another Schengen country prior to entry into Denmark. ETIAS is not in force as at August 2026; the Entry/Exit System is live. Denmark holds a 1.1.1949 bilateral visa waiver agreement with New Zealand allowing 3 months, listed by the European Commission as an extension-of-stay agreement (all passports). Danish Immigration Service states 3 months counted from first entry into Denmark, less any time spent there in the preceding 6 months"
+      },
+      "checked": "2026-10-17"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Hungary",
+      "fields": {
+        "note": "Schengen. Hungary also has a bilateral visa waiver agreement with New Zealand, signed on 7 March 2000, allowing up to 90 days in Hungary even if you have already spent 3 months in the last 6 in the Schengen area, if you leave the Schengen area before entering Hungary, do not leave Hungary for other Schengen countries during your stay and leave the Schengen area from Hungary. ETIAS is not yet in operation; no start date announced. The Entry/Exit System is live."
+      },
+      "checked": "2026-10-17"
+    },
+    {
+      "passport": "DE",
+      "destination": "Wallis and Futuna",
+      "fields": {
+        "stay": "Up to 3 months without formality (EU citizens)"
+      },
+      "checked": "2026-10-17"
+    },
+    {
+      "passport": "NL",
+      "destination": "Wallis and Futuna",
+      "fields": {
+        "stay": "Up to 3 months without formality (EU citizens)"
+      },
+      "checked": "2026-10-17"
+    },
+    {
+      "passport": "IE",
+      "destination": "Wallis and Futuna",
+      "fields": {
+        "stay": "Up to 3 months without formality (EU citizens)"
+      },
+      "checked": "2026-10-17"
+    },
+    {
+      "passport": "IN",
+      "destination": "Isle of Man",
+      "fields": {
+        "note": "India is not a UK ETA-eligible nationality — a Standard Visitor visa is required, applied for online through UKVI. A valid UK or Channel Islands visa is enough to travel around the Common Travel Area, with no Isle of Man-specific visa."
+      },
+      "checked": "2026-10-17"
+    },
+    {
+      "passport": "AU",
+      "destination": "Guernsey",
+      "fields": {
+        "stay": "Up to 6 months"
+      },
+      "checked": "2026-10-17"
+    },
+    {
+      "passport": "US",
+      "destination": "Guernsey",
+      "fields": {
+        "stay": "Up to 6 months"
+      },
+      "checked": "2026-10-17"
+    },
+    {
+      "passport": "AU",
+      "destination": "Aruba",
+      "fields": {
+        "stay": "90 days in any 180-day period; longer needs a residence permit"
+      },
+      "checked": "2026-10-17"
+    },
+    {
+      "passport": "US",
+      "destination": "Aruba",
+      "fields": {
+        "stay": "A maximum of 180 consecutive days in any 365-day period"
+      },
+      "checked": "2026-10-17"
+    },
+    {
+      "passport": "UK",
+      "destination": "Aruba",
+      "fields": {
+        "stay": "90 days in any 180-day period; longer needs a residence permit"
+      },
+      "checked": "2026-10-17"
+    },
+    {
+      "passport": "IN",
+      "destination": "American Samoa",
+      "fields": {
+        "note": "India is not a Visa Waiver country, but the online 30-Day Visitor Permit is open to travellers who hold a valid US visa or green card. Otherwise an eligible local sponsor in American Samoa must apply and pay in person at Immigration; the traveller cannot apply online."
+      },
+      "checked": "2026-10-17"
     }
   ],
   "destinations": []
