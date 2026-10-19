@@ -433,6 +433,37 @@
         "note": "India is not a Visa Waiver country, but the online 30-Day Visitor Permit is open to travellers who hold a valid US visa or green card. Otherwise an eligible local sponsor in American Samoa must apply and pay in person at Immigration; the traveller cannot apply online."
       },
       "checked": "2026-10-17"
+    },
+    {
+      "passport": "UK",
+      "destination": "Kazakhstan",
+      "fields": {
+        "cost": "Free · QazETA currently free; a fee may be introduced if proposed legislation is approved",
+        "apply": "No visa needed · QazETA (Electronic Travel Authorisation) recommended, apply at least 72 hours before travel; expected to become mandatory from November 2026 · gov.uk/foreign-travel-advice/kazakhstan",
+        "note": "30-day visa-free. Max 90 days in any 180-day period. Electronic Travel Authorisation (ETA) via the QazETA portal recommended since January 2026 and expected to become mandatory for visa-free travellers from November 2026, subject to new regulations. Apply at least 72 hours before travel; valid 180 days from issue. It does not extend your visa-free stay. Not needed if under 16 or transiting for up to 3 days."
+      },
+      "checked": "2026-10-19"
+    },
+    {
+      "passport": "DE",
+      "destination": "Sierra Leone",
+      "fields": {
+        "visa": "ev",
+        "apply": "Apply and pay online in good time before entry; once approved, the eVisa is issued on arrival at the border crossing",
+        "cost": "Paid online when applying (amount not stated)",
+        "extension": "Possible in Sierra Leone under certain conditions",
+        "note": "An eVisa is required. Apply and pay online in good time before entry; once approved, it is issued on arrival at the border crossing. Passport must be valid at least six months at entry; a yellow fever vaccination certificate and an online health declaration (within 72 hours before travel) are required."
+      },
+      "checked": "2026-10-17"
+    },
+    {
+      "passport": "UK",
+      "destination": "Guinea-Bissau",
+      "fields": {
+        "visa": "vr",
+        "note": "A visa is required. Not verified — whether it can be obtained on arrival at Bissau airport, and the fee. Yellow fever certificate mandatory. Small fragile West African state — political instability common, limited tourism infrastructure. Former Portuguese colony."
+      },
+      "checked": "2026-10-18"
     }
   ],
   "destinations": []
