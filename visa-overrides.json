@@ -474,6 +474,39 @@
         "note": "Canada's government says you must obtain a visa before departure, either from Armenia's Ministry of Foreign Affairs' website or the closest Embassy of Armenia. Do not rely on getting a visa at the border."
       },
       "checked": "2026-10-18"
+    },
+    {
+      "passport": "US",
+      "destination": "Burkina Faso",
+      "fields": {
+        "visa": "vr",
+        "cost": "Not available while visas are suspended",
+        "apply": "Not available: Burkina Faso suspended visas for U.S. citizens on 30 December 2025 · travel.state.gov",
+        "note": "As of 30 December 2025, the government of Burkina Faso has suspended visas to U.S. citizens. Check with the nearest Embassy of Burkina Faso before planning travel."
+      },
+      "checked": "2026-10-19"
+    },
+    {
+      "passport": "US",
+      "destination": "Gabon",
+      "fields": {
+        "visa": "vr",
+        "cost": "Not available while visas are suspended",
+        "apply": "Not available: Gabon suspended visas for U.S. citizens on 1 January 2026 · travel.state.gov",
+        "note": "As of 1 January 2026, the government of Gabon has suspended visas to U.S. citizens. Check with the nearest Embassy of Gabon before planning travel."
+      },
+      "checked": "2026-10-19"
+    },
+    {
+      "passport": "US",
+      "destination": "Syria",
+      "fields": {
+        "visa": "vr",
+        "apply": "Before arrival, from a Syrian embassy or consulate in your country of residence · travel.state.gov. The Syrian Embassy in Washington has suspended all consular services since 18 March 2014.",
+        "cost": "Not verified — travel.state.gov gives no fee",
+        "note": "According to Syrian law, only Syrian diplomatic missions can issue a valid entry visa to Syria. Get your visa before arrival from a Syrian mission in your country of residence. The Syrian Embassy in Washington has suspended all consular services since 18 March 2014."
+      },
+      "checked": "2026-10-19"
     }
   ],
   "destinations": []
