@@ -464,6 +464,16 @@
         "note": "A visa is required. Not verified — whether it can be obtained on arrival at Bissau airport, and the fee. Yellow fever certificate mandatory. Small fragile West African state — political instability common, limited tourism infrastructure. Former Portuguese colony."
       },
       "checked": "2026-10-18"
+    },
+    {
+      "passport": "CA",
+      "destination": "Armenia",
+      "fields": {
+        "visa": "ev",
+        "apply": "Before departure: online on Armenia's Ministry of Foreign Affairs website or at the closest Embassy of Armenia",
+        "note": "Canada's government says you must obtain a visa before departure, either from Armenia's Ministry of Foreign Affairs' website or the closest Embassy of Armenia. Do not rely on getting a visa at the border."
+      },
+      "checked": "2026-10-18"
     }
   ],
   "destinations": []
