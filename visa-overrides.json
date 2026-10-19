@@ -482,7 +482,10 @@
         "visa": "vr",
         "cost": "Not available while visas are suspended",
         "apply": "Not available: Burkina Faso suspended visas for U.S. citizens on 30 December 2025 · travel.state.gov",
-        "note": "As of 30 December 2025, the government of Burkina Faso has suspended visas to U.S. citizens. Check with the nearest Embassy of Burkina Faso before planning travel."
+        "note": "As of 30 December 2025, the government of Burkina Faso has suspended visas to U.S. citizens. Check with the nearest Embassy of Burkina Faso before planning travel.",
+        "stay": "Not available while visas are suspended",
+        "extension": "Not available while visas are suspended",
+        "ext_cost": "Not available while visas are suspended"
       },
       "checked": "2026-10-19"
     },
@@ -493,7 +496,10 @@
         "visa": "vr",
         "cost": "Not available while visas are suspended",
         "apply": "Not available: Gabon suspended visas for U.S. citizens on 1 January 2026 · travel.state.gov",
-        "note": "As of 1 January 2026, the government of Gabon has suspended visas to U.S. citizens. Check with the nearest Embassy of Gabon before planning travel."
+        "note": "As of 1 January 2026, the government of Gabon has suspended visas to U.S. citizens. Check with the nearest Embassy of Gabon before planning travel.",
+        "stay": "Not available while visas are suspended",
+        "extension": "Not available while visas are suspended",
+        "ext_cost": "Not available while visas are suspended"
       },
       "checked": "2026-10-19"
     },
