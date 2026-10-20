@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-19T00:39:58.770Z",
+ "generated_at": "2026-10-20T00:29:10.086Z",
  "dates": {
   "AU": {
    "Austria": "2026-10-12",
@@ -340,7 +340,7 @@
    "Eritrea": "2026-10-19",
    "Estonia": "2026-10-19",
    "Eswatini": "2026-10-19",
-   "Ethiopia": "2026-10-19",
+   "Ethiopia": "2026-10-20",
    "Faroe Islands": "2026-10-19",
    "Fiji": "2026-10-19",
    "Finland": "2026-10-19",
@@ -656,7 +656,7 @@
    "Oman": "2026-10-19",
    "Panama": "2026-10-19",
    "Paraguay": "2026-10-19",
-   "Peru": "2026-10-19",
+   "Peru": "2026-10-20",
    "Philippines": "2026-10-19",
    "Poland": "2026-10-19",
    "Portugal": "2026-10-19",
@@ -1020,19 +1020,20 @@
   "IN|Estonia"
  ],
  "stats": {
-  "run_date": "2026-10-19",
-  "method": "page",
-  "pages": 432,
-  "entries_checked": 963,
-  "fetches": 466,
-  "fetch_failures": 3,
-  "failure_rate": 0.0064,
-  "unchanged": 939,
-  "changed": 19,
-  "held": 0,
-  "unreachable_entries": 0,
-  "manual_waiting": 0,
-  "dates_moved": 939,
-  "published": true
+  "run_date": "2026-10-20",
+  "destinations_checked": 2,
+  "fetches": 4,
+  "fetch_failures": 0,
+  "failure_rate": 0,
+  "sentences_checked": 21,
+  "sentences_found": 21,
+  "entries_checked": 2,
+  "dates_moved": 2,
+  "published": true,
+  "pages_read": {
+   "plain": 2,
+   "pdf": 0,
+   "browser": 2
+  }
  }
 }
