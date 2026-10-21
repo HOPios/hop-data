@@ -320,8 +320,10 @@
       "passport": "NL",
       "destination": "Madagascar",
       "fields": {
-        "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters"
-      }
+        "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
+        "stay": "2 months, extendable by 1 month"
+      },
+      "checked": "2026-10-21"
     },
     {
       "passport": "IE",
@@ -601,6 +603,78 @@
       "destination": "Gambia",
       "fields": {
         "stay": "30 days, usually granted on arrival"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "CA",
+      "destination": "Samoa",
+      "fields": {
+        "stay": "60 days"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "UK",
+      "destination": "Samoa",
+      "fields": {
+        "stay": "60 days"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "DE",
+      "destination": "Antigua and Barbuda",
+      "fields": {
+        "stay": "Up to 90 days"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "UK",
+      "destination": "South Georgia and the South Sandwich Islands",
+      "fields": {
+        "stay": "30 days (Visitor Entry Permit)"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "UK",
+      "destination": "Antigua and Barbuda",
+      "fields": {
+        "stay": "Up to 90 days, with onward or return ticket"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "US",
+      "destination": "Jamaica",
+      "fields": {
+        "stay": "Up to 6 months"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "DE",
+      "destination": "Zimbabwe",
+      "fields": {
+        "stay": "30 days"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "KR",
+      "destination": "Zimbabwe",
+      "fields": {
+        "stay": "30 days"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "DE",
+      "destination": "Nauru",
+      "fields": {
+        "stay": "30 days (tourist visa)"
       },
       "checked": "2026-10-21"
     }
