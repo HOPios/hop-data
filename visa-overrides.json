@@ -290,8 +290,10 @@
       "passport": "UK",
       "destination": "Madagascar",
       "fields": {
-        "apply": "evisamada.gov.mg · gov.uk/foreign-travel-advice/madagascar"
-      }
+        "apply": "evisamada.gov.mg · gov.uk/foreign-travel-advice/madagascar",
+        "stay": "30 or 60 days (visa on arrival), extendable in Madagascar to 90 days in total"
+      },
+      "checked": "2026-10-21"
     },
     {
       "passport": "KR",
@@ -513,6 +515,94 @@
         "note": "According to Syrian law, only Syrian diplomatic missions can issue a valid entry visa to Syria. Get your visa before arrival from a Syrian mission in your country of residence. The Syrian Embassy in Washington has suspended all consular services since 18 March 2014."
       },
       "checked": "2026-10-19"
+    },
+    {
+      "passport": "CA",
+      "destination": "Vanuatu",
+      "fields": {
+        "stay": "30 days"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "US",
+      "destination": "Vanuatu",
+      "fields": {
+        "stay": "30 days, extendable at the Immigration Office up to 120 days"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "DE",
+      "destination": "Vanuatu",
+      "fields": {
+        "stay": "90 days in any 180"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "CA",
+      "destination": "Jamaica",
+      "fields": {
+        "stay": "Up to 90 days, set by the officer; an extension is needed to stay longer"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "US",
+      "destination": "United Arab Emirates",
+      "fields": {
+        "stay": "30 days (free visitor visa on arrival); longer stays need an extension, at immigration's discretion"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "CA",
+      "destination": "Iceland",
+      "fields": {
+        "stay": "90 days in any 180, counted together with time in the rest of the Schengen area"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "CA",
+      "destination": "Saint Vincent and the Grenadines",
+      "fields": {
+        "stay": "30 days"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "NL",
+      "destination": "Montserrat",
+      "fields": {
+        "stay": "90 days; staying longer needs permission from Montserrat immigration"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "NL",
+      "destination": "Palau",
+      "fields": {
+        "stay": "30 days, extendable twice by 30 days to a maximum of 90 days"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "KR",
+      "destination": "Zambia",
+      "fields": {
+        "stay": "30 days per entry"
+      },
+      "checked": "2026-10-21"
+    },
+    {
+      "passport": "US",
+      "destination": "Gambia",
+      "fields": {
+        "stay": "30 days, usually granted on arrival"
+      },
+      "checked": "2026-10-21"
     }
   ],
   "destinations": []
