@@ -14,9 +14,10 @@
       "passport": "UK",
       "destination": "Kiribati",
       "fields": {
-        "stay": "Up to 90 days in any 12-month period",
+        "stay": "Up to 90 days in any year",
         "note": "Visa-free up to 90 days in any 12-month period (Commonwealth member). One of the world's most remote destinations — limited flights via Fiji. Climate change front line — low-lying atolls at risk."
-      }
+      },
+      "checked": "2026-10-22"
     },
     {
       "passport": "CA",
@@ -81,8 +82,9 @@
       "passport": "NZ",
       "destination": "Grenada",
       "fields": {
-        "stay": "Officer sets at entry: 14 days, 30 days, 60 days, 90 days or 6 months"
-      }
+        "stay": "Officer sets at entry: 14, 30, 60, 90 or 180 days"
+      },
+      "checked": "2026-10-22"
     },
     {
       "passport": "CA",
@@ -231,8 +233,10 @@
       "passport": "NZ",
       "destination": "Bahamas",
       "fields": {
-        "note": "New Zealand is on the Bahamian visa waiver list, for stays of up to 3 months. Passport, return ticket and proof of funds are required; work is not permitted."
-      }
+        "note": "New Zealand is on the Bahamian visa waiver list, for stays of up to 3 months. Passport, return ticket and proof of funds are required; work is not permitted.",
+        "stay": "90 days from your arrival date in practice; officer decides"
+      },
+      "checked": "2026-10-22"
     },
     {
       "passport": "CA",
@@ -259,9 +263,10 @@
       "passport": "IE",
       "destination": "Antigua and Barbuda",
       "fields": {
-        "extension": "Possible — up to 3 months (90 days) per extension; apply to the Chief Immigration Officer / Immigration Department before the entry endorsement expires"
+        "extension": "Possible — up to 3 months (90 days) per extension; apply to the Chief Immigration Officer / Immigration Department before the entry endorsement expires",
+        "stay": "180 days from your arrival date"
       },
-      "checked": "2026-10-16"
+      "checked": "2026-10-22"
     },
     {
       "passport": "AU",
@@ -321,9 +326,9 @@
       "destination": "Madagascar",
       "fields": {
         "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
-        "stay": "2 months, extendable by 1 month"
+        "stay": "60 days, extendable by 30 days"
       },
-      "checked": "2026-10-21"
+      "checked": "2026-10-22"
     },
     {
       "passport": "IE",
@@ -336,19 +341,19 @@
       "passport": "CA",
       "destination": "Denmark",
       "fields": {
-        "stay": "Up to 3 months from first entry into Denmark or another Nordic country (time spent in the preceding 6 months deducted); this applies regardless of earlier stays in other Schengen countries",
+        "stay": "90 days from your first entry into Denmark or another Nordic country; time spent there in the preceding half-year is deducted; this applies regardless of earlier stays in other Schengen countries",
         "note": "Denmark names Canadians explicitly under a Nordic arrangement: the 3 months runs from your first entry into Denmark OR any other Nordic country, and time spent in any Nordic country in the preceding 6 months is deducted. This applies regardless of whether you have stayed in another Schengen country prior to entry into Denmark. Denmark publishes indicative funds of about DKK 350 a day in private accommodation or DKK 500 in a hotel, wants a passport valid 3 months beyond departure, and counts both the entry and the exit day. Denmark's bilateral visa waiver with Canada, notified to the EU, has been in force since 1 May 1958 and covers 3 months (all passports)."
       },
-      "checked": "2026-10-17"
+      "checked": "2026-10-22"
     },
     {
       "passport": "NZ",
       "destination": "Denmark",
       "fields": {
-        "stay": "Up to 3 months from first entry into Denmark (time spent in Denmark in the preceding 6 months deducted); regardless of earlier stays in other Schengen countries",
+        "stay": "90 days from your first entry into Denmark; time spent in Denmark in the preceding half-year is deducted; this applies regardless of earlier stays in other Schengen countries",
         "note": "Denmark counts New Zealanders' time from first entry into Denmark rather than pooling it with the rest of Schengen, and deducts any time spent in Denmark in the preceding 6 months. This applies regardless of whether you have stayed in another Schengen country prior to entry into Denmark. ETIAS is not in force as at August 2026; the Entry/Exit System is live. Denmark holds a 1.1.1949 bilateral visa waiver agreement with New Zealand allowing 3 months, listed by the European Commission as an extension-of-stay agreement (all passports). Danish Immigration Service states 3 months counted from first entry into Denmark, less any time spent there in the preceding 6 months"
       },
-      "checked": "2026-10-17"
+      "checked": "2026-10-22"
     },
     {
       "passport": "NZ",
@@ -362,25 +367,25 @@
       "passport": "DE",
       "destination": "Wallis and Futuna",
       "fields": {
-        "stay": "Up to 3 months without formality (EU citizens)"
+        "stay": "Up to 90 days without formality (EU citizens)"
       },
-      "checked": "2026-10-17"
+      "checked": "2026-10-22"
     },
     {
       "passport": "NL",
       "destination": "Wallis and Futuna",
       "fields": {
-        "stay": "Up to 3 months without formality (EU citizens)"
+        "stay": "Up to 90 days without formality (EU citizens)"
       },
-      "checked": "2026-10-17"
+      "checked": "2026-10-22"
     },
     {
       "passport": "IE",
       "destination": "Wallis and Futuna",
       "fields": {
-        "stay": "Up to 3 months without formality (EU citizens)"
+        "stay": "Up to 90 days without formality (EU citizens)"
       },
-      "checked": "2026-10-17"
+      "checked": "2026-10-22"
     },
     {
       "passport": "IN",
@@ -394,17 +399,17 @@
       "passport": "AU",
       "destination": "Guernsey",
       "fields": {
-        "stay": "Up to 6 months"
+        "stay": "Up to 180 days"
       },
-      "checked": "2026-10-17"
+      "checked": "2026-10-22"
     },
     {
       "passport": "US",
       "destination": "Guernsey",
       "fields": {
-        "stay": "Up to 6 months"
+        "stay": "Up to 180 days"
       },
-      "checked": "2026-10-17"
+      "checked": "2026-10-22"
     },
     {
       "passport": "AU",
@@ -650,9 +655,9 @@
       "passport": "US",
       "destination": "Jamaica",
       "fields": {
-        "stay": "Up to 6 months"
+        "stay": "Up to 180 days"
       },
-      "checked": "2026-10-21"
+      "checked": "2026-10-22"
     },
     {
       "passport": "DE",
@@ -677,6 +682,1326 @@
         "stay": "30 days (tourist visa)"
       },
       "checked": "2026-10-21"
+    },
+    {
+      "passport": "CA",
+      "destination": "Antigua and Barbuda",
+      "fields": {
+        "stay": "180 days from your arrival date, officer's discretion"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "AU",
+      "destination": "Saint Vincent and the Grenadines",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "US",
+      "destination": "Saint Vincent and the Grenadines",
+      "fields": {
+        "stay": "180 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "UK",
+      "destination": "Saint Vincent and the Grenadines",
+      "fields": {
+        "stay": "180 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Antigua and Barbuda",
+      "fields": {
+        "stay": "180 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Saint Vincent and the Grenadines",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "KR",
+      "destination": "Dominica",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "KR",
+      "destination": "Saint Vincent and the Grenadines",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Dominica",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IN",
+      "destination": "Saint Vincent and the Grenadines",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Antigua and Barbuda",
+      "fields": {
+        "stay": "180 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Dominica",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Dominica",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "CA",
+      "destination": "Bahamas",
+      "fields": {
+        "stay": "240 days from your arrival date, officer's discretion"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "AU",
+      "destination": "Bahamas",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "UK",
+      "destination": "Bahamas",
+      "fields": {
+        "stay": "240 days from your arrival date (subject to proof of means of support; at the immigration officer's discretion)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Curaçao",
+      "fields": {
+        "stay": "90 days a year"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Macau",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "KR",
+      "destination": "Bahamas",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Bahamas",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IN",
+      "destination": "Bahamas",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Bahamas",
+      "fields": {
+        "stay": "240 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Bahamas",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "CA",
+      "destination": "Burundi",
+      "fields": {
+        "stay": "30 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "AU",
+      "destination": "Burundi",
+      "fields": {
+        "stay": "30 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "US",
+      "destination": "Burundi",
+      "fields": {
+        "stay": "30 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "UK",
+      "destination": "Burundi",
+      "fields": {
+        "stay": "30 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Burundi",
+      "fields": {
+        "stay": "30 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "KR",
+      "destination": "Burundi",
+      "fields": {
+        "stay": "30 days from your arrival date, or 3 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Burundi",
+      "fields": {
+        "stay": "30 days from your arrival date, or 3 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IN",
+      "destination": "Burundi",
+      "fields": {
+        "stay": "30 days from your arrival date, or 3 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Burundi",
+      "fields": {
+        "stay": "30 days from your arrival date, or 3 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Burundi",
+      "fields": {
+        "stay": "30 days from your arrival date, or 3 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "AU",
+      "destination": "Denmark",
+      "fields": {
+        "stay": "90 days from your first entry into Denmark or another Nordic country; time spent there in the preceding half-year is deducted; this applies regardless of earlier stays in other Schengen countries"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "US",
+      "destination": "Denmark",
+      "fields": {
+        "stay": "90 days from your first entry into Denmark; time spent in Denmark in the preceding half-year is deducted; this applies regardless of earlier stays in other Schengen countries"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Grenada",
+      "fields": {
+        "stay": "Set by the officer at entry, up to 365 days from your entry date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IN",
+      "destination": "Cayman Islands",
+      "fields": {
+        "stay": "Set by the officer at entry — up to 180 days (30 days if visa-exempt)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IN",
+      "destination": "Réunion",
+      "fields": {
+        "stay": "Up to 90 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IN",
+      "destination": "United States Virgin Islands",
+      "fields": {
+        "stay": "Set by the officer at entry — normally 180 days, up to 365 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "CA",
+      "destination": "Falkland Islands",
+      "fields": {
+        "stay": "Up to 30 days on arrival, up to 180 days if applied in advance; maximum 270 days in any year"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "CA",
+      "destination": "Seychelles",
+      "fields": {
+        "stay": "Up to 90 days, extendable to 365 days in total"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "AU",
+      "destination": "Falkland Islands",
+      "fields": {
+        "stay": "Up to 30 days on arrival, up to 180 days if applied in advance"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "AU",
+      "destination": "Seychelles",
+      "fields": {
+        "stay": "Up to 90 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "US",
+      "destination": "Falkland Islands",
+      "fields": {
+        "stay": "Up to 30 days on arrival, up to 180 days if applied in advance"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "US",
+      "destination": "Seychelles",
+      "fields": {
+        "stay": "Up to 90 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "UK",
+      "destination": "Falkland Islands",
+      "fields": {
+        "stay": "Up to 30 days on arrival, up to 180 days if applied in advance"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Falkland Islands",
+      "fields": {
+        "stay": "Up to 30 days on arrival, up to 180 days if applied in advance; maximum 270 days in any year"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Seychelles",
+      "fields": {
+        "stay": "Up to 90 days, permit on arrival"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "KR",
+      "destination": "Falkland Islands",
+      "fields": {
+        "stay": "Up to 30 days on arrival"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "KR",
+      "destination": "Seychelles",
+      "fields": {
+        "stay": "Up to 90 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Falkland Islands",
+      "fields": {
+        "stay": "Up to 30 days on arrival"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Seychelles",
+      "fields": {
+        "stay": "Up to 90 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Falkland Islands",
+      "fields": {
+        "stay": "Up to 30 days on arrival"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Seychelles",
+      "fields": {
+        "stay": "Up to 90 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Falkland Islands",
+      "fields": {
+        "stay": "Up to 30 days on arrival"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Seychelles",
+      "fields": {
+        "stay": "Up to 90 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "CA",
+      "destination": "Lebanon",
+      "fields": {
+        "stay": "30 days from your arrival date, extendable to 90 days in total"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "AU",
+      "destination": "Barbados",
+      "fields": {
+        "stay": "180 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "US",
+      "destination": "Barbados",
+      "fields": {
+        "stay": "180 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Barbados",
+      "fields": {
+        "stay": "180 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Lebanon",
+      "fields": {
+        "stay": "30 days from your arrival date, extendable to 90 days in total"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "KR",
+      "destination": "Lebanon",
+      "fields": {
+        "stay": "30 days from your arrival date, extendable to 90 days in total"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Barbados",
+      "fields": {
+        "stay": "90 days in any half-year"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Lebanon",
+      "fields": {
+        "stay": "30 days from your arrival date, extendable to 90 days in total"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Barbados",
+      "fields": {
+        "stay": "90 days in any half-year"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Lebanon",
+      "fields": {
+        "stay": "30 days from your arrival date, extendable to 90 days in total"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Barbados",
+      "fields": {
+        "stay": "180 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Lebanon",
+      "fields": {
+        "stay": "30 days from your arrival date, extendable to 90 days in total"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "CA",
+      "destination": "Guernsey",
+      "fields": {
+        "stay": "Up to 180 days per entry"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "CA",
+      "destination": "Jersey",
+      "fields": {
+        "stay": "Up to 180 days per entry"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "CA",
+      "destination": "Saint Barthélemy",
+      "fields": {
+        "stay": "90 days in any half-year, separate from Schengen"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "CA",
+      "destination": "United Kingdom",
+      "fields": {
+        "stay": "Up to 180 days per entry"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "AU",
+      "destination": "Jersey",
+      "fields": {
+        "stay": "Up to 180 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "AU",
+      "destination": "United Kingdom",
+      "fields": {
+        "stay": "Up to 180 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "US",
+      "destination": "Jersey",
+      "fields": {
+        "stay": "Up to 180 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "US",
+      "destination": "United Kingdom",
+      "fields": {
+        "stay": "Up to 180 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "UK",
+      "destination": "New Zealand",
+      "fields": {
+        "stay": "180 days from your arrival date"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "KR",
+      "destination": "United Kingdom",
+      "fields": {
+        "stay": "Up to 180 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "United Kingdom",
+      "fields": {
+        "stay": "Up to 180 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IN",
+      "destination": "United Kingdom",
+      "fields": {
+        "stay": "Up to 180 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "United Kingdom",
+      "fields": {
+        "stay": "Up to 180 days"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Åland Islands",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if you have grounds to reside (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Austria",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Belgium",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Bulgaria",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Croatia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Cyprus",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Czech Republic",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Denmark",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Estonia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Finland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "France",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Greece",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Hungary",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Ireland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Italy",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Latvia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Lithuania",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Luxembourg",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Malta",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Netherlands",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Poland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Portugal",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Romania",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Slovakia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Slovenia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Spain",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Sweden",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "DE",
+      "destination": "Iceland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Åland Islands",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if you have grounds to reside (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Austria",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Belgium",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Bulgaria",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Croatia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Cyprus",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Czech Republic",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Denmark",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Estonia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Finland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "France",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Germany",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Greece",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Hungary",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Ireland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Italy",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Latvia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Lithuania",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Luxembourg",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Malta",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Poland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Portugal",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Romania",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Slovakia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Slovenia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Spain",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Sweden",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "NL",
+      "destination": "Iceland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Åland Islands",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if you have grounds to reside (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Austria",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Belgium",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Bulgaria",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Croatia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Cyprus",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Czech Republic",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Denmark",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Estonia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Finland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "France",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Germany",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Greece",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Hungary",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Italy",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Latvia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Lithuania",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Luxembourg",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Malta",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Netherlands",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Poland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Portugal",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Romania",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Slovakia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Slovenia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Spain",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Sweden",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
+    },
+    {
+      "passport": "IE",
+      "destination": "Iceland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      },
+      "checked": "2026-10-22"
     }
   ],
   "destinations": []
