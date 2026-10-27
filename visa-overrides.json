@@ -2002,6 +2002,20 @@
         "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
       },
       "checked": "2026-10-22"
+    },
+    {
+      "passport": "CA",
+      "destination": "Monaco",
+      "fields": {
+        "stay_days": 90
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Eritrea",
+      "fields": {
+        "stay_days": 30
+      }
     }
   ],
   "destinations": []
