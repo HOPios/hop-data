@@ -2118,6 +2118,16 @@
       "fields": {
         "note": "New Zealand is NOT on Vietnam's visa exemption list — that covers 25 countries (to March and August 2028), and New Zealand is in neither group. So you need an e-visa, which Vietnam now issues to all nationalities. Apply online before travel; processing takes 3-5 working days after payment."
       }
+    },
+    {
+      "passport": "NL",
+      "destination": "Vietnam",
+      "fields": {
+        "visa": "vf",
+        "stay": "45 days",
+        "apply": "Not required for up to 45 days; longer or multiple entry: evisa.gov.vn",
+        "note": "The Netherlands is one of the 25 countries on Vietnam's 45-day unilateral visa-exemption list (Group 2, valid through 14 August 2028). An e-visa (90 days, multiple entry) remains available for longer or multiple-entry stays."
+      }
     }
   ],
   "destinations": []
