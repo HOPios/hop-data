@@ -1,0 +1,147 @@
+{
+ "schema": 1,
+ "track": 1,
+ "version": 1,
+ "published": "2026-10-28",
+ "texts": {
+  "visa": {
+   "title": "Visa disclaimer",
+   "body": [
+    {
+     "type": "paragraph",
+     "text": "Visa information is general published guidance, checked against official sources; anything Hop couldn’t confirm is marked “Not confirmed”. Requirements can change without notice. Always confirm with the relevant government’s official website before you travel. This app is information only and is not migration advice."
+    }
+   ]
+  },
+  "fx": {
+   "title": "Currency disclaimer",
+   "body": [
+    {
+     "type": "paragraph",
+     "text": "Rates shown are indicative mid-market rates for reference only. The actual rate you receive from your bank, card provider, or a currency exchange will differ and may include fees."
+    },
+    {
+     "type": "paragraph",
+     "text": "Live rates come from ExchangeRate-API, about once a day. If that isn’t available, Hop uses the European Central Bank’s reference rates for the currencies they cover and its built-in table for the rest. Offline, Hop uses the last rates it saved or its built-in table, and shows the date of the rates. No account, no key, and no personal data leaves your device."
+    },
+    {
+     "type": "paragraph",
+     "text": "[Rates By Exchange Rate API](https://www.exchangerate-api.com)"
+    },
+    {
+     "type": "paragraph",
+     "text": "Fallback rates: European Central Bank (via Frankfurter). Source: ECB."
+    },
+    {
+     "type": "paragraph",
+     "text": "Built-in offline rates: fawazahmed0/exchange-api (CC0), with SYP and ZWL set by Hop."
+    }
+   ]
+  },
+  "dest": {
+   "title": "Destination notes",
+   "body": [
+    {
+     "type": "paragraph",
+     "text": "Destination guides are curated travel notes for inspiration only and are not verified official information."
+    }
+   ]
+  },
+  "advisory": {
+   "title": "Travel advisory sources",
+   "body": [
+    {
+     "type": "paragraph",
+     "text": "The advisory level on a destination card comes from your own passport’s government, not from Hop. Governments assess independently and can disagree — the same country can be level 2 for one nationality and level 3 for another, which is why switching passport can change the badge."
+    },
+    {
+     "type": "paragraph",
+     "text": "Australia, Canada, New Zealand and the United States publish four levels of their own, and Hop shows their level. Germany, the Netherlands and the United Kingdom describe their advice in other ways — warnings, colours, or advice against travel to all or part of a country — so the level Hop shows for them is Hop’s reading of that advice, applied by a fixed rule, and the card says so. Where a government publishes separate entries that Hop shows as one destination — for example the West Bank and Gaza as Palestine — Hop shows the most serious of them, and the card says so. Where a government publishes no level for a destination, Hop doesn’t show one either."
+    },
+    {
+     "type": "paragraph",
+     "text": "Hop never copies the governments’ wording and never adds advisory content to a visa note. Irish and South Korean passport cards link to their government’s travel advice without showing a level, and Indian passport cards show “No advisory rating”. Always read the government’s own advice, linked on every card."
+    }
+   ]
+  },
+  "sources": {
+   "title": "Data sources & attribution",
+   "body": [
+    {
+     "type": "paragraph",
+     "text": "Hop is built on published government information and public data, credited here. None of these organisations is affiliated with Hop or endorses it, and no government logo, crest or seal appears in Hop."
+    },
+    {
+     "type": "paragraph",
+     "lead": "United Kingdom",
+     "text": "Contains public sector information licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). Source: [Foreign, Commonwealth & Development Office — Foreign travel advice](https://www.gov.uk/foreign-travel-advice). The FCDO does not itself publish a numbered level: Hop’s 1–4 UK advisory level is Hop’s own interpretation of FCDO scope wording, applied by a fixed rule."
+    },
+    {
+     "type": "paragraph",
+     "lead": "Australia",
+     "text": "Advisory levels © Commonwealth of Australia (Department of Foreign Affairs and Trade), [Smartraveller](https://www.smartraveller.gov.au). Source: the Department of Foreign Affairs and Trade’s Smartraveller website - www.smartraveller.gov.au"
+    },
+    {
+     "type": "paragraph",
+     "lead": "Canada",
+     "text": "Contains information licensed under the [Open Government Licence – Canada](https://open.canada.ca/en/open-government-licence-canada). Source: [Global Affairs Canada — Travel advice and advisories](https://travel.gc.ca/travelling/advisories)."
+    },
+    {
+     "type": "paragraph",
+     "lead": "Germany",
+     "text": "Source: [Auswärtiges Amt (German Federal Foreign Office) — Reise- und Sicherheitshinweise](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-und-sicherheitshinweise). Germany publishes travel warnings (Reisewarnung, Teilreisewarnung) rather than numbered levels; Hop’s 1–4 level for Germany is Hop’s own interpretation of them, applied by a fixed rule."
+    },
+    {
+     "type": "paragraph",
+     "lead": "Netherlands",
+     "text": "Source: [Ministry of Foreign Affairs of the Netherlands — Reisadviezen (NederlandWereldwijd)](https://www.nederlandwereldwijd.nl/reisadvies). The Netherlands publishes colour codes rather than numbered levels; Hop’s 1–4 level for the Netherlands is Hop’s own mapping of them, applied by a fixed rule."
+    },
+    {
+     "type": "paragraph",
+     "lead": "New Zealand",
+     "text": "Crown copyright © Ministry of Foreign Affairs and Trade — [SafeTravel](https://www.safetravel.govt.nz/destinations), reproduced with written attribution under its Creative Commons licence."
+    },
+    {
+     "type": "paragraph",
+     "lead": "United States",
+     "text": "Source: [U.S. Department of State — Travel Advisories](https://travel.state.gov/en/international-travel/travel-advisories.html). A work of the United States federal government."
+    },
+    {
+     "type": "paragraph",
+     "text": "Visa and entry rules are summarised in Hop’s own words from official government sources, and each entry shows the last date Hop checked it. Every destination card links your own government’s travel advice; Premium also links the destination’s official visa or e-visa portal. Exchange rates: [Rates By Exchange Rate API](https://www.exchangerate-api.com). Fallback rates: European Central Bank (via Frankfurter). Source: ECB. Built-in offline rates: fawazahmed0/exchange-api (CC0), with SYP and ZWL set by Hop. Most destination photos are from Pexels and Pixabay photographers, used under the Pexels and Pixabay licences; a few are public domain or Creative Commons and are credited under Photo credits. Photos for places, attractions and dishes in the Explore guides come from Wikimedia Commons and Flickr; those under CC BY or CC BY-SA are credited under Photo credits, and the public-domain and CC0 ones need no credit."
+    },
+    {
+     "type": "paragraph",
+     "text": "PDF viewer: pdf.js 3.11.174, © Mozilla Foundation, used under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). It is bundled inside Hop and runs on your phone only."
+    },
+    {
+     "type": "paragraph",
+     "text": "Text reader on Android: tesseract.js 5.1.1, used under the Apache License 2.0, with tesseract.js-core 5.1.1 (Apache License 2.0), the English language data from @tesseract.js-data/eng 1.0.0 (MIT licence), regenerator-runtime (MIT), buffer (MIT), ieee754 (BSD-3-Clause) and zlib.js (MIT). It is bundled inside Hop and runs on your phone only."
+    },
+    {
+     "type": "paragraph",
+     "text": "Date and time pickers: @capawesome-team/capacitor-datetime-picker 8.2.0, © 2022 Robin Genz, used under the MIT licence. It is bundled inside Hop and runs on your phone only."
+    }
+   ]
+  },
+  "visadocs": {
+   "title": "Documents",
+   "body": [
+    {
+     "type": "paragraph",
+     "lead": "Documents.",
+     "text": "If you attach a photo or PDF to a trip stop, to a trip or to a booking (a visa, an approval, insurance, a confirmation, anything), it is kept on this device, inside Hop’s own storage. Hop never uploads it or sends it anywhere; it leaves Hop only if you share it or save a copy yourself. If you tap Auto-fill, Hop reads the file on your phone to fill in a booking; the file and the words in it never leave your phone. Otherwise it is just a file you can open again. Photos are shrunk before they are saved; PDFs are kept as they are. It is removed when you remove that stop, trip or booking. It is also gone if you clear the app’s storage or delete the app, and Hop keeps no other copy, so keep your own copy somewhere else too. Anyone who can unlock your phone and open Hop, or who can read a backup of your phone, could view it unless you turn on the optional Document lock (Settings, Document lock), which encrypts the stored documents, including trip documents. If you forget the passcode the documents cannot be recovered, and a short passcode can be guessed by someone who copies the stored data, so the lock raises the bar rather than making the files unbreakable."
+    }
+   ]
+  },
+  "verify": {
+   "title": "How Hop checks visa data",
+   "body": [
+    {
+     "type": "paragraph",
+     "text": "Every destination card links your own government’s travel advisory page, so you can check the current guidance yourself. Premium adds a direct link to the destination’s official visa or e-visa portal. Hop carries ten passports — Australia, Canada, Germany, India, Ireland, the Netherlands, New Zealand, South Korea, the United Kingdom and the United States. “Last date checked” on a card is the last day Hop checked that entry against an official source and found nothing that changes it. Hop re-checks many official pages every week; when one changes, the date stays as it was and the card says Hop is re-checking it. Anything Hop hasn’t been able to confirm against an official source is marked “Not confirmed” rather than guessed, and the {no_portal} destinations with no official online portal say so on the card. Always confirm with the official source before you travel."
+    }
+   ]
+  }
+ }
+}

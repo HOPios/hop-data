@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "track": 1,
-  "version": 1,
-  "published": "2026-10-17",
+  "version": 2,
+  "published": "2026-10-28",
   "privacy": {
     "title": "Privacy policy",
     "subtitle": "Hop has no account. No ads, no advertising trackers, nothing sold.",
-    "applies_from": "2026-10-17",
+    "applies_from": "2026-10-28",
     "body": [
       {
         "type": "paragraph",
@@ -27,6 +27,11 @@
         "type": "paragraph",
         "lead": "Network requests Hop makes.",
         "text": "Hop’s screens and information are built into the app, so it works without a connection. When you’re online, Hop downloads a few public data files to keep its information current between app updates: government travel-advisory levels, entry-rule corrections, the dates on which Hop last checked each destination’s entry rules, and the current version of these legal texts. Each comes from raw.githubusercontent.com (GitHub), or from a jsDelivr mirror of the same files if that fails. Hop also fetches exchange rates directly from ExchangeRate-API about once a day, with Frankfurter (European Central Bank rates) as a fallback. Like any web request, these send your IP address and standard technical details to the provider, which handles them under its own privacy policy; Hop adds no personal information, account or identifier to them. Offline, Hop uses the last rates and texts it saved, or the ones built into the app, and makes no requests at all. The Hop website, hoptravelapp.com, is hosted by Cloudflare, which sees routine technical data such as your IP address when you visit. When you open its privacy or terms page, your browser also downloads the current text from GitHub or jsDelivr, which see your IP address."
+      },
+      {
+        "type": "paragraph",
+        "lead": "Notifications.",
+        "text": "Hop can send you notifications. They are made on your phone from the same daily data; nothing about you or your trips is sent to Hop."
       },
       {
         "type": "paragraph",
@@ -59,8 +64,11 @@
         "text": "We may update this policy without an app update: Hop downloads the current version when you’re online, keeps it for offline use, and shows the date it applies from. If a change is significant, Hop tells you in the app. We keep every earlier version, dated, and will send you a copy if you ask. Questions: support@hoptravelapp.com."
       }
     ],
-    "change": "minor",
-    "what_changed": []
+    "change": "significant",
+    "summary": "Hop can now send you trip notifications. They are made on your phone from the same daily data; nothing about you or your trips is sent to Hop.",
+    "what_changed": [
+      "Added a paragraph about notifications: Hop can send you notifications, made on your phone from the same daily data; nothing about you or your trips is sent to Hop."
+    ]
   },
   "terms": {
     "title": "Terms of service",
@@ -121,7 +129,7 @@
         "text": "If you share a trip or your travel map as a link, you choose what it includes, and anyone with the link can see it. A link can’t be cancelled once sent."
       }
     ],
-    "change": "minor",
+    "change": "none",
     "what_changed": []
   },
   "disclaimer": {
@@ -164,8 +172,25 @@
         "text": "Hop is provided as it is, but nothing in this disclaimer limits the guarantees and rights you have under the Australian Consumer Law or other consumer laws. The Terms of Service set out who is responsible for what."
       }
     ],
-    "change": "minor",
+    "change": "none",
     "what_changed": []
   },
-  "history": []
+  "history": [
+    {
+      "version": 1,
+      "applies_from": "2026-10-17",
+      "privacy": {
+        "change": "minor",
+        "applies_from": "2026-10-17"
+      },
+      "terms": {
+        "change": "minor",
+        "applies_from": "2026-10-17"
+      },
+      "disclaimer": {
+        "change": "minor",
+        "applies_from": "2026-10-17"
+      }
+    }
+  ]
 }
