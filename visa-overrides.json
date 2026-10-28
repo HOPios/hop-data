@@ -2016,6 +2016,108 @@
       "fields": {
         "stay_days": 30
       }
+    },
+    {
+      "passport": "UK",
+      "destination": "Cook Islands",
+      "fields": {
+        "ext_cost": "NZD 115 for the 31-day extension"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Cook Islands",
+      "fields": {
+        "ext_cost": "NZD 115 for the 31-day extension"
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Cook Islands",
+      "fields": {
+        "ext_cost": "NZD 115 for the 31-day extension"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Cook Islands",
+      "fields": {
+        "ext_cost": "NZD 115 for the 31-day extension"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Cook Islands",
+      "fields": {
+        "ext_cost": "NZD 115 for the 31-day extension"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Cook Islands",
+      "fields": {
+        "ext_cost": "NZD 115 for the 31-day extension"
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Cook Islands",
+      "fields": {
+        "ext_cost": "NZD 115 for the 31-day extension"
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Cook Islands",
+      "fields": {
+        "ext_cost": "NZD 115 for the 31-day extension",
+        "note": "An International Visitor Permit is issued free on arrival to everyone except New Zealand and Australian passport holders — 31 days, not the 90 days New Zealanders get, so don't read across from a New Zealand source. You need proof of onward travel, sufficient funds, accommodation details and a passport valid 6 months. The total stay is capped at 2 months without a departure of 6 months or more."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Cook Islands",
+      "fields": {
+        "stay": "Less than 3 months (extendable once by 3 months, to 6 months in total)",
+        "extension": "Cook Islands Immigration, Avarua (one further 3 months, to 6 months in total)",
+        "ext_cost": "NZD 235 for the 3-month extension"
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Cook Islands",
+      "fields": {
+        "ext_cost": "NZD 235 for the 3-month extension",
+        "note": "No visa before travel — a New Zealand Visitor Permit is issued free at the border on the arrival card. The 3-month entitlement is tied specifically to New Zealand or Australian citizenship; other nationalities get 31 days. You need proof of onward travel and sufficient funds, and must be a genuine visitor not intending to work or study."
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Vietnam",
+      "fields": {
+        "note": "South Korea is one of the 25 countries on Vietnam's 45-day unilateral visa-exemption list (Group 1, valid through 14 March 2028); stay was extended to 45 days from 15 August 2023, regardless of passport type/purpose. An e-visa (90 days, multiple entry) remains available for longer or multiple-entry stays."
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Vietnam",
+      "fields": {
+        "note": "Germany is one of the 25 countries on Vietnam's 45-day unilateral visa-exemption list (Group 1, valid through 14 March 2028); stay was extended to 45 days from 15 August 2023, regardless of passport type/purpose. An e-visa (90 days, multiple entry) remains available for longer or multiple-entry stays."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Vietnam",
+      "fields": {
+        "note": "Vietnam's e-visa is open to citizens of all countries and territories, so Canadians are covered by an inclusive rule rather than a named list. Choose single or multiple entry when you apply. Apply from outside Vietnam before travelling; processing is 3-5 working days. The 90 days is the maximum — the period actually granted is what appears on the issued e-visa."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Vietnam",
+      "fields": {
+        "note": "New Zealand is NOT on Vietnam's visa exemption list — that covers 25 countries (to March and August 2028), and New Zealand is in neither group. So you need an e-visa, which Vietnam now issues to all nationalities. Apply online before travel; processing takes 3-5 working days after payment."
+      }
     }
   ],
   "destinations": []
