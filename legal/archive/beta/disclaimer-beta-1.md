@@ -1,10 +1,10 @@
 # Hop Disclaimer: beta version 1
 
-- In the app from: 25 August 2026 (est.)
+- In the app from: 25 August 2026
 - In the app until: 18 September 2026 (est.)
 - Releases: v1.1.50 to v1.1.54
 - SHA-256 of the in-app text as shipped (raw/disclaimer-beta-1.html): `eb72fc08cb452ec0482998162d2560eff77162d41ac339e9c500eeb79db47af2`
-- Dates: v1.1.50 is the earliest build on disk (first commit of the iPhone app repo). Whether an earlier release carried this text, and the exact date it first reached TestFlight or Play, is not recorded.
+- Dates: v1.1.50 (iPhone build 3) was first compiled on Codemagic and was in TestFlight beta review on 25 August 2026; approved for external testing 26 August (HOP-MEMORY.md line 36 and 61, copy in _to_delete_2026-09/app revisions/1.1.50-59). It is the earliest release on disk; whether an earlier release carried this text is not recorded.
 - Source: the text was a constant inside the app's index.html (Settings, Legal). Extracted from the app's git history and release packs; plain-text rendering of the same words, bold kept as **bold**.
 
 ---
