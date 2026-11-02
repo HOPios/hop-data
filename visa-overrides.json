@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-27T00:40:00Z",
+  "generated_at": "2026-11-02T20:57:51Z",
   "entries": [
     {
       "passport": "CA",
@@ -607,17 +607,19 @@
       "passport": "US",
       "destination": "Gambia",
       "fields": {
-        "stay": "30 days, usually granted on arrival"
+        "stay": "30 days, usually granted on arrival",
+        "cost": "US$108"
       },
-      "checked": "2026-10-21"
+      "checked": "2026-11-02"
     },
     {
       "passport": "CA",
       "destination": "Samoa",
       "fields": {
-        "stay": "60 days"
+        "stay": "60 days",
+        "note": "A visitor permit is issued on arrival for stays of up to 60 days, with no advance visa. A return or onward ticket is required."
       },
-      "checked": "2026-10-21"
+      "checked": "2026-11-02"
     },
     {
       "passport": "UK",
@@ -887,9 +889,10 @@
       "passport": "US",
       "destination": "Burundi",
       "fields": {
-        "stay": "30 days from your arrival date"
+        "stay": "30 days from your arrival date",
+        "ext_cost": "US$70 per month"
       },
-      "checked": "2026-10-22"
+      "checked": "2026-11-02"
     },
     {
       "passport": "UK",
@@ -2128,6 +2131,148 @@
         "apply": "Not required for up to 45 days; longer or multiple entry: evisa.gov.vn",
         "note": "The Netherlands is one of the 25 countries on Vietnam's 45-day unilateral visa-exemption list (Group 2, valid through 14 August 2028). An e-visa (90 days, multiple entry) remains available for longer or multiple-entry stays."
       }
+    },
+    {
+      "passport": "KR",
+      "destination": "Niue",
+      "fields": {
+        "stay": "29 days",
+        "note": "Visa-free for 29 days."
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "UK",
+      "destination": "Saint Kitts and Nevis",
+      "fields": {
+        "stay": "Up to 6 months"
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "US",
+      "destination": "Bahamas",
+      "fields": {
+        "stay": "90 days"
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "DE",
+      "destination": "Pakistan",
+      "fields": {
+        "stay": "Up to 30 days"
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "DE",
+      "destination": "Tunisia",
+      "fields": {
+        "stay": "120 days",
+        "note": "No visa needed for tourist stays up to 120 days. Get your passport stamped on both arrival and departure."
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "IN",
+      "destination": "Taiwan",
+      "fields": {
+        "stay": "30 days on a TAC; not verified for a visitor visa"
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "IN",
+      "destination": "Turkmenistan",
+      "fields": {
+        "stay": "10 days to 1 year, set by the visa",
+        "note": "Indian nationals staying one month or more must submit an original HIV/AIDS test certificate issued within the month before applying, in addition to the standard Letter of Invitation requirement."
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "KR",
+      "destination": "Antigua and Barbuda",
+      "fields": {
+        "stay": "Up to 90 days",
+        "note": "Visa-free entry, permitted to stay as long as business/holiday takes up to 90 days, provided there is an onward or return ticket, confirmed accommodation, evidence of ability to maintain themselves, and a valid passport."
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "KR",
+      "destination": "Curaçao",
+      "fields": {
+        "stay": "90 days in any 180-day period"
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "KR",
+      "destination": "Jordan",
+      "fields": {
+        "stay": "90 days"
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "KR",
+      "destination": "Saint Lucia",
+      "fields": {
+        "stay": "90 days"
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "KR",
+      "destination": "San Marino",
+      "fields": {
+        "stay": "Up to 90 days in San Marino; staying longer needs a San Marino permit"
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "NL",
+      "destination": "Cayman Islands",
+      "fields": {
+        "stay": "Set by the officer at entry — 30 to 90 days, extendable up to 6 months"
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "US",
+      "destination": "Kyrgyzstan",
+      "fields": {
+        "stay": "60 days per 120-day period"
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "CA",
+      "destination": "Zambia",
+      "fields": {
+        "stay": "90 days per calendar year"
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "DE",
+      "destination": "Niue",
+      "fields": {
+        "stay": "Under 30 days",
+        "note": "German citizens can stay under 30 days in Niue without a visa."
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "KR",
+      "destination": "Kazakhstan",
+      "fields": {
+        "stay": "30 days per entry, 60 per 180",
+        "note": "Not verified — whether an ETA via QazETA is mandatory for Korean passports. Korean citizens may enter without a visa for up to 30 days after crossing the border, for a total of 60 days in each period of 180 days."
+      },
+      "checked": "2026-11-02"
     }
   ],
   "destinations": []
