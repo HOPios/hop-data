@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-01T00:16:15.042Z",
+ "generated_at": "2026-11-02T00:57:05.108Z",
  "dates": {
   "AU": {
    "Albania": "2026-10-21",
@@ -132,7 +132,7 @@
    "Dominica": "2026-10-26",
    "Dominican Republic": "2026-10-26",
    "El Salvador": "2026-10-26",
-   "Estonia": "2026-10-26",
+   "Estonia": "2026-11-02",
    "Eswatini": "2026-10-26",
    "Ethiopia": "2026-10-26",
    "Falkland Islands": "2026-10-26",
@@ -500,7 +500,7 @@
    "Democratic Republic of the Congo": "2026-10-19",
    "Denmark": "2026-10-26",
    "Ecuador": "2026-10-26",
-   "Estonia": "2026-10-26",
+   "Estonia": "2026-11-02",
    "Ethiopia": "2026-10-26",
    "Falkland Islands": "2026-10-26",
    "Faroe Islands": "2026-10-26",
@@ -539,7 +539,7 @@
    "Norfolk Island": "2026-10-21",
    "Norway": "2026-10-26",
    "Oman": "2026-10-21",
-   "Panama": "2026-10-12",
+   "Panama": "2026-11-02",
    "Poland": "2026-10-26",
    "Portugal": "2026-10-26",
    "Qatar": "2026-10-21",
@@ -1200,7 +1200,6 @@
   "IN|Bonaire",
   "IN|Cook Islands",
   "IN|Democratic Republic of the Congo",
-  "IN|Estonia",
   "IN|Italy",
   "IN|Kiribati",
   "IN|Sint Maarten",
@@ -1233,13 +1232,11 @@
   "US|Kiribati",
   "US|Sint Maarten"
  ],
- "review_sentence": [
-  "IN|Estonia"
- ],
+ "review_sentence": [],
  "stats": {
-  "run_date": "2026-11-01",
+  "run_date": "2026-11-02",
   "destinations_checked": 2,
-  "fetches": 4,
+  "fetches": 6,
   "fetch_failures": 0,
   "failure_rate": 0,
   "sentences_checked": 20,
@@ -1248,9 +1245,9 @@
   "dates_moved": 3,
   "published": true,
   "pages_read": {
-   "plain": 4,
+   "plain": 5,
    "pdf": 0,
-   "browser": 0
+   "browser": 1
   }
  }
 }
