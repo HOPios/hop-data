@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-02T21:09:38Z",
+  "generated_at": "2026-11-02T21:38:38Z",
   "entries": [
     {
       "passport": "CA",
@@ -475,9 +475,10 @@
       "destination": "Guinea-Bissau",
       "fields": {
         "visa": "vr",
-        "note": "A visa is required. Not verified — whether it can be obtained on arrival at Bissau airport, and the fee. Yellow fever certificate mandatory. Small fragile West African state — political instability common, limited tourism infrastructure. Former Portuguese colony."
+        "note": "A visa is required. Not verified — whether it can be obtained on arrival at Bissau airport, and the fee. Yellow fever certificate mandatory. Small fragile West African state — political instability common, limited tourism infrastructure. Former Portuguese colony.",
+        "stay": "Per visa granted"
       },
-      "checked": "2026-10-18"
+      "checked": "2026-11-02"
     },
     {
       "passport": "CA",
@@ -630,9 +631,10 @@
       "passport": "UK",
       "destination": "Samoa",
       "fields": {
-        "stay": "60 days"
+        "stay": "60 days",
+        "note": "Visa-free entry permit on arrival. Must show onward ticket and accommodation. Independent Samoa (not to be confused with American Samoa). Stunning beaches and Polynesian culture."
       },
-      "checked": "2026-10-21"
+      "checked": "2026-11-02"
     },
     {
       "passport": "DE",
@@ -2334,7 +2336,8 @@
       "destination": "Turkmenistan",
       "fields": {
         "visa": "ev",
-        "note": "Since 1 October 2026 tourists need an e-visa. You cannot apply yourself: your tour agency acts as sponsor, and once the visa is approved and paid for through them you receive an e-visa to print or show electronically on arrival. It replaces the old letter of invitation and visa in your passport. Transit visas still need a letter of invitation from the State Migration Service, secured before you travel."
+        "note": "Since 1 October 2026 tourists need an e-visa. You cannot apply yourself: your tour agency acts as sponsor, and once the visa is approved and paid for through them you receive an e-visa to print or show electronically on arrival. It replaces the old letter of invitation and visa in your passport. Transit visas still need a letter of invitation from the State Migration Service, secured before you travel.",
+        "stay": "Per visa granted"
       },
       "checked": "2026-11-02"
     }
