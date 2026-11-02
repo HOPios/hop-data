@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-02T20:57:51Z",
+  "generated_at": "2026-11-02T21:09:38Z",
   "entries": [
     {
       "passport": "CA",
@@ -304,8 +304,10 @@
       "passport": "KR",
       "destination": "Madagascar",
       "fields": {
-        "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters"
-      }
+        "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
+        "stay": "Up to 60 days"
+      },
+      "checked": "2026-11-02"
     },
     {
       "passport": "DE",
@@ -318,8 +320,11 @@
       "passport": "IN",
       "destination": "Madagascar",
       "fields": {
-        "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters"
-      }
+        "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
+        "stay": "Up to 60 days",
+        "cost": "USD 37 for up to 60 days; same price online or on arrival"
+      },
+      "checked": "2026-11-02"
     },
     {
       "passport": "NL",
@@ -633,17 +638,19 @@
       "passport": "DE",
       "destination": "Antigua and Barbuda",
       "fields": {
-        "stay": "Up to 90 days"
+        "stay": "Up to 90 days",
+        "ext_cost": "$300.00 (Non-CARICOM Nationals)",
+        "note": "Visa-free entry, permitted to stay as long as business/holiday takes up to 90 days, provided there is an onward or return ticket, confirmed accommodation, evidence of ability to maintain themselves, and a valid passport."
       },
-      "checked": "2026-10-21"
+      "checked": "2026-11-02"
     },
     {
       "passport": "UK",
       "destination": "South Georgia and the South Sandwich Islands",
       "fields": {
-        "stay": "30 days (Visitor Entry Permit)"
+        "stay": "40 days (Visitor Entry Permit)"
       },
-      "checked": "2026-10-21"
+      "checked": "2026-11-02"
     },
     {
       "passport": "UK",
@@ -2271,6 +2278,63 @@
       "fields": {
         "stay": "30 days per entry, 60 per 180",
         "note": "Not verified — whether an ETA via QazETA is mandatory for Korean passports. Korean citizens may enter without a visa for up to 30 days after crossing the border, for a total of 60 days in each period of 180 days."
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "CA",
+      "destination": "Democratic Republic of the Congo",
+      "fields": {
+        "visa": "vr",
+        "apply": "the Embassy of the Democratic Republic of the Congo, Ottawa",
+        "note": "This is the DRC (Kinshasa), not Congo-Brazzaville. Canadians must get a visa from the DRC embassy in Ottawa before leaving Canada. You cannot get a visa at a port of entry or at a DRC embassy outside your country of residence. Air passengers leaving the DRC must pay the IDEF airport tax and show proof of payment, called a Go Pass, to board."
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "DE",
+      "destination": "Solomon Islands",
+      "fields": {
+        "visa": "vf",
+        "apply": "Not required",
+        "note": "German citizens need no visa for stays of up to 90 days within 180 days. For longer stays, contact a Solomon Islands mission in advance. The only international airport is in Honiara. Arriving by sea is allowed only at official ports of entry; landing elsewhere brings heavy fines, detention and deportation at your own cost."
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "DE",
+      "destination": "Turkmenistan",
+      "fields": {
+        "visa": "ev",
+        "note": "German citizens need a visa. Since 1 October 2026 it can be applied for online on the official website and is sent by email as a QR code. Carry a printed copy. Transit visas must still be applied for at a Turkmen embassy or consulate. The visa is not extended. All foreigners must register at the border on arrival and pay a consular fee and a registration fee. Longer stays also need registration with the State Migration Service."
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "NL",
+      "destination": "Chad",
+      "fields": {
+        "visa": "vr",
+        "apply": "At the Chad Embassy in Brussels, Belgium",
+        "note": "Apply at the Chad Embassy in Brussels, Belgium. Yellow fever vaccination is required."
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "NL",
+      "destination": "Indonesia",
+      "fields": {
+        "visa": "ev",
+        "note": "Apply for an e-visa before you leave, on the Indonesian immigration website. It is valid for up to 30 days and can be extended by up to 30 days at Indonesian immigration. Fill in the free All Indonesia Arrival Card online, from 72 hours before arrival. A damaged passport can be refused. On Bali you pay a tourist tax, payable in advance on the LoveBali website."
+      },
+      "checked": "2026-11-02"
+    },
+    {
+      "passport": "UK",
+      "destination": "Turkmenistan",
+      "fields": {
+        "visa": "ev",
+        "note": "Since 1 October 2026 tourists need an e-visa. You cannot apply yourself: your tour agency acts as sponsor, and once the visa is approved and paid for through them you receive an e-visa to print or show electronically on arrival. It replaces the old letter of invitation and visa in your passport. Transit visas still need a letter of invitation from the State Migration Service, secured before you travel."
       },
       "checked": "2026-11-02"
     }
