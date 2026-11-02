@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-02T01:45:07.642Z",
+ "generated_at": "2026-11-02T01:55:45.080Z",
  "dates": {
   "AU": {
    "Albania": "2026-10-21",
@@ -1185,6 +1185,7 @@
   "CA|Macau",
   "CA|Sint Maarten",
   "CA|Sweden",
+  "CA|Venezuela",
   "CA|Vietnam",
   "DE|Aruba",
   "DE|Bonaire",
@@ -1245,14 +1246,14 @@
   "pages": 495,
   "entries_checked": 1142,
   "fetches": 528,
-  "fetch_failures": 5,
-  "failure_rate": 0.0095,
-  "unchanged": 1061,
+  "fetch_failures": 6,
+  "failure_rate": 0.0114,
+  "unchanged": 1059,
   "changed": 62,
   "held": 0,
-  "unreachable_entries": 0,
+  "unreachable_entries": 1,
   "manual_waiting": 0,
-  "dates_moved": 1010,
+  "dates_moved": 0,
   "published": true
  }
 }
