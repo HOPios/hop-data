@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-02T01:55:45.080Z",
+ "generated_at": "2026-11-03T03:03:19.468Z",
  "dates": {
   "AU": {
    "Albania": "2026-10-21",
@@ -398,7 +398,7 @@
    "Eritrea": "2026-11-02",
    "Estonia": "2026-11-02",
    "Eswatini": "2026-11-02",
-   "Ethiopia": "2026-11-02",
+   "Ethiopia": "2026-11-03",
    "Falkland Islands": "2026-11-02",
    "Faroe Islands": "2026-11-02",
    "Fiji": "2026-11-02",
@@ -776,7 +776,7 @@
    "Oman": "2026-11-02",
    "Panama": "2026-11-02",
    "Paraguay": "2026-11-02",
-   "Peru": "2026-11-02",
+   "Peru": "2026-11-03",
    "Philippines": "2026-11-02",
    "Poland": "2026-11-02",
    "Portugal": "2026-11-02",
@@ -1241,19 +1241,20 @@
  ],
  "review_sentence": [],
  "stats": {
-  "run_date": "2026-11-02",
-  "method": "page",
-  "pages": 495,
-  "entries_checked": 1142,
-  "fetches": 528,
-  "fetch_failures": 6,
-  "failure_rate": 0.0114,
-  "unchanged": 1059,
-  "changed": 62,
-  "held": 0,
-  "unreachable_entries": 1,
-  "manual_waiting": 0,
-  "dates_moved": 0,
-  "published": true
+  "run_date": "2026-11-03",
+  "destinations_checked": 2,
+  "fetches": 4,
+  "fetch_failures": 0,
+  "failure_rate": 0,
+  "sentences_checked": 21,
+  "sentences_found": 21,
+  "entries_checked": 2,
+  "dates_moved": 2,
+  "published": true,
+  "pages_read": {
+   "plain": 2,
+   "pdf": 0,
+   "browser": 2
+  }
  }
 }
