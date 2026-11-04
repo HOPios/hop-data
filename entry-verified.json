@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-04T01:38:49.375Z",
+ "generated_at": "2026-11-04T07:31:26.707Z",
  "dates": {
   "AU": {
    "Albania": "2026-10-21",
@@ -297,7 +297,7 @@
    "Ireland": "2026-11-02",
    "Isle of Man": "2026-11-02",
    "Italy": "2026-11-02",
-   "Jamaica": "2026-10-26",
+   "Jamaica": "2026-11-04",
    "Japan": "2026-11-02",
    "Jersey": "2026-11-02",
    "Kiribati": "2026-11-02",
@@ -418,7 +418,7 @@
    "Hungary": "2026-11-02",
    "Iceland": "2026-11-02",
    "Italy": "2026-11-02",
-   "Jamaica": "2026-10-26",
+   "Jamaica": "2026-11-04",
    "Kiribati": "2026-11-02",
    "Latvia": "2026-11-02",
    "Lebanon": "2026-11-02",
@@ -614,7 +614,7 @@
    "Ireland": "2026-11-02",
    "Isle of Man": "2026-11-02",
    "Italy": "2026-11-02",
-   "Jamaica": "2026-10-26",
+   "Jamaica": "2026-11-04",
    "Jersey": "2026-11-02",
    "Kiribati": "2026-11-02",
    "Kuwait": "2026-11-02",
@@ -741,7 +741,7 @@
    "Ireland": "2026-11-02",
    "Isle of Man": "2026-11-02",
    "Italy": "2026-11-02",
-   "Jamaica": "2026-10-26",
+   "Jamaica": "2026-11-04",
    "Japan": "2026-11-02",
    "Jersey": "2026-11-02",
    "Kiribati": "2026-11-02",
@@ -1104,7 +1104,7 @@
    "Ireland": "2026-11-02",
    "Isle of Man": "2026-11-02",
    "Italy": "2026-11-02",
-   "Jamaica": "2026-10-26",
+   "Jamaica": "2026-11-04",
    "Japan": "2026-11-02",
    "Jersey": "2026-11-02",
    "Kazakhstan": "2026-11-02",
@@ -1177,6 +1177,7 @@
  "review": [
   "AU|Bonaire",
   "AU|Curaçao",
+  "AU|Saint Vincent and the Grenadines",
   "AU|Tajikistan",
   "AU|United States",
   "CA|Aruba",
@@ -1204,11 +1205,13 @@
   "IE|Vietnam",
   "IN|Bonaire",
   "IN|Macau",
+  "IN|Saint Vincent and the Grenadines",
   "IN|Sint Maarten",
   "IN|Vietnam",
   "KR|Aruba",
   "KR|Bonaire",
   "KR|Macau",
+  "KR|Saint Vincent and the Grenadines",
   "KR|Sint Maarten",
   "KR|United States",
   "KR|Vietnam",
@@ -1222,6 +1225,7 @@
   "NZ|Bonaire",
   "NZ|Curaçao",
   "NZ|Macau",
+  "NZ|Saint Vincent and the Grenadines",
   "NZ|Sint Maarten",
   "NZ|Tajikistan",
   "NZ|United States",
@@ -1235,6 +1239,7 @@
   "UK|Vietnam",
   "US|Curaçao",
   "US|Macau",
+  "US|Saint Vincent and the Grenadines",
   "US|Singapore",
   "US|Sint Maarten",
   "US|Tajikistan"
@@ -1242,19 +1247,13 @@
  "review_sentence": [],
  "stats": {
   "run_date": "2026-11-04",
-  "destinations_checked": 1,
-  "fetches": 1,
-  "fetch_failures": 0,
-  "failure_rate": 0,
-  "sentences_checked": 7,
-  "sentences_found": 7,
-  "entries_checked": 1,
-  "dates_moved": 1,
-  "published": true,
-  "pages_read": {
-   "plain": 1,
-   "pdf": 0,
-   "browser": 0
-  }
+  "method": "page-retry",
+  "page_run": "2026-11-02",
+  "pages_retried": 6,
+  "unchanged": 4,
+  "changed": 1,
+  "still_failed": 1,
+  "dates_moved": 5,
+  "published": true
  }
 }
