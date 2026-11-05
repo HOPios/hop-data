@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-04T07:31:26.707Z",
+ "generated_at": "2026-11-05T01:46:15.602Z",
  "dates": {
   "AU": {
    "Albania": "2026-10-21",
@@ -364,7 +364,7 @@
    "Åland Islands": "2026-11-02"
   },
   "IE": {
-   "Algeria": "2026-10-22",
+   "Algeria": "2026-11-05",
    "American Samoa": "2026-11-02",
    "Antigua and Barbuda": "2026-11-02",
    "Armenia": "2026-11-02",
@@ -413,7 +413,7 @@
    "Guadeloupe": "2026-11-02",
    "Guatemala": "2026-11-02",
    "Guinea-Bissau": "2026-11-02",
-   "Guyana": "2026-10-22",
+   "Guyana": "2026-11-05",
    "Hong Kong": "2026-11-02",
    "Hungary": "2026-11-02",
    "Iceland": "2026-11-02",
@@ -1246,14 +1246,20 @@
  ],
  "review_sentence": [],
  "stats": {
-  "run_date": "2026-11-04",
-  "method": "page-retry",
-  "page_run": "2026-11-02",
-  "pages_retried": 6,
-  "unchanged": 4,
-  "changed": 1,
-  "still_failed": 1,
-  "dates_moved": 5,
-  "published": true
+  "run_date": "2026-11-05",
+  "destinations_checked": 2,
+  "fetches": 5,
+  "fetch_failures": 0,
+  "failure_rate": 0,
+  "sentences_checked": 21,
+  "sentences_found": 21,
+  "entries_checked": 2,
+  "dates_moved": 2,
+  "published": true,
+  "pages_read": {
+   "plain": 5,
+   "pdf": 0,
+   "browser": 0
+  }
  }
 }
