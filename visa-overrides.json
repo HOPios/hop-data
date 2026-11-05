@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-05T01:26:27Z",
+  "generated_at": "2026-11-05T01:37:36Z",
   "entries": [
     {
       "passport": "CA",
@@ -2198,9 +2198,9 @@
       "destination": "Turkmenistan",
       "fields": {
         "stay": "10 days to 1 year, set by the visa",
-        "note": "Indian nationals staying one month or more must submit an original HIV/AIDS test certificate issued within the month before applying, in addition to the standard Letter of Invitation requirement."
+        "note": "Indian nationals staying one month and more must submit an original HIV/AIDS test certificate issued within the month before applying, in addition to the standard Letter of Invitation requirement."
       },
-      "checked": "2026-11-02"
+      "checked": "2026-11-05"
     },
     {
       "passport": "KR",
