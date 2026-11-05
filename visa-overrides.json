@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-05T01:37:36Z",
+  "generated_at": "2026-11-05T03:04:22Z",
   "entries": [
     {
       "passport": "CA",
@@ -581,9 +581,10 @@
       "passport": "CA",
       "destination": "Saint Vincent and the Grenadines",
       "fields": {
-        "stay": "30 days"
+        "stay": "3 months",
+        "note": "Canada is absent from the Ministry of National Security's short list of ten nationalities that must obtain an entry visa. Canadians get a three-month Visitor's Permit on arrival."
       },
-      "checked": "2026-10-21"
+      "checked": "2026-11-05"
     },
     {
       "passport": "NL",
