@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-02T21:38:38Z",
+  "generated_at": "2026-11-05T01:26:27Z",
   "entries": [
     {
       "passport": "CA",
@@ -706,9 +706,10 @@
       "passport": "AU",
       "destination": "Saint Vincent and the Grenadines",
       "fields": {
-        "stay": "90 days from your arrival date"
+        "stay": "90 days from your arrival date",
+        "note": "No visa — only ten nationalities need one. Australians get a three-month Visitor's Permit on arrival."
       },
-      "checked": "2026-10-22"
+      "checked": "2026-11-05"
     },
     {
       "passport": "US",
@@ -738,9 +739,10 @@
       "passport": "NZ",
       "destination": "Saint Vincent and the Grenadines",
       "fields": {
-        "stay": "90 days from your arrival date"
+        "stay": "90 days from your arrival date",
+        "note": "New Zealand is not on the list of nationalities requiring an entry visa. New Zealanders get a three-month Visitor's Permit on arrival. Extensions are bought monthly at the immigration office."
       },
-      "checked": "2026-10-22"
+      "checked": "2026-11-05"
     },
     {
       "passport": "KR",
