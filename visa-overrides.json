@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-05T03:04:22Z",
+  "generated_at": "2026-11-05T03:09:11Z",
   "entries": [
     {
       "passport": "CA",
@@ -2340,9 +2340,10 @@
       "fields": {
         "visa": "ev",
         "note": "Since 1 October 2026 tourists need an e-visa. You cannot apply yourself: your tour agency acts as sponsor, and once the visa is approved and paid for through them you receive an e-visa to print or show electronically on arrival. It replaces the old letter of invitation and visa in your passport. Transit visas still need a letter of invitation from the State Migration Service, secured before you travel.",
-        "stay": "Per visa granted"
+        "stay": "Per visa granted",
+        "apply": "Tourists and conference visitors: through your tour agency or event organiser, who sponsors you and obtains the e-visa (you cannot apply yourself). Other purposes: a sponsoring organisation gets your letter of invitation, then apply at your nearest Embassy of Turkmenistan or on arrival."
       },
-      "checked": "2026-11-02"
+      "checked": "2026-11-05"
     }
   ],
   "destinations": []
