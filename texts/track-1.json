@@ -2,7 +2,7 @@
   "schema": 1,
   "track": 1,
   "version": 2,
-  "published": "2026-11-05",
+  "published": "2026-11-06",
   "texts": {
     "visa": {
       "title": "Visa disclaimer",
@@ -103,7 +103,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Travel advice information is sourced with permission from the SafeTravel website: [www.safetravel.govt.nz](https://www.safetravel.govt.nz). Note that travel advisories may change quickly. The New Zealand Ministry of Foreign Affairs and Trade does not accept any liability for loss or damage (including consequential loss or damage), however caused, which may be incurred by any person or organisation from reliance on or use of information on the SafeTravel website."
+          "text": "Travel advice information is sourced with permission from the SafeTravel website: [www.safetravel.govt.nz](https://www.safetravel.govt.nz). Data was sourced on {mfat_date}. Note that travel advisories may change quickly. The New Zealand Ministry of Foreign Affairs and Trade does not accept any liability for loss or damage (including consequential loss or damage), however caused, which may be incurred by any person or organisation from reliance on or use of information on the SafeTravel website."
         },
         {
           "type": "paragraph",
