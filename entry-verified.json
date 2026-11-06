@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-05T03:27:44.795Z",
+ "generated_at": "2026-11-06T01:47:50.887Z",
  "dates": {
   "AU": {
    "Albania": "2026-11-02",
@@ -632,7 +632,7 @@
    "Armenia": "2026-11-05",
    "Aruba": "2026-10-19",
    "Australia": "2026-11-02",
-   "Austria": "2026-11-05",
+   "Austria": "2026-11-06",
    "Bahamas": "2026-11-05",
    "Bahrain": "2026-11-05",
    "Barbados": "2026-11-05",
@@ -954,7 +954,7 @@
    "Kazakhstan": "2026-11-05",
    "Kenya": "2026-11-02",
    "Kiribati": "2026-11-05",
-   "Latvia": "2026-11-05",
+   "Latvia": "2026-11-06",
    "Lebanon": "2026-11-05",
    "Liechtenstein": "2026-11-05",
    "Lithuania": "2026-11-05",
@@ -1378,19 +1378,20 @@
  ],
  "review_sentence": [],
  "stats": {
-  "run_date": "2026-11-05",
-  "method": "page",
-  "pages": 589,
-  "entries_checked": 1263,
-  "fetches": 621,
-  "fetch_failures": 5,
-  "failure_rate": 0.0081,
-  "unchanged": 1159,
-  "changed": 86,
-  "held": 0,
-  "unreachable_entries": 8,
-  "manual_waiting": 0,
-  "dates_moved": 1158,
-  "published": true
+  "run_date": "2026-11-06",
+  "destinations_checked": 2,
+  "fetches": 6,
+  "fetch_failures": 0,
+  "failure_rate": 0,
+  "sentences_checked": 15,
+  "sentences_found": 15,
+  "entries_checked": 2,
+  "dates_moved": 2,
+  "published": true,
+  "pages_read": {
+   "plain": 5,
+   "pdf": 0,
+   "browser": 1
+  }
  }
 }
