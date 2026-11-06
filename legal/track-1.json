@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "track": 1,
-  "version": 2,
-  "published": "2026-10-28",
+  "version": 3,
+  "published": "2026-11-06",
   "privacy": {
     "title": "Privacy policy",
     "subtitle": "Hop has no account. No ads, no advertising trackers, nothing sold.",
-    "applies_from": "2026-10-28",
+    "applies_from": "2026-11-06",
     "body": [
       {
         "type": "paragraph",
@@ -26,7 +26,7 @@
       {
         "type": "paragraph",
         "lead": "Network requests Hop makes.",
-        "text": "Hop’s screens and information are built into the app, so it works without a connection. When you’re online, Hop downloads a few public data files to keep its information current between app updates: government travel-advisory levels, entry-rule corrections, the dates on which Hop last checked each destination’s entry rules, and the current version of these legal texts. Each comes from raw.githubusercontent.com (GitHub), or from a jsDelivr mirror of the same files if that fails. Hop also fetches exchange rates directly from ExchangeRate-API about once a day, with Frankfurter (European Central Bank rates) as a fallback. Like any web request, these send your IP address and standard technical details to the provider, which handles them under its own privacy policy; Hop adds no personal information, account or identifier to them. Offline, Hop uses the last rates and texts it saved, or the ones built into the app, and makes no requests at all. The Hop website, hoptravelapp.com, is hosted by Cloudflare, which sees routine technical data such as your IP address when you visit. When you open its privacy or terms page, your browser also downloads the current text from GitHub or jsDelivr, which see your IP address."
+        "text": "Hop’s screens and information are built into the app, so it works without a connection. When you’re online, Hop downloads a few public data files to keep its information current between app updates: government travel-advisory levels, entry-rule corrections, the dates on which Hop last checked each destination’s entry rules, and the current version of these legal texts. Each comes from raw.githubusercontent.com (GitHub), or from a jsDelivr mirror of the same files if that fails. Hop also fetches exchange rates directly from ExchangeRate-API about once a day, with Frankfurter (European Central Bank rates) as a fallback. Hop's Premium sections show extra photos that are not built into the app. When you open one of those photos, or tap \"Download photos for this trip\", Hop downloads it from its own photo storage, served by Cloudflare. Cloudflare receives your IP address and the name of each photo you open. Each photo shows a place. Cloudflare can tell which destinations you looked at. Hop does not receive or keep a record of these requests. Each photo is then kept on your phone, so it is not downloaded again, and you can remove saved photos in Settings. If you never open a Premium section, Hop never contacts its photo storage. Like any web request, these send your IP address and standard technical details to the provider, which handles them under its own privacy policy; Hop adds no personal information, account or identifier to them. Offline, Hop uses the last rates and texts it saved, or the ones built into the app, and makes no requests at all. A Premium photo you have not saved shows as a blurred preview until you are back online. The Hop website, hoptravelapp.com, is hosted by Cloudflare, which sees routine technical data such as your IP address when you visit. When you open its privacy or terms page, your browser also downloads the current text from GitHub or jsDelivr, which see your IP address."
       },
       {
         "type": "paragraph",
@@ -51,7 +51,7 @@
       {
         "type": "paragraph",
         "lead": "If you live in the UK or EU (GDPR).",
-        "text": "The preferences, trips and documents above stay on your phone; we never receive them. If you email us, or join a test version through Apple TestFlight or Google Play, we hold your email address, your name if you give it, your message or feedback, and the TestFlight counts described above, to answer you and run the test (our legitimate interests). Ask support@hoptravelapp.com for a copy, a correction or deletion. The data-file and rate providers receive your IP address when your device contacts them, and handle it under their own privacy policies."
+        "text": "The preferences, trips and documents above stay on your phone; we never receive them. If you email us, or join a test version through Apple TestFlight or Google Play, we hold your email address, your name if you give it, your message or feedback, and the TestFlight counts described above, to answer you and run the test (our legitimate interests). Ask support@hoptravelapp.com for a copy, a correction or deletion. The data-file and rate providers receive your IP address when your device contacts them, and handle it under their own privacy policies. Photo requests go to Cloudflare, which handles the IP address for Hop under its data processing terms; Hop does not receive them. How long Cloudflare keeps that data is set by its own privacy policy: https://www.cloudflare.com/privacypolicy/."
       },
       {
         "type": "paragraph",
@@ -64,11 +64,7 @@
         "text": "We may update this policy without an app update: Hop downloads the current version when you’re online, keeps it for offline use, and shows the date it applies from. If a change is significant, Hop tells you in the app. We keep every earlier version, dated, and will send you a copy if you ask. Questions: support@hoptravelapp.com."
       }
     ],
-    "change": "significant",
-    "summary": "Hop can now send you trip notifications. They are made on your phone from the same daily data; nothing about you or your trips is sent to Hop.",
-    "what_changed": [
-      "Added a paragraph about notifications: Hop can send you notifications, made on your phone from the same daily data; nothing about you or your trips is sent to Hop."
-    ]
+    "change": "minor"
   },
   "terms": {
     "title": "Terms of service",
@@ -189,6 +185,23 @@
       },
       "disclaimer": {
         "change": "minor",
+        "applies_from": "2026-10-17"
+      }
+    },
+    {
+      "version": 2,
+      "applies_from": "2026-10-28",
+      "privacy": {
+        "change": "significant",
+        "summary": "Hop can now send you trip notifications. They are made on your phone from the same daily data; nothing about you or your trips is sent to Hop.",
+        "applies_from": "2026-10-28"
+      },
+      "terms": {
+        "change": "none",
+        "applies_from": "2026-10-17"
+      },
+      "disclaimer": {
+        "change": "none",
         "applies_from": "2026-10-17"
       }
     }
