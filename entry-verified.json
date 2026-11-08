@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-07T01:10:29.516Z",
+ "generated_at": "2026-11-08T00:54:02.151Z",
  "dates": {
   "AU": {
    "Albania": "2026-11-02",
@@ -484,7 +484,7 @@
    "New Caledonia": "2026-11-05",
    "Nicaragua": "2026-11-05",
    "Niger": "2026-11-07",
-   "Niue": "2026-11-01",
+   "Niue": "2026-11-08",
    "Norfolk Island": "2026-11-02",
    "Norway": "2026-11-05",
    "Oman": "2026-11-05",
@@ -647,7 +647,7 @@
    "Cabo Verde": "2026-11-05",
    "Canada": "2026-11-05",
    "Chile": "2026-11-05",
-   "China": "2026-11-05",
+   "China": "2026-11-08",
    "Christmas Island": "2026-11-02",
    "Cocos (Keeling) Islands": "2026-11-02",
    "Colombia": "2026-11-05",
@@ -854,7 +854,7 @@
    "New Caledonia": "2026-11-05",
    "New Zealand": "2026-11-05",
    "Nicaragua": "2026-11-05",
-   "Niue": "2026-11-05",
+   "Niue": "2026-11-08",
    "Norfolk Island": "2026-11-02",
    "Norway": "2026-11-05",
    "Oman": "2026-11-05",
@@ -1378,19 +1378,19 @@
  ],
  "review_sentence": [],
  "stats": {
-  "run_date": "2026-11-07",
+  "run_date": "2026-11-08",
   "destinations_checked": 2,
-  "fetches": 5,
+  "fetches": 4,
   "fetch_failures": 0,
   "failure_rate": 0,
-  "sentences_checked": 22,
-  "sentences_found": 22,
-  "entries_checked": 2,
-  "dates_moved": 2,
+  "sentences_checked": 20,
+  "sentences_found": 20,
+  "entries_checked": 3,
+  "dates_moved": 3,
   "published": true,
   "pages_read": {
    "plain": 4,
-   "pdf": 1,
+   "pdf": 0,
    "browser": 0
   }
  }
