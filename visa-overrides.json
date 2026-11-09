@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-09T07:10:34Z",
+  "generated_at": "2026-11-09T08:57:19Z",
   "entries": [
     {
       "passport": "CA",
@@ -2559,7 +2559,8 @@
       "destination": "Kazakhstan",
       "fields": {
         "apply": "Not required · an Electronic Travel Authorization (QazETA) is recommended: apply no later than 72 hours before the planned travel date",
-        "note": "Canada is named in Kazakhstan's visa-regime table as visa-free up to 30 days for ordinary passports. Watch the cumulative caps — the 30 days is per entry, but total stay must not exceed 90 days in any 180-day period, and not more than 120 days in one calendar year. On registration: an arrival notification is required within 3 working days, but it is the duty of the RECEIVING PARTY — your hotel or host — not you, and Kazakhstan states a foreign citizen does not need to apply to the migration service personally. Kazakhstan is piloting an Electronic Travel Authorization (ETA), QazETA; Canada's advice recommends getting one before you travel. It is currently voluntary and free of charge, but may become mandatory and could carry fees. An ETA does not guarantee entry."
+        "note": "Canada is named in Kazakhstan's visa-regime table as visa-free up to 30 days for ordinary passports. Watch the cumulative caps — the 30 days is per entry, but total stay must not exceed 90 days in any 180-day period. On registration: an arrival notification is required within 3 working days, but it is the duty of the RECEIVING PARTY — your hotel or host — not you, and Kazakhstan states a foreign citizen does not need to apply to the migration service personally. Kazakhstan is piloting an Electronic Travel Authorization (ETA), QazETA; Canada's advice recommends getting one before you travel. It is currently voluntary and free of charge, but may become mandatory and could carry fees. An ETA does not guarantee entry.",
+        "stay": "30 days per entry, within 90 per 180"
       },
       "checked": "2026-11-09"
     },
@@ -2586,7 +2587,8 @@
       "passport": "DE",
       "destination": "Guadeloupe",
       "fields": {
-        "stay": "Up to 3 months"
+        "stay": "Up to 3 months",
+        "note": "No visa needed as an EU citizen: you can enter and stay up to 3 months, overseas included, with no formality beyond a valid passport or ID card. Guadeloupe is an EU outermost region outside Schengen."
       },
       "checked": "2026-11-09"
     },
@@ -2594,7 +2596,8 @@
       "passport": "IE",
       "destination": "Guadeloupe",
       "fields": {
-        "stay": "Up to 3 months"
+        "stay": "Up to 3 months",
+        "note": "No visa needed: EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card. Guadeloupe is an EU outermost region outside Schengen."
       },
       "checked": "2026-11-09"
     },
@@ -2602,7 +2605,8 @@
       "passport": "IE",
       "destination": "French Guiana",
       "fields": {
-        "stay": "Up to 3 months"
+        "stay": "Up to 3 months",
+        "note": "Yellow fever vaccination is mandatory for all travellers over 1 year old. EU overseas department outside Schengen; EU citizens need no visa and may stay up to 3 months without formality."
       },
       "checked": "2026-11-09"
     },
@@ -2610,7 +2614,8 @@
       "passport": "NL",
       "destination": "Saint Barthélemy",
       "fields": {
-        "stay": "Up to 3 months"
+        "stay": "Up to 3 months",
+        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card. Sint Maarten's Dutch rules do not apply here."
       },
       "checked": "2026-11-09"
     },
@@ -2618,7 +2623,8 @@
       "passport": "IE",
       "destination": "Saint Barthélemy",
       "fields": {
-        "stay": "Up to 3 months"
+        "stay": "Up to 3 months",
+        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card."
       },
       "checked": "2026-11-09"
     },
@@ -2627,6 +2633,17 @@
       "destination": "French Polynesia",
       "fields": {
         "stay": "Up to 3 months"
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "IN",
+      "destination": "Kenya",
+      "fields": {
+        "stay": "Set by the immigration officer at the point of entry",
+        "extension": "Possible — apply online at fns.immigration.go.ke (Foreign Nationals Management Services); a visitor's pass can be extended to a maximum of 6 months",
+        "ext_cost": "USD 50 application and processing fee (the same Immigration page also says \"The service attracts no charges\")",
+        "note": "Ordinary passports need an eTA. Apply at least 2 weeks before travel; processing normally 3 working days. Passport valid at least 6 months with one blank page. Have a photo, itinerary, accommodation booking and payment method ready. The eTA is valid for travel within 90 days of issue."
       },
       "checked": "2026-11-09"
     }
