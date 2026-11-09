@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-05T03:09:11Z",
+  "generated_at": "2026-11-09T06:16:22Z",
   "entries": [
     {
       "passport": "CA",
@@ -452,11 +452,11 @@
       "passport": "UK",
       "destination": "Kazakhstan",
       "fields": {
-        "cost": "Free · QazETA currently free; a fee may be introduced if proposed legislation is approved",
-        "apply": "No visa needed · QazETA (Electronic Travel Authorisation) recommended, apply at least 72 hours before travel; expected to become mandatory from November 2026 · gov.uk/foreign-travel-advice/kazakhstan",
-        "note": "30-day visa-free. Max 90 days in any 180-day period. Electronic Travel Authorisation (ETA) via the QazETA portal recommended since January 2026 and expected to become mandatory for visa-free travellers from November 2026, subject to new regulations. Apply at least 72 hours before travel; valid 180 days from issue. It does not extend your visa-free stay. Not needed if under 16 or transiting for up to 3 days."
+        "cost": "Free · the QazETA ETA is free of charge",
+        "apply": "No visa needed · apply for an ETA through the QazETA portal at least 72 hours before travel (you should from 1 November; mandatory from 1 July 2027) · gov.uk/foreign-travel-advice/kazakhstan",
+        "note": "30-day visa-free. Max 90 days in any 180-day period. From 1 November, if you travel without a visa you should apply for an Electronic Travel Authorisation (ETA) through the QazETA portal. Until 30 June, if you arrive without one you will not be refused entry but will be told of the requirement; from 1 July 2027 the ETA is mandatory for all visa-free nationals and you will be refused entry without one. The ETA is free, valid for 180 days from issue, and does not extend your visa-free stay. Not needed if you are under 16 or over 65, staying in the airport transit area without crossing the border, travelling on a diplomatic or service passport, or holding a valid Kazakh visa or residence permit."
       },
-      "checked": "2026-10-19"
+      "checked": "2026-11-09"
     },
     {
       "passport": "DE",
@@ -837,9 +837,9 @@
       "passport": "NZ",
       "destination": "Macau",
       "fields": {
-        "stay": "90 days from your arrival date"
+        "stay": "3 months from your arrival date"
       },
-      "checked": "2026-10-22"
+      "checked": "2026-11-09"
     },
     {
       "passport": "KR",
@@ -2036,58 +2036,79 @@
       "passport": "UK",
       "destination": "Cook Islands",
       "fields": {
-        "ext_cost": "NZD 115 for the 31-day extension"
-      }
+        "ext_cost": "NZD 115 for the 31-day extension",
+        "stay": "Less than 31 days (extendable once by 31 days, to two months in total)"
+      },
+      "checked": "2026-11-09"
     },
     {
       "passport": "US",
       "destination": "Cook Islands",
       "fields": {
-        "ext_cost": "NZD 115 for the 31-day extension"
-      }
+        "ext_cost": "NZD 115 for the 31-day extension",
+        "stay": "Less than 31 days (extendable once by 31 days, to two months in total)"
+      },
+      "checked": "2026-11-09"
     },
     {
       "passport": "KR",
       "destination": "Cook Islands",
       "fields": {
-        "ext_cost": "NZD 115 for the 31-day extension"
-      }
+        "ext_cost": "NZD 115 for the 31-day extension",
+        "note": "No visa needed before travel — a free visitor visa and permit are issued together on arrival for less than 31 days. Passport valid 6+ months beyond departure with 2 blank pages. Show an onward or return ticket, sufficient funds and arranged accommodation.",
+        "stay": "Less than 31 days"
+      },
+      "checked": "2026-11-09"
     },
     {
       "passport": "DE",
       "destination": "Cook Islands",
       "fields": {
-        "ext_cost": "NZD 115 for the 31-day extension"
-      }
+        "ext_cost": "NZD 115 for the 31-day extension",
+        "note": "No advance visa — a free visitor visa and permit are issued on arrival for less than 31 days. Passport valid 6+ months beyond departure, with 2 blank pages. Show an onward or return ticket, enough funds and booked accommodation.",
+        "stay": "Less than 31 days"
+      },
+      "checked": "2026-11-09"
     },
     {
       "passport": "NL",
       "destination": "Cook Islands",
       "fields": {
-        "ext_cost": "NZD 115 for the 31-day extension"
-      }
+        "ext_cost": "NZD 115 for the 31-day extension",
+        "note": "No visa needed before travel — a free visitor visa and permit for less than 31 days is issued on arrival. Passport valid 6+ months beyond departure, with 2 blank pages. Onward/return ticket, sufficient funds and arranged accommodation required.",
+        "stay": "Less than 31 days"
+      },
+      "checked": "2026-11-09"
     },
     {
       "passport": "IE",
       "destination": "Cook Islands",
       "fields": {
-        "ext_cost": "NZD 115 for the 31-day extension"
-      }
+        "ext_cost": "NZD 115 for the 31-day extension",
+        "note": "No visa needed in advance — a free visitor visa and permit for less than 31 days is issued on arrival. Passport valid 6+ months beyond departure with 2 blank pages. Show an onward/return ticket, sufficient funds and arranged accommodation.",
+        "stay": "Less than 31 days"
+      },
+      "checked": "2026-11-09"
     },
     {
       "passport": "IN",
       "destination": "Cook Islands",
       "fields": {
-        "ext_cost": "NZD 115 for the 31-day extension"
-      }
+        "ext_cost": "NZD 115 for the 31-day extension",
+        "note": "No visa needed in advance — a visitor visa and permit are issued free on arrival for less than 31 days. Passport valid 6+ months beyond departure, with 2 blank pages. Show an onward/return ticket, sufficient funds and arranged accommodation.",
+        "stay": "Less than 31 days"
+      },
+      "checked": "2026-11-09"
     },
     {
       "passport": "CA",
       "destination": "Cook Islands",
       "fields": {
         "ext_cost": "NZD 115 for the 31-day extension",
-        "note": "An International Visitor Permit is issued free on arrival to everyone except New Zealand and Australian passport holders — 31 days, not the 90 days New Zealanders get, so don't read across from a New Zealand source. You need proof of onward travel, sufficient funds, accommodation details and a passport valid 6 months. The total stay is capped at 2 months without a departure of 6 months or more."
-      }
+        "note": "An International Visitor Permit is issued free on arrival to everyone except New Zealand and Australian passport holders — less than 31 days, not the 90 days New Zealanders get, so don't read across from a New Zealand source. You need proof of onward travel, sufficient funds, accommodation details and a passport valid 6 months. The total stay is capped at 2 months without a departure of 6 months or more.",
+        "stay": "Less than 31 days"
+      },
+      "checked": "2026-11-09"
     },
     {
       "passport": "AU",
@@ -2103,8 +2124,9 @@
       "destination": "Cook Islands",
       "fields": {
         "ext_cost": "NZD 235 for the 3-month extension",
-        "note": "No visa before travel — a New Zealand Visitor Permit is issued free at the border on the arrival card. The 3-month entitlement is tied specifically to New Zealand or Australian citizenship; other nationalities get 31 days. You need proof of onward travel and sufficient funds, and must be a genuine visitor not intending to work or study."
-      }
+        "note": "No visa before travel — a New Zealand Visitor Permit is issued free at the border on the arrival card. The 3-month entitlement is tied specifically to New Zealand or Australian citizenship; other nationalities get less than 31 days. You need proof of onward travel and sufficient funds, and must be a genuine visitor not intending to work or study."
+      },
+      "checked": "2026-11-09"
     },
     {
       "passport": "KR",
@@ -2344,6 +2366,70 @@
         "apply": "Tourists and conference visitors: through your tour agency or event organiser, who sponsors you and obtains the e-visa (you cannot apply yourself). Other purposes: a sponsoring organisation gets your letter of invitation, then apply at your nearest Embassy of Turkmenistan or on arrival."
       },
       "checked": "2026-11-05"
+    },
+    {
+      "passport": "UK",
+      "destination": "Honduras",
+      "fields": {
+        "visa": "vf",
+        "stay": "90 days (shared with El Salvador, Guatemala and Nicaragua)",
+        "cost": "Not required",
+        "apply": "No application needed · gov.uk/foreign-travel-advice/honduras",
+        "extension": "National Institute of Migration (Instituto Nacional de Migración)",
+        "note": "Visa-free for up to 90 days: the exemption for British citizens took effect on 31 October 2026 (a visa was required before that). The 90 days is shared with El Salvador, Guatemala and Nicaragua and does not restart when you cross borders. Passport must be valid 6 months after you arrive, with at least 2 blank pages. You get a 30-day entry stamp on arrival. Make sure the border officer stamps your passport, and apply at an immigration office if you need to extend. Overstaying can mean a fine before you leave."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "UK",
+      "destination": "El Salvador",
+      "fields": {
+        "stay": "180 days, but 90 days total across El Salvador, Guatemala, Honduras and Nicaragua",
+        "note": "Visa-free 90 days under CA-4 agreement (combined quota with Guatemala, Honduras, Nicaragua — doesn't reset at borders). Fastest-improving Central American economy but watch gang-heightened areas."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "UK",
+      "destination": "Guatemala",
+      "fields": {
+        "note": "Visa-free 90 days under CA-4 (combined with El Salvador, Honduras & Nicaragua — doesn't reset at borders). State of Prevention in multiple departments (Apr 2026). ⚠️ FCDO advises against all but essential travel to 3 towns in Huehuetenango. High violent crime nationally."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "UK",
+      "destination": "Nicaragua",
+      "fields": {
+        "note": "Visa-free 90 days under CA-4 agreement (combined quota with Guatemala, El Salvador, Honduras — doesn't reset at borders). Political tensions ongoing — monitor FCDO advice, avoid demonstrations."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "UK",
+      "destination": "Botswana",
+      "fields": {
+        "note": "Visa-free 90 days. Passport must have 3 blank pages and 6 months validity. ⚠️ Child travel rules — carry the original or a certified copy of the full birth certificate for any child aged 17 or under. If a child travels with only one parent, a guardian or another adult, or alone, carry parental consent or documents showing authority to travel, plus a certified copy of the consenting parent's passport or identity document."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "CA",
+      "destination": "Curaçao",
+      "fields": {
+        "note": "Visa-free, but one thing catches people out: the free Digital Immigration Card is MANDATORY — complete it within the 7 days before departure; it is checked at airline check-in and again on arrival. Canadians can stay 90 days in any 180; to stay longer you must apply to Curaçao's Immigration Service for a short-stay residence permit, not a tourist extension. Proof of funds of about USD 1,000 per week may be requested. Your passport must be valid for the duration of your stay in Curaçao."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "DE",
+      "destination": "Martinique",
+      "fields": {
+        "stay": "Up to 3 months",
+        "extension": "Not verified — no extension procedure published",
+        "note": "Visa-free for EU citizens for up to 3 months in France, including overseas, with no formality. You only need a valid passport or ID card in case of an identity check, and holding either lets you stay freely. The same applies in Guadeloupe, Mayotte, Réunion and French Guiana."
+      },
+      "checked": "2026-11-09"
     }
   ],
   "destinations": []
