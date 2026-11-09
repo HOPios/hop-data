@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-09T06:16:22Z",
+  "generated_at": "2026-11-09T06:42:39Z",
   "entries": [
     {
       "passport": "CA",
@@ -837,7 +837,8 @@
       "passport": "NZ",
       "destination": "Macau",
       "fields": {
-        "stay": "3 months from your arrival date"
+        "stay": "3 months from your arrival date",
+        "note": "Macao runs its own immigration system — a Hong Kong or mainland China permission counts for nothing here. New Zealand gets a maximum of 3 months, not the 30 days most visa nationals get."
       },
       "checked": "2026-11-09"
     },
@@ -2055,8 +2056,10 @@
       "destination": "Cook Islands",
       "fields": {
         "ext_cost": "NZD 115 for the 31-day extension",
-        "note": "No visa needed before travel — a free visitor visa and permit are issued together on arrival for less than 31 days. Passport valid 6+ months beyond departure with 2 blank pages. Show an onward or return ticket, sufficient funds and arranged accommodation.",
-        "stay": "Less than 31 days"
+        "note": "No visa needed before travel — a free visitor permit is issued on arrival for less than 31 days. Passport valid 6+ months beyond departure with 2 blank pages. Show an onward or return ticket, sufficient funds and arranged accommodation.",
+        "stay": "Less than 31 days",
+        "visa": "vf",
+        "apply": "On arrival at Rarotonga — a visitor permit issued at the border, no advance application"
       },
       "checked": "2026-11-09"
     },
@@ -2065,8 +2068,10 @@
       "destination": "Cook Islands",
       "fields": {
         "ext_cost": "NZD 115 for the 31-day extension",
-        "note": "No advance visa — a free visitor visa and permit are issued on arrival for less than 31 days. Passport valid 6+ months beyond departure, with 2 blank pages. Show an onward or return ticket, enough funds and booked accommodation.",
-        "stay": "Less than 31 days"
+        "note": "No advance visa — a free visitor permit is issued on arrival for less than 31 days. Passport valid 6+ months beyond departure, with 2 blank pages. Show an onward or return ticket, enough funds and booked accommodation.",
+        "stay": "Less than 31 days",
+        "visa": "vf",
+        "apply": "On arrival at Rarotonga — a visitor permit issued at the border, no advance application"
       },
       "checked": "2026-11-09"
     },
@@ -2075,8 +2080,10 @@
       "destination": "Cook Islands",
       "fields": {
         "ext_cost": "NZD 115 for the 31-day extension",
-        "note": "No visa needed before travel — a free visitor visa and permit for less than 31 days is issued on arrival. Passport valid 6+ months beyond departure, with 2 blank pages. Onward/return ticket, sufficient funds and arranged accommodation required.",
-        "stay": "Less than 31 days"
+        "note": "No visa needed before travel — a free visitor permit for less than 31 days is issued on arrival. Passport valid 6+ months beyond departure, with 2 blank pages. Onward/return ticket, sufficient funds and arranged accommodation required.",
+        "stay": "Less than 31 days",
+        "visa": "vf",
+        "apply": "On arrival at Rarotonga — a visitor permit issued at the border, no advance application"
       },
       "checked": "2026-11-09"
     },
@@ -2085,8 +2092,10 @@
       "destination": "Cook Islands",
       "fields": {
         "ext_cost": "NZD 115 for the 31-day extension",
-        "note": "No visa needed in advance — a free visitor visa and permit for less than 31 days is issued on arrival. Passport valid 6+ months beyond departure with 2 blank pages. Show an onward/return ticket, sufficient funds and arranged accommodation.",
-        "stay": "Less than 31 days"
+        "note": "No visa needed in advance — a free visitor permit for less than 31 days is issued on arrival. Passport valid 6+ months beyond departure with 2 blank pages. Show an onward/return ticket, sufficient funds and arranged accommodation.",
+        "stay": "Less than 31 days",
+        "visa": "vf",
+        "apply": "On arrival at Rarotonga — a visitor permit issued at the border, no advance application"
       },
       "checked": "2026-11-09"
     },
@@ -2095,8 +2104,10 @@
       "destination": "Cook Islands",
       "fields": {
         "ext_cost": "NZD 115 for the 31-day extension",
-        "note": "No visa needed in advance — a visitor visa and permit are issued free on arrival for less than 31 days. Passport valid 6+ months beyond departure, with 2 blank pages. Show an onward/return ticket, sufficient funds and arranged accommodation.",
-        "stay": "Less than 31 days"
+        "note": "No visa needed in advance — a visitor permit is issued free on arrival for less than 31 days. Passport valid 6+ months beyond departure, with 2 blank pages. Show an onward/return ticket, sufficient funds and arranged accommodation.",
+        "stay": "Less than 31 days",
+        "visa": "vf",
+        "apply": "On arrival at Rarotonga — a visitor permit issued at the border, no advance application"
       },
       "checked": "2026-11-09"
     },
@@ -2304,9 +2315,10 @@
       "destination": "Kazakhstan",
       "fields": {
         "stay": "30 days per entry, 60 per 180",
-        "note": "Not verified — whether an ETA via QazETA is mandatory for Korean passports. Korean citizens may enter without a visa for up to 30 days after crossing the border, for a total of 60 days in each period of 180 days."
+        "note": "Kazakhstan has run a pilot of its Electronic Travel Authorization (ETA), QazETA, since January 2026 for visa-exempt visitors including Koreans; once the ETA is mandatory, visitors without approval are refused entry. It is not needed if you get a visa from the Kazakh embassy or consulate in Korea. Korean citizens may enter without a visa for up to 30 days after crossing the border, for a total of 60 days in each period of 180 days.",
+        "apply": "Apply for a QazETA ETA through its mobile app 72 hours before entry (pilot since January 2026; valid for up to 180 days). Longer stays: Not verified"
       },
-      "checked": "2026-11-02"
+      "checked": "2026-11-09"
     },
     {
       "passport": "CA",
@@ -2430,7 +2442,154 @@
         "note": "Visa-free for EU citizens for up to 3 months in France, including overseas, with no formality. You only need a valid passport or ID card in case of an identity check, and holding either lets you stay freely. The same applies in Guadeloupe, Mayotte, Réunion and French Guiana."
       },
       "checked": "2026-11-09"
+    },
+    {
+      "passport": "NL",
+      "destination": "Martinique",
+      "fields": {
+        "extension": "Not verified — no extension procedure published",
+        "note": "Visa-free for EU citizens for up to 3 months in France, including overseas, with no formality. You only need a valid passport or ID card in case of an identity check, and holding either lets you stay freely."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "IE",
+      "destination": "Martinique",
+      "fields": {
+        "extension": "Not verified — no extension procedure published",
+        "note": "Visa-free for EU citizens for up to 3 months in France, including overseas, with no formality. You only need a valid passport or ID card in case of an identity check, and holding either lets you stay freely. The same applies in Guadeloupe, Mayotte, Réunion and French Guiana."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "NL",
+      "destination": "Guadeloupe",
+      "fields": {
+        "note": "No visa needed: EU citizens can enter and stay up to 3 months, overseas included, with no formality beyond a valid passport or ID card. Guadeloupe is an EU outermost region outside Schengen."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "DE",
+      "destination": "Saint Pierre and Miquelon",
+      "fields": {
+        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card. Travelling via Canada needs an eTA for air transit."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "NL",
+      "destination": "Saint Pierre and Miquelon",
+      "fields": {
+        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card. This is unrelated to any Dutch Caribbean matter — purely a question of an EU citizen entering French territory."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "IE",
+      "destination": "Saint Pierre and Miquelon",
+      "fields": {
+        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "DE",
+      "destination": "French Guiana",
+      "fields": {
+        "note": "Yellow fever vaccination is mandatory for all travellers over 1 year old. French Guiana is in the EU but not in Schengen: EU citizens need no visa and may stay up to 3 months without formality."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "NL",
+      "destination": "French Guiana",
+      "fields": {
+        "note": "Yellow fever vaccination is mandatory for all travellers over 1 year old. French Guiana is in the EU but not in Schengen: EU citizens need no visa and may stay up to 3 months without formality."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "DE",
+      "destination": "Saint Martin",
+      "fields": {
+        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "IE",
+      "destination": "Saint Martin",
+      "fields": {
+        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "NL",
+      "destination": "Saint Martin",
+      "fields": {
+        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card. Sint Maarten across the open land border is a separate immigration system with its own rules."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "DE",
+      "destination": "Saint Barthélemy",
+      "fields": {
+        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "CA",
+      "destination": "Kazakhstan",
+      "fields": {
+        "apply": "Not required · an Electronic Travel Authorization (QazETA) is recommended: apply no later than 72 hours before the planned travel date",
+        "note": "Canada is named in Kazakhstan's visa-regime table as visa-free up to 30 days for ordinary passports. Watch the cumulative caps — the 30 days is per entry, but total stay must not exceed 90 days in any 180-day period, and not more than 120 days in one calendar year. On registration: an arrival notification is required within 3 working days, but it is the duty of the RECEIVING PARTY — your hotel or host — not you, and Kazakhstan states a foreign citizen does not need to apply to the migration service personally. Kazakhstan is piloting an Electronic Travel Authorization (ETA), QazETA; Canada's advice recommends getting one before you travel. It is currently voluntary and free of charge, but may become mandatory and could carry fees. An ETA does not guarantee entry."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "DE",
+      "destination": "Kazakhstan",
+      "fields": {
+        "apply": "Up to 30 days: no visa needed. Apply for an ETA through the QazETA app before you travel. It is being phased in by border crossing: since 1 November 2026 at Aktau airport and the land crossings Urljutobe, Auhatty, Atameken and Nurly Zhol; from 1 January 2027 at Astana and Almaty airports; from 1 March 2027 at all other crossings; mandatory from 1 July 2027. Longer than 30 days: visa applied for in advance at a Kazakh embassy or consulate",
+        "note": "No visa is needed for stays up to 30 days. An ETA via the QazETA app is being phased in by border crossing and becomes mandatory on 1 July 2027; until then travellers without one may be told they need it but, according to the Kazakh authorities, are not refused entry. A stay beyond 30 days needs a visa applied for in advance at a Kazakh embassy or consulate."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "NL",
+      "destination": "Kazakhstan",
+      "fields": {
+        "apply": "Up to 30 days: no visa needed, but you may need an Electronic Travel Authorisation (ETA): see the QazETA website. Longer: visa from the Kazakh Embassy in The Hague",
+        "note": "No visa is needed for stays up to 30 days on a Dutch passport. You may need an Electronic Travel Authorisation (ETA); the Dutch advice points to the QazETA website. Longer stays need a visa from the Kazakh Embassy in The Hague. Passport must be valid at least 6 months from departure."
+      },
+      "checked": "2026-11-09"
     }
   ],
-  "destinations": []
+  "destinations": [
+    {
+      "destination": "Nicaragua",
+      "fields": {
+        "blurb": "A new decree, Disposición No. 002-2026, took effect on 16 February 2026 and reshuffled which nationalities need a visa, so treat older answers as unreliable. Nicaragua is also in the CA-4 zone: the 90-day allowance is shared with Guatemala, Honduras and El Salvador and does not reset at those borders."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "destination": "Botswana",
+      "fields": {
+        "blurb": "Passports need three blank pages and six months' validity. Child travel rules are unusually strict: carry the original or a certified copy of the full birth certificate for any child aged 17 or under, plus parental consent or documents showing authority to travel when a child travels with one parent, a guardian, another adult or alone."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "destination": "Cook Islands",
+      "fields": {
+        "blurb": "A free visitor permit is issued at the border: less than 31 days for most nationalities, three months for New Zealand and Australian citizens, so New Zealand sources do not read across. You need proof of onward travel and sufficient funds, and work or study is not allowed. Extensions are applied for locally and carry a fee."
+      },
+      "checked": "2026-11-09"
+    }
+  ]
 }
