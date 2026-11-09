@@ -1,7 +1,31 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-09T06:42:39Z",
+  "generated_at": "2026-11-09T07:10:34Z",
   "entries": [
+    {
+      "passport": "DE",
+      "destination": "Wallis and Futuna",
+      "fields": {
+        "stay": "Up to 3 months without formality (EU citizens)"
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "NL",
+      "destination": "Wallis and Futuna",
+      "fields": {
+        "stay": "Up to 3 months without formality (EU citizens)"
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "IE",
+      "destination": "Wallis and Futuna",
+      "fields": {
+        "stay": "Up to 3 months without formality (EU citizens)"
+      },
+      "checked": "2026-11-09"
+    },
     {
       "passport": "UK",
       "destination": "Kazakhstan",
@@ -104,7 +128,7 @@
       "destination": "Cook Islands",
       "fields": {
         "ext_cost": "NZD 115 for the 31-day extension",
-        "note": "An International Visitor Permit is issued free on arrival to everyone except New Zealand and Australian passport holders — less than 31 days, not the 90 days New Zealanders get, so don't read across from a New Zealand source. You need proof of onward travel, sufficient funds, accommodation details and a passport valid 6 months. The total stay is capped at 2 months without a departure of 6 months or more.",
+        "note": "An International Visitor Permit is issued free on arrival to everyone except New Zealand and Australian passport holders — less than 31 days, not the less than 3 months that New Zealanders and Australians get, so don't read across from a New Zealand source. You need proof of onward travel, sufficient funds, accommodation details and a passport valid 6 months. The total stay is capped at 2 months without a continuous departure of more than six months.",
         "stay": "Less than 31 days"
       },
       "checked": "2026-11-09"
@@ -124,7 +148,8 @@
       "fields": {
         "stay": "30 days per entry, 60 per 180",
         "note": "Kazakhstan has run a pilot of its Electronic Travel Authorization (ETA), QazETA, since January 2026 for visa-exempt visitors including Koreans; once the ETA is mandatory, visitors without approval are refused entry. It is not needed if you get a visa from the Kazakh embassy or consulate in Korea. Korean citizens may enter without a visa for up to 30 days after crossing the border, for a total of 60 days in each period of 180 days.",
-        "apply": "Apply for a QazETA ETA through its mobile app 72 hours before entry (pilot since January 2026; valid for up to 180 days). Longer stays: Not verified"
+        "apply": "Apply for a QazETA ETA through its mobile app 72 hours before entry (pilot since January 2026; valid for up to 180 days). Longer stays: Not verified",
+        "visa": "vf"
       },
       "checked": "2026-11-09"
     },
@@ -197,7 +222,8 @@
       "destination": "Martinique",
       "fields": {
         "extension": "Not verified — no extension procedure published",
-        "note": "Visa-free for EU citizens for up to 3 months in France, including overseas, with no formality. You only need a valid passport or ID card in case of an identity check, and holding either lets you stay freely."
+        "note": "Visa-free for EU citizens for up to 3 months in France, including overseas, with no formality. You only need a valid passport or ID card in case of an identity check, and holding either lets you stay freely.",
+        "stay": "Up to 3 months"
       },
       "checked": "2026-11-09"
     },
@@ -206,7 +232,8 @@
       "destination": "Martinique",
       "fields": {
         "extension": "Not verified — no extension procedure published",
-        "note": "Visa-free for EU citizens for up to 3 months in France, including overseas, with no formality. You only need a valid passport or ID card in case of an identity check, and holding either lets you stay freely. The same applies in Guadeloupe, Mayotte, Réunion and French Guiana."
+        "note": "Visa-free for EU citizens for up to 3 months in France, including overseas, with no formality. You only need a valid passport or ID card in case of an identity check, and holding either lets you stay freely. The same applies in Guadeloupe, Mayotte, Réunion and French Guiana.",
+        "stay": "Up to 3 months"
       },
       "checked": "2026-11-09"
     },
@@ -214,7 +241,8 @@
       "passport": "NL",
       "destination": "Guadeloupe",
       "fields": {
-        "note": "No visa needed: EU citizens can enter and stay up to 3 months, overseas included, with no formality beyond a valid passport or ID card. Guadeloupe is an EU outermost region outside Schengen."
+        "note": "No visa needed: EU citizens can enter and stay up to 3 months, overseas included, with no formality beyond a valid passport or ID card. Guadeloupe is an EU outermost region outside Schengen.",
+        "stay": "Up to 3 months"
       },
       "checked": "2026-11-09"
     },
@@ -222,7 +250,8 @@
       "passport": "DE",
       "destination": "Saint Pierre and Miquelon",
       "fields": {
-        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card. Travelling via Canada needs an eTA for air transit."
+        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card. Travelling via Canada needs an eTA for air transit.",
+        "stay": "Up to 3 months"
       },
       "checked": "2026-11-09"
     },
@@ -230,7 +259,8 @@
       "passport": "NL",
       "destination": "Saint Pierre and Miquelon",
       "fields": {
-        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card. This is unrelated to any Dutch Caribbean matter — purely a question of an EU citizen entering French territory."
+        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card. This is unrelated to any Dutch Caribbean matter — purely a question of an EU citizen entering French territory.",
+        "stay": "Up to 3 months"
       },
       "checked": "2026-11-09"
     },
@@ -238,7 +268,8 @@
       "passport": "IE",
       "destination": "Saint Pierre and Miquelon",
       "fields": {
-        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card."
+        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card.",
+        "stay": "Up to 3 months"
       },
       "checked": "2026-11-09"
     },
@@ -246,7 +277,8 @@
       "passport": "DE",
       "destination": "French Guiana",
       "fields": {
-        "note": "Yellow fever vaccination is mandatory for all travellers over 1 year old. French Guiana is in the EU but not in Schengen: EU citizens need no visa and may stay up to 3 months without formality."
+        "note": "Yellow fever vaccination is mandatory for all travellers over 1 year old. French Guiana is in the EU but not in Schengen: EU citizens need no visa and may stay up to 3 months without formality.",
+        "stay": "Up to 3 months"
       },
       "checked": "2026-11-09"
     },
@@ -254,7 +286,8 @@
       "passport": "NL",
       "destination": "French Guiana",
       "fields": {
-        "note": "Yellow fever vaccination is mandatory for all travellers over 1 year old. French Guiana is in the EU but not in Schengen: EU citizens need no visa and may stay up to 3 months without formality."
+        "note": "Yellow fever vaccination is mandatory for all travellers over 1 year old. French Guiana is in the EU but not in Schengen: EU citizens need no visa and may stay up to 3 months without formality.",
+        "stay": "Up to 3 months"
       },
       "checked": "2026-11-09"
     },
@@ -262,7 +295,8 @@
       "passport": "DE",
       "destination": "Saint Martin",
       "fields": {
-        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card."
+        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card.",
+        "stay": "Up to 3 months"
       },
       "checked": "2026-11-09"
     },
@@ -270,7 +304,8 @@
       "passport": "IE",
       "destination": "Saint Martin",
       "fields": {
-        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card."
+        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card.",
+        "stay": "Up to 3 months"
       },
       "checked": "2026-11-09"
     },
@@ -278,7 +313,8 @@
       "passport": "NL",
       "destination": "Saint Martin",
       "fields": {
-        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card. Sint Maarten across the open land border is a separate immigration system with its own rules."
+        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card. Sint Maarten across the open land border is a separate immigration system with its own rules.",
+        "stay": "Up to 3 months"
       },
       "checked": "2026-11-09"
     },
@@ -286,7 +322,8 @@
       "passport": "DE",
       "destination": "Saint Barthélemy",
       "fields": {
-        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card."
+        "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card.",
+        "stay": "Up to 3 months"
       },
       "checked": "2026-11-09"
     },
@@ -313,7 +350,56 @@
       "destination": "Kazakhstan",
       "fields": {
         "apply": "Up to 30 days: no visa needed, but you may need an Electronic Travel Authorisation (ETA): see the QazETA website. Longer: visa from the Kazakh Embassy in The Hague",
-        "note": "No visa is needed for stays up to 30 days on a Dutch passport. You may need an Electronic Travel Authorisation (ETA); the Dutch advice points to the QazETA website. Longer stays need a visa from the Kazakh Embassy in The Hague. Passport must be valid at least 6 months from departure."
+        "note": "No visa is needed for stays up to 30 days on a Dutch passport. You may need an Electronic Travel Authorisation (ETA); the Dutch advice points to the QazETA website. Longer stays need a visa from the Kazakh Embassy in The Hague. Passport must be valid at least 6 months from departure.",
+        "visa": "vf"
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "DE",
+      "destination": "Guadeloupe",
+      "fields": {
+        "stay": "Up to 3 months"
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "IE",
+      "destination": "Guadeloupe",
+      "fields": {
+        "stay": "Up to 3 months"
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "IE",
+      "destination": "French Guiana",
+      "fields": {
+        "stay": "Up to 3 months"
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "NL",
+      "destination": "Saint Barthélemy",
+      "fields": {
+        "stay": "Up to 3 months"
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "IE",
+      "destination": "Saint Barthélemy",
+      "fields": {
+        "stay": "Up to 3 months"
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "passport": "DE",
+      "destination": "French Polynesia",
+      "fields": {
+        "stay": "Up to 3 months"
       },
       "checked": "2026-11-09"
     }
