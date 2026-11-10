@@ -1,7 +1,16 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-09T08:57:19Z",
+  "generated_at": "2026-11-10T01:04:12Z",
   "entries": [
+    {
+      "passport": "CA",
+      "destination": "Rwanda",
+      "fields": {
+        "cost": "Free for a 30-day visit (Commonwealth fee waiver); otherwise USD 50 single entry, USD 70 multiple entry. East Africa Tourist Visa USD 100",
+        "note": "Rwanda grants a visa on arrival to citizens of EVERY country with no prior application, and has since 1 January 2018. Canadians get the V1 visitor visa. You can also get it in advance online through Irembo, at an immigration office or at a Rwandan mission. As a Commonwealth country, Canadians get the visa on arrival free for a 30-day visit. The East Africa Tourist Visa (class V11, USD 100) covers Kenya, Uganda and Rwanda; Rwanda's immigration directorate says it may be extended in exceptional circumstances, while Canada's travel advice says it cannot be extended. Yellow fever proof only if arriving from a risk country."
+      },
+      "checked": "2026-11-10"
+    },
     {
       "passport": "DE",
       "destination": "Wallis and Futuna",
@@ -35,6 +44,14 @@
         "note": "30-day visa-free. Max 90 days in any 180-day period. From 1 November, if you travel without a visa you should apply for an Electronic Travel Authorisation (ETA) through the QazETA portal. Until 30 June, if you arrive without one you will not be refused entry but will be told of the requirement; from 1 July 2027 the ETA is mandatory for all visa-free nationals and you will be refused entry without one. The ETA is free, valid for 180 days from issue, and does not extend your visa-free stay. Not needed if you are under 16 or over 65, staying in the airport transit area without crossing the border, travelling on a diplomatic or service passport, or holding a valid Kazakh visa or residence permit."
       },
       "checked": "2026-11-09"
+    },
+    {
+      "passport": "US",
+      "destination": "Vanuatu",
+      "fields": {
+        "stay": "Up to 120 days, no extension"
+      },
+      "checked": "2026-11-10"
     },
     {
       "passport": "NZ",
@@ -419,6 +436,121 @@
         "note": "Ordinary passports need an eTA. Apply at least 2 weeks before travel; processing normally 3 working days. Passport valid at least 6 months with one blank page. Have a photo, itinerary, accommodation booking and payment method ready. The eTA is valid for travel within 90 days of issue."
       },
       "checked": "2026-11-09"
+    },
+    {
+      "passport": "IE",
+      "destination": "Malawi",
+      "fields": {
+        "visa": "ev",
+        "note": "Ireland's Category Two status is inferred by analogy with Hop's already-verified CA/NZ baseline. Passport must be valid at least 6 months beyond arrival."
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "US",
+      "destination": "Sri Lanka",
+      "fields": {
+        "note": "The United States is on Sri Lanka's 40-country free-ETA list: the tourist ETA is free, and is available online or at the port of entry."
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "US",
+      "destination": "Senegal",
+      "fields": {
+        "note": "Visa-free for stays under 3 months under Senegal's 2015 exemption regime. Passport valid 6+ months; the US State Department lists a yellow fever vaccination card as an entry requirement."
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "US",
+      "destination": "Togo",
+      "fields": {
+        "note": "Togo no longer issues visas on arrival — apply online at voyage.gouv.tg at least five business days before your flight. African passport holders are exempt for stays of up to 30 days; the United States is not. Yellow fever certificate required."
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "US",
+      "destination": "Marshall Islands",
+      "fields": {
+        "note": "Fully exempt from visa requirements under the Compact of Free Association. A USD 20 departure fee applies."
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "US",
+      "destination": "Albania",
+      "fields": {
+        "stay": "Up to 1 year"
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "IE",
+      "destination": "Albania",
+      "fields": {
+        "note": "Confirmed via Albania's own visa-regime checker: an Irish national passport is WITHOUT VISA for both C (short-term) and D (long-term) categories. Passport must be valid for at least six months from your date of entry and issued within the last 10 years."
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "DE",
+      "destination": "North Macedonia",
+      "fields": {
+        "note": "Visa-free for up to 90 days in any 180-day period. Passport must be valid at least six months on entry. Register with police within 24 hours of arrival — accommodation providers usually do this within 12 hours; in a private home, register at the nearest police station within 48 hours."
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "CA",
+      "destination": "Mexico",
+      "fields": {
+        "note": "No visa for tourism, transit, business, technical activities, journalism or study up to 180 days. The FMM still exists but the process has split: arriving BY AIR there is no paper form, but you must still complete a Multiple Digital Migratory Form (FMMD) online after an immigration officer stamps your passport or you use an e-gate kiosk. Arriving BY LAND you can complete the FMM online in advance through INM's FMME portal or on arrival, and pay the fee there. Paying does not guarantee entry. 180 days is a ceiling, not an entitlement — officers have been granting materially shorter periods and the number written in your passport is what counts."
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "AU",
+      "destination": "Lesotho",
+      "fields": {
+        "note": "Smartraveller states \"tourists can visit Lesotho for up to 30 days without a visa\", and that your passport must be valid six months beyond departure. Lesotho publishes no visa-exempt country list and no per-nationality stay length — its foreign ministry says only that exempt stays \"vary from 1 month to 3 months\", waived by Commonwealth membership plus bilateral agreements. To stay longer than 30 days, apply for an extension within the first 14 days of entry, and Lesotho's own e-visa page still reads \"eVISA Applications System Suspended\", with applications by email to VISA-Applications.Immigration@gov.ls."
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Mongolia",
+      "fields": {
+        "note": "IMPORTANT: this is a time-limited exemption — Mongolia's own list is headed '2023-2026'. If it is not renewed, New Zealanders revert to needing a visa from 1 January 2027. Re-check before booking anything late in the year."
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "UK",
+      "destination": "Belarus",
+      "fields": {
+        "note": "Visa-free entry (a Belarusian decision running to 31 Dec 2026) applies by AIR only, through six airports — Minsk National, Brest, Gomel, Grodno, Mogilev and Vitebsk — and not on flights to or from Russia, which carry no border control. Ordinary passport valid at least 3 months from the date you arrive; medical insurance required."
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "CA",
+      "destination": "Bosnia and Herzegovina",
+      "fields": {
+        "stay": "90 days within 6 months from the day of entry",
+        "note": "Canada is named in Article 2 of the Decision on Visas. Bosnia and Herzegovina counts the 90 days within a six-month period starting from the day of entry."
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "KR",
+      "destination": "Kyrgyzstan",
+      "fields": {
+        "stay": "30 days",
+        "note": "Visa-free for 30 days for tourism on an ordinary passport, used in one stay or split. The visa-free system changed on 1 January 2026. Once you have used all 30 days and left, wait 30 days before re-entering visa-free; if you leave having used fewer than 30 days, you can return within that time for the remaining days."
+      },
+      "checked": "2026-11-10"
     }
   ],
   "destinations": [
