@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-10T01:04:12Z",
+  "generated_at": "2026-11-10T02:00:21Z",
   "entries": [
     {
       "passport": "CA",
@@ -574,9 +574,10 @@
       "passport": "CA",
       "destination": "Iceland",
       "fields": {
-        "stay": "90 days in any 180, counted together with time in the rest of the Schengen area"
+        "stay": "90 days in any 180, counted together with time in the rest of the Schengen area",
+        "note": "Canadians need no visa for Iceland. Your combined stay in the Schengen area may not exceed 90 days in any 180-day period. Passport valid 3 months beyond departure and issued within the last 10 years."
       },
-      "checked": "2026-10-21"
+      "checked": "2026-11-10"
     },
     {
       "passport": "CA",
@@ -2677,7 +2678,8 @@
       "passport": "US",
       "destination": "Togo",
       "fields": {
-        "note": "Togo no longer issues visas on arrival — apply online at voyage.gouv.tg at least five business days before your flight. African passport holders are exempt for stays of up to 30 days; the United States is not. Yellow fever certificate required."
+        "note": "Togo no longer issues visas on arrival — apply online at voyage.gouv.tg at least five business days before your flight. African passport holders are exempt for stays of up to 30 days; the United States is not. Yellow fever certificate required.",
+        "stay": "Up to 90 days (the e-visa is bought for 1-15, 16-30 or 31-90 days)"
       },
       "checked": "2026-11-10"
     },
@@ -2693,7 +2695,8 @@
       "passport": "US",
       "destination": "Albania",
       "fields": {
-        "stay": "Up to 1 year"
+        "stay": "Up to 1 year",
+        "note": "No visa for stays up to one year. Passport must be valid at least three months from the date of your arrival and issued within the last 10 years. Extensions are possible only in exceptional cases — for serious personal reasons, force majeure or humanitarian grounds — through the border and migration authority; otherwise a longer stay needs a residence permit."
       },
       "checked": "2026-11-10"
     },
@@ -2717,7 +2720,8 @@
       "passport": "CA",
       "destination": "Mexico",
       "fields": {
-        "note": "No visa for tourism, transit, business, technical activities, journalism or study up to 180 days. The FMM still exists but the process has split: arriving BY AIR there is no paper form, but you must still complete a Multiple Digital Migratory Form (FMMD) online after an immigration officer stamps your passport or you use an e-gate kiosk. Arriving BY LAND you can complete the FMM online in advance through INM's FMME portal or on arrival, and pay the fee there. Paying does not guarantee entry. 180 days is a ceiling, not an entitlement — officers have been granting materially shorter periods and the number written in your passport is what counts."
+        "note": "No visa for tourism, transit, business, technical activities, journalism or study up to 180 days. The FMM still exists but the process has split: arriving BY AIR there is no paper form, but you must still complete a Multiple Digital Migratory Form (FMMD) online after an immigration officer stamps your passport or you use an e-gate kiosk. Arriving BY LAND you can complete the FMM online in advance through INM's FMME portal or on arrival, and pay the fee there. Paying does not guarantee entry. 180 days is a ceiling, not an entitlement — officers have been granting materially shorter periods and the number written in your passport is what counts.",
+        "apply": "By air: nothing in advance. By land: complete the Forma Migratoria Múltiple Electrónica at inm.gob.mx/fmme in advance or on arrival, and pay online, at the booth or at a bank."
       },
       "checked": "2026-11-10"
     },
@@ -2759,7 +2763,60 @@
       "destination": "Kyrgyzstan",
       "fields": {
         "stay": "30 days",
-        "note": "Visa-free for 30 days for tourism on an ordinary passport, used in one stay or split. The visa-free system changed on 1 January 2026. Once you have used all 30 days and left, wait 30 days before re-entering visa-free; if you leave having used fewer than 30 days, you can return within that time for the remaining days."
+        "note": "Visa-free for 30 days for tourism on an ordinary passport, used in one stay or split. The visa-free system changed on 1 January 2026. Once you have used all 30 days and left, wait 30 days before re-entering visa-free; if you leave having used fewer than 30 days, you can return within that time for the remaining days.",
+        "extension": "A longer-stay visa can be applied for at evisa.e-gov.kg after visa-free entry"
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "DE",
+      "destination": "Moldova",
+      "fields": {
+        "stay": "90 days in any 180-day period",
+        "note": "Visa-exempt. Carry a travel document valid 3+ months beyond departure and evidence of means."
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "IE",
+      "destination": "Moldova",
+      "fields": {
+        "stay": "90 days in any 180-day period",
+        "note": "Visa-exempt. Carry a travel document valid 3+ months beyond departure and evidence of means."
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "NL",
+      "destination": "Moldova",
+      "fields": {
+        "stay": "90 days in any 180-day period",
+        "note": "Visa-free. Carry a travel document valid 3+ months beyond departure and evidence of means."
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "KR",
+      "destination": "Moldova",
+      "fields": {
+        "stay": "90 days in any 180-day period",
+        "note": "Visa-free. Passport valid 3+ months beyond departure; carry evidence of means."
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "CA",
+      "destination": "Oman",
+      "fields": {
+        "note": "FOURTEEN days, not thirty — and Oman's foreign ministry states plainly that it cannot be extended or converted to any residence visa. Canada sits in the unconditional exemption group. Conditions: passport valid 6+ months, a return ticket, a confirmed hotel booking, health insurance and sufficient funds. Visas for longer trips are managed by the Royal Oman Police (ROP)."
+      },
+      "checked": "2026-11-10"
+    },
+    {
+      "passport": "CA",
+      "destination": "Singapore",
+      "fields": {
+        "stay": "Set by ICA at the checkpoint and shown on your e-Pass; you can apply online to extend it"
       },
       "checked": "2026-11-10"
     }
