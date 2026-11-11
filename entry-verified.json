@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-11T01:28:19.071Z",
+ "generated_at": "2026-11-11T07:46:17.592Z",
  "dates": {
   "AU": {
    "Albania": "2026-11-08",
@@ -139,7 +139,7 @@
    "China": "2026-11-09",
    "Cook Islands": "2026-11-09",
    "Costa Rica": "2026-11-09",
-   "Croatia": "2026-11-05",
+   "Croatia": "2026-11-11",
    "Cuba": "2026-11-09",
    "Curaçao": "2026-11-02",
    "Cyprus": "2026-11-09",
@@ -182,7 +182,7 @@
    "Kiribati": "2026-11-09",
    "Kosovo": "2026-11-09",
    "Kyrgyzstan": "2026-11-09",
-   "Laos": "2026-11-02",
+   "Laos": "2026-11-09",
    "Latvia": "2026-11-09",
    "Lebanon": "2026-11-09",
    "Lesotho": "2026-11-09",
@@ -933,7 +933,7 @@
    "China": "2026-11-09",
    "Christmas Island": "2026-11-08",
    "Cocos (Keeling) Islands": "2026-11-08",
-   "Croatia": "2026-11-05",
+   "Croatia": "2026-11-11",
    "Curaçao": "2026-10-19",
    "Czech Republic": "2026-11-09",
    "Denmark": "2026-11-09",
@@ -985,7 +985,7 @@
    "Poland": "2026-11-09",
    "Portugal": "2026-11-09",
    "Romania": "2026-11-09",
-   "Russia": "2026-11-05",
+   "Russia": "2026-11-11",
    "Rwanda": "2026-11-09",
    "Saint Barthélemy": "2026-11-09",
    "Saint Martin": "2026-11-09",
@@ -1222,7 +1222,7 @@
    "Kiribati": "2026-11-09",
    "Kuwait": "2026-11-09",
    "Kyrgyzstan": "2026-11-09",
-   "Laos": "2026-11-02",
+   "Laos": "2026-11-09",
    "Latvia": "2026-11-09",
    "Lesotho": "2026-11-09",
    "Liechtenstein": "2026-11-09",
@@ -1421,19 +1421,13 @@
  "review_sentence": [],
  "stats": {
   "run_date": "2026-11-11",
-  "destinations_checked": 1,
-  "fetches": 1,
-  "fetch_failures": 0,
-  "failure_rate": 0,
-  "sentences_checked": 7,
-  "sentences_found": 7,
-  "entries_checked": 1,
-  "dates_moved": 1,
-  "published": true,
-  "pages_read": {
-   "plain": 1,
-   "pdf": 0,
-   "browser": 0
-  }
+  "method": "page-retry",
+  "page_run": "2026-11-09",
+  "pages_retried": 7,
+  "unchanged": 4,
+  "changed": 0,
+  "still_failed": 3,
+  "dates_moved": 5,
+  "published": true
  }
 }
