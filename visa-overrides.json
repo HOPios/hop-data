@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-10T02:00:21Z",
+  "generated_at": "2026-11-11T07:08:50Z",
   "entries": [
     {
       "passport": "CA",
@@ -2819,6 +2819,178 @@
         "stay": "Set by ICA at the checkpoint and shown on your e-Pass; you can apply online to extend it"
       },
       "checked": "2026-11-10"
+    },
+    {
+      "passport": "CA",
+      "destination": "Niger",
+      "fields": {
+        "stay": "Per visa granted"
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "US",
+      "destination": "Niger",
+      "fields": {
+        "stay": "Per visa granted"
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "AU",
+      "destination": "North Korea",
+      "fields": {
+        "stay": "Per visa granted"
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "CA",
+      "destination": "North Korea",
+      "fields": {
+        "stay": "Per visa granted"
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "NL",
+      "destination": "North Korea",
+      "fields": {
+        "stay": "Per visa granted"
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "UK",
+      "destination": "North Korea",
+      "fields": {
+        "stay": "Per visa granted"
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "US",
+      "destination": "North Korea",
+      "fields": {
+        "stay": "Per visa granted"
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "NL",
+      "destination": "Turkmenistan",
+      "fields": {
+        "stay": "Per visa granted"
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "NL",
+      "destination": "Yemen",
+      "fields": {
+        "stay": "Per visa granted"
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "CA",
+      "destination": "Burkina Faso",
+      "fields": {
+        "visa": "ev",
+        "note": "E-visa: applicants can obtain the visa electronically by entering their details and paying online at visaburkina.bf. Visa required before travel, applied for on the Ministry of Security's e-visa portal or at a Burkinabè mission — the embassy in Ottawa directs all applicants to the portal. A short-stay visa cannot exceed 90 days; beyond that you need a long-stay visa or a residence permit. An international health booklet is demanded at border control and yellow fever vaccination is required of all arrivals."
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Cote d'Ivoire",
+      "fields": {
+        "visa": "ev",
+        "note": "E-visa: the only site officially recognised by the state for visa applications is SNEDAI (snedai.com); the online E-visa is for ordinary passports valid at least 6 months. New Zealand is named on Côte d'Ivoire's visa-required list. The practical route is online pre-enrolment, approval within about 48 working hours, then biometrics at the 'Visa aéroport' desk at Abidjan where the visa is printed and handed over on the spot. A yellow fever certificate is required at that desk."
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "UK",
+      "destination": "Mali",
+      "fields": {
+        "visa": "ev",
+        "note": "E-visa — the application and payment are fully online via the Malian Ministry of Foreign Affairs website, and the entry permit is issued electronically once approved; no documents need to be sent to the Malian Embassy in Brussels, which covers the UK. No visa on arrival is published on any Malian government source. Passport must be valid for the duration of your stay; yellow fever vaccination certificate required."
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "AU",
+      "destination": "Lebanon",
+      "fields": {
+        "visa": "vf",
+        "note": "Smartraveller advises DO NOT TRAVEL — armed conflict, unexploded ordnance, kidnapping risk. Insurance is very likely void. Entry itself is visa-free in practice: Lebanon's General Security grants Australians a cost-free visa of one month (extendable to 3 months) when the border is operating."
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "IN",
+      "destination": "Guinea-Bissau",
+      "fields": {
+        "note": "Visa on arrival. Passport must be valid at least 6 months after entry. A yellow fever vaccination certificate is required."
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Indonesia",
+      "fields": {
+        "note": "New Zealand is on Indonesia's visa-on-arrival list. You can buy it at the airport counter or pre-apply for the e-VOA online. Only use the official immigration website. Other websites that offer to submit the application for you are not operated by the Government of Indonesia and may charge an additional fee."
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "CA",
+      "destination": "Cameroon",
+      "fields": {
+        "note": "THE E-VISA IS NOW THE ONLY ROUTE — the postal embassy application is superseded, though Cameroon's Ottawa mission still publishes stale COVID-era postal instructions. The online grant is a visa authorisation; biometric enrolment and printing of the physical sticker happen at the entry border post. Onward or return ticket required. Yellow fever vaccination required of all arrivals."
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "KR",
+      "destination": "Bolivia",
+      "fields": {
+        "stay": "90 days on entry, up to 90 per year"
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "NL",
+      "destination": "El Salvador",
+      "fields": {
+        "stay": "Up to 180 days; 90 days in total across CA-4"
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "CA",
+      "destination": "Gambia",
+      "fields": {
+        "stay": "Up to 30 days, extendable by 30; a residence permit is needed from the 56th day"
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "DE",
+      "destination": "Saint Lucia",
+      "fields": {
+        "stay": "Up to 90 days"
+      },
+      "checked": "2026-11-11"
+    },
+    {
+      "passport": "US",
+      "destination": "Micronesia",
+      "fields": {
+        "stay": "No limit for US citizens under the Compact of Free Association"
+      },
+      "checked": "2026-11-11"
     }
   ],
   "destinations": [
