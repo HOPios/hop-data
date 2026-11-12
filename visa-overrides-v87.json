@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-12T13:08:50Z",
+  "generated_at": "2026-11-12T13:38:19Z",
   "entries": [
     {
       "passport": "CA",
@@ -1251,6 +1251,30 @@
       "destination": "Angola",
       "fields": {
         "stay": "Up to 30 days per entry and 90 days per year"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "AU",
+      "destination": "Timor-Leste",
+      "fields": {
+        "stay": "30 days, single entry (multiple entries may be allowed for travellers to Oecussi); can be extended once for another 30 days"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "US",
+      "destination": "Zambia",
+      "fields": {
+        "stay": "90 days free in any period of 12 months from the day of first entry; the days may not be granted all at once, so a free extension at an Immigration Office may be needed"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "IE",
+      "destination": "Zambia",
+      "fields": {
+        "stay": "90 days free in any period of 12 months from the day of first entry; the days may not be granted all at once, so a free extension at an Immigration Office may be needed"
       },
       "checked": "2026-11-12"
     }
