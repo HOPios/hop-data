@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-12T07:31:04Z",
+  "generated_at": "2026-11-12T12:08:31Z",
   "entries": [
     {
       "passport": "CA",
@@ -10,6 +10,26 @@
         "note": "Rwanda grants a visa on arrival to citizens of EVERY country with no prior application, and has since 1 January 2018. Canadians get the V1 visitor visa. You can also get it in advance online through Irembo, at an immigration office or at a Rwandan mission. As a Commonwealth country, Canadians get the visa on arrival free for a 30-day visit. The East Africa Tourist Visa (class V11, USD 100) covers Kenya, Uganda and Rwanda; Rwanda's immigration directorate says it may be extended in exceptional circumstances, while Canada's travel advice says it cannot be extended. Yellow fever proof only if arriving from a risk country."
       },
       "checked": "2026-11-10"
+    },
+    {
+      "passport": "AU",
+      "destination": "India",
+      "fields": {
+        "extension": "Not possible: the e-Tourist Visa is non-extendable and non-convertible",
+        "ext_cost": "Not applicable: the e-Tourist Visa cannot be extended",
+        "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "US",
+      "destination": "India",
+      "fields": {
+        "extension": "Not possible: the e-Tourist Visa is non-extendable and non-convertible",
+        "ext_cost": "Not applicable: the e-Tourist Visa cannot be extended",
+        "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year"
+      },
+      "checked": "2026-11-12"
     },
     {
       "passport": "DE",
@@ -1029,6 +1049,152 @@
       "destination": "Bhutan",
       "fields": {
         "apply": "Online at immi.gov.bt (you can apply yourself)"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "UK",
+      "destination": "India",
+      "fields": {
+        "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "KR",
+      "destination": "India",
+      "fields": {
+        "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "DE",
+      "destination": "India",
+      "fields": {
+        "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "NL",
+      "destination": "India",
+      "fields": {
+        "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "IE",
+      "destination": "India",
+      "fields": {
+        "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "KR",
+      "destination": "Sierra Leone",
+      "fields": {
+        "stay": "Up to 30 days; the single-entry visa is valid about 3 months from issue"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "IN",
+      "destination": "Sierra Leone",
+      "fields": {
+        "stay": "Up to 30 days; the single-entry visa is valid about 3 months from issue"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "NL",
+      "destination": "Sierra Leone",
+      "fields": {
+        "stay": "Up to 30 days; the single-entry visa is valid about 3 months from issue"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "IE",
+      "destination": "Sierra Leone",
+      "fields": {
+        "stay": "Up to 30 days; the single-entry visa is valid about 3 months from issue"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "AU",
+      "destination": "Peru",
+      "fields": {
+        "stay": "90 days, extendable once for an equal period, within 365 days of first entry"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "US",
+      "destination": "Peru",
+      "fields": {
+        "stay": "90 days, extendable once for an equal period, within 365 days of first entry"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "DE",
+      "destination": "Andorra",
+      "fields": {
+        "stay": "Up to 90 days within 365 days of entry (Andorra's own rule)"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "NL",
+      "destination": "Andorra",
+      "fields": {
+        "stay": "Up to 90 days within 365 days of entry (Andorra's own rule)"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "IE",
+      "destination": "Andorra",
+      "fields": {
+        "stay": "Up to 90 days within 365 days of entry (Andorra's own rule)"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "AU",
+      "destination": "Andorra",
+      "fields": {
+        "stay": "Up to 90 days within 365 days of entry (Andorra's own rule)"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "IN",
+      "destination": "Andorra",
+      "fields": {
+        "stay": "Up to 90 days within 365 days of entry (Andorra's own rule)"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "AU",
+      "destination": "Christmas Island",
+      "fields": {
+        "visa": "vf",
+        "note": "Australian territory: domestic travel, no visa needed."
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "AU",
+      "destination": "Cocos (Keeling) Islands",
+      "fields": {
+        "visa": "vf",
+        "note": "Australian territory: domestic travel, no visa needed."
       },
       "checked": "2026-11-12"
     }
