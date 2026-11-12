@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-12T02:10:30Z",
+  "generated_at": "2026-11-12T07:31:04Z",
   "entries": [
     {
       "passport": "CA",
@@ -592,9 +592,9 @@
       "passport": "NL",
       "destination": "Montserrat",
       "fields": {
-        "stay": "90 days; staying longer needs permission from Montserrat immigration"
+        "stay": "Set by the immigration officer on entry, up to 6 months"
       },
-      "checked": "2026-10-21"
+      "checked": "2026-11-12"
     },
     {
       "passport": "NL",
@@ -2929,7 +2929,8 @@
       "fields": {
         "visa": "vf",
         "note": "Smartraveller advises DO NOT TRAVEL — armed conflict, unexploded ordnance, kidnapping risk. Insurance is very likely void. Entry itself is visa-free in practice: Lebanon's General Security grants Australians a cost-free visa of one month (extendable to 3 months) when the border is operating.",
-        "cost": "Free – one month, extendable to 3 months"
+        "cost": "Free – one month, extendable to 3 months",
+        "stay": "1 month, extendable to 3 months"
       },
       "checked": "2026-11-12"
     },
@@ -3031,7 +3032,8 @@
       "destination": "Colombia",
       "fields": {
         "apply": "Not required — permit issued on arrival; the free Check-Mig form beforehand is mandatory",
-        "note": "The officer sets the actual number of days at the border — 90 is the ceiling, not a guarantee. The 180-day cap is per CALENDAR YEAR, not a rolling 365 days. The free Check-Mig online form is mandatory before every entry and every exit, between 72 hours and 1 hour before boarding."
+        "note": "The officer sets the actual number of days at the border — 90 is the ceiling, not a guarantee. The 180-day cap is per CALENDAR YEAR, not a rolling 365 days. The free Check-Mig online form is mandatory before every entry and every exit, between 72 hours and 1 hour before boarding.",
+        "cost": "Entry fee payable on arrival"
       },
       "checked": "2026-11-12"
     },
@@ -3055,7 +3057,8 @@
       "passport": "DE",
       "destination": "Colombia",
       "fields": {
-        "note": "Visa-free for short stays. Check-Mig pre-registration at apps.migracioncolombia.gov.co/pre-registro between 72 and 1 hour before travel."
+        "note": "Visa-free for short stays. Check-Mig pre-registration at apps.migracioncolombia.gov.co/pre-registro between 72 and 1 hour before travel.",
+        "ext_cost": "Extensions carry a fee"
       },
       "checked": "2026-11-12"
     },
@@ -3087,7 +3090,10 @@
       "passport": "US",
       "destination": "Uzbekistan",
       "fields": {
-        "ext_cost": "Not applicable — e-visas cannot be extended in Uzbekistan"
+        "ext_cost": "Not applicable — e-visas cannot be extended in Uzbekistan",
+        "cost": "USD 20 single-entry · USD 35 double-entry · USD 50 multiple-entry (e-visa); free for citizens older than 55 (visa-free, tourism, up to 30 days)",
+        "note": "E-visa required; citizens older than 55 are visa-free for tourism for up to 30 days. Registration applies: you must be registered at your place of stay within three days of arrival (excluding weekends) — hotels do it automatically and issue slips; keep every slip until departure.",
+        "extension": "Not possible – e-visas cannot be extended"
       },
       "checked": "2026-11-12"
     },
@@ -3120,6 +3126,104 @@
       "destination": "Tajikistan",
       "fields": {
         "note": "Visa-free for 30 days since 1 January 2022. Longer stays need a visa from the Embassy of Tajikistan in Brussels. Register with OVIR within 10 days of arrival (mandatory)."
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "IE",
+      "destination": "Georgia",
+      "fields": {
+        "stay": "90 days within 180 days",
+        "extension": "Possible — apply for a residency permit if staying longer than 90 days",
+        "note": "Visa-free for up to 90 days within 180 days. Passport valid at least 3 months, preferably 6, from entry. Since 1 January 2026, health and accident insurance of at least GEL 30,000 covering the whole stay is required."
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "AU",
+      "destination": "Mexico",
+      "fields": {
+        "note": "High caution. Mexico charges all visitors an immigration fee, included in your ticket if you arrive on a commercial flight."
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "DE",
+      "destination": "Gabon",
+      "fields": {
+        "note": "Air arrival at Léon Mba International Airport, Libreville only — no land or sea entry. Passport must be valid for at least three months after the visa expires. Colour photo (35×45mm) taken within the last 6 months, no shadow."
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "CA",
+      "destination": "Montserrat",
+      "fields": {
+        "stay": "Set by the immigration officer on entry, up to 6 months"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "AU",
+      "destination": "Montserrat",
+      "fields": {
+        "stay": "Set by the immigration officer on entry, up to 6 months"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "US",
+      "destination": "Montserrat",
+      "fields": {
+        "stay": "Set by the immigration officer on entry, up to 6 months"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "UK",
+      "destination": "Montserrat",
+      "fields": {
+        "stay": "Set by the immigration officer on entry, up to 6 months"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Montserrat",
+      "fields": {
+        "stay": "Set by the immigration officer on entry, up to 6 months"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "KR",
+      "destination": "Montserrat",
+      "fields": {
+        "stay": "Set by the immigration officer on entry, up to 6 months"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "DE",
+      "destination": "Montserrat",
+      "fields": {
+        "stay": "Set by the immigration officer on entry, up to 6 months"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "IE",
+      "destination": "Montserrat",
+      "fields": {
+        "stay": "Set by the immigration officer on entry, up to 6 months"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "KR",
+      "destination": "Bhutan",
+      "fields": {
+        "apply": "Online at immi.gov.bt (you can apply yourself)"
       },
       "checked": "2026-11-12"
     }
