@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-12T14:45:31Z",
+  "generated_at": "2026-11-12T14:46:58Z",
   "entries": [
     {
       "passport": "CA",
@@ -185,8 +185,10 @@
       "passport": "US",
       "destination": "Antigua and Barbuda",
       "fields": {
-        "ext_cost": "XCD 300 application fee (non-CARICOM nationals)"
-      }
+        "ext_cost": "XCD 300 application fee (non-CARICOM nationals)",
+        "stay": "Up to six months"
+      },
+      "checked": "2026-11-12"
     },
     {
       "passport": "UK",
@@ -437,17 +439,19 @@
       "passport": "US",
       "destination": "Aruba",
       "fields": {
-        "stay": "A maximum of 180 consecutive days in any 365-day period"
+        "stay": "30 days on arrival; extension on request up to 90 days, depending on your funds or a local guarantee; up to 180 days if you own a home, timeshare or a 14 m+ moored yacht in Aruba, or if you are the spouse or child of a home or timeshare owner who has given a guarantee; at most 180 days in a calendar year",
+        "note": "Visa-free. The online ED card is still mandatory and a USD 20 sustainability fee applies. Aruba has US pre-clearance, so you arrive home as a domestic passenger."
       },
-      "checked": "2026-10-17"
+      "checked": "2026-11-12"
     },
     {
       "passport": "UK",
       "destination": "Aruba",
       "fields": {
-        "stay": "90 days in any 180-day period; longer needs a residence permit"
+        "stay": "30 days on arrival; extension on request up to 90 days, depending on your funds or a local guarantee; up to 180 days if you own a home, timeshare or a 14 m+ moored yacht in Aruba, or if you are the spouse or child of a home or timeshare owner who has given a guarantee; at most 180 days in a calendar year",
+        "note": "Visa-free, but the online ED (Embarkation/Disembarkation) card is mandatory before arrival, and a USD 20 sustainability fee applies to air arrivals — both handled on the same portal. Proof of accommodation (or enough funds) and an onward ticket required. Outside the hurricane belt, so year-round travel works."
       },
-      "checked": "2026-10-17"
+      "checked": "2026-11-12"
     },
     {
       "passport": "IN",
@@ -669,9 +673,9 @@
       "passport": "UK",
       "destination": "Antigua and Barbuda",
       "fields": {
-        "stay": "Up to 90 days, with onward or return ticket"
+        "stay": "Up to six months"
       },
-      "checked": "2026-10-21"
+      "checked": "2026-11-12"
     },
     {
       "passport": "US",
@@ -3247,7 +3251,8 @@
       "passport": "KR",
       "destination": "India",
       "fields": {
-        "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year"
+        "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year",
+        "note": "e-Visa entry only through designated airports and seaports. Apply only at indianvisaonline.gov.in, the official website. Other websites that offer to submit the application for you are not operated by the Government of India and may charge an additional fee. South Korean passport holders can also get a visa on arrival."
       },
       "checked": "2026-11-12"
     },
@@ -3402,7 +3407,8 @@
       "passport": "NZ",
       "destination": "Colombia",
       "fields": {
-        "stay": "Less than 90 days; can be extended up to 180 days in the cases the rules set"
+        "stay": "Less than 90 days; can be extended up to 180 days in the cases the rules set",
+        "note": "New Zealand is named in Colombia's current exemption resolution. The 90 days is the general tourism maximum granted at the officer's discretion, not a New Zealand-specific guarantee."
       },
       "checked": "2026-11-12"
     },
@@ -3517,6 +3523,64 @@
       "destination": "Russia",
       "fields": {
         "stay": "Up to 30 days, single entry"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "US",
+      "destination": "New Zealand",
+      "fields": {
+        "stay": "Up to 3 months at a time, no more than 6 months in any 12 months (NZeTA required)"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Thailand",
+      "fields": {
+        "stay": "30 days"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Panama",
+      "fields": {
+        "stay": "Up to 3 months"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "IN",
+      "destination": "Kazakhstan",
+      "fields": {
+        "visa": "vf",
+        "note": "Not verified — whether an ETA is mandatory for Indian passports. Indian citizens may enter without a visa for up to 14 days, 42 days in total in each period of 180 days. Not verified — what a longer stay requires."
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "US",
+      "destination": "Lebanon",
+      "fields": {
+        "stay": "1 month, extendable to 3 months"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Aruba",
+      "fields": {
+        "note": "Aruba's entry rules are separate from Schengen. An online Embarkation/Disembarkation card must be completed before arrival, and onward travel plus proof of funds are required.",
+        "stay": "30 days on arrival; extension on request up to 90 days, depending on your funds or a local guarantee; up to 180 days if you own a home, timeshare or a 14 m+ moored yacht in Aruba, or if you are the spouse or child of a home or timeshare owner who has given a guarantee; at most 180 days in a calendar year"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "IN",
+      "destination": "Panama",
+      "fields": {
+        "note": "Visa required, unless you hold a valid visa or residence for Canada, the US, Australia, South Korea, Japan, the UK, Singapore or an EU country: then up to 30 days without one, with a passport valid at least 3 months, proof of at least US$500 and a return ticket"
       },
       "checked": "2026-11-12"
     }
