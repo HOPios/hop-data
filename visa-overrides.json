@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-12T13:38:19Z",
+  "generated_at": "2026-11-12T14:45:31Z",
   "entries": [
     {
       "passport": "CA",
@@ -149,7 +149,8 @@
       "fields": {
         "extension": "Not possible: the e-Tourist Visa is non-extendable and non-convertible",
         "ext_cost": "Not applicable: the e-Tourist Visa cannot be extended",
-        "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year"
+        "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year",
+        "note": "Designated airports and seaports only."
       },
       "checked": "2026-11-12"
     },
@@ -175,8 +176,10 @@
       "passport": "AU",
       "destination": "Antigua and Barbuda",
       "fields": {
-        "ext_cost": "XCD 300 application fee (non-CARICOM nationals)"
-      }
+        "ext_cost": "XCD 300 application fee (non-CARICOM nationals)",
+        "stay": "Up to six months"
+      },
+      "checked": "2026-11-12"
     },
     {
       "passport": "US",
@@ -425,9 +428,10 @@
       "passport": "AU",
       "destination": "Aruba",
       "fields": {
-        "stay": "90 days in any 180-day period; longer needs a residence permit"
+        "stay": "30 days on arrival; extension on request up to 90 days, depending on your funds or a local guarantee; up to 180 days if you own a home, timeshare or a 14 m+ moored yacht in Aruba, or if you are the spouse or child of a home or timeshare owner who has given a guarantee; at most 180 days in a calendar year",
+        "note": "Visa-free, but the online ED card is mandatory before arrival and a USD 20 sustainability fee applies to air arrivals. Proof of accommodation (or enough funds) and an onward ticket required. Outside the hurricane belt. Yellow fever certificate if arriving from an endemic area."
       },
-      "checked": "2026-10-17"
+      "checked": "2026-11-12"
     },
     {
       "passport": "US",
@@ -579,9 +583,9 @@
       "destination": "Iceland",
       "fields": {
         "stay": "90 days in any 180, counted together with time in the rest of the Schengen area",
-        "note": "Canadians need no visa for Iceland. Your combined stay in the Schengen area may not exceed 90 days in any 180-day period. Passport valid 3 months beyond departure and issued within the last 10 years."
+        "note": "Canadians need no visa for Iceland. Your combined stay in the Schengen area may not exceed 90 days in any 180-day period. Passport valid 3 months beyond departure and issued within the last 10 years. Under bilateral agreements, bona fide non-immigrants from Canada may stay in Iceland up to 3 months beyond the 90 days allowed in the Schengen area."
       },
-      "checked": "2026-11-10"
+      "checked": "2026-11-12"
     },
     {
       "passport": "CA",
@@ -3389,7 +3393,8 @@
       "passport": "AU",
       "destination": "Colombia",
       "fields": {
-        "stay": "Less than 90 days; can be extended up to 180 days in the cases the rules set"
+        "stay": "Less than 90 days; can be extended up to 180 days in the cases the rules set",
+        "note": "Extendable up to 180 days, in the cases the rules set."
       },
       "checked": "2026-11-12"
     },
@@ -3437,7 +3442,8 @@
       "passport": "AU",
       "destination": "Timor-Leste",
       "fields": {
-        "stay": "30 days, single entry (multiple entries may be allowed for travellers to Oecussi); can be extended once for another 30 days"
+        "stay": "30 days, single entry (multiple entries may be allowed for travellers to Oecussi); can be extended once for another 30 days",
+        "note": "Visa on arrival at all official border posts (air, land or sea) that are open to foreign nationals and have a Migration Service presence."
       },
       "checked": "2026-11-12"
     },
@@ -3454,6 +3460,63 @@
       "destination": "Zambia",
       "fields": {
         "stay": "90 days free in any period of 12 months from the day of first entry; the days may not be granted all at once, so a free extension at an Immigration Office may be needed"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "DE",
+      "destination": "Australia",
+      "fields": {
+        "cost": "Free (eVisitor)"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "AU",
+      "destination": "Argentina",
+      "fields": {
+        "stay": "Up to 3 months, extendable once for the same period"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "IE",
+      "destination": "Argentina",
+      "fields": {
+        "stay": "Up to 3 months, extendable once for the same period"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "AU",
+      "destination": "Panama",
+      "fields": {
+        "stay": "Up to 3 months"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "IE",
+      "destination": "Kazakhstan",
+      "fields": {
+        "visa": "vf",
+        "note": "No visa is needed for stays up to 30 days; a stay over 30 days needs a visa. Not verified — whether an ETA via QazETA is mandatory. Carry your passport and the white immigration card you receive on entry at all times. If you violate the conditions of a visa you could face a short term of imprisonment and/or an entry ban of up to 5 years; overstaying the date on the immigration card may result in similar penalties."
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "AU",
+      "destination": "Iceland",
+      "fields": {
+        "note": "Schengen. Under bilateral agreements, bona fide non-immigrants from Australia may stay in Iceland up to 3 months beyond the 90 days allowed in the Schengen area."
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "DE",
+      "destination": "Russia",
+      "fields": {
+        "stay": "Up to 30 days, single entry"
       },
       "checked": "2026-11-12"
     }
