@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-12T12:08:31Z",
+  "generated_at": "2026-11-12T13:08:50Z",
   "entries": [
     {
       "passport": "CA",
@@ -1195,6 +1195,62 @@
       "fields": {
         "visa": "vf",
         "note": "Australian territory: domestic travel, no visa needed."
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Jamaica",
+      "fields": {
+        "stay": "Officer sets the initial stay on entry; Commonwealth citizens can extend up to a maximum of 12 months in total"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "AU",
+      "destination": "Colombia",
+      "fields": {
+        "stay": "Less than 90 days; can be extended up to 180 days in the cases the rules set"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Colombia",
+      "fields": {
+        "stay": "Less than 90 days; can be extended up to 180 days in the cases the rules set"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "AU",
+      "destination": "Brazil",
+      "fields": {
+        "stay": "Up to 90 days per stay (the e-visa is valid up to 5 years with multiple entries); no more than 180 days per year in Brazil"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "KR",
+      "destination": "New Zealand",
+      "fields": {
+        "stay": "Up to 3 months at a time; no more than 6 months in any 12-month period"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "IE",
+      "destination": "New Zealand",
+      "fields": {
+        "stay": "Up to 3 months at a time; no more than 6 months in any 12-month period"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Angola",
+      "fields": {
+        "stay": "Up to 30 days per entry and 90 days per year"
       },
       "checked": "2026-11-12"
     }
