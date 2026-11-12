@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-11T07:08:50Z",
+  "generated_at": "2026-11-12T02:10:30Z",
   "entries": [
     {
       "passport": "CA",
@@ -2654,9 +2654,10 @@
       "destination": "Malawi",
       "fields": {
         "visa": "ev",
-        "note": "Ireland's Category Two status is inferred by analogy with Hop's already-verified CA/NZ baseline. Passport must be valid at least 6 months beyond arrival."
+        "note": "Ireland's Category Two status is inferred by analogy with Hop's already-verified CA/NZ baseline. Passport must be valid at least 6 months beyond arrival.",
+        "apply": "Online at evisa.gov.mw, as early as possible before you travel – travellers without an e-visa have been denied boarding. If your e-visa has not been issued in time, bring US dollars in cash to pay on arrival."
       },
-      "checked": "2026-11-10"
+      "checked": "2026-11-12"
     },
     {
       "passport": "US",
@@ -2864,9 +2865,11 @@
       "passport": "UK",
       "destination": "North Korea",
       "fields": {
-        "stay": "Per visa granted"
+        "stay": "Per visa granted",
+        "note": "Tourists can normally only travel to North Korea as part of an organised tour. Independent travellers will need a sponsor and permission from the Ministry for Foreign Affairs. North Korea publishes no traveller-facing portal.",
+        "apply": "Send visa applications and enquiries directly to the North Korean Embassy in the UK · gov.uk/foreign-travel-advice/north-korea"
       },
-      "checked": "2026-11-11"
+      "checked": "2026-11-12"
     },
     {
       "passport": "US",
@@ -2888,9 +2891,10 @@
       "passport": "NL",
       "destination": "Yemen",
       "fields": {
-        "stay": "Per visa granted"
+        "stay": "Per visa granted",
+        "note": "The Embassy of Yemen in The Hague is not currently accepting general visa applications; it issues visas only to people of Yemeni descent, international-organisation staff, journalists and diplomats, and in some cases business travellers. Passport valid at least 6 months from departure. Houthi-held areas need separate permission."
       },
-      "checked": "2026-11-11"
+      "checked": "2026-11-12"
     },
     {
       "passport": "CA",
@@ -2924,17 +2928,20 @@
       "destination": "Lebanon",
       "fields": {
         "visa": "vf",
-        "note": "Smartraveller advises DO NOT TRAVEL — armed conflict, unexploded ordnance, kidnapping risk. Insurance is very likely void. Entry itself is visa-free in practice: Lebanon's General Security grants Australians a cost-free visa of one month (extendable to 3 months) when the border is operating."
+        "note": "Smartraveller advises DO NOT TRAVEL — armed conflict, unexploded ordnance, kidnapping risk. Insurance is very likely void. Entry itself is visa-free in practice: Lebanon's General Security grants Australians a cost-free visa of one month (extendable to 3 months) when the border is operating.",
+        "cost": "Free – one month, extendable to 3 months"
       },
-      "checked": "2026-11-11"
+      "checked": "2026-11-12"
     },
     {
       "passport": "IN",
       "destination": "Guinea-Bissau",
       "fields": {
-        "note": "Visa on arrival. Passport must be valid at least 6 months after entry. A yellow fever vaccination certificate is required."
+        "note": "Visa on arrival. Passport must be valid at least 6 months after entry. A yellow fever vaccination certificate is required.",
+        "stay": "90 days",
+        "cost": "USD 100"
       },
-      "checked": "2026-11-11"
+      "checked": "2026-11-12"
     },
     {
       "passport": "NZ",
@@ -2964,9 +2971,10 @@
       "passport": "NL",
       "destination": "El Salvador",
       "fields": {
-        "stay": "Up to 180 days; 90 days in total across CA-4"
+        "stay": "Up to 180 days; 90 days in total across CA-4",
+        "note": "Visa-exempt (Category A). Part of the CA-4 free-movement zone — you can stay up to 180 days in El Salvador, but only 90 days in total across the CA-4 countries."
       },
-      "checked": "2026-11-11"
+      "checked": "2026-11-12"
     },
     {
       "passport": "CA",
@@ -2988,9 +2996,132 @@
       "passport": "US",
       "destination": "Micronesia",
       "fields": {
-        "stay": "No limit for US citizens under the Compact of Free Association"
+        "stay": "No limit for US citizens under the Compact of Free Association",
+        "extension": "Not needed – no limit under the Compact",
+        "ext_cost": "Not applicable"
       },
-      "checked": "2026-11-11"
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Namibia",
+      "fields": {
+        "stay": "Up to 90 days"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "AU",
+      "destination": "Laos",
+      "fields": {
+        "note": "The Lao e-Visa is single entry, its approval letter valid 60 days from issue (processing about 3 working days) — and it is only accepted at nine designated entry points. Visa on arrival remains available at major ports."
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "AU",
+      "destination": "Senegal",
+      "fields": {
+        "note": "Senegal abolished pre-arrival tourist visas in May 2015 for listed nationalities only; Australia is on none of the exemption lists, so a visa is needed to enter. Passport valid 6+ months; valid yellow fever vaccination certificate needed to enter."
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "CA",
+      "destination": "Colombia",
+      "fields": {
+        "apply": "Not required — permit issued on arrival; the free Check-Mig form beforehand is mandatory",
+        "note": "The officer sets the actual number of days at the border — 90 is the ceiling, not a guarantee. The 180-day cap is per CALENDAR YEAR, not a rolling 365 days. The free Check-Mig online form is mandatory before every entry and every exit, between 72 hours and 1 hour before boarding."
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "CA",
+      "destination": "Moldova",
+      "fields": {
+        "note": "Canada is on Moldova's visa-exemption list. The counting rule is NOT a rolling 180-day window — the 6-month clock starts at your first entry. Border Police require a travel document valid at least 6 months beyond your intended departure, evidence of means of subsistence, and a guarantee that you will be admitted onward or will leave. No arrival registration duty was found for short-stay visitors."
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "DE",
+      "destination": "Angola",
+      "fields": {
+        "apply": "Not needed for tourism up to 30 days; other purposes in person at an Angolan embassy (business visas also online at smevisa.gov.ao)"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "DE",
+      "destination": "Colombia",
+      "fields": {
+        "note": "Visa-free for short stays. Check-Mig pre-registration at apps.migracioncolombia.gov.co/pre-registro between 72 and 1 hour before travel."
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "DE",
+      "destination": "Namibia",
+      "fields": {
+        "note": "Visa required since 1 April 2025, available on arrival or as an e-visa. Passport must be valid at least 6 months beyond the trip with at least 3 blank pages. Travellers under 18 need a full unabridged birth certificate showing both parents' details, or an affidavit of consent if not travelling with both parents or legal guardians."
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "DE",
+      "destination": "Tajikistan",
+      "fields": {
+        "note": "Visa-free for 30 days since 1 January 2022. Longer stays need a visa: an e-visa up to 60 days, otherwise from the Embassy of Tajikistan in Berlin. No visas at land borders. Passport must be valid at least 6 months at entry."
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "UK",
+      "destination": "Libya",
+      "fields": {
+        "note": "Visa in advance only — there is no visa on arrival. An official e-visa portal now exists but is new and unstable, and Libyan missions issue visas only to residents of the country where the application is made (London handles UK residents). Passport valid for the duration of your stay; processing takes about 20 working days."
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "US",
+      "destination": "Uzbekistan",
+      "fields": {
+        "ext_cost": "Not applicable — e-visas cannot be extended in Uzbekistan"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "IE",
+      "destination": "Jordan",
+      "fields": {
+        "stay": "One month"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "UK",
+      "destination": "Serbia",
+      "fields": {
+        "stay": "Up to 90 days within a 6-month period"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "KR",
+      "destination": "Gabon",
+      "fields": {
+        "cost": "1–3 months: EUR 70 or XAF 45,000; 6 months: EUR 200 or XAF 120,000; plus EUR 15 fee, paid on arrival"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "NL",
+      "destination": "Tajikistan",
+      "fields": {
+        "note": "Visa-free for 30 days since 1 January 2022. Longer stays need a visa from the Embassy of Tajikistan in Brussels. Register with OVIR within 10 days of arrival (mandatory)."
+      },
+      "checked": "2026-11-12"
     }
   ],
   "destinations": [
