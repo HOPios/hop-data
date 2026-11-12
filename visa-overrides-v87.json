@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-12T14:46:58Z",
+  "generated_at": "2026-11-12T15:26:45Z",
   "entries": [
     {
       "passport": "CA",
@@ -1448,6 +1448,38 @@
       "destination": "Panama",
       "fields": {
         "note": "Visa required, unless you hold a valid visa or residence for Canada, the US, Australia, South Korea, Japan, the UK, Singapore or an EU country: then up to 30 days without one, with a passport valid at least 3 months, proof of at least US$500 and a return ticket"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "AU",
+      "destination": "Belarus",
+      "fields": {
+        "stay": "Up to 30 days, the arrival day and the departure day both counting, entering and leaving only through the six named airports (not on flights from or to Russia); cannot be extended"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "CA",
+      "destination": "Belarus",
+      "fields": {
+        "stay": "Up to 30 days, the arrival day and the departure day both counting, entering and leaving only through the six named airports (not on flights from or to Russia); cannot be extended"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Belarus",
+      "fields": {
+        "stay": "Up to 30 days, the arrival day and the departure day both counting, entering and leaving only through the six named airports (not on flights from or to Russia); cannot be extended"
+      },
+      "checked": "2026-11-12"
+    },
+    {
+      "passport": "IN",
+      "destination": "Eritrea",
+      "fields": {
+        "stay": "1 month from the date of entry; can be extended in Eritrea depending on the type of visa"
       },
       "checked": "2026-11-12"
     }
