@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T06:14:20Z",
+  "generated_at": "2026-11-13T09:00:08Z",
   "entries": [
     {
       "passport": "CA",
@@ -3996,6 +3996,87 @@
         "note": "The Lao e-Visa is single entry, the approval letter is valid 60 days from issue, and processing is usually 3 working days. The catch that strands people: an e-Visa is only valid at the designated entry points — nine airports and land checkpoints in Vientiane, Luang Prabang, Savannakhet, Champasack, Bokeo and Luang Namtha. Arriving at any other border with an e-Visa does not work. You can also obtain a tourist visa upon arrival at Wattay International Airport, Luang Prabang International Airport, Pakse International Airport and some “international” (that is, open to all foreign nationals) border crossings. You must provide a passport photo and pay a fee to obtain a visa upon arrival."
       },
       "checked": "2026-11-13"
+    },
+    {
+      "passport": "AU",
+      "destination": "Tanzania",
+      "fields": {
+        "note": "One visa covers the Mainland and Zanzibar — select your first destination on the form; apply online at eservices.immigration.go.tz, or on arrival — Tanzania's own guidelines list Australia as eligible for both routes. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "CA",
+      "destination": "Tanzania",
+      "fields": {
+        "note": "One visa covers both the Mainland and Zanzibar — select your first destination on the form. A 3-month single-entry visa on arrival is reported available at main ports of entry by the Government of Canada, and Tanzania's own guidelines confirm Canada is eligible for both the online e-visa and visa on arrival. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Holding a visa is not a final authority to enter. Yellow fever proof only if arriving from a risk country."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Tanzania",
+      "fields": {
+        "note": "New Zealand is explicitly excluded from Tanzania's Commonwealth waiver, so you need a visa — obtainable on arrival or online in advance, with online taking about ten days. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar.",
+        "cost": "USD 50 ordinary visa; plus USD 44 mandatory travel insurance"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "UK",
+      "destination": "Tanzania",
+      "fields": {
+        "note": "eVisa or visa-on-arrival (both accepted). Apply online at visa.immigration.go.tz — recommended to apply ahead to avoid queues. Yellow fever certificate required if arriving from risk area. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "US",
+      "destination": "Tanzania",
+      "fields": {
+        "note": "eVisa or VOA. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "KR",
+      "destination": "Tanzania",
+      "fields": {
+        "note": "One visa covers Mainland Tanzania and Zanzibar — pick your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Passport valid 6+ months with a blank visa page; show a return ticket on arrival."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "DE",
+      "destination": "Tanzania",
+      "fields": {
+        "note": "One visa covers Mainland Tanzania and Zanzibar — pick your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Passport valid 6+ months with a blank visa page; show a return ticket on arrival."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "IN",
+      "destination": "Tanzania",
+      "fields": {
+        "note": "One visa covers Mainland Tanzania and Zanzibar — select your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Passport valid 6+ months with a blank visa page; return ticket shown on arrival."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "NL",
+      "destination": "Tanzania",
+      "fields": {
+        "note": "One visa covers Mainland Tanzania and Zanzibar — pick your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Passport valid 6+ months with a blank visa page; show a return ticket on arrival."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "IE",
+      "destination": "Tanzania",
+      "fields": {
+        "note": "One visa covers Mainland Tanzania and Zanzibar — pick your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Passport valid 6+ months with a blank visa page; show a return ticket on arrival."
+      },
+      "checked": "2026-11-13"
     }
   ],
   "destinations": [
@@ -4024,6 +4105,13 @@
       "destination": "Liberia",
       "fields": {
         "official_link": null
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "destination": "Tanzania",
+      "fields": {
+        "blurb": "Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. A yellow fever certificate is required if arriving from a risk area, and applying online takes about ten days, so allow time."
       },
       "checked": "2026-11-13"
     }
