@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T04:55:24Z",
+  "generated_at": "2026-11-13T05:08:56Z",
   "entries": [
     {
       "passport": "CA",
@@ -1819,6 +1819,26 @@
       "destination": "Liberia",
       "fields": {
         "apply": "Online through Liberia's official visa-on-arrival system (Hop has no working official link at present); show the approval PDF (QR code) at the airport's Visa on Arrival counter"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "IN",
+      "destination": "Belarus",
+      "fields": {
+        "visa": "vr",
+        "note": "Entry through the Belarusian airports is visa-free for up to 30 days only for Indian citizens who hold a valid multiple visa of the EU member states or Schengen zone with a mark in passport on crossing the border of these states, plus a ticket with confirmation of departure from the Belarusian airports within 30 days from the date of entry. Not usable when arriving via Moscow (no passport control).",
+        "cost": "Not verified — no fee published for Indian passports on the visa-free page",
+        "apply": "Not verified — the page names no application route for Indian passports; visa-free entry needs the Schengen-visa condition in the note"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "IN",
+      "destination": "Saudi Arabia",
+      "fields": {
+        "visa": "vr",
+        "note": "Indian nationals holding valid US, Schengen and UK visas (either Business or Tourist visa) and having travelled on such a visa at least once are eligible for visa-on-arrival. The visa stamp should be clearly visible. Digital stamp will not be accepted. Without one, apply for a conventional visa through a Saudi diplomatic mission."
       },
       "checked": "2026-11-13"
     }
