@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T10:33:37Z",
+  "generated_at": "2026-11-13T10:34:34Z",
   "entries": [
     {
       "passport": "CA",
@@ -4214,13 +4214,6 @@
       "destination": "Liberia",
       "fields": {
         "official_link": null
-      },
-      "checked": "2026-11-13"
-    },
-    {
-      "destination": "Tanzania",
-      "fields": {
-        "blurb": "Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. A yellow fever certificate is required if arriving from a risk area, and applying online takes about ten days, so allow time."
       },
       "checked": "2026-11-13"
     },
