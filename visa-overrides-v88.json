@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T04:41:32Z",
+  "generated_at": "2026-11-13T04:43:40Z",
   "entries": [
     {
       "passport": "CA",
@@ -132,10 +132,11 @@
       "passport": "CA",
       "destination": "Iceland",
       "fields": {
-        "stay": "90 days in any 180, counted together with time in the rest of the Schengen area",
-        "note": "Canadians need no visa for Iceland. Your combined stay in the Schengen area may not exceed 90 days in any 180-day period. Passport valid 3 months beyond departure and issued within the last 10 years. Under bilateral agreements, bona fide non-immigrants from Canada may stay in Iceland up to 3 months beyond the 90 days allowed in the Schengen area."
+        "stay": "90 days in any 180, counted together with time in the rest of the Schengen area, plus up to 3 months in Iceland under a bilateral agreement",
+        "note": "Canadians need no visa for Iceland. Your combined stay in the Schengen area may not exceed 90 days in any 180-day period. Passport valid 3 months beyond departure and issued within the last 10 years. Under bilateral agreements, bona fide non-immigrants from Canada may stay in Iceland up to 3 months beyond the 90 days allowed in the Schengen area.",
+        "extension": "Up to 3 months beyond the Schengen 90 days, under a bilateral agreement, for bona fide non-immigrants; the right to stay is forfeited if a residence permit application is submitted during the stay"
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-13"
     },
     {
       "passport": "NL",
@@ -1383,25 +1384,28 @@
       "passport": "AU",
       "destination": "Argentina",
       "fields": {
-        "stay": "Up to 3 months, extendable once for the same period"
+        "stay": "Up to 3 months, extendable once for the same period",
+        "note": "No tourist visa and no reciprocity fee — tourist entry is for up to 3 months, and immigration may not stamp your passport. Extend at the Dirección Nacional de Migraciones before the 3 months expire."
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-13"
     },
     {
       "passport": "IE",
       "destination": "Argentina",
       "fields": {
-        "stay": "Up to 3 months, extendable once for the same period"
+        "stay": "Up to 3 months, extendable once for the same period",
+        "extension": "Possible — once, for another similar period, at Migraciones"
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-13"
     },
     {
       "passport": "AU",
       "destination": "Panama",
       "fields": {
-        "stay": "Up to 3 months"
+        "stay": "Up to 3 months",
+        "note": "Panama admits most nationalities for three (3) months. Be ready to show economic solvency of at least B/.500 and an onward ticket — Panama publishes and enforces both conditions."
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-13"
     },
     {
       "passport": "IE",
@@ -1417,25 +1421,28 @@
       "passport": "AU",
       "destination": "Iceland",
       "fields": {
-        "note": "Schengen. Under bilateral agreements, bona fide non-immigrants from Australia may stay in Iceland up to 3 months beyond the 90 days allowed in the Schengen area."
+        "note": "Schengen. Under bilateral agreements, bona fide non-immigrants from Australia may stay in Iceland up to 3 months beyond the 90 days allowed in the Schengen area.",
+        "extension": "Up to 3 months beyond the Schengen 90 days, under a bilateral agreement, for bona fide non-immigrants; the right to stay is forfeited if a residence permit application is submitted during the stay"
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-13"
     },
     {
       "passport": "DE",
       "destination": "Russia",
       "fields": {
-        "stay": "Up to 30 days, single entry"
+        "stay": "Up to 30 days, single entry",
+        "extension": "Only where leaving Russia is impossible: emergency treatment, force majeure or natural disasters. The Ministry of Internal Affairs extends by issuing an ordinary (not electronic) visa"
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-13"
     },
     {
       "passport": "US",
       "destination": "New Zealand",
       "fields": {
-        "stay": "Up to 3 months at a time, no more than 6 months in any 12 months (NZeTA required)"
+        "stay": "Up to 3 months at a time, no more than 6 months in any 12 months (NZeTA required)",
+        "extension": "Immigration NZ — up to 9 months in an 18-month period"
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-13"
     },
     {
       "passport": "NZ",
@@ -1449,9 +1456,10 @@
       "passport": "NZ",
       "destination": "Panama",
       "fields": {
-        "stay": "Up to 3 months"
+        "stay": "Up to 3 months",
+        "extension": "Possible — but only up to a three-month total, so it tops up a shorter admission rather than extending beyond three months"
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-13"
     },
     {
       "passport": "IN",
@@ -1467,18 +1475,19 @@
       "passport": "US",
       "destination": "Lebanon",
       "fields": {
-        "stay": "1 month, extendable to 3 months"
+        "stay": "1 month, extendable to 3 months",
+        "extension": "Possible — the one-month visa is extendable to 3 months"
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-13"
     },
     {
       "passport": "NZ",
       "destination": "Aruba",
       "fields": {
-        "note": "Aruba's entry rules are separate from Schengen. An online Embarkation/Disembarkation card must be completed before arrival, and onward travel plus proof of funds are required.",
+        "note": "Aruba's entry rules are separate from Schengen. An online Embarkation/Disembarkation card must be completed before arrival, and a return or onward ticket plus hotel accommodation in Aruba (or enough funds) are required; a guarantee from a person or company in Aruba can replace the accommodation or funds.",
         "stay": "30 days on arrival; extension on request up to 90 days, depending on your funds or a local guarantee; up to 180 days if you own a home, timeshare or a 14 m+ moored yacht in Aruba, or if you are the spouse or child of a home or timeshare owner who has given a guarantee; at most 180 days in a calendar year"
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-13"
     },
     {
       "passport": "IN",
@@ -1492,9 +1501,11 @@
       "passport": "AU",
       "destination": "Belarus",
       "fields": {
-        "stay": "Up to 30 days, the arrival day and the departure day both counting, entering and leaving only through the six named airports (not on flights from or to Russia); cannot be extended"
+        "stay": "Up to 30 days, the arrival day and the departure day both counting, entering and leaving only through the six named airports (not on flights from or to Russia); cannot be extended",
+        "extension": "Not possible: the stay cannot be extended",
+        "note": "Visa-free only if you enter and exit through designated airports, including Minsk National. Travel advisory: do not travel."
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-13"
     },
     {
       "passport": "CA",
@@ -1542,7 +1553,8 @@
       "passport": "KR",
       "destination": "Togo",
       "fields": {
-        "stay": "1 to 90 days, as applied for"
+        "stay": "1 to 90 days, as applied for",
+        "extension": "With the online visa there is no need to go to the national documentation office (DGDN) seven days after arrival to extend it"
       },
       "checked": "2026-11-13"
     },
@@ -1751,6 +1763,14 @@
       "destination": "Eritrea",
       "fields": {
         "stay": "Usually one month, extendable at Immigration in Asmara; enter within 3 months of issue"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "IN",
+      "destination": "Turkey",
+      "fields": {
+        "stay": "Single-entry e-Visa valid for one month"
       },
       "checked": "2026-11-13"
     }
