@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T09:00:08Z",
+  "generated_at": "2026-11-13T09:11:09Z",
   "entries": [
     {
       "passport": "CA",
@@ -2372,20 +2372,20 @@
       "passport": "NL",
       "destination": "Chad",
       "fields": {
-        "visa": "vr",
-        "apply": "At the Chad Embassy in Brussels, Belgium",
-        "note": "Apply at the Chad Embassy in Brussels, Belgium. Yellow fever vaccination is required."
+        "visa": "ev",
+        "apply": "Online only at evisa.td. Applying at least 7 days before entry is recommended; you cannot apply more than 90 days ahead",
+        "note": "Since 11 May 2026 all Chad visa applications are online only via evisa.td; a visa issued outside the platform after 21 May 2026 is invalid for entry. The Netherlands is not on Chad's visa-exemption list. Yellow fever vaccination is required."
       },
-      "checked": "2026-11-02"
+      "checked": "2026-11-13"
     },
     {
       "passport": "NL",
       "destination": "Indonesia",
       "fields": {
         "visa": "ev",
-        "note": "Apply for an e-visa before you leave, on the Indonesian immigration website. It is valid for up to 30 days and can be extended by up to 30 days at Indonesian immigration. Fill in the free All Indonesia Arrival Card online, from 72 hours before arrival. A damaged passport can be refused. On Bali you pay a tourist tax, payable in advance on the LoveBali website."
+        "note": "Apply for an e-visa before you leave, on the Indonesian immigration website. Visa on arrival is also available: the Indonesian immigration list of visa on arrival countries includes the Netherlands. The e-visa is valid for up to 30 days and can be extended by up to 30 days at Indonesian immigration. Fill in the free All Indonesia Arrival Card online, from 72 hours before arrival. A damaged passport can be refused. On Bali you pay a tourist tax, payable in advance on the LoveBali website."
       },
-      "checked": "2026-11-02"
+      "checked": "2026-11-13"
     },
     {
       "passport": "UK",
@@ -3040,9 +3040,13 @@
       "passport": "AU",
       "destination": "Senegal",
       "fields": {
-        "note": "Senegal abolished pre-arrival tourist visas in May 2015 for listed nationalities only; Australia is on none of the exemption lists, so a visa is needed to enter. Passport valid 6+ months; valid yellow fever vaccination certificate needed to enter."
+        "note": "Australia is in Senegal's Category B: a visa is issued on arrival at Dakar Blaise Diagne airport (DSS) only, at no charge according to the Senegal embassy in London. A yellow fever vaccination is required.",
+        "visa": "voa",
+        "stay": "Not verified — the embassy page gives no stay length for this visa",
+        "cost": "No charge (per the Senegal embassy in London)",
+        "apply": "On arrival at Dakar Blaise Diagne airport (DSS) only, at no charge. Documents to present: return air ticket, valid passport, hotel booking/letter of invitation/business letter, yellow fever vaccination"
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-13"
     },
     {
       "passport": "CA",
@@ -4075,6 +4079,29 @@
       "destination": "Tanzania",
       "fields": {
         "note": "One visa covers Mainland Tanzania and Zanzibar — pick your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Passport valid 6+ months with a blank visa page; show a return ticket on arrival."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "AU",
+      "destination": "Mozambique",
+      "fields": {
+        "visa": "ev",
+        "stay": "30, 60 or 90 days, as shown on the approved eVisa",
+        "apply": "https://evisa.gov.mz/",
+        "extension": "Contact the Mozambique Embassy directly",
+        "note": "Apply for an e-visa online on the official Mozambique eVisa portal before you travel. The tourist eVisa is for stays of 90 days or less, for the 30, 60 or 90 days shown on the approved visa. To extend your stay, contact the Mozambique Embassy directly."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Senegal",
+      "fields": {
+        "visa": "voa",
+        "cost": "No charge (per the Senegal embassy in London)",
+        "apply": "On arrival at Dakar Blaise Diagne airport (DSS) only, at no charge. Documents to present: return air ticket, valid passport, hotel booking/letter of invitation/business letter, yellow fever vaccination",
+        "note": "New Zealand is in Senegal's Category B: a visa is issued on arrival at Dakar Blaise Diagne airport (DSS) only, at no charge according to the Senegal embassy in London. A yellow fever vaccination is required."
       },
       "checked": "2026-11-13"
     }
