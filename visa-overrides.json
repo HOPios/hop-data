@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T05:36:19Z",
+  "generated_at": "2026-11-13T06:14:20Z",
   "entries": [
     {
       "passport": "CA",
@@ -3970,6 +3970,30 @@
         "visa": "vr",
         "apply": "Get a visa from a Central African Republic embassy before travel",
         "note": "India's foreign ministry (MEA) lists the Central African Republic under visa on arrival, with no details given. Timatic (13 Nov 2026) says a valid visa issued by the Central African Republic is required, so get a visa from a Central African Republic embassy before you travel."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "AU",
+      "destination": "Cambodia",
+      "fields": {
+        "note": "Don't overstay. You can apply for an e-visa online or get a tourist visa on arrival. These are valid for 30 days."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "AU",
+      "destination": "Saudi Arabia",
+      "fields": {
+        "note": "DO NOT TRAVEL. You can apply for a tourist visa online or on arrival."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "CA",
+      "destination": "Laos",
+      "fields": {
+        "note": "The Lao e-Visa is single entry, the approval letter is valid 60 days from issue, and processing is usually 3 working days. The catch that strands people: an e-Visa is only valid at the designated entry points — nine airports and land checkpoints in Vientiane, Luang Prabang, Savannakhet, Champasack, Bokeo and Luang Namtha. Arriving at any other border with an e-Visa does not work. You can also obtain a tourist visa upon arrival at Wattay International Airport, Luang Prabang International Airport, Pakse International Airport and some “international” (that is, open to all foreign nationals) border crossings. You must provide a passport photo and pay a fee to obtain a visa upon arrival."
       },
       "checked": "2026-11-13"
     }
