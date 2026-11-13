@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T04:43:40Z",
+  "generated_at": "2026-11-13T04:55:24Z",
   "entries": [
     {
       "passport": "CA",
@@ -3875,6 +3875,54 @@
         "stay": "Single-entry e-Visa valid for one month"
       },
       "checked": "2026-11-13"
+    },
+    {
+      "passport": "AU",
+      "destination": "Liberia",
+      "fields": {
+        "apply": "Apply online before travel through Liberia's official visa-on-arrival system; Hop has no working official link at present"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Liberia",
+      "fields": {
+        "apply": "Apply online before travel through Liberia's official visa-on-arrival system; Hop has no working official link at present"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "CA",
+      "destination": "Liberia",
+      "fields": {
+        "apply": "Apply online before travel through Liberia's official visa-on-arrival system (Hop has no working official link at present) — apply at least 7 days before travel; the visa is issued on arrival at Roberts International"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "KR",
+      "destination": "Liberia",
+      "fields": {
+        "apply": "Online through Liberia's official visa-on-arrival system (Hop has no working official link at present); show the approval PDF (QR code) at the airport's Visa on Arrival counter"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "NL",
+      "destination": "Liberia",
+      "fields": {
+        "apply": "Online through Liberia's official visa-on-arrival system (Hop has no working official link at present); show the approval PDF (QR code) at the airport's Visa on Arrival counter"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "IE",
+      "destination": "Liberia",
+      "fields": {
+        "apply": "Online through Liberia's official visa-on-arrival system (Hop has no working official link at present); show the approval PDF (QR code) at the airport's Visa on Arrival counter"
+      },
+      "checked": "2026-11-13"
     }
   ],
   "destinations": [
@@ -3898,6 +3946,13 @@
         "blurb": "A free visitor permit is issued at the border: less than 31 days for most nationalities, three months for New Zealand and Australian citizens, so New Zealand sources do not read across. You need proof of onward travel and sufficient funds, and work or study is not allowed. Extensions are applied for locally and carry a fee."
       },
       "checked": "2026-11-09"
+    },
+    {
+      "destination": "Liberia",
+      "fields": {
+        "official_link": null
+      },
+      "checked": "2026-11-13"
     }
   ]
 }
