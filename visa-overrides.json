@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T09:11:09Z",
+  "generated_at": "2026-11-13T10:33:37Z",
   "entries": [
     {
       "passport": "CA",
@@ -208,8 +208,11 @@
       "passport": "UK",
       "destination": "Chad",
       "fields": {
-        "apply": "Online, through Chad's official e-visa portal (https://evisa.td) · gov.uk/foreign-travel-advice/chad"
-      }
+        "apply": "Online, through Chad's official e-visa portal (https://evisa.td) · gov.uk/foreign-travel-advice/chad",
+        "stay": "Not verified — Chad's e-Visa site gives no stay length",
+        "cost": "Not verified — the fee is not stated on Chad's e-Visa site"
+      },
+      "checked": "2026-11-13"
     },
     {
       "passport": "AU",
@@ -2374,7 +2377,9 @@
       "fields": {
         "visa": "ev",
         "apply": "Online only at evisa.td. Applying at least 7 days before entry is recommended; you cannot apply more than 90 days ahead",
-        "note": "Since 11 May 2026 all Chad visa applications are online only via evisa.td; a visa issued outside the platform after 21 May 2026 is invalid for entry. The Netherlands is not on Chad's visa-exemption list. Yellow fever vaccination is required."
+        "note": "Since 11 May 2026 all Chad visa applications are online only via evisa.td; a visa issued outside the platform after 21 May 2026 is invalid for entry. The Netherlands is not on Chad's visa-exemption list. Yellow fever vaccination is required.",
+        "stay": "Not verified — Chad's e-Visa site gives no stay length",
+        "cost": "Not verified — the fee is not stated on Chad's e-Visa site"
       },
       "checked": "2026-11-13"
     },
@@ -3111,12 +3116,14 @@
       "passport": "US",
       "destination": "Uzbekistan",
       "fields": {
-        "ext_cost": "Not applicable — e-visas cannot be extended in Uzbekistan",
-        "cost": "USD 20 single-entry · USD 35 double-entry · USD 50 multiple-entry (e-visa); free for citizens older than 55 (visa-free, tourism, up to 30 days)",
-        "note": "E-visa required; citizens older than 55 are visa-free for tourism for up to 30 days. Registration applies: you must be registered at your place of stay within three days of arrival (excluding weekends) — hotels do it automatically and issue slips; keep every slip until departure.",
-        "extension": "Not possible – e-visas cannot be extended"
+        "ext_cost": "Not verified — no extension procedure published",
+        "cost": "Free (no visa needed)",
+        "note": "No visa is needed for stays of up to 30 days. Registration applies: you must be registered at your place of stay within three days of arrival; hotel staff register you.",
+        "extension": "Not verified — no extension procedure published",
+        "visa": "vf",
+        "apply": "No application needed"
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-13"
     },
     {
       "passport": "IE",
@@ -4005,7 +4012,7 @@
       "passport": "AU",
       "destination": "Tanzania",
       "fields": {
-        "note": "One visa covers the Mainland and Zanzibar — select your first destination on the form; apply online at eservices.immigration.go.tz, or on arrival — Tanzania's own guidelines list Australia as eligible for both routes. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar."
+        "note": "One visa covers the Mainland and Zanzibar — select your first destination on the form; apply online at eservices.immigration.go.tz, or on arrival — Tanzania's own guidelines list Australia as eligible for both routes. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
       "checked": "2026-11-13"
     },
@@ -4013,7 +4020,7 @@
       "passport": "CA",
       "destination": "Tanzania",
       "fields": {
-        "note": "One visa covers both the Mainland and Zanzibar — select your first destination on the form. A 3-month single-entry visa on arrival is reported available at main ports of entry by the Government of Canada, and Tanzania's own guidelines confirm Canada is eligible for both the online e-visa and visa on arrival. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Holding a visa is not a final authority to enter. Yellow fever proof only if arriving from a risk country."
+        "note": "One visa covers both the Mainland and Zanzibar — select your first destination on the form. A 3-month single-entry visa on arrival is reported available at main ports of entry by the Government of Canada, and Tanzania's own guidelines confirm Canada is eligible for both the online e-visa and visa on arrival. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. Holding a visa is not a final authority to enter. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
       "checked": "2026-11-13"
     },
@@ -4021,7 +4028,7 @@
       "passport": "NZ",
       "destination": "Tanzania",
       "fields": {
-        "note": "New Zealand is explicitly excluded from Tanzania's Commonwealth waiver, so you need a visa — obtainable on arrival or online in advance, with online taking about ten days. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar.",
+        "note": "New Zealand is explicitly excluded from Tanzania's Commonwealth waiver, so you need a visa — obtainable on arrival or online in advance, with online taking about ten days. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.",
         "cost": "USD 50 ordinary visa; plus USD 44 mandatory travel insurance"
       },
       "checked": "2026-11-13"
@@ -4030,7 +4037,7 @@
       "passport": "UK",
       "destination": "Tanzania",
       "fields": {
-        "note": "eVisa or visa-on-arrival (both accepted). Apply online at visa.immigration.go.tz — recommended to apply ahead to avoid queues. Yellow fever certificate required if arriving from risk area. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar."
+        "note": "eVisa or visa-on-arrival (both accepted). Apply online at visa.immigration.go.tz — recommended to apply ahead to avoid queues. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number."
       },
       "checked": "2026-11-13"
     },
@@ -4038,7 +4045,7 @@
       "passport": "US",
       "destination": "Tanzania",
       "fields": {
-        "note": "eVisa or VOA. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar."
+        "note": "eVisa or VOA. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
       "checked": "2026-11-13"
     },
@@ -4046,7 +4053,7 @@
       "passport": "KR",
       "destination": "Tanzania",
       "fields": {
-        "note": "One visa covers Mainland Tanzania and Zanzibar — pick your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Passport valid 6+ months with a blank visa page; show a return ticket on arrival."
+        "note": "One visa covers Mainland Tanzania and Zanzibar — pick your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. Passport valid 6+ months with a blank visa page; show a return ticket on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
       "checked": "2026-11-13"
     },
@@ -4054,7 +4061,7 @@
       "passport": "DE",
       "destination": "Tanzania",
       "fields": {
-        "note": "One visa covers Mainland Tanzania and Zanzibar — pick your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Passport valid 6+ months with a blank visa page; show a return ticket on arrival."
+        "note": "One visa covers Mainland Tanzania and Zanzibar — pick your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. Passport valid 6+ months with a blank visa page; show a return ticket on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
       "checked": "2026-11-13"
     },
@@ -4062,7 +4069,7 @@
       "passport": "IN",
       "destination": "Tanzania",
       "fields": {
-        "note": "One visa covers Mainland Tanzania and Zanzibar — select your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Passport valid 6+ months with a blank visa page; return ticket shown on arrival."
+        "note": "One visa covers Mainland Tanzania and Zanzibar — select your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. Passport valid 6+ months with a blank visa page; return ticket shown on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
       "checked": "2026-11-13"
     },
@@ -4070,7 +4077,7 @@
       "passport": "NL",
       "destination": "Tanzania",
       "fields": {
-        "note": "One visa covers Mainland Tanzania and Zanzibar — pick your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Passport valid 6+ months with a blank visa page; show a return ticket on arrival."
+        "note": "One visa covers Mainland Tanzania and Zanzibar — pick your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. Passport valid 6+ months with a blank visa page; show a return ticket on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
       "checked": "2026-11-13"
     },
@@ -4078,7 +4085,7 @@
       "passport": "IE",
       "destination": "Tanzania",
       "fields": {
-        "note": "One visa covers Mainland Tanzania and Zanzibar — pick your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Passport valid 6+ months with a blank visa page; show a return ticket on arrival."
+        "note": "One visa covers Mainland Tanzania and Zanzibar — pick your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. Passport valid 6+ months with a blank visa page; show a return ticket on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
       "checked": "2026-11-13"
     },
@@ -4102,6 +4109,81 @@
         "cost": "No charge (per the Senegal embassy in London)",
         "apply": "On arrival at Dakar Blaise Diagne airport (DSS) only, at no charge. Documents to present: return air ticket, valid passport, hotel booking/letter of invitation/business letter, yellow fever vaccination",
         "note": "New Zealand is in Senegal's Category B: a visa is issued on arrival at Dakar Blaise Diagne airport (DSS) only, at no charge according to the Senegal embassy in London. A yellow fever vaccination is required."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "US",
+      "destination": "Nigeria",
+      "fields": {
+        "visa": "ev",
+        "cost": "Not verified — the fee is not stated on Nigeria's immigration pages",
+        "apply": "Online at evisa.immigration.gov.ng",
+        "note": "Get your Nigerian visa online before you travel: the Nigeria Immigration Service lists the Tourism Visa as an e-Visa class (single entry, 30 days, return ticket, proof of accommodation and a bank statement needed). Carry proof of yellow fever and polio vaccination, including a WHO yellow card. Keep your visa and entry stamp, as you must show them to leave Nigeria."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "AU",
+      "destination": "Nigeria",
+      "fields": {
+        "apply": "Online at evisa.immigration.gov.ng",
+        "note": "Get your Nigerian visa online before you travel: the Nigeria Immigration Service lists the Tourism Visa as an e-Visa class (single entry, 30 days, return ticket, proof of accommodation and a bank statement needed)."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "AU",
+      "destination": "Chad",
+      "fields": {
+        "stay": "Not verified — Chad's e-Visa site gives no stay length",
+        "cost": "Not verified — the fee is not stated on Chad's e-Visa site"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "US",
+      "destination": "Chad",
+      "fields": {
+        "stay": "Not verified — Chad's e-Visa site gives no stay length",
+        "cost": "Not verified — the fee is not stated on Chad's e-Visa site"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "KR",
+      "destination": "Chad",
+      "fields": {
+        "stay": "Not verified — Chad's e-Visa site gives no stay length",
+        "cost": "Not verified — the fee is not stated on Chad's e-Visa site"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "DE",
+      "destination": "Chad",
+      "fields": {
+        "stay": "Not verified — Chad's e-Visa site gives no stay length",
+        "cost": "Not verified — the fee is not stated on Chad's e-Visa site"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "IN",
+      "destination": "Chad",
+      "fields": {
+        "stay": "Not verified — Chad's e-Visa site gives no stay length",
+        "cost": "Not verified — the fee is not stated on Chad's e-Visa site"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "IE",
+      "destination": "Chad",
+      "fields": {
+        "stay": "Not verified — Chad's e-Visa site gives no stay length",
+        "cost": "Not verified — the fee is not stated on Chad's e-Visa site",
+        "apply": "evisa.td"
       },
       "checked": "2026-11-13"
     }
@@ -4139,6 +4221,20 @@
       "destination": "Tanzania",
       "fields": {
         "blurb": "Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. A yellow fever certificate is required if arriving from a risk area, and applying online takes about ten days, so allow time."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "destination": "Tanzania",
+      "fields": {
+        "blurb": "Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. Applying online takes about ten days."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "destination": "Senegal",
+      "fields": {
+        "blurb": "A yellow fever certificate is mandatory. Senegal abolished tourist visas for many nationalities in 2015 but not all of them, and there is no official Senegalese e-visa portal. Some passports get a visa on arrival at Dakar Blaise Diagne airport only. Anyone else who needs a visa applies in person at a Senegalese mission."
       },
       "checked": "2026-11-13"
     }
