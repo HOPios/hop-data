@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-12T15:26:45Z",
+  "generated_at": "2026-11-13T04:14:36Z",
   "entries": [
     {
       "passport": "CA",
@@ -323,8 +323,10 @@
       "passport": "DE",
       "destination": "Madagascar",
       "fields": {
-        "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters"
-      }
+        "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
+        "cost": "EUR 30 (1–15 days), EUR 35 (16–30), EUR 40 (31–60) or EUR 50 (61–90), on arrival"
+      },
+      "checked": "2026-11-13"
     },
     {
       "passport": "IN",
@@ -884,9 +886,9 @@
       "passport": "NL",
       "destination": "Bahamas",
       "fields": {
-        "stay": "240 days from your arrival date"
+        "stay": "Up to 3 months"
       },
-      "checked": "2026-10-22"
+      "checked": "2026-11-13"
     },
     {
       "passport": "IE",
@@ -2212,9 +2214,9 @@
       "passport": "US",
       "destination": "Bahamas",
       "fields": {
-        "stay": "90 days"
+        "stay": "Up to 8 months"
       },
-      "checked": "2026-11-02"
+      "checked": "2026-11-13"
     },
     {
       "passport": "DE",
@@ -2295,9 +2297,9 @@
       "passport": "NL",
       "destination": "Cayman Islands",
       "fields": {
-        "stay": "Set by the officer at entry — 30 to 90 days, extendable up to 6 months"
+        "stay": "Set by the officer at entry, up to 6 months; extendable"
       },
-      "checked": "2026-11-02"
+      "checked": "2026-11-13"
     },
     {
       "passport": "US",
@@ -2665,11 +2667,11 @@
       "passport": "IE",
       "destination": "Malawi",
       "fields": {
-        "visa": "ev",
-        "note": "Ireland's Category Two status is inferred by analogy with Hop's already-verified CA/NZ baseline. Passport must be valid at least 6 months beyond arrival.",
+        "visa": "voa",
+        "note": "Ireland is on Malawi's official Category Two list of countries that can get a visa on arrival, with or without prior authorisation.",
         "apply": "Online at evisa.gov.mw, as early as possible before you travel – travellers without an e-visa have been denied boarding. If your e-visa has not been issued in time, bring US dollars in cash to pay on arrival."
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-13"
     },
     {
       "passport": "US",
@@ -2968,9 +2970,10 @@
       "passport": "CA",
       "destination": "Cameroon",
       "fields": {
-        "note": "THE E-VISA IS NOW THE ONLY ROUTE — the postal embassy application is superseded, though Cameroon's Ottawa mission still publishes stale COVID-era postal instructions. The online grant is a visa authorisation; biometric enrolment and printing of the physical sticker happen at the entry border post. Onward or return ticket required. Yellow fever vaccination required of all arrivals."
+        "note": "THE E-VISA IS NOW THE ONLY ROUTE — the postal embassy application is superseded, though Cameroon's Ottawa mission still publishes stale COVID-era postal instructions. The online grant is a visa authorisation; biometric enrolment and printing of the physical sticker happen at the embassy or consulate if you live in the city where it is; if you live in an area far from any post you get a QR authorisation and the visa is put in your passport at the border post. Onward or return ticket required. Yellow fever vaccination required of all arrivals.",
+        "apply": "https://evisacam.cm/ then enrol at the embassy or consulate if you live in the city where it is; if you live in an area far from any post you get a QR authorisation and the visa is put in your passport at the border post."
       },
-      "checked": "2026-11-11"
+      "checked": "2026-11-13"
     },
     {
       "passport": "KR",
@@ -3615,6 +3618,146 @@
         "stay": "1 month from the date of entry; can be extended in Eritrea depending on the type of visa"
       },
       "checked": "2026-11-12"
+    },
+    {
+      "passport": "AU",
+      "destination": "Dominican Republic",
+      "fields": {
+        "visa": "voa",
+        "cost": "Tourist card bought on arrival",
+        "note": "Category C — a tourist card bought on arrival, valid 30 days. The tourist card must be bought on arrival; the free E-Ticket form is mandatory for entry and exit."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "CA",
+      "destination": "Togo",
+      "fields": {
+        "note": "TOGO NO LONGER ISSUES VISA ON ARRIVAL. Under the new law on the policing of foreigners, all visa applications are made online before arrival. Visa exemption covers essentially the ECOWAS member countries; Canada is on the visa-required list. Apply at least 6 working days before arrival; processing takes up to 5 working days. Carry a yellow fever certificate — Togo requires it from risk countries, Canada's advice says all countries, so take the stricter reading."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "KR",
+      "destination": "Togo",
+      "fields": {
+        "stay": "1 to 90 days, as applied for"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "IN",
+      "destination": "Zimbabwe",
+      "fields": {
+        "note": "Visa on arrival, or apply online in advance at evisa.gov.zw (about 7 working days; apply at least 3 weeks ahead). Multiple entry is not issued at the port and must be pre-applied online. The KAZA UniVisa (e-visa valid 3 months from issue) covers Zimbabwe and Zambia, plus Botswana day trips at Kazungula."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "KR",
+      "destination": "Suriname",
+      "fields": {
+        "note": "Not on Suriname's visa-required list — use the online Entry Fee route, not an embassy. Entry tax USD 25 or EUR 25 plus a USD 8 service fee, paid at suriname.vfsevisa.com; the fee may already be in your airfare, so check with the airline. Passport valid 6+ months with a blank page.",
+        "cost": "Entry tax USD 25 or EUR 25, plus USD 8 service fee"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "CA",
+      "destination": "San Marino",
+      "fields": {
+        "stay": "Under 10 days without a permit; 10 to 30 days needs a tourist permit",
+        "note": "San Marino does publish its own rules. Its MFA states that because you must cross the Schengen area to reach San Marino, you need whatever Schengen authorisation applies BEFORE you leave — for a Canadian, nothing. San Marino's own distinctive rule is a 10-day threshold: staying more than 10 days requires a permit from the Gendarmeria (a tourist permit for 10 to 30 days, a stay permit beyond 30). There is no border control with Italy, so the 10 days is a legal obligation rather than something a stamp enforces."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "CA",
+      "destination": "Saint Helena",
+      "fields": {
+        "visa": "vf",
+        "note": "St Helena runs an entry permit system, not a visa system, and every visitor needs one regardless of nationality. Canadians are not on the list of passports needing an e-visa in advance, so you get a Short Term Entry Permit on arrival — but a GBP 20 entry fee is charged. Medical insurance covering evacuation to GBP 175,000 is mandatory, along with a passport valid 6 months from the date of arrival (not from the end of the permit), pre-arranged accommodation and sufficient funds. Access is a weekly Saturday flight from Johannesburg, so a missed flight means a week's wait."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Saint Helena",
+      "fields": {
+        "visa": "vf",
+        "note": "New Zealand is not on the list of passports needing an e-visa in advance, so the permit is issued on arrival — but a GBP 20 entry fee is payable and the conditions are real: medical insurance covering aeromedical evacuation to GBP 175,000, proof of onward travel, pre-arranged accommodation and sufficient funds. Passport must stay valid 6 months from the date of arrival (not from the end of the permit). Access is by weekly flight from Johannesburg."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "AU",
+      "destination": "Mauritius",
+      "fields": {
+        "stay": "Set by the immigration officer; up to 6 months in a calendar year",
+        "apply": "None needed"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "US",
+      "destination": "Grenada",
+      "fields": {
+        "stay": "Set by the immigration officer, up to 12 months",
+        "note": "'No Visa Required' on Grenada's official schedule. Grenada publishes no per-country stay period — the immigration officer sets the period in the permit, up to 12 months. Cruise passengers ashore for under 24 hours need no formalities."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "DE",
+      "destination": "Sri Lanka",
+      "fields": {
+        "stay": "30 days, double entry permitted"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "IN",
+      "destination": "Singapore",
+      "fields": {
+        "note": "Indian ordinary passport holders need a visa, issued as an e-Visa; diplomatic, official and service passports are exempt. Travellers transiting by air to or from a third country may instead qualify for the Visa-Free Transit Facility. Your visa application can be submitted online through a strategic partner or a local contact in Singapore, or at the nearest Singapore Overseas Mission or through its authorised visa agent."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "US",
+      "destination": "Guam",
+      "fields": {
+        "visa": "vf",
+        "note": "US territory: domestic travel, no visa or passport needed"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "US",
+      "destination": "Northern Mariana Islands",
+      "fields": {
+        "visa": "vf",
+        "note": "US territory: domestic travel, no visa or passport needed"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "US",
+      "destination": "Puerto Rico",
+      "fields": {
+        "visa": "vf",
+        "note": "US territory: domestic travel, no visa or passport needed"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "US",
+      "destination": "United States Virgin Islands",
+      "fields": {
+        "visa": "vf",
+        "note": "US territory: domestic travel, no visa or passport needed"
+      },
+      "checked": "2026-11-13"
     }
   ],
   "destinations": [
