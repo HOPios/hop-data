@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T05:29:50Z",
+  "generated_at": "2026-11-13T05:36:19Z",
   "entries": [
     {
       "passport": "CA",
@@ -3960,6 +3960,16 @@
         "stay": "2 weeks, 1 month or 90 days, depending on the visa you choose",
         "apply": "Online at evisa.gov.bh (\"Apply now\" on the official eligibility form); a visa on arrival is also listed (see the note)",
         "note": "The official eligibility form for Indian passports (general visit) lists online Visit Visas: 2 weeks single entry (stay 2 weeks), 3 months multiple entry (stay 1 month) and one year multiple entry (stay 90 days). A visa on arrival is also listed, with conditions that apply to every visa: 2 weeks single entry at the arrival counter, or 3 months multiple entry (stay 1 month) through Bahrain.bh. India's foreign ministry says visa on arrival is for Indian nationals holding a valid UAE, UK, US, Saudi (not Hajj/Umrah) or Schengen visit visa, or a US Green Card."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "IN",
+      "destination": "Central African Republic",
+      "fields": {
+        "visa": "vr",
+        "apply": "Get a visa from a Central African Republic embassy before travel",
+        "note": "India's foreign ministry (MEA) lists the Central African Republic under visa on arrival, with no details given. Timatic (13 Nov 2026) says a valid visa issued by the Central African Republic is required, so get a visa from a Central African Republic embassy before you travel."
       },
       "checked": "2026-11-13"
     }
