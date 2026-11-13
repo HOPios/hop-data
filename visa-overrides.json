@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T05:08:56Z",
+  "generated_at": "2026-11-13T05:29:50Z",
   "entries": [
     {
       "passport": "CA",
@@ -3941,6 +3941,25 @@
       "fields": {
         "visa": "vr",
         "note": "Indian nationals holding valid US, Schengen and UK visas (either Business or Tourist visa) and having travelled on such a visa at least once are eligible for visa-on-arrival. The visa stamp should be clearly visible. Digital stamp will not be accepted. Without one, apply for a conventional visa through a Saudi diplomatic mission."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "IN",
+      "destination": "Cabo Verde",
+      "fields": {
+        "note": "Visa-free for 30 days, but EASE online pre-registration is mandatory, and the CVE 3,400 TSA fee applies on international flights. Some airline systems (Timatic) still ask Indian passports for a visa, so carry your EASE registration and check with your airline before flying."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "IN",
+      "destination": "Bahrain",
+      "fields": {
+        "visa": "ev",
+        "stay": "2 weeks, 1 month or 90 days, depending on the visa you choose",
+        "apply": "Online at evisa.gov.bh (\"Apply now\" on the official eligibility form); a visa on arrival is also listed (see the note)",
+        "note": "The official eligibility form for Indian passports (general visit) lists online Visit Visas: 2 weeks single entry (stay 2 weeks), 3 months multiple entry (stay 1 month) and one year multiple entry (stay 90 days). A visa on arrival is also listed, with conditions that apply to every visa: 2 weeks single entry at the arrival counter, or 3 months multiple entry (stay 1 month) through Bahrain.bh. India's foreign ministry says visa on arrival is for Indian nationals holding a valid UAE, UK, US, Saudi (not Hajj/Umrah) or Schengen visit visa, or a US Green Card."
       },
       "checked": "2026-11-13"
     }
