@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T04:14:36Z",
+  "generated_at": "2026-11-13T04:41:32Z",
   "entries": [
     {
       "passport": "CA",
@@ -149,9 +149,10 @@
       "passport": "UK",
       "destination": "Antigua and Barbuda",
       "fields": {
-        "stay": "Up to six months"
+        "stay": "Up to six months",
+        "note": "Visa-free for up to six months. Complete ArriveAntigua.com form (mobile only) within 72h of travel — recommended not mandatory. Tourism Guest Levy USD 5/night payable at hotel."
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-13"
     },
     {
       "passport": "NZ",
@@ -1407,9 +1408,10 @@
       "destination": "Kazakhstan",
       "fields": {
         "visa": "vf",
-        "note": "No visa is needed for stays up to 30 days; a stay over 30 days needs a visa. Not verified — whether an ETA via QazETA is mandatory. Carry your passport and the white immigration card you receive on entry at all times. If you violate the conditions of a visa you could face a short term of imprisonment and/or an entry ban of up to 5 years; overstaying the date on the immigration card may result in similar penalties."
+        "note": "No visa is needed for stays up to 30 days; a stay over 30 days needs a visa. Not verified — whether an ETA via QazETA is mandatory. Carry your passport and the white immigration card you receive on entry at all times. If you violate the conditions of a visa you could face a short term of imprisonment and/or an entry ban of up to 5 years; overstaying the date on the immigration card may result in similar penalties.",
+        "cost": "Free (no visa needed)"
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-13"
     },
     {
       "passport": "AU",
@@ -1456,9 +1458,10 @@
       "destination": "Kazakhstan",
       "fields": {
         "visa": "vf",
-        "note": "Not verified — whether an ETA is mandatory for Indian passports. Indian citizens may enter without a visa for up to 14 days, 42 days in total in each period of 180 days. Not verified — what a longer stay requires."
+        "note": "Not verified — whether an ETA is mandatory for Indian passports. Indian citizens may enter without a visa for up to 14 days, 42 days in total in each period of 180 days. Not verified — what a longer stay requires.",
+        "cost": "Free (no visa needed)"
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-13"
     },
     {
       "passport": "US",
@@ -1654,6 +1657,100 @@
       "fields": {
         "visa": "vf",
         "note": "US territory: domestic travel, no visa or passport needed"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "IE",
+      "destination": "Saint Vincent and the Grenadines",
+      "fields": {
+        "stay": "3 months",
+        "note": "Read literally, the official page puts Ireland under \"Other International Countries\" (three (3) months), not under \"Schengen Countries\" (six (6) months)."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "IN",
+      "destination": "Jamaica",
+      "fields": {
+        "note": "Visa-free for 30 days for tourism or business. Commonwealth citizens can reach a maximum of 12 months with an approved Extension of Stay."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "UK",
+      "destination": "Jamaica",
+      "fields": {
+        "stay": "90 days (extendable to a maximum of 12 months with an approved Extension of Stay)",
+        "note": "Visa-free 90 days, extendable to a maximum of 12 months with an approved Extension of Stay. Complete C5 Immigration/Customs form online before arrival. Commonwealth member. Take care in certain Kingston and Montego Bay areas."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "US",
+      "destination": "Pakistan",
+      "fields": {
+        "visa": "ev",
+        "note": "Pakistani missions abroad can grant US nationals a five-year multiple-entry visa with a maximum stay of three months. You need advance permission to travel in Khyber Pakhtunkhwa, parts of Azad Kashmir and Balochistan. Keep copies of your passport data page, visa and entry stamp with you at all times."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "IN",
+      "destination": "Pakistan",
+      "fields": {
+        "note": "A non-extendable tourist visa valid for 14 days is issued by the Pakistan High Commission, New Delhi through approved tour operators or travel agents.",
+        "stay": "14 days, not extendable",
+        "apply": "Through approved tour operators or travel agents (Pakistan High Commission, New Delhi)",
+        "extension": "Not possible"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "AU",
+      "destination": "Pakistan",
+      "fields": {
+        "stay": "Three months validity and stay, double entry; extendable to a maximum of six months including the initial period"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "IE",
+      "destination": "Pakistan",
+      "fields": {
+        "stay": "Three months validity and stay, double entry; extendable to a maximum of six months including the initial period"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "KR",
+      "destination": "Pakistan",
+      "fields": {
+        "stay": "Three months validity and stay, double entry; extendable to a maximum of six months including the initial period"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "NL",
+      "destination": "Pakistan",
+      "fields": {
+        "stay": "Three months validity and stay, double entry; extendable to a maximum of six months including the initial period"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Pakistan",
+      "fields": {
+        "stay": "Three months validity and stay, double entry; extendable to a maximum of six months including the initial period. Visa on arrival is also available."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "CA",
+      "destination": "Eritrea",
+      "fields": {
+        "stay": "Usually one month, extendable at Immigration in Asmara; enter within 3 months of issue"
       },
       "checked": "2026-11-13"
     }
