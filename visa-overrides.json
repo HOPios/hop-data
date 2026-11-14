@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T02:58:44Z",
+  "generated_at": "2026-11-14T02:59:34Z",
   "entries": [
     {
       "passport": "CA",
@@ -112,8 +112,9 @@
       "passport": "UK",
       "destination": "Sierra Leone",
       "fields": {
-        "note": "Visa on arrival (USD 80, cash) or an eVisa applied for online before travel. Yellow fever mandatory. Commonwealth member, generally stable since civil war ended. Freetown and beaches popular. Malaria prophylaxis recommended."
-      }
+        "note": "Visa on arrival (USD 80, cash) or an eVisa applied for online before travel. A yellow fever vaccination certificate is required of every arriving traveller. Commonwealth member, generally stable since civil war ended. Freetown and beaches popular. Malaria prophylaxis recommended."
+      },
+      "checked": "2026-11-14"
     },
     {
       "passport": "CA",
@@ -484,9 +485,9 @@
         "apply": "Apply and pay online in good time before entry; once approved, the eVisa is issued on arrival at the border crossing",
         "cost": "Paid online when applying (amount not stated)",
         "extension": "Possible in Sierra Leone under certain conditions",
-        "note": "An eVisa is required. Apply and pay online in good time before entry; once approved, it is issued on arrival at the border crossing. Passport must be valid at least six months at entry; a yellow fever vaccination certificate and an online health declaration (within 72 hours before travel) are required."
+        "note": "An eVisa is required. Apply and pay online in good time before entry; once approved, it is issued on arrival at the border crossing. Passport must be valid at least six months at entry; an online health declaration (within 72 hours before travel) is required. A yellow fever vaccination certificate is required of every arriving traveller."
       },
-      "checked": "2026-10-17"
+      "checked": "2026-11-14"
     },
     {
       "passport": "UK",
@@ -2856,17 +2857,19 @@
       "passport": "CA",
       "destination": "Niger",
       "fields": {
-        "stay": "Per visa granted"
+        "stay": "Per visa granted",
+        "note": "Visa required in advance from a Nigerien mission in your country of residence. NIGER HAS NO MISSION IN CANADA. Air-side transit is visa-exempt provided you do not leave the airport. Processing takes about 15 days. Passport valid 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Canada has no embassy in Niger — an honorary consul in Niamey, served from Bamako in Mali, which is a thin consular safety net given Mali's own situation."
       },
-      "checked": "2026-11-11"
+      "checked": "2026-11-14"
     },
     {
       "passport": "US",
       "destination": "Niger",
       "fields": {
-        "stay": "Per visa granted"
+        "stay": "Per visa granted",
+        "note": "Niger's embassy in Washington suspended entry-visa issuance for US citizens from 28 August 2025 — confirm current status before applying. Visa in advance from a Nigerien mission in your country of residence; air-side transit without leaving the airport is exempt. Processing takes about 15 days. Passport valid 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-11-11"
+      "checked": "2026-11-14"
     },
     {
       "passport": "AU",
@@ -3312,33 +3315,37 @@
       "passport": "KR",
       "destination": "Sierra Leone",
       "fields": {
-        "stay": "Up to 30 days; the single-entry visa is valid about 3 months from issue"
+        "stay": "Up to 30 days; the single-entry visa is valid about 3 months from issue",
+        "note": "A visa is required, obtainable on arrival for USD 80 cash, or arranged in advance via the online e-visa. No South-Korea-specific carve-out was found. A yellow fever vaccination certificate is required of every arriving traveller."
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-14"
     },
     {
       "passport": "IN",
       "destination": "Sierra Leone",
       "fields": {
-        "stay": "Up to 30 days; the single-entry visa is valid about 3 months from issue"
+        "stay": "Up to 30 days; the single-entry visa is valid about 3 months from issue",
+        "note": "A visa is required, obtainable on arrival for USD 80 cash, or arranged in advance via the online e-visa. India's own MEA page didn't surface a Sierra Leone-specific listing. A yellow fever vaccination certificate is required of every arriving traveller."
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-14"
     },
     {
       "passport": "NL",
       "destination": "Sierra Leone",
       "fields": {
-        "stay": "Up to 30 days; the single-entry visa is valid about 3 months from issue"
+        "stay": "Up to 30 days; the single-entry visa is valid about 3 months from issue",
+        "note": "A visa is required, obtainable on arrival for USD 80 cash, or arranged in advance via the online e-visa. No Netherlands-specific carve-out was found. A yellow fever vaccination certificate is required of every arriving traveller."
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-14"
     },
     {
       "passport": "IE",
       "destination": "Sierra Leone",
       "fields": {
-        "stay": "Up to 30 days; the single-entry visa is valid about 3 months from issue"
+        "stay": "Up to 30 days; the single-entry visa is valid about 3 months from issue",
+        "note": "A visa is required, obtainable on arrival for USD 80 cash, or arranged in advance via the online e-visa. No Ireland-specific carve-out was found. A yellow fever vaccination certificate is required of every arriving traveller."
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-14"
     },
     {
       "passport": "AU",
@@ -4943,6 +4950,102 @@
         "note": "The Embassy of Mali in Brussels may be accredited to Ireland, but this is unconfirmed — check before applying. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Niger",
+      "fields": {
+        "note": "Visa in advance from a Nigerien mission in your country of residence; air-side transit without leaving the airport is exempt. Processing takes about 15 days. Passport valid 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Niger",
+      "fields": {
+        "note": "Niger's foreign ministry states every foreign national needs a Nigerien visa in the passport at the border; only airside transit is exempt. There is no Nigerien mission in New Zealand, and visa on arrival is possible only by interior ministry authorisation for travellers leaving a country where Niger has no representation. Fees are set per mission. Policy is being changed by nationality without notice. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Niger",
+      "fields": {
+        "note": "Visa in advance from a Nigerien mission (Geneva embassy handles UK applications); air-side transit without leaving the airport is exempt. Processing takes about 15 days. Passport valid for the proposed stay (no additional period needed). A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Niger",
+      "fields": {
+        "note": "Every foreign national needs a visa. Apply from your country of residence; each mission sets its own fee. No Nigerien mission serving South Korea identified. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Niger",
+      "fields": {
+        "note": "Visa required in advance from a Nigerien mission — Niger maintains a mission in Berlin serving German residents directly. Air-side transit without leaving the airport is exempt. Passport valid 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Niger",
+      "fields": {
+        "note": "Niger does not appear in any of MEA's three visa tables (e-visa, visa-free, visa-on-arrival), consistent with Niger's universal in-advance-visa rule. India's accredited Nigerien mission was not identified — likely New Delhi, but not confirmed. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Niger",
+      "fields": {
+        "note": "Visa required in advance from a Nigerien mission; the fee is set per mission. There is no exemption list. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Niger",
+      "fields": {
+        "note": "Ireland's DFA says Irish citizens need a visa and should contact the Embassy of Niger in Geneva on how to apply. Niger's Ministry of Foreign Affairs confirms the universal in-advance-visa rule. Ireland's DFA additionally states passports should be valid at least 6 months from date of entry with at least 2 blank pages. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Sierra Leone",
+      "fields": {
+        "note": "Apply on the official e-visa portal (evisa.sl) before travel; once approved, the visa itself is issued on arrival at the airport or border. The pre-approved route is the reliable one — Sierra Leonean missions do not advertise an on-arrival alternative. A yellow fever vaccination certificate is required of every arriving traveller."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Sierra Leone",
+      "fields": {
+        "note": "Apply on the official e-visa portal before travel; once approved, the visa is issued to you on arrival at the airport or border. The Government of Canada still offers visa on arrival as an alternative, but neither Sierra Leonean mission checked mentions it and the immigration department publishes no visa-policy page, so the pre-approved e-visa is the reliable route. A SEPARATE USD 25 AIRPORT SECURITY FEE IS PAYABLE PER PASSENGER, ARRIVING AND DEPARTING. A yellow fever vaccination certificate is required of every arriving traveller."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Sierra Leone",
+      "fields": {
+        "note": "All non-ECOWAS nationals need a visa. Sierra Leone's immigration department directs applicants to its own e-visa portal, so use the official one. Visas can also be obtained from a Sierra Leone mission abroad. A yellow fever vaccination certificate is required of every arriving traveller."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Sierra Leone",
+      "fields": {
+        "note": "Apply on the official e-visa portal (evisa.sl) before travel; once approved, the visa itself is issued on arrival at the airport or border. The pre-approved route is the reliable one — Sierra Leonean missions do not advertise an on-arrival alternative. A yellow fever vaccination certificate is required of every arriving traveller."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -5069,6 +5172,20 @@
       "destination": "Mali",
       "fields": {
         "blurb": "Mali's embassy in Washington lists visa-free entry for ECOWAS citizens and citizens of Algeria, Cameroon, Andorra, Monaco, Chad, Gambia, Morocco, Mauritania and Tunisia. For UK travellers a visa is required, and the application and payment are fully online via the Malian Ministry of Foreign Affairs website, which directs applicants to the competent embassy or consulate; the Malian Embassy in Brussels covers the UK. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Niger",
+      "fields": {
+        "blurb": "Niger's foreign ministry states that every foreign national needs a visa in the passport at the border; only airside transit is exempt. Visa on arrival exists only by interior ministry authorisation, and only for travellers leaving a country where Niger has no mission. Fees are set by each mission. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Sierra Leone",
+      "fields": {
+        "blurb": "All non-ECOWAS nationals need a visa, obtained either through the immigration department's own e-visa portal (sl-evisa.gov.sl, around USD 80) or from a Sierra Leone mission abroad. Other websites that offer to submit the application for you are not operated by the Government of Sierra Leone and may charge an additional fee. A yellow fever vaccination certificate is required of every arriving traveller."
       },
       "checked": "2026-11-14"
     }
