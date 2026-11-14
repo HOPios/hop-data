@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T02:56:08Z",
+  "generated_at": "2026-11-14T02:56:44Z",
   "entries": [
     {
       "passport": "CA",
@@ -2941,9 +2941,9 @@
       "destination": "Cote d'Ivoire",
       "fields": {
         "visa": "ev",
-        "note": "E-visa: the only site officially recognised by the state for visa applications is SNEDAI (snedai.com); the online E-visa is for ordinary passports valid at least 6 months. New Zealand is named on Côte d'Ivoire's visa-required list. The practical route is online pre-enrolment, approval within about 48 working hours, then biometrics at the 'Visa aéroport' desk at Abidjan where the visa is printed and handed over on the spot. A yellow fever certificate is required at that desk."
+        "note": "E-visa: the only site officially recognised by the state for visa applications is SNEDAI (snedai.com); the online E-visa is for ordinary passports valid at least 6 months. New Zealand is named on Côte d'Ivoire's visa-required list. The practical route is online pre-enrolment, approval within about 48 working hours, then biometrics at the 'Visa aéroport' desk at Abidjan where the visa is printed and handed over on the spot. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-11-11"
+      "checked": "2026-11-14"
     },
     {
       "passport": "UK",
@@ -3992,9 +3992,9 @@
       "fields": {
         "visa": "vr",
         "apply": "Get a visa from a Central African Republic embassy before travel",
-        "note": "India's foreign ministry (MEA) lists the Central African Republic under visa on arrival, with no details given. Timatic (13 Nov 2026) says a valid visa issued by the Central African Republic is required, so get a visa from a Central African Republic embassy before you travel."
+        "note": "India's foreign ministry (MEA) lists the Central African Republic under visa on arrival, with no details given. Timatic (13 Nov 2026) says a valid visa issued by the Central African Republic is required, so get a visa from a Central African Republic embassy before you travel. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-11-13"
+      "checked": "2026-11-14"
     },
     {
       "passport": "AU",
@@ -4398,6 +4398,150 @@
         "note": "Show the approved e-visa's QR code at the border, where the visa is stamped in the passport. No in-country extension, so apply for a visa covering the whole stay. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Central African Republic",
+      "fields": {
+        "note": "Visa in advance from a CAR diplomatic mission — form, passport, photos and a letter of invitation. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. There is no national CAR visa portal."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Central African Republic",
+      "fields": {
+        "note": "Visa required in advance from the CAR embassy in Washington DC, the mission accredited to Canada — application by online or downloadable form, submitted with passport and photos, paid by bank transfer or cash. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. There is NO national CAR visa portal: the ministry's own site fails TLS verification. Several .com sites style themselves 'the official Central African Republic e-visa' with no verifiable government ownership — do not use them."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Central African Republic",
+      "fields": {
+        "note": "MFAT confirms the Central African Republic is accredited to New Zealand from its embassy in Pretoria, not Brussels. Pretoria publishes no website; contact by email. No CAR government source publishes an exempt-nationality list, so New Zealand's position is inferred from the absence of any exemption rather than stated. Be aware that the visa-exempt list circulating online comes from aeroport-bangui.com, a commercial site last updated in 2019 that is not the airport authority — it is not relied on here. Confirm the fee, permitted stay and application procedure with the Pretoria mission before you travel. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Central African Republic",
+      "fields": {
+        "note": "Visa in advance from a CAR diplomatic mission (Paris handles UK applications) — form, passport, photos and a letter of invitation. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. There is no national CAR visa portal."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Central African Republic",
+      "fields": {
+        "note": "Visa in advance from a CAR diplomatic mission — form, passport, photos and a letter of invitation. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. There is no national CAR visa portal."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Central African Republic",
+      "fields": {
+        "note": "Visa required; no exemption for Korean passports. There is no national visa portal — apply through the Central African Republic's Embassy in Paris, online or by paper form. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Central African Republic",
+      "fields": {
+        "note": "No national visa portal; apply through the Central African Republic's Embassy in Paris (online account or paper form). A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Central African Republic",
+      "fields": {
+        "note": "Passport valid 6+ months from departure from CAR. No national visa portal — contact the CAR Embassy in Brussels for visa information. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Central African Republic",
+      "fields": {
+        "note": "No Irish mission in the Central African Republic; the Consular Assistance Unit in Dublin (+353 1 408 2000) handles emergencies. No national visa portal — apply through the CAR Embassy in Paris, online or on paper. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Cote d'Ivoire",
+      "fields": {
+        "note": "Via Port Bouet Airport. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Cote d'Ivoire",
+      "fields": {
+        "note": "Pre-enrol and pay online, print the approved pre-enrolment document, then complete biometric enrolment at the Visa aéroport desk at Félix-Houphouët-Boigny airport in Abidjan, where the visa is printed and issued immediately. Kiosks run 24/7. Ordinary passports only. Passport valid 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Cote d'Ivoire",
+      "fields": {
+        "note": "eVisa required — apply at snedai.com (pre-enrolment) at least 10 working days before travel (UK government advice), biometrics on arrival at Abidjan airport. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. ⚠️ FCDO advises against all but essential travel within 20km of the Liberian border, and against all travel within 40km of the Burkina Faso and Mali borders and to northern Zanzan and Savanes provinces."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Cote d'Ivoire",
+      "fields": {
+        "note": "Via Port Bouet Airport. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Cote d'Ivoire",
+      "fields": {
+        "note": "Passport valid 6+ months from the application date. Upload the passport ID page, a round-trip flight booking, and an invitation letter or accommodation certificate — missing any one means automatic rejection. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Cote d'Ivoire",
+      "fields": {
+        "note": "Passport valid 6+ months beyond the end of the requested stay. Upload the passport ID page, a round-trip flight booking, and an invitation letter or accommodation certificate — missing any one means automatic rejection. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Cote d'Ivoire",
+      "fields": {
+        "note": "Passport valid 6+ months from the application date. Upload the passport ID page, a round-trip flight booking, and an invitation letter or accommodation certificate — missing any one means automatic rejection. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Cote d'Ivoire",
+      "fields": {
+        "note": "Passport valid 6+ months from the application date. Upload the passport ID page, a round-trip flight booking, and an invitation letter or accommodation certificate — missing any one means automatic rejection. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Cote d'Ivoire",
+      "fields": {
+        "note": "Passport valid 6+ months from the application date. Upload the passport ID page, a round-trip flight booking, and an invitation letter or accommodation certificate — missing any one means automatic rejection. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -4468,6 +4612,20 @@
       "destination": "Cameroon",
       "fields": {
         "blurb": "All non-Cameroonians need a visa and applications are online only. Approval gives an authorisation with a QR code, and the physical visa is printed at the airport or border post on arrival, so travel with the confirmation. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Central African Republic",
+      "fields": {
+        "blurb": "No government source publishes an exempt-nationality list; the visa-exempt list circulating online comes from a commercial site last updated in 2019 that is not the airport authority. Apart from the visa on arrival India's government lists for Indian nationals, visas are lodged at an embassy with an invitation letter or mission order, hotel booking and flight plan, and the fee and permitted stay should be confirmed with the mission. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Cote d'Ivoire",
+      "fields": {
+        "blurb": "The practical route is online pre-enrolment well ahead of travel (the UK government advises at least 10 working days), approval in about 48 working hours although it can take longer, then biometrics at the Visa aeroport desk at Abidjan airport, where the visa is printed and handed over on the spot. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
       "checked": "2026-11-14"
     }
