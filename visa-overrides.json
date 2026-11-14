@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T02:55:19Z",
+  "generated_at": "2026-11-14T02:56:08Z",
   "entries": [
     {
       "passport": "CA",
@@ -907,82 +907,92 @@
       "passport": "CA",
       "destination": "Burundi",
       "fields": {
-        "stay": "30 days from your arrival date"
+        "stay": "30 days from your arrival date",
+        "note": "Burundi issues a single-entry visa for 1 month, online, at Bujumbura airport or at its embassies, for USD 90. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Onward ticket required."
       },
-      "checked": "2026-10-22"
+      "checked": "2026-11-14"
     },
     {
       "passport": "AU",
       "destination": "Burundi",
       "fields": {
-        "stay": "30 days from your arrival date"
+        "stay": "30 days from your arrival date",
+        "note": "You can collect the visa on arrival at Bujumbura airport only if you apply online first (migration.gov.bi) and receive a visa certificate. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-10-22"
+      "checked": "2026-11-14"
     },
     {
       "passport": "US",
       "destination": "Burundi",
       "fields": {
         "stay": "30 days from your arrival date",
-        "ext_cost": "US$70 per month"
+        "ext_cost": "US$70 per month",
+        "note": "You can collect the visa on arrival at Bujumbura airport only if you apply online first (migration.gov.bi) and receive a visa certificate. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-11-02"
+      "checked": "2026-11-14"
     },
     {
       "passport": "UK",
       "destination": "Burundi",
       "fields": {
-        "stay": "30 days from your arrival date"
+        "stay": "30 days from your arrival date",
+        "note": "FCDO advises against all travel to Mugina, Cibitoke, Bukinyayana, Bubanza and Mpanda communes and part of Ntahangwa commune (RN5 road) in Bujumbura Province, plus the RN6/RN10 roads from Kayanza in Butanyerera Province. Apply online before travel (migration.gov.bi) for a validation certificate; the visa is then issued on arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-10-22"
+      "checked": "2026-11-14"
     },
     {
       "passport": "NZ",
       "destination": "Burundi",
       "fields": {
-        "stay": "30 days from your arrival date"
+        "stay": "30 days from your arrival date",
+        "note": "Burundi's exemptions cover only East African Community and Great Lakes member states plus diplomatic passports, so New Zealanders need a visa. Apply online at the government migration portal before travel. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-10-22"
+      "checked": "2026-11-14"
     },
     {
       "passport": "KR",
       "destination": "Burundi",
       "fields": {
-        "stay": "30 days from your arrival date, or 3 days"
+        "stay": "30 days from your arrival date, or 3 days",
+        "note": "No exemption for Korean passports; Burundi runs a paid visa on arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-10-22"
+      "checked": "2026-11-14"
     },
     {
       "passport": "DE",
       "destination": "Burundi",
       "fields": {
-        "stay": "30 days from your arrival date, or 3 days"
+        "stay": "30 days from your arrival date, or 3 days",
+        "note": "Visa required, issued only on arrival at Bujumbura airport. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-10-22"
+      "checked": "2026-11-14"
     },
     {
       "passport": "IN",
       "destination": "Burundi",
       "fields": {
-        "stay": "30 days from your arrival date, or 3 days"
+        "stay": "30 days from your arrival date, or 3 days",
+        "note": "Visa available on arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-10-22"
+      "checked": "2026-11-14"
     },
     {
       "passport": "NL",
       "destination": "Burundi",
       "fields": {
-        "stay": "30 days from your arrival date, or 3 days"
+        "stay": "30 days from your arrival date, or 3 days",
+        "note": "Three routes are named: the embassy in The Hague, an online application via the Burundian government website, or purchase on arrival at Bujumbura airport or another border post. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-10-22"
+      "checked": "2026-11-14"
     },
     {
       "passport": "IE",
       "destination": "Burundi",
       "fields": {
-        "stay": "30 days from your arrival date, or 3 days"
+        "stay": "30 days from your arrival date, or 3 days",
+        "note": "Ireland has no resident Embassy in Burundi; queries are directed to the Burundi Embassy in London, or the Burundian Embassy in Kigali if travelling from Rwanda. Emergency passport assistance is routed via the Irish Embassy in Tanzania. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-10-22"
+      "checked": "2026-11-14"
     },
     {
       "passport": "AU",
@@ -2977,10 +2987,10 @@
       "passport": "CA",
       "destination": "Cameroon",
       "fields": {
-        "note": "THE E-VISA IS NOW THE ONLY ROUTE — the postal embassy application is superseded, though Cameroon's Ottawa mission still publishes stale COVID-era postal instructions. The online grant is a visa authorisation; biometric enrolment and printing of the physical sticker happen at the embassy or consulate if you live in the city where it is; if you live in an area far from any post you get a QR authorisation and the visa is put in your passport at the border post. Onward or return ticket required. Yellow fever vaccination required of all arrivals.",
+        "note": "THE E-VISA IS NOW THE ONLY ROUTE — the postal embassy application is superseded, though Cameroon's Ottawa mission still publishes stale COVID-era postal instructions. The online grant is a visa authorisation; biometric enrolment and printing of the physical sticker happen at the embassy or consulate if you live in the city where it is; if you live in an area far from any post you get a QR authorisation and the visa is put in your passport at the border post. Onward or return ticket required. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over.",
         "apply": "https://evisacam.cm/ then enrol at the embassy or consulate if you live in the city where it is; if you live in an area far from any post you get a QR authorisation and the visa is put in your passport at the border post."
       },
-      "checked": "2026-11-13"
+      "checked": "2026-11-14"
     },
     {
       "passport": "KR",
@@ -4316,6 +4326,78 @@
         "note": "Ireland has no resident Embassy in Burkina Faso; emergency consular assistance is routed via the Irish Embassy in Senegal. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Cameroon",
+      "fields": {
+        "note": "A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Cameroon",
+      "fields": {
+        "note": "All non-Cameroonians need a visa and applications are online only. Approval gives you an authorisation with a QR code — the physical visa is printed at the airport or border post on arrival, so travel with the confirmation. Cameroon's own missions disagree on the stay length; the UK High Commission says 1–180 days, the US embassy says 1–30 days for tourism. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Cameroon",
+      "fields": {
+        "note": "FCDO advises against all travel to Bakassi Peninsula, parts of Far North, NW and SW regions, and within 40km of CAR/Chad/Nigeria borders. eVisa required (evisacameroon.com). A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Cameroon",
+      "fields": {
+        "note": "The e-visa is now the only route — the online grant is a visa authorisation, and biometric enrolment plus the physical sticker happen at the border post on entry. Onward or return ticket required. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Cameroon",
+      "fields": {
+        "note": "No exemption for ordinary Korean passports (diplomatic and official only); apply for the standard e-visa. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Cameroon",
+      "fields": {
+        "note": "The e-visa is an approval; biometric enrolment and the physical visa stamp/sticker happen at the border post on arrival. Onward/return ticket required. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Cameroon",
+      "fields": {
+        "note": "MEA lists Cameroon under its e-Visa table for Indian nationals, consistent with the universal evisacam.cm requirement found for all other passports. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Cameroon",
+      "fields": {
+        "note": "The e-visa is an approval; biometric enrolment and the physical visa stamp/sticker happen at the border post on arrival. Onward/return ticket required. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Cameroon",
+      "fields": {
+        "note": "Show the approved e-visa's QR code at the border, where the visa is stamped in the passport. No in-country extension, so apply for a visa covering the whole stay. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -4372,6 +4454,20 @@
       "destination": "Burkina Faso",
       "fields": {
         "blurb": "Visa applications are made online before travel. The portal also mentions visas issued at the border by immigration services, but that is not something to rely on. A hotel booking is required for a tourist visa. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Burundi",
+      "fields": {
+        "blurb": "Burundi's exemptions cover only East African Community and Great Lakes member states plus diplomatic passports, so most visitors need a visa. Apply online before travel at migration.gov.bi; the visa is then issued on arrival, and the foreign ministry publishes the fee-free visa categories. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Cameroon",
+      "fields": {
+        "blurb": "All non-Cameroonians need a visa and applications are online only. Approval gives an authorisation with a QR code, and the physical visa is printed at the airport or border post on arrival, so travel with the confirmation. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
       },
       "checked": "2026-11-14"
     }
