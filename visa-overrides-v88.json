@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T02:59:34Z",
+  "generated_at": "2026-11-14T03:00:06Z",
   "entries": [
     {
       "passport": "CA",
@@ -3118,6 +3118,86 @@
         "note": "Apply on the official e-visa portal (evisa.sl) before travel; once approved, the visa itself is issued on arrival at the airport or border. The pre-approved route is the reliable one — Sierra Leonean missions do not advertise an on-arrival alternative. A yellow fever vaccination certificate is required of every arriving traveller."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "South Sudan",
+      "fields": {
+        "note": "A visa must be held before you travel — South Sudan does not reliably issue one on arrival. THERE IS NO SOUTH SUDANESE MISSION IN AUSTRALIA, confirmed on South Sudan's own register of missions abroad, so the online portal or a mission in a third country are the only routes. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. The Washington embassy has suspended WALK-IN service only (mail-in applications are still accepted) — the e-visa portal itself is not reported suspended."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "South Sudan",
+      "fields": {
+        "note": "Apply online before departure through the Ministry of Interior portal; the visa PDF is downloadable within 72 hours and you present it to the visa officer at the port of entry. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Passport valid 6 months. South Sudan's own foreign ministry still directs applicants to embassies and describes the portal as under development, so both channels may be live; the portal is the current route."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "South Sudan",
+      "fields": {
+        "note": "A visa must be held before you travel — South Sudan does not reliably issue one on arrival. THERE IS NO SOUTH SUDANESE MISSION IN NEW ZEALAND, confirmed on South Sudan's own register of missions abroad, so the online portal or a mission in a third country are the only routes. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. The Washington embassy has suspended WALK-IN service only (mail-in applications are still accepted) — the e-visa portal itself is not reported suspended."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "South Sudan",
+      "fields": {
+        "note": "A visa must be held before you travel — South Sudan does not reliably issue one on arrival. The FCDO (updated 23 July 2026) gives two routes: apply online through South Sudan's portal, or through the Embassy of South Sudan in London. The Washington embassy has suspended WALK-IN service only (mail-in applications are still accepted) — the e-visa portal itself is not reported suspended. Embassy fees are cash only and non-refundable. You must register with the police if staying 5 days or more. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "South Sudan",
+      "fields": {
+        "note": "Apply before travel via the Ministry of Interior e-visa portal (evisa.gov.ss) — visas are not issued on arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "South Sudan",
+      "fields": {
+        "note": "Get the visa in advance at evisa.gov.ss — no visas on arrival. The PDF visa arrives within 72 hours; show it on arrival to be stamped. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "South Sudan",
+      "fields": {
+        "note": "Get the visa in advance at evisa.gov.ss — no visas on arrival. The PDF visa arrives within 72 hours; show it on arrival to be stamped. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "South Sudan",
+      "fields": {
+        "note": "Visa must be obtained online in advance; not issued on arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "South Sudan",
+      "fields": {
+        "note": "Visa must be obtained online in advance; not issued on arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "South Sudan",
+      "fields": {
+        "note": "Visa must be obtained online in advance; not issued on arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -3258,6 +3338,13 @@
       "destination": "Sierra Leone",
       "fields": {
         "blurb": "All non-ECOWAS nationals need a visa, obtained either through the immigration department's own e-visa portal (sl-evisa.gov.sl, around USD 80) or from a Sierra Leone mission abroad. Other websites that offer to submit the application for you are not operated by the Government of Sierra Leone and may charge an additional fee. A yellow fever vaccination certificate is required of every arriving traveller."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "South Sudan",
+      "fields": {
+        "blurb": "South Sudan's foreign ministry tells visitors to obtain a visa from a South Sudanese embassy before travel, and missions are few. It also says some travellers may be able to get one on arrival, which is too conditional to rely on. An official e-visa portal exists but publishes no fee, eligibility list or stay length in readable form. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Visa validity runs from the day the visa is collected, not from the day you arrive."
       },
       "checked": "2026-11-14"
     }
