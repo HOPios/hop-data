@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T03:12:57Z",
+  "generated_at": "2026-11-14T03:13:53Z",
   "entries": [
     {
       "passport": "CA",
@@ -6495,6 +6495,166 @@
         "note": "An ETA (not a visa) is required before departure: 30 days, tourism or business, all passport types. For longer stays or other purposes, apply for a full eVisa instead. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "New Caledonia",
+      "fields": {
+        "note": "Serious civil unrest in 2024 caused deaths, a state of emergency and months of airport closure; Australians were repatriated by RAAF and ADF flights. Tensions over independence remain — check Smartraveller before booking. Visa-free 90 days. Not in Schengen. A short hop from Brisbane, so it is a popular AU destination when calm. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "New Caledonia",
+      "fields": {
+        "note": "French but NOT in Schengen, so days here do not consume your Schengen 90/180. Canada appears in the exemption table for New Caledonia with no special conditions. A passport is required. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "New Caledonia",
+      "fields": {
+        "note": "New Caledonia is French but outside the Schengen area, so this 90 days is separate from any Schengen allowance. France's own visa portal names New Zealand passport holders for New Caledonia explicitly. Stays over three months need a long-stay visa arranged before travel, and local approval slows it down considerably. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "New Caledonia",
+      "fields": {
+        "note": "Serious civil unrest in 2024 caused deaths, a state of emergency and the closure of Nouméa's airport for months. Tensions over independence remain — check current advice before booking. Visa-free 90 days; passport needs 3 months' validity beyond departure and 2 blank pages. Not in Schengen. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "New Caledonia",
+      "fields": {
+        "note": "Serious civil unrest in 2024 caused deaths, a state of emergency and months of airport closure. Tensions over independence remain — check current advice before booking. Visa-free 90 days. Not in Schengen. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "New Caledonia",
+      "fields": {
+        "note": "Visa-free up to 90 days in any 180-day period under France's rules for its Pacific territories — separate from Schengen. Show funds, accommodation, a return or onward ticket and the purpose of the visit. Passport valid 3 months beyond departure with 2 blank pages. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "New Caledonia",
+      "fields": {
+        "note": "EU citizens need no visa — a valid passport is enough. Working while visiting still needs a work permit from the local government. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "New Caledonia",
+      "fields": {
+        "note": "Short-stay (court séjour) visa required from a French consulate before travel — not on arrival — unless the passport holds a French multiple-entry visa valid 6 months to 5 years. Passport valid 3+ months past departure, 2 blank pages, issued within 10 years; show accommodation, funds, onward ticket and purpose. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "New Caledonia",
+      "fields": {
+        "note": "Visa-exempt as EU citizens — present a valid passport. Working while visiting needs a work permit from the local government. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "New Caledonia",
+      "fields": {
+        "note": "Visa-exempt as EU citizens — present a valid passport. Working while visiting needs a work permit from the local government. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Papua New Guinea",
+      "fields": {
+        "note": "Must apply before. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Papua New Guinea",
+      "fields": {
+        "note": "Canada IS on PNG's visa-on-arrival list — it is mainland New Zealand, France and the United States that are excluded by name, so do not read a New Zealand source across. You can take the visa on arrival or lodge in advance through the ICA e-visa portal. The tourist visa application fee itself is nil; the online route adds a service fee. You need a confirmed onward or return ticket and evidence of funds. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Papua New Guinea",
+      "fields": {
+        "note": "New Zealand is explicitly excluded from PNG's visa-on-arrival list, by name. Only New Zealand's dependent territories (Cook Islands, Niue, Tokelau passports) qualify. Arrange the visa before travel through a PNG mission; the immigration authority's own pages disagree about whether New Zealanders can use the e-visa portal, so confirm the channel before applying. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Papua New Guinea",
+      "fields": {
+        "note": "Visa-on-arrival at Jacksons International Airport Port Moresby (K100 / ~£24). eVisa also available at ica.gov.pg. From 1 Oct 2025 all travellers must also submit Digital Arrival Card online (free, within 72h of arrival). A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Papua New Guinea",
+      "fields": {
+        "note": "Must apply before travel. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Papua New Guinea",
+      "fields": {
+        "note": "South Korea is NOT on PNG's VOA list (only Japan is named among East Asian nationalities). Korean passport holders must apply in advance through the electronic visa portal. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Papua New Guinea",
+      "fields": {
+        "note": "Germany is not on PNG's VOA list. German passport holders must apply in advance through the electronic visa portal. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Papua New Guinea",
+      "fields": {
+        "note": "India is not on PNG's VOA list. Indian passport holders must apply in advance through the electronic visa portal. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Papua New Guinea",
+      "fields": {
+        "note": "The Netherlands is not on PNG's VOA list. Dutch passport holders must apply in advance through the electronic visa portal. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Papua New Guinea",
+      "fields": {
+        "note": "Ireland is not on PNG's VOA list. Irish passport holders must apply in advance through the electronic visa portal. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -6782,6 +6942,20 @@
       "destination": "Mozambique",
       "fields": {
         "blurb": "You apply before travel through the official online system at evisa.gov.mz. An issued e-visa is valid 2 months, within which you can enter. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "New Caledonia",
+      "fields": {
+        "blurb": "New Caledonia is French but outside Schengen, with its own visa exemption decree, separate from French Polynesia's. A Schengen visa does not admit you, and an overseas visa does not cover mainland France. Your passport must be valid 3 months beyond departure, with 2 blank pages. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Papua New Guinea",
+      "fields": {
+        "blurb": "Since 1 October 2025 every traveller must submit the free Digital Arrival Card online within 72 hours of arrival, on top of any visa. The visa-on-arrival list carries explicit exclusions, and the immigration authority's own pages disagree about who may use the e-visa portal, so confirm the channel before applying. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       },
       "checked": "2026-11-14"
     }
