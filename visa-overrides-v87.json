@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T02:58:08Z",
+  "generated_at": "2026-11-14T02:58:44Z",
   "entries": [
     {
       "passport": "CA",
@@ -129,6 +129,16 @@
         "note": "30-day visa-free. Max 90 days in any 180-day period. From 1 November, if you travel without a visa you should apply for an Electronic Travel Authorisation (ETA) through the QazETA portal. Until 30 June, if you arrive without one you will not be refused entry but will be told of the requirement; from 1 July 2027 the ETA is mandatory for all visa-free nationals and you will be refused entry without one. The ETA is free, valid for 180 days from issue, and does not extend your visa-free stay. Not needed if you are under 16 or over 65, staying in the airport transit area without crossing the border, travelling on a diplomatic or service passport, or holding a valid Kazakh visa or residence permit."
       },
       "checked": "2026-11-09"
+    },
+    {
+      "passport": "UK",
+      "destination": "Guinea-Bissau",
+      "fields": {
+        "visa": "vr",
+        "note": "A visa is required. Not verified — whether it can be obtained on arrival at Bissau airport, and the fee. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Small fragile West African state — political instability common, limited tourism infrastructure. Former Portuguese colony.",
+        "stay": "Per visa granted"
+      },
+      "checked": "2026-11-14"
     },
     {
       "passport": "US",
@@ -993,9 +1003,9 @@
       "destination": "Mali",
       "fields": {
         "visa": "ev",
-        "note": "E-visa — the application and payment are fully online via the Malian Ministry of Foreign Affairs website, and the entry permit is issued electronically once approved; no documents need to be sent to the Malian Embassy in Brussels, which covers the UK. No visa on arrival is published on any Malian government source. Passport must be valid for the duration of your stay; yellow fever vaccination certificate required."
+        "note": "E-visa — the application and payment are fully online via the Malian Ministry of Foreign Affairs website, and the entry permit is issued electronically once approved; no documents need to be sent to the Malian Embassy in Brussels, which covers the UK. No visa on arrival is published on any Malian government source. Passport must be valid for the duration of your stay. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-11-11"
+      "checked": "2026-11-14"
     },
     {
       "passport": "AU",
@@ -1012,11 +1022,11 @@
       "passport": "IN",
       "destination": "Guinea-Bissau",
       "fields": {
-        "note": "Visa on arrival. Passport must be valid at least 6 months after entry. A yellow fever vaccination certificate is required.",
+        "note": "Visa on arrival. Passport must be valid at least 6 months after entry. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over.",
         "stay": "90 days",
         "cost": "USD 100"
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-14"
     },
     {
       "passport": "NZ",
@@ -2850,6 +2860,142 @@
         "note": "Visa required — Ireland is in none of Ghana's exemption categories. Apply for an e-Visa. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Guinea-Bissau",
+      "fields": {
+        "note": "Visa on arrival. Not verified — no official fee or stay length published for this passport. Guinea-Bissau publishes no official traveller portal, and sites claiming to be the official e-visa openly admit they have no mandate — trust none of them. Passport valid at least 3 months. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Guinea-Bissau",
+      "fields": {
+        "note": "A visa is required. Guinea-Bissau publishes no traveller-facing visa portal: the foreign ministry's visa page (mne.gw) says only that it is being updated, and at least one site styling itself the official e-visa openly declares it has no official mandate. Do not trust third-party 'official' Guinea-Bissau visa sites. Passport valid at least 3 months. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Guinea-Bissau",
+      "fields": {
+        "note": "No traveller-facing official portal exists for this destination. The foreign ministry site (mne.gw) loads, but its visa page says only that it is being updated, and no immigration site was found. A biometric visa does appear to be issued on arrival at Bissau airport with online pre-enrolment beforehand, at around EUR 61 plus a EUR 2.50 processing fee, but the site quoting those figures (rgb-visa.com) could not be confirmed as government-run and its own pages contradict each other on whether the stay is 30 or 90 days. Contact a Guinea-Bissau mission before travelling; do not rely on those figures. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Guinea-Bissau",
+      "fields": {
+        "note": "Visa on arrival. Not verified — no official fee or stay length published for this passport. Guinea-Bissau publishes no official traveller portal, and sites claiming to be the official e-visa openly admit they have no mandate — trust none of them. Passport valid at least six months. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Guinea-Bissau",
+      "fields": {
+        "note": "No embassy in this passport's home country — get a visa in advance from a Guinea-Bissau embassy abroad. Passport valid at least 6 months after entry. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Sites claiming to be the official e-visa (e.g. rgb-visa.com) are not confirmed as government-run — don't pay them."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Guinea-Bissau",
+      "fields": {
+        "note": "A visa is required: apply in advance at the Guinea-Bissau embassy in Brussels, or get one on arrival at the airport (EUR 80 for 30 days) — not available at land borders. Passport must be valid six months beyond the trip. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Sites claiming to be the official e-visa (e.g. rgb-visa.com) are not confirmed as government-run — don't pay them."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Guinea-Bissau",
+      "fields": {
+        "note": "No embassy in this passport's home country — get a visa in advance from a Guinea-Bissau embassy abroad. Passport valid at least 6 months after entry. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Sites claiming to be the official e-visa (e.g. rgb-visa.com) are not confirmed as government-run — don't pay them."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Guinea-Bissau",
+      "fields": {
+        "note": "No embassy in this passport's home country — get a visa in advance from a Guinea-Bissau embassy abroad. Passport valid at least 6 months after entry. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Sites claiming to be the official e-visa (e.g. rgb-visa.com) are not confirmed as government-run — don't pay them."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Mali",
+      "fields": {
+        "note": "Australian residents can apply by email to Mali's embassy in Tokyo via the form above — the visa is emailed back, no in-person visit or posted passport needed. This route is by residence, not passport, so it does not apply if you live outside Australia, New Zealand, South Korea or the Philippines. Passport valid 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Mali",
+      "fields": {
+        "note": "Visa required in advance from a Malian mission; no visa on arrival is published on any Malian government source. Passport valid 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Canada has an embassy in Bamako, whose consular district also covers Niger. NO JOINT ALLIANCE OF SAHEL STATES VISA IS CONFIRMED IN FORCE — Mali and Niger both still run national visa regimes, and no official source states otherwise."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Mali",
+      "fields": {
+        "note": "New Zealand residents can apply by email to Mali's embassy in Tokyo via the form above — the visa is emailed back, no in-person visit or posted passport needed. This route is by residence, not passport, so it does not apply if you live outside New Zealand, Australia, South Korea or the Philippines. Mali's exemption list covers ECOWAS states and a short list of others; New Zealand is not on it. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Mali",
+      "fields": {
+        "note": "Mali suspended visa issuance for US citizens from 1 January 2026, with limited exceptions — confirm current status with a Malian mission before applying. Visa in advance from a Malian mission — no visa on arrival is published on any Malian government source. Passport valid 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Mali",
+      "fields": {
+        "note": "Apply by mail or courier to the Embassy of Mali in Tokyo, or via the Honorary Consulate of Mali in Seoul. Passport valid 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Mali",
+      "fields": {
+        "note": "The Embassy of Mali in Berlin (ambassademali.de) serves Germany, and also covers Austria, Poland, Denmark, Sweden, Iceland, Finland, Norway, Estonia, Latvia and Lithuania. Visa submissions are accepted Monday–Thursday 10:00–15:00; collection only by embassy invitation. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Mali",
+      "fields": {
+        "note": "Since 11 March 2025 all applications go through the diplomatiemdc.gouv.ml portal; paper applications are no longer accepted. Needed: passport valid 6+ months, photo, legalised invitation letter or hotel booking and return flight booking. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Mali",
+      "fields": {
+        "note": "Visa matters for Dutch passports go to the Embassy of Mali in Brussels (amba-mali.be), not the Berlin embassy. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Mali",
+      "fields": {
+        "note": "The Embassy of Mali in Brussels may be accredited to Ireland, but this is unconfirmed — check before applying. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -2962,6 +3108,20 @@
       "destination": "Ghana",
       "fields": {
         "blurb": "Hard currency must be declared. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Fees are set by each mission rather than nationally, and the visa only gets you to the border — the officer decides how long you may stay. Visa on arrival is not a tourist route: it is a pre-approved emergency permit at USD 200."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Guinea-Bissau",
+      "fields": {
+        "blurb": "Guinea-Bissau publishes no official traveller portal. Germany's foreign office tells German citizens that a visa can be obtained on arrival at the airport (EUR 80 for 30 days) but not at land borders, and that tourist visas should where possible be applied for in advance at the embassy in Brussels. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Mali",
+      "fields": {
+        "blurb": "Mali's embassy in Washington lists visa-free entry for ECOWAS citizens and citizens of Algeria, Cameroon, Andorra, Monaco, Chad, Gambia, Morocco, Mauritania and Tunisia. For UK travellers a visa is required, and the application and payment are fully online via the Malian Ministry of Foreign Affairs website, which directs applicants to the competent embassy or consulate; the Malian Embassy in Brussels covers the UK. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
       "checked": "2026-11-14"
     }
