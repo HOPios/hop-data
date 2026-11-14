@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T03:09:05Z",
+  "generated_at": "2026-11-14T03:10:05Z",
   "entries": [
     {
       "passport": "CA",
@@ -2065,8 +2065,10 @@
       "passport": "NZ",
       "destination": "Eritrea",
       "fields": {
-        "stay_days": 30
-      }
+        "stay_days": 30,
+        "note": "There is no national portal: the page linked here belongs to the Washington mission, not Asmara, and its fees and forms apply there only. The application goes to an Eritrean embassy or consulate, which forwards it to the Immigration Office in Asmara — allow up to four weeks. Note that Eritrea requires exit visas of its own nationals; whether that reaches foreign tourists is not stated on any official page, so ask when you apply. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
     },
     {
       "passport": "UK",
@@ -3665,9 +3667,10 @@
       "passport": "IN",
       "destination": "Eritrea",
       "fields": {
-        "stay": "1 month from the date of entry; can be extended in Eritrea depending on the type of visa"
+        "stay": "1 month from the date of entry; can be extended in Eritrea depending on the type of visa",
+        "note": "The entry visa is valid for one month from the date of entry and can be extended in Eritrea (in Asmara), depending on the visa type. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-14"
     },
     {
       "passport": "AU",
@@ -3901,9 +3904,10 @@
       "passport": "CA",
       "destination": "Eritrea",
       "fields": {
-        "stay": "Usually one month, extendable at Immigration in Asmara; enter within 3 months of issue"
+        "stay": "Usually one month, extendable at Immigration in Asmara; enter within 3 months of issue",
+        "note": "Visa must be obtained before travel from an Eritrean mission; processing is slow, so apply well ahead. Land borders with Ethiopia and Djibouti are closed. A SEPARATE INTERNAL TRAVEL PERMIT IS REQUIRED FOR ALL TRAVEL BEYOND 25 KM FROM ASMARA — that catches almost every tourist itinerary. Visas are valid three months from issue. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
       },
-      "checked": "2026-11-13"
+      "checked": "2026-11-14"
     },
     {
       "passport": "IN",
@@ -5946,6 +5950,142 @@
         "note": "A cash visa on arrival in USD is available alongside the eVisa. Passport valid 6+ months after arrival. Evidence of onward travel required. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Eritrea",
+      "fields": {
+        "note": "Visa from an Eritrean mission before travel; processing is slow, so apply well ahead. Land borders with Ethiopia and Djibouti are closed, and a separate internal travel permit is required for all travel beyond 25 km from Asmara — which catches nearly every tourist itinerary. Visas are valid three months from issue. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Eritrea",
+      "fields": {
+        "note": "FCDO advises against travel to international border areas (Ethiopia, Djibouti, Sudan borders). Visa via embassy — Eritrea is one of the world's most closed societies. Internal travel permits required to leave Asmara. Military-age males face conscription risk. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Eritrea",
+      "fields": {
+        "note": "Visa from an Eritrean mission before travel; processing is slow, so apply well ahead. Land borders with Ethiopia and Djibouti are closed, and a separate internal travel permit is required for all travel beyond 25 km from Asmara — which catches nearly every tourist itinerary. Visas are valid three months from issue. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Eritrea",
+      "fields": {
+        "note": "There is no Eritrean mission in South Korea. Fee and process details are those of the Washington DC mission. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Eritrea",
+      "fields": {
+        "note": "Visa required in advance from the Consulate in Frankfurt or the Embassy in Berlin. Proof of German residence is required, so this route is for Germany-based applicants. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Eritrea",
+      "fields": {
+        "note": "There is an Embassy of Eritrea in The Hague, but it has no published fee schedule. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Eritrea",
+      "fields": {
+        "note": "No Eritrean mission in Ireland; the nearest is the embassy in London (96 White Lion Street). A yellow fever certificate is needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Eswatini",
+      "fields": {
+        "note": "No visa required under Eswatini's own visa table. Passport valid 6 months with 2 blank pages. A further 30-day extension can be applied for at the Ministry of Home Affairs; staying longer than 60 days needs a Temporary Residence Permit. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Eswatini",
+      "fields": {
+        "note": "Canada is marked 'N' — no visa required — on Eswatini's own government visa-requirement table, and Eswatini states that any country not on that table needs no visa. Passport valid 6 months with 2 blank pages. A further 30-day extension can be applied for at the Ministry of Home Affairs; staying longer than 60 days needs a Temporary Residence Permit. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Eswatini",
+      "fields": {
+        "note": "Eswatini's rule is that anyone not on its visa-required list needs no visa, and New Zealand is not on it. A further 30 days can be applied for at the Ministry of Home Affairs; beyond that you need a temporary residence permit. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Eswatini",
+      "fields": {
+        "note": "Visa-free 30 days (Commonwealth member). Formerly Swaziland. Absolute monarchy — discretion advised around political topics. Frequently combined with South Africa itineraries. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Eswatini",
+      "fields": {
+        "note": "No visa required under Eswatini's own visa table. Passport valid 6 months with 2 blank pages. A further 30-day extension can be applied for at the Ministry of Home Affairs; staying longer than 60 days needs a Temporary Residence Permit. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Eswatini",
+      "fields": {
+        "note": "South Korea is visa-exempt. Passport must be valid 3+ months after arrival with at least 2 blank pages. Check the entry stamp carries the correct date — a wrong date can lead to refused re-entry for up to a year. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Eswatini",
+      "fields": {
+        "note": "Visa-exempt. Passport valid 3+ months after arrival with at least 2 blank pages. Check the entry stamp carries the correct date — a wrong date can lead to refused re-entry for up to a year. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Eswatini",
+      "fields": {
+        "note": "Visa required. India is not on Eswatini's visa-exempt list. Apply before you travel, online through Eswatini's eVisa portal (Ministry of Home Affairs; processing typically 2–5 business days) or through the Eswatini High Commission in Kuala Lumpur, Malaysia. There is no visa on arrival. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Eswatini",
+      "fields": {
+        "note": "Visa-exempt. Passport valid 3+ months after arrival with at least 2 blank pages. Check the entry stamp carries the correct date — a wrong date can mean refused re-entry for up to a year. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Eswatini",
+      "fields": {
+        "note": "Visa-exempt. Passport valid 3+ months with 2 blank pages. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -6177,6 +6317,20 @@
       "destination": "Djibouti",
       "fields": {
         "blurb": "Every visitor needs a visa. The government e-visa portal is the official route, and approval before you fly avoids depending on what the airport issues on the day. Your passport must be valid six months on arrival, and you need proof of onward travel. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Eritrea",
+      "fields": {
+        "blurb": "Applications go to an Eritrean embassy or consulate, which forwards them to the Immigration Office in Asmara, so allow up to four weeks. The link is the Washington mission's own visa page, not a national portal, so its fees and forms apply there only. Internal travel permits are required to leave Asmara. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Eswatini",
+      "fields": {
+        "blurb": "Eswatini works by exception: anyone not on its visa-required list needs no visa. Travellers who do need one apply online through the Ministry of Home Affairs eVisa portal; there is no visa on arrival. A further 30 days can be applied for at the Ministry of Home Affairs, and beyond that you need a temporary residence permit. Formerly Swaziland, and an absolute monarchy — discretion is advised around political topics. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
       },
       "checked": "2026-11-14"
     }
