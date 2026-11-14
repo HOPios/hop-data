@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T03:10:05Z",
+  "generated_at": "2026-11-14T03:11:02Z",
   "entries": [
     {
       "passport": "CA",
@@ -2682,9 +2682,9 @@
         "stay": "Set by the immigration officer at the point of entry",
         "extension": "Possible — apply online at fns.immigration.go.ke (Foreign Nationals Management Services); a visitor's pass can be extended to a maximum of 6 months",
         "ext_cost": "USD 50 application and processing fee (the same Immigration page also says \"The service attracts no charges\")",
-        "note": "Ordinary passports need an eTA. Apply at least 2 weeks before travel; processing normally 3 working days. Passport valid at least 6 months with one blank page. Have a photo, itinerary, accommodation booking and payment method ready. The eTA is valid for travel within 90 days of issue."
+        "note": "Ordinary passports need an eTA. Apply at least 2 weeks before travel; processing normally 3 working days. Passport valid at least 6 months with one blank page. Have a photo, itinerary, accommodation booking and payment method ready. The eTA is valid for travel within 90 days of issue. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       },
-      "checked": "2026-11-09"
+      "checked": "2026-11-14"
     },
     {
       "passport": "IE",
@@ -6086,6 +6086,158 @@
         "note": "Visa-exempt. Passport valid 3+ months with 2 blank pages. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Ethiopia",
+      "fields": {
+        "note": "VOA at Addis only. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Ethiopia",
+      "fields": {
+        "note": "Single-entry electronic visa, applied for online; a separate on-arrival tourist visa product also exists. Processing takes about 3 days, so apply at least 3 days before arrival. Passport valid 6 months from intended entry. Transit passengers connecting at Addis Ababa without leaving the airport need no visa. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. evisa.gov.et is the only official address. Other websites that offer to submit the application for you are not operated by the Government of Ethiopia and may charge an additional fee."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Ethiopia",
+      "fields": {
+        "note": "Apply online before travel; the visa is stamped in on arrival at Addis Ababa. Only single-entry tourist visas are issued online — multiple entry goes through an embassy. Visa on arrival is mentioned by Ethiopian sources but none names New Zealand as eligible, so do not count on it. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Ethiopia",
+      "fields": {
+        "note": "eVisa required — apply at evisa.gov.et before travel (visa-on-arrival available only at Addis Ababa Bole Airport). ⚠️ FCDO advises against travel to Tigray, parts of Amhara, Oromia, Afar, Somali and Benishangul-Gumuz regions due to conflict. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Ethiopia",
+      "fields": {
+        "note": "eVisa or VOA at Addis Ababa. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Ethiopia",
+      "fields": {
+        "note": "Passport valid 6+ months from intended entry date; one recent passport-size photo required. Processing time is normally 3 days. Use only the official portal, evisa.gov.et. Other websites that offer to submit the application for you are not operated by the Government of Ethiopia and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Ethiopia",
+      "fields": {
+        "note": "Passport valid 6+ months from intended entry date; one recent passport-size photo required. Processing time is normally 3 days. Use only the official portal, evisa.gov.et. Other websites that offer to submit the application for you are not operated by the Government of Ethiopia and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Ethiopia",
+      "fields": {
+        "note": "Passport valid 6+ months from intended entry date; one recent passport-size photo required. Processing time is normally 3 days. Use only the official portal, evisa.gov.et. Other websites that offer to submit the application for you are not operated by the Government of Ethiopia and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Ethiopia",
+      "fields": {
+        "note": "Passport valid 6+ months from intended entry date; one recent passport-size photo required. Processing time is normally 3 days. Use only the official portal, evisa.gov.et. Other websites that offer to submit the application for you are not operated by the Government of Ethiopia and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Ethiopia",
+      "fields": {
+        "note": "Passport valid 6+ months from intended entry date; one recent passport-size photo required. Processing time is normally 3 days. Use only the official portal, evisa.gov.et. Other websites that offer to submit the application for you are not operated by the Government of Ethiopia and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Kenya",
+      "fields": {
+        "note": "eTA required for every visitor — apply at etakenya.go.ke about 3 working days ahead; the standard eTA is single entry. The 90-day figure on the portal is the travel window after issue, not your permitted stay, which the officer sets at entry. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Kenya",
+      "fields": {
+        "note": "Kenya abolished visas and replaced them with a mandatory eTA for every visitor including infants and children. Canada is not on any exemption list. The standard eTA is SINGLE ENTRY. Apply about 3 working days ahead. Careful: the '90 days' figure on Kenya's portal is the window in which you must TRAVEL after issue — it is not your permitted stay, which the officer sets at the border. Kenyan officials do spot-check certificates, so carry it. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Kenya",
+      "fields": {
+        "note": "New Zealand is not on any of Kenya's eTA exemption lists, so an eTA is required before travel. Important: the 90 days you will see quoted is how long the eTA is valid FOR TRAVEL, not how long you may stay — the length of stay is set at the point of entry. Apply through the official website of the Government of Kenya, www.etakenya.go.ke. Other websites that offer to submit the application for you are not operated by the Government of Kenya and may charge an additional fee. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Kenya",
+      "fields": {
+        "note": "eTA required for all visitors — apply at etakenya.go.ke. The stay is set by the officer at entry; the 90-day figure is the eTA's travel window, not a guaranteed stay. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Kenya",
+      "fields": {
+        "note": "eTA required for all visitors — apply at etakenya.go.ke. The stay is set by the officer at entry; the 90-day figure is the eTA's travel window, not a guaranteed stay. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Kenya",
+      "fields": {
+        "note": "Ordinary passports need an eTA. Apply at least 2 weeks before travel; processing normally 3 working days. Passport valid at least 6 months with one blank page. Have a photo, itinerary, accommodation booking and payment method ready. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Kenya",
+      "fields": {
+        "note": "Ordinary passports need an eTA. Apply at least 2 weeks before travel; processing normally 3 working days. Passport valid at least 6 months with one blank page. Have a photo, itinerary, accommodation booking and payment method ready. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Kenya",
+      "fields": {
+        "note": "Ordinary passports need an eTA. Apply at least 2 weeks before travel; processing normally 3 working days. Passport valid at least 6 months with one blank page. Have a photo, itinerary, accommodation booking and payment method ready. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Kenya",
+      "fields": {
+        "note": "Ordinary passports need an eTA. Apply at least 2 weeks before travel; processing normally 3 working days. Passport valid at least 6 months with one blank page. Have a photo, itinerary, accommodation booking and payment method ready. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -6331,6 +6483,20 @@
       "destination": "Eswatini",
       "fields": {
         "blurb": "Eswatini works by exception: anyone not on its visa-required list needs no visa. Travellers who do need one apply online through the Ministry of Home Affairs eVisa portal; there is no visa on arrival. A further 30 days can be applied for at the Ministry of Home Affairs, and beyond that you need a temporary residence permit. Formerly Swaziland, and an absolute monarchy — discretion is advised around political topics. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Ethiopia",
+      "fields": {
+        "blurb": "Apply online at evisa.gov.et before travel; the visa is stamped in on arrival at Addis Ababa. Only single-entry tourist visas are issued online — multiple entry goes through an embassy. Visa on arrival, where it is available at all, is offered only at Addis Ababa Bole Airport. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Kenya",
+      "fields": {
+        "blurb": "An eTA replaced the eVisa in 2024. The 90 days you will see quoted is how long the eTA is valid for travel, not how long you may stay — the length of stay is set at the point of entry. Apply through the official website of the Government of Kenya, www.etakenya.go.ke. Other websites that offer to submit the application for you are not operated by the Government of Kenya and may charge an additional fee. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       },
       "checked": "2026-11-14"
     }
