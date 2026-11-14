@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T03:14:46Z",
+  "generated_at": "2026-11-14T03:15:31Z",
   "entries": [
     {
       "passport": "CA",
@@ -302,6 +302,15 @@
       "checked": "2026-11-12"
     },
     {
+      "passport": "KR",
+      "destination": "Zambia",
+      "fields": {
+        "stay": "30 days per entry",
+        "note": "Visa-exempt. Air arrivals need a return air ticket; land and water arrivals need enough funds for their stay and departure. The KAZA UniVisa (USD 50) also covers Zimbabwe and Botswana day trips, and South Korea is on its eligible list — but it isn't needed just to enter Zambia. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
       "passport": "US",
       "destination": "Gambia",
       "fields": {
@@ -429,6 +438,78 @@
       "checked": "2026-11-14"
     },
     {
+      "passport": "CA",
+      "destination": "Seychelles",
+      "fields": {
+        "stay": "Up to 90 days, extendable to 365 days in total",
+        "note": "SEYCHELLES ISSUES NO VISA AT ALL — a Visitor's Permit is granted on arrival. But every traveller must hold a PAID pre-arrival Travel Authorisation before departing, so this is not visa-free in practice. You need an airline booking, an accommodation booking for each location you will stay at, and proof of funds. The permit itself is free for the first three months. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Seychelles",
+      "fields": {
+        "stay": "Up to 90 days",
+        "note": "Seychelles issues no visas at all — a Visitor's Permit is granted on arrival — but every traveller must hold the PAID pre-arrival Travel Authorisation (€10) before departure. Have your airline booking, accommodation for every stop and proof of funds ready. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Seychelles",
+      "fields": {
+        "stay": "Up to 90 days",
+        "note": "Online ETA €10. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Seychelles",
+      "fields": {
+        "stay": "Up to 90 days, permit on arrival",
+        "note": "Seychelles is often described as visa-free, and technically it is — but a pre-arrival Travel Authorisation is compulsory for everyone and there is a penalty if you arrive without one. Applications open 10 days before the flight. You also need a confirmed return ticket, confirmed accommodation and funds of at least USD 150 a day. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Seychelles",
+      "fields": {
+        "stay": "Up to 90 days",
+        "note": "Seychelles issues no visas at all — every visitor, regardless of nationality, must obtain a paid Travel Authorisation online before departure, then is granted a Visitor's Permit on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Seychelles",
+      "fields": {
+        "stay": "Up to 90 days",
+        "note": "Seychelles issues no visas at all — every visitor, regardless of nationality, must obtain a paid Travel Authorisation online before departure, then is granted a Visitor's Permit on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Seychelles",
+      "fields": {
+        "stay": "Up to 90 days",
+        "note": "Seychelles issues no visas at all — every visitor, regardless of nationality, must obtain a paid Travel Authorisation online before departure, then is granted a Visitor's Permit on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Seychelles",
+      "fields": {
+        "stay": "Up to 90 days",
+        "note": "Seychelles issues no visas at all — every visitor, regardless of nationality, must obtain a paid Travel Authorisation online before departure, then is granted a Visitor's Permit on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
       "passport": "NZ",
       "destination": "Eritrea",
       "fields": {
@@ -549,6 +630,15 @@
         "stay": "Set by the officer at entry, up to 6 months; extendable"
       },
       "checked": "2026-11-13"
+    },
+    {
+      "passport": "CA",
+      "destination": "Zambia",
+      "fields": {
+        "stay": "90 days per calendar year",
+        "note": "Canada is on Zambia's own list of nationalities that do not require a visa — this is a genuine exemption, not merely a waived fee. Arriving by air you must hold a valid return ticket. Officers commonly stamp only 30 days even though the entitlement is 90, and extensions are then granted free at any immigration office. The KAZA UNIVISA (USD 50) also covers Zimbabwe and Botswana day trips, and Canada is on its eligible list — but it isn't needed just to enter Zambia. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
     },
     {
       "passport": "KR",
@@ -1673,17 +1763,19 @@
       "passport": "US",
       "destination": "Zambia",
       "fields": {
-        "stay": "90 days free in any period of 12 months from the day of first entry; the days may not be granted all at once, so a free extension at an Immigration Office may be needed"
+        "stay": "90 days free in any period of 12 months from the day of first entry; the days may not be granted all at once, so a free extension at an Immigration Office may be needed",
+        "note": "On Zambia's no-visa list — a genuine exemption, not a waived fee. Arriving by air you must hold a return ticket. Officers commonly stamp only 30 days though the entitlement is 90; extensions are then granted free at any immigration office. Doing Victoria Falls? The KAZA Univisa (USD 50) covers Zambia and Zimbabwe. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-14"
     },
     {
       "passport": "IE",
       "destination": "Zambia",
       "fields": {
-        "stay": "90 days free in any period of 12 months from the day of first entry; the days may not be granted all at once, so a free extension at an Immigration Office may be needed"
+        "stay": "90 days free in any period of 12 months from the day of first entry; the days may not be granted all at once, so a free extension at an Immigration Office may be needed",
+        "note": "Visa-free. Air arrivals must hold a return air ticket; land and water arrivals need sufficient funds for their stay and departure. The KAZA UniVisa (USD 50) also covers Zimbabwe and Botswana day trips, but it isn't needed just to enter Zambia. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-14"
     },
     {
       "passport": "DE",
@@ -4963,6 +5055,70 @@
         "note": "As an EU citizen, Ireland qualifies for São Tomé's 15-day visa-exemption law (Lei n.º 5/2015, amending Article 25 of Lei n.º 5/2008), alongside USA and CPLP citizens. For stays beyond 15 days, a visa must be obtained in advance. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Seychelles",
+      "fields": {
+        "note": "Seychelles Electronic Travel Authorization (ETA) required since 2024 — apply at seychelles.govtas.com 72h+ before travel. Technically 'visa-free' but ETA is mandatory. Proof of accommodation, return ticket, funds required. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Seychelles",
+      "fields": {
+        "note": "Visa-free, but every visitor must get the paid Seychelles Travel Authorisation online before departure, then is granted a Visitor's Permit on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Zambia",
+      "fields": {
+        "note": "Universal visa covers Zim. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Zambia",
+      "fields": {
+        "note": "New Zealand is on Zambia's visa-exempt list. Arriving by air you must hold a valid return ticket. If you are also crossing to Zimbabwe, the KAZA UniVisa at USD 50 covers both countries plus Botswana day trips at Kazungula for 30 days — but since Zambia alone is already free for New Zealanders, it is only worth buying if Zimbabwe is on the itinerary. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Zambia",
+      "fields": {
+        "note": "Visa-FREE for UK (since 2022). Max 90 days total in any 12-month period. KAZA UniVisa (USD 50, 30 days) is good if visiting Zimbabwe and Zambia plus Botswana day trips. Departure tax USD 25 (usually in airfare). A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Zambia",
+      "fields": {
+        "note": "Visa-exempt. Air arrivals need a return ticket; land and water arrivals need enough funds for the stay and departure. The KAZA UniVisa (USD 50) also covers Zimbabwe and Botswana day trips, and Germany is on its eligible list — but it isn't needed just to enter Zambia. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Zambia",
+      "fields": {
+        "note": "Not on Zambia's visa-exemption list, so an e-visa is required. Travellers under 16 cannot apply for their own e-visa and must be included on an accompanying adult's application. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Zambia",
+      "fields": {
+        "note": "Air arrivals need a return ticket; land and water arrivals need sufficient funds for the stay and departure. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -5278,6 +5434,20 @@
       "destination": "Sao Tome and Principe",
       "fields": {
         "blurb": "Where there is no Sao Tomean diplomatic post, an entry authorisation must be obtained online before flying — visa on arrival is explicitly refused to travellers coming from countries with no post. Allow seven working days, and expect to show a passport valid three months beyond the stay, return tickets, accommodation and funds of about EUR 100 a day. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Seychelles",
+      "fields": {
+        "blurb": "Often described as visa-free, and technically it is — but a pre-arrival Travel Authorisation is compulsory for everyone and there is a penalty for arriving without one. Applications open 10 days before the flight, at seychelles.govtas.com. You also need a confirmed return ticket, confirmed accommodation and funds of at least USD 150 a day. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Zambia",
+      "fields": {
+        "blurb": "Arriving by air you must hold a valid return ticket. If you are also crossing into Zimbabwe, the KAZA UniVisa at USD 50 covers both countries plus Botswana day trips at Kazungula for 30 days. A departure tax of USD 25 applies, usually included in the airfare. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
       "checked": "2026-11-14"
     }
