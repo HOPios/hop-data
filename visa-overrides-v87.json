@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T03:07:27Z",
+  "generated_at": "2026-11-14T03:08:15Z",
   "entries": [
     {
       "passport": "CA",
@@ -10,6 +10,16 @@
         "note": "Rwanda grants a visa on arrival to citizens of EVERY country with no prior application, and has since 1 January 2018. Canadians get the V1 visitor visa. You can also get it in advance online through Irembo, at an immigration office or at a Rwandan mission. As a Commonwealth country, Canadians get the visa on arrival free for a 30-day visit. The East Africa Tourist Visa (class V11, USD 100) covers Kenya, Uganda and Rwanda; Rwanda's immigration directorate says it may be extended in exceptional circumstances, while Canada's travel advice says it cannot be extended. Yellow fever proof only if arriving from a risk country."
       },
       "checked": "2026-11-10"
+    },
+    {
+      "passport": "CA",
+      "destination": "Bolivia",
+      "fields": {
+        "stay": "30 days on entry, extendable twice by 30 days at no cost, up to 90 days per calendar year",
+        "extension": "Possible — apply to the General Directorate of Migration before the end of the 30-day period; a 30-day extension can be obtained twice, to a maximum of 90 days in a calendar year",
+        "note": "Bolivia sorts nationalities into Grupo I / II / III; Canada is treated as Grupo I and needs no tourist visa. Passport must be valid at least 6 months. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk. The 90 days is an annual allowance, not per entry."
+      },
+      "checked": "2026-11-14"
     },
     {
       "passport": "UK",
@@ -106,27 +116,27 @@
       "destination": "Aruba",
       "fields": {
         "stay": "30 days on arrival; extension on request up to 90 days, depending on your funds or a local guarantee; up to 180 days if you own a home, timeshare or a 14 m+ moored yacht in Aruba, or if you are the spouse or child of a home or timeshare owner who has given a guarantee; at most 180 days in a calendar year",
-        "note": "Visa-free, but the online ED card is mandatory before arrival and a USD 20 sustainability fee applies to air arrivals. Proof of accommodation (or enough funds) and an onward ticket required. Outside the hurricane belt. Yellow fever certificate if arriving from an endemic area."
+        "note": "Visa-free, but the online ED card is mandatory before arrival and a USD 20 sustainability fee applies to air arrivals. Proof of accommodation (or enough funds) and an onward ticket required. Outside the hurricane belt. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-14"
     },
     {
       "passport": "US",
       "destination": "Aruba",
       "fields": {
         "stay": "30 days on arrival; extension on request up to 90 days, depending on your funds or a local guarantee; up to 180 days if you own a home, timeshare or a 14 m+ moored yacht in Aruba, or if you are the spouse or child of a home or timeshare owner who has given a guarantee; at most 180 days in a calendar year",
-        "note": "Visa-free. The online ED card is still mandatory and a USD 20 sustainability fee applies. Aruba has US pre-clearance, so you arrive home as a domestic passenger."
+        "note": "Visa-free. The online ED card is still mandatory and a USD 20 sustainability fee applies. Aruba has US pre-clearance, so you arrive home as a domestic passenger. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-14"
     },
     {
       "passport": "UK",
       "destination": "Aruba",
       "fields": {
         "stay": "30 days on arrival; extension on request up to 90 days, depending on your funds or a local guarantee; up to 180 days if you own a home, timeshare or a 14 m+ moored yacht in Aruba, or if you are the spouse or child of a home or timeshare owner who has given a guarantee; at most 180 days in a calendar year",
-        "note": "Visa-free, but the online ED (Embarkation/Disembarkation) card is mandatory before arrival, and a USD 20 sustainability fee applies to air arrivals — both handled on the same portal. Proof of accommodation (or enough funds) and an onward ticket required. Outside the hurricane belt, so year-round travel works."
+        "note": "Visa-free, but the online ED (Embarkation/Disembarkation) card is mandatory before arrival, and a USD 20 sustainability fee applies to air arrivals — both handled on the same portal. Proof of accommodation (or enough funds) and an onward ticket required. Outside the hurricane belt, so year-round travel works. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-14"
     },
     {
       "passport": "UK",
@@ -1081,9 +1091,10 @@
       "passport": "KR",
       "destination": "Bolivia",
       "fields": {
-        "stay": "90 days on entry, up to 90 per year"
+        "stay": "90 days on entry, up to 90 per year",
+        "note": "Visa-free since 2 December 2025 under Decreto Supremo 5497. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       },
-      "checked": "2026-11-11"
+      "checked": "2026-11-14"
     },
     {
       "passport": "NL",
@@ -1700,10 +1711,10 @@
       "passport": "NZ",
       "destination": "Aruba",
       "fields": {
-        "note": "Aruba's entry rules are separate from Schengen. An online Embarkation/Disembarkation card must be completed before arrival, and a return or onward ticket plus hotel accommodation in Aruba (or enough funds) are required; a guarantee from a person or company in Aruba can replace the accommodation or funds.",
+        "note": "Aruba's entry rules are separate from Schengen. An online Embarkation/Disembarkation card must be completed before arrival, and a return or onward ticket plus hotel accommodation in Aruba (or enough funds) are required; a guarantee from a person or company in Aruba can replace the accommodation or funds. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.",
         "stay": "30 days on arrival; extension on request up to 90 days, depending on your funds or a local guarantee; up to 180 days if you own a home, timeshare or a 14 m+ moored yacht in Aruba, or if you are the spouse or child of a home or timeshare owner who has given a guarantee; at most 180 days in a calendar year"
       },
-      "checked": "2026-11-13"
+      "checked": "2026-11-14"
     },
     {
       "passport": "IN",
@@ -3768,6 +3779,118 @@
         "note": "AN ELECTRONIC TRAVEL AUTHORISATION HAS BEEN MANDATORY FOR ALL FOREIGN PASSPORT HOLDERS SINCE 1 SEPTEMBER 2025, and Canada is on no exemption list. SOMALILAND IS A SEPARATE REGIME: the federal Somali authorisation may not be recognised in Somaliland or Puntland, Somaliland runs its own immigration authority and its own e-visa, and it wants 6 months' passport validity. The Government of Canada notes Somalia's e-visa platform previously suffered a breach of travellers' personal data."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Aruba",
+      "fields": {
+        "note": "A country within the Kingdom of the Netherlands with its own rules — Schengen rules do not apply. Entry conditions are enforced: return ticket, proof of accommodation, roughly USD 150–200 per person per day, and insurance covering at least USD 15,000 in medical costs. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Aruba",
+      "fields": {
+        "note": "Passport valid for the whole stay and issued within the last 10 years; onward/return ticket; proof of funds (USD 150-200/day in a hotel, USD 100/day with family); travel insurance with at least USD 15,000 cover. A mandatory USD 20 Sustainability Fee is paid via the online ED card. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Aruba",
+      "fields": {
+        "note": "Visa-free. Passport valid for the whole stay and issued within the last 10 years; onward/return ticket; proof of funds (USD 150-200 a day in a hotel, USD 100 a day with family); travel insurance of at least USD 15,000. Mandatory USD 20 Sustainability Fee via the online ED card. Elsewhere in the Caribbean Kingdom: 90 days per 180. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Aruba",
+      "fields": {
+        "note": "Caribbean visa required before travelling to Aruba. A USD 20 Sustainability Fee and the entry conditions (funds, insurance, onward ticket) apply on top of the visa. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Aruba",
+      "fields": {
+        "note": "Passport valid for the whole stay and issued within the last 10 years; onward/return ticket and purpose of visit; funds of USD 150-200/day (hotel) or USD 100/day (with family); travel insurance of at least USD 15,000. A USD 20 Sustainability Fee is paid via the online ED card. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Aruba",
+      "fields": {
+        "note": "Visa-free, 90 days per 180. Passport valid for the stay and issued within the last 10 years; onward/return ticket; funds of USD 150-200 a day (hotel) or USD 100 a day (with family); travel insurance of at least USD 15,000. USD 20 Sustainability Fee via the online ED card. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Bolivia",
+      "fields": {
+        "note": "No tourist visa for Group I nationals. Passport valid 6+ months. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk. The 90 days is an annual allowance, not per entry."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Bolivia",
+      "fields": {
+        "note": "New Zealand sits in Bolivia's Group I, which needs no tourist visa. The stamp given is 30 days; two further 30-day extensions can be requested from the migration directorate, capped at 90 days total per year. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Bolivia",
+      "fields": {
+        "note": "Visa-free 90 days/year. ⚠️ FCDO advises against all but essential travel to Chapare region of Cochabamba. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Bolivia",
+      "fields": {
+        "note": "No tourist visa required for US citizens (State Department, 2026) — the former US$160 reciprocity-fee visa has been abolished. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Bolivia",
+      "fields": {
+        "note": "No visa needed for tourism. The 90 days are per calendar year, not a rolling window. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Bolivia",
+      "fields": {
+        "note": "Visa required in advance from the Bolivian Embassy or Consulate in New Delhi. Bring a passport valid 6+ months, a sworn declaration form, proof of accommodation or a DIGEMIG-registered invitation letter and proof of funds. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk. Visa on arrival is unconfirmed."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Bolivia",
+      "fields": {
+        "note": "Dutch citizens fall in Bolivia's Group I (Grupo I) and need no visa for tourism. Nederlandwereldwijd flags that authorities must stamp the passport on both arrival and departure to avoid a fine, and does not describe an extension process. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Bolivia",
+      "fields": {
+        "note": "Irish citizens are in Bolivia's Group I and need no visa for tourism. No Irish Embassy in Bolivia; consular cover is from the Irish Embassy in Argentina and an Honorary Consul in Santa Cruz. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -3971,6 +4094,20 @@
       "destination": "Gambia",
       "fields": {
         "blurb": "A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. Every arriving and departing passenger also pays a USD 20 (or D1000) Securiport airport fee — that is not a visa fee and is collected separately."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Aruba",
+      "fields": {
+        "blurb": "Aruba is part of the Kingdom of the Netherlands but sets its own entry rules. Every traveller, children included, must complete the online ED card within 7 days before travel and show it to the airline. Air arrivals pay a USD 20 sustainability fee. Use the official website, edcardaruba.aw. Other websites that offer to fill the ED card in for you are not operated by the Government of Aruba and may charge a fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Bolivia",
+      "fields": {
+        "blurb": "Bolivia sorts nationalities into three groups, and which group you fall into decides both whether you need a visa and whether a reciprocity fee applies. Visitors who enter without a visa are stamped in for 30 days; two further 30-day extensions can be requested from the migration directorate, capped at 90 days in any year. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       },
       "checked": "2026-11-14"
     }
