@@ -1,7 +1,16 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T03:08:15Z",
+  "generated_at": "2026-11-14T03:09:05Z",
   "entries": [
+    {
+      "passport": "CA",
+      "destination": "Cabo Verde",
+      "fields": {
+        "visa": "eta",
+        "note": "No tourist visa for Canadians for stays of up to 30 days. From 1 January 2026 nationals of 91 listed countries must hold a visa before arrival — Canada is NOT on that list, and Canadian residence permits are separately named as exempting their holders. But PRE-REGISTRATION ON THE EASE PLATFORM IS COMPULSORY for every foreign traveller, ideally at least 5 days before travel, and the airport security tax is paid through it. Canada's travel advice calls this pre-registration an ETA: complete the online form and pay the airport security fee at least 5 days before you arrive. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
     {
       "passport": "CA",
       "destination": "Rwanda",
@@ -2080,9 +2089,9 @@
       "passport": "IN",
       "destination": "Cabo Verde",
       "fields": {
-        "note": "Visa-free for 30 days, but EASE online pre-registration is mandatory, and the CVE 3,400 TSA fee applies on international flights. Some airline systems (Timatic) still ask Indian passports for a visa, so carry your EASE registration and check with your airline before flying."
+        "note": "Visa-free for 30 days, but EASE online pre-registration is mandatory, and the CVE 3,400 TSA fee applies on international flights. Some airline systems (Timatic) still ask Indian passports for a visa, so carry your EASE registration and check with your airline before flying. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       },
-      "checked": "2026-11-13"
+      "checked": "2026-11-14"
     },
     {
       "passport": "IN",
@@ -3891,6 +3900,150 @@
         "note": "Irish citizens are in Bolivia's Group I and need no visa for tourism. No Irish Embassy in Bolivia; consular cover is from the Irish Embassy in Argentina and an Honorary Consul in Santa Cruz. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Cabo Verde",
+      "fields": {
+        "note": "Not all entry points. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Cabo Verde",
+      "fields": {
+        "note": "New Zealand is not on the list of 91 countries whose nationals must hold a visa before arrival from 1 January 2026, so no visa is needed for a tourist stay. Online EASE pre-registration is still required before travel, and the airport security tax is paid through it; no visa document is issued. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Cabo Verde",
+      "fields": {
+        "note": "Visa-free since 1 Jan 2019. Must pay EASE Airport Security Tax (~€31 / £27) online before travel at ease.gov.cv — mandatory for all visitors. Popular Atlantic beach destination. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Cabo Verde",
+      "fields": {
+        "note": "Visa-free for EU. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Cabo Verde",
+      "fields": {
+        "note": "Visa-exempt for South Korean passports, but online EASE pre-registration is required before travel; no visa document is issued. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Cabo Verde",
+      "fields": {
+        "note": "No visa needed for tourist stays up to 30 days, but online pre-registration (EASE) is required before travel. Stays over 30 and up to 90 days need a visa from Cabo Verde's embassy in Berlin. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Cabo Verde",
+      "fields": {
+        "note": "Dutch passport must remain valid 3+ months on arrival. Consulate-General of Cabo Verde in Rotterdam recommended for detailed visa questions. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Cabo Verde",
+      "fields": {
+        "note": "Not verified — ireland.ie's Cabo Verde entry-requirements page did not render, so this note could not be independently confirmed against Ireland's own DFA. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Djibouti",
+      "fields": {
+        "note": "Correction: a visa on arrival, paid in cash in US dollars, is also currently available (GOV.UK, checked live) — this contradicts the \"no VOA since 2018\" framing below, which described the e-visa route only. The e-visa (evisa.gouv.dj) remains a valid alternative: needs a passport valid 6 months, onward travel, an accommodation address and an invitation letter. Tourism and business only. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Djibouti",
+      "fields": {
+        "note": "Correction: a visa on arrival, paid in cash in US dollars, is also currently available (GOV.UK, checked live) — this contradicts the \"no VOA since 2018\" framing below, which described the e-visa route only. The e-visa REPLACES the visa that used to be issued at the point of entry — Djibouti's own portal says so, and remains valid for ONE ENTRY only. You need a passport valid 6 months, a flight reservation, an accommodation address and an INVITATION LETTER from an organisation or host with their contact details, which is the requirement most tourists are not expecting. Payment by Visa, Mastercard or Amex. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Djibouti",
+      "fields": {
+        "note": "Correction: a visa on arrival, paid in cash in US dollars, is also currently available (GOV.UK, checked live) — this contradicts the \"no VOA since 2018\" framing below, which described the e-visa route only. The e-visa route is open to all ordinary passport holders, and covers tourism and business only — any other purpose goes through a Djiboutian embassy or consulate. You will need a passport valid 6 months, onward travel, an accommodation address and an invitation letter. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Djibouti",
+      "fields": {
+        "note": "Correction: a visa on arrival, paid in cash in US dollars, is also currently available (GOV.UK, checked live) — this contradicts the \"no VOA since 2018\" framing below, which described the e-visa route only. The e-visa (evisa.gouv.dj) remains a valid alternative: needs a passport valid 6 months, onward travel, an accommodation address and an invitation letter. Tourism and business only. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Djibouti",
+      "fields": {
+        "note": "Correction: a visa on arrival, paid in cash in US dollars, is also currently available (GOV.UK, checked live) — this contradicts the \"no VOA since 2018\" framing below, which described the e-visa route only. The e-visa (evisa.gouv.dj) remains a valid alternative for pre-approval before travel. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Djibouti",
+      "fields": {
+        "note": "A cash visa on arrival in USD is available alongside the eVisa. Passport valid 6+ months after arrival. Evidence of onward travel required. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. There is no Korean embassy in Djibouti — the Korean Embassy in Addis Ababa, Ethiopia covers it."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Djibouti",
+      "fields": {
+        "note": "A cash visa on arrival in USD is available alongside the eVisa. Passport valid 6+ months after arrival. Evidence of onward travel required. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Djibouti",
+      "fields": {
+        "note": "eVisa, or a cash visa on arrival paid in USD. Passport valid 6+ months after arrival. Evidence of onward travel required. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Djibouti",
+      "fields": {
+        "note": "Cash visa on arrival in USD is available alongside the eVisa. Passport valid 6+ months after arrival. Evidence of onward travel required. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Djibouti",
+      "fields": {
+        "note": "A cash visa on arrival in USD is available alongside the eVisa. Passport valid 6+ months after arrival. Evidence of onward travel required. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -4108,6 +4261,20 @@
       "destination": "Bolivia",
       "fields": {
         "blurb": "Bolivia sorts nationalities into three groups, and which group you fall into decides both whether you need a visa and whether a reciprocity fee applies. Visitors who enter without a visa are stamped in for 30 days; two further 30-day extensions can be requested from the migration directorate, capped at 90 days in any year. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Cabo Verde",
+      "fields": {
+        "blurb": "Every traveller, exempt or not, must pre-register on the EASE platform up to 5 days before travel and pay the airport security tax of about EUR 31; paying at the border instead costs more. Where a visa on arrival applies, it is not available at every entry point. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Djibouti",
+      "fields": {
+        "blurb": "Every visitor needs a visa. The government e-visa portal is the official route, and approval before you fly avoids depending on what the airport issues on the day. Your passport must be valid six months on arrival, and you need proof of onward travel. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
       "checked": "2026-11-14"
     }
