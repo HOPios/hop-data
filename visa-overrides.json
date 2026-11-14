@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T03:04:37Z",
+  "generated_at": "2026-11-14T03:05:37Z",
   "entries": [
     {
       "passport": "CA",
@@ -5365,6 +5365,166 @@
         "note": "Liberia has a consulate in New Delhi, so Indian applicants must apply there rather than through the online Visa on Arrival portal. Passport must be valid at least 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Equatorial Guinea",
+      "fields": {
+        "note": "All foreign passports must present a valid visa at entry — complete the e-visa application and hold approval before arrival. A police clearance certificate under 3 months old, a letter of invitation and proof of funds are required; visas must be used within 60 days of issue. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Equatorial Guinea",
+      "fields": {
+        "note": "All foreign passport holders must present a valid visa at the point of entry. A police or criminal-record clearance certificate no older than 3 months is required even for tourist travel, plus a letter of invitation and proof of funds. Visas must be used within 60 days of issue, which is a deadline to enter, not a length of stay. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. An online visa application form is confirmed working (gov.uk, ~72-hour processing), alongside the embassy route."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Equatorial Guinea",
+      "fields": {
+        "note": "A visa must be arranged in advance, either through an Equatorial Guinea embassy or the online visa application form confirmed working at gov.uk (~72-hour processing). Expect to need an invitation letter, a police clearance certificate less than 3 months old and proof of about USD 1,000 per month of stay. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Equatorial Guinea",
+      "fields": {
+        "note": "Complete the online visa application form (gov.uk); processing takes about 72 hours. An embassy route also exists (there is an Equatorial Guinea Embassy in the UK) and may still require a local sponsor's invitation letter. Authoritarian regime, photography restrictions severe. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Equatorial Guinea",
+      "fields": {
+        "note": "All foreign passports must present a valid visa at entry — complete the e-visa application and hold approval before arrival. A police clearance certificate under 3 months old, a letter of invitation and proof of funds are required; visas must be used within 60 days of issue. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Equatorial Guinea",
+      "fields": {
+        "note": "E-visa entry only via Malabo International Airport. Passport must be valid 6+ months from entry. There is no Equatorial Guinea mission in South Korea. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Equatorial Guinea",
+      "fields": {
+        "note": "The e-visa is processed by VFS Global. Only Malabo International Airport is enabled. Passport valid 6+ months from entry. There is no mission in Germany; the nearest are in Belgium and France. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Equatorial Guinea",
+      "fields": {
+        "note": "Apply through VFS Global. Entry only through Malabo International Airport. Passport must be valid 6+ months from entry. There is no Equatorial Guinea mission in India. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Equatorial Guinea",
+      "fields": {
+        "note": "E-visa processed by VFS Global; only Malabo International Airport accepts it at present. Passport valid 6+ months from entry. No mission in the Netherlands — the nearest are in Belgium and France. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Equatorial Guinea",
+      "fields": {
+        "note": "E-visa processed by VFS Global. Enter only via Malabo International Airport. Passport valid 6+ months from entry. No mission in Ireland; there is an Equatorial Guinea Embassy in the UK. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Guinea",
+      "fields": {
+        "note": "Apply online at the DCPAF/PAF portal and hold approval before boarding — an Entry Visa Letter arrives by email, then the physical visa is issued at the Conakry arrival counter with photo and fingerprints. Return ticket required. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Guinea",
+      "fields": {
+        "note": "Apply online at the DCPAF/PAF portal before travel — you must have approval before boarding. An Entry Visa Letter arrives by email, then you collect the physical visa at the on-arrival counter at Conakry, where your photo and fingerprints are captured. A return ticket is listed as a required document for every applicant. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Guinea",
+      "fields": {
+        "note": "Apply online through the border police portal before travel; the approval letter is exchanged for the visa on arrival at Conakry. Guinea publishes no list of waiver countries, so a visa is the default assumption. Note that visa.ambaguinee.org is not the official site — it is a private operator that redirects to the government platform anyway. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Guinea",
+      "fields": {
+        "note": "eVisa available (paf-guinee.com) — 90 days, ~€80. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Military junta in power since 2021. Protests and roadblocks possible. Ebola historic risk — current status check TravelHealthPro."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Guinea",
+      "fields": {
+        "note": "Apply online at the DCPAF/PAF portal and hold approval before boarding — an Entry Visa Letter arrives by email, then the physical visa is issued at the Conakry arrival counter with photo and fingerprints. Return ticket required. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Guinea",
+      "fields": {
+        "note": "Apply with a return ticket and a scan of the passport data page. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. On arrival show the Entry Visa Letter, a passport valid more than 6 months, proof of funds, the return ticket and proof of accommodation; the visa sticker, photo and fingerprints are done at the counter. Fees are non-refundable if refused."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Guinea",
+      "fields": {
+        "note": "Apply with a return ticket and a scan of the passport data page. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. On arrival show the Entry Visa Letter, a passport valid more than 6 months, proof of funds, the return ticket and proof of accommodation; the visa sticker, photo and fingerprints are done at the counter. Fees are non-refundable if refused."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Guinea",
+      "fields": {
+        "note": "Apply with a return ticket and a scan of the passport data page. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. On arrival show the Entry Visa Letter, a passport valid more than 6 months, proof of funds, the return ticket and proof of accommodation; the visa sticker, photo and fingerprints are done at the counter. Fees are non-refundable if refused."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Guinea",
+      "fields": {
+        "note": "Apply with a return ticket and a scan of the passport data page. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. On arrival show the Entry Visa Letter, a passport valid more than 6 months, proof of funds, the return ticket and proof of accommodation; the visa sticker, photo and fingerprints are done at the counter. Fees are non-refundable if refused."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Guinea",
+      "fields": {
+        "note": "Apply with a return ticket and a scan of the passport data page. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. On arrival show the Entry Visa Letter, a passport valid more than 6 months, proof of funds, the return ticket and proof of accommodation; the visa sticker, photo and fingerprints are done at the counter. Fees are non-refundable if refused."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -5540,6 +5700,20 @@
       "destination": "Liberia",
       "fields": {
         "blurb": "A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Liberia's visa on arrival is not a walk-up service — you apply and pay online before flying and the sticker is issued at the airport on landing."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Equatorial Guinea",
+      "fields": {
+        "blurb": "An online visa application form is confirmed working (gov.uk, ~72-hour processing). Expect to need an invitation letter from a local sponsor, a police clearance certificate less than 3 months old and proof of about USD 1,000 per month of stay. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. An embassy route also remains available."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Guinea",
+      "fields": {
+        "blurb": "Apply online through the border police portal before travel; the approval letter is exchanged for the visa on arrival at Conakry. Guinea publishes no list of waiver countries, so a visa is the default assumption. The site visa.ambaguinee.org is a private operator, not the official site. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
       "checked": "2026-11-14"
     }
