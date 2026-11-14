@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T03:01:23Z",
+  "generated_at": "2026-11-14T03:04:37Z",
   "entries": [
     {
       "passport": "CA",
@@ -1984,49 +1984,55 @@
       "passport": "AU",
       "destination": "Liberia",
       "fields": {
-        "apply": "Apply online before travel through Liberia's official visa-on-arrival system; Hop has no working official link at present"
+        "apply": "Apply online before travel through Liberia's official visa-on-arrival system; Hop has no working official link at present",
+        "note": "No Liberian mission operates in Australia, so apply through the Liberia Immigration Service visa-on-arrival portal before travel; the officer sets 30 or 90 days at entry. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-11-13"
+      "checked": "2026-11-14"
     },
     {
       "passport": "NZ",
       "destination": "Liberia",
       "fields": {
-        "apply": "Apply online before travel through Liberia's official visa-on-arrival system; Hop has no working official link at present"
+        "apply": "Apply online before travel through Liberia's official visa-on-arrival system; Hop has no working official link at present",
+        "note": "There is no Liberian embassy in New Zealand, so New Zealanders use the official online visa-on-arrival system: apply and pay online BEFORE flying, and the sticker is issued at the airport. It is not a walk-up visa. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-11-13"
+      "checked": "2026-11-14"
     },
     {
       "passport": "CA",
       "destination": "Liberia",
       "fields": {
-        "apply": "Apply online before travel through Liberia's official visa-on-arrival system (Hop has no working official link at present) — apply at least 7 days before travel; the visa is issued on arrival at Roberts International"
+        "apply": "Apply online before travel through Liberia's official visa-on-arrival system (Hop has no working official link at present) — apply at least 7 days before travel; the visa is issued on arrival at Roberts International",
+        "note": "Liberia's online portal excludes applicants whose country has a Liberian embassy. Liberia's own foreign ministry publishes its complete mission list — 23 embassies and 28 consulates — AND CANADA IS ON NEITHER, so the online pre-approved visa on arrival is the correct route for Canadians. Apply at least 7 days before your flight and no more than 3 months ahead; the approval is then valid 3 months. Passport valid 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-11-13"
+      "checked": "2026-11-14"
     },
     {
       "passport": "KR",
       "destination": "Liberia",
       "fields": {
-        "apply": "Online through Liberia's official visa-on-arrival system (Hop has no working official link at present); show the approval PDF (QR code) at the airport's Visa on Arrival counter"
+        "apply": "Online through Liberia's official visa-on-arrival system (Hop has no working official link at present); show the approval PDF (QR code) at the airport's Visa on Arrival counter",
+        "note": "Passport must be valid at least 6 months. Apply 7 days to 3 months before travel; approval is valid 3 months for a single visit, only at Roberts International Airport (ROB), Monrovia. Fingerprints and face are captured at the airport. There is no Liberian embassy in South Korea. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-11-13"
+      "checked": "2026-11-14"
     },
     {
       "passport": "NL",
       "destination": "Liberia",
       "fields": {
-        "apply": "Online through Liberia's official visa-on-arrival system (Hop has no working official link at present); show the approval PDF (QR code) at the airport's Visa on Arrival counter"
+        "apply": "Online through Liberia's official visa-on-arrival system (Hop has no working official link at present); show the approval PDF (QR code) at the airport's Visa on Arrival counter",
+        "note": "No Liberian embassy in the Netherlands — use the online Visa on Arrival portal. Apply 7 days to 3 months before travel; approval is valid 3 months for one visit, only at Roberts International Airport (ROB), Monrovia. Passport valid at least 6 months. Fingerprints and face captured on arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-11-13"
+      "checked": "2026-11-14"
     },
     {
       "passport": "IE",
       "destination": "Liberia",
       "fields": {
-        "apply": "Online through Liberia's official visa-on-arrival system (Hop has no working official link at present); show the approval PDF (QR code) at the airport's Visa on Arrival counter"
+        "apply": "Online through Liberia's official visa-on-arrival system (Hop has no working official link at present); show the approval PDF (QR code) at the airport's Visa on Arrival counter",
+        "note": "Passport valid 6+ months. Apply online for the Visa on Arrival at least 7 days and no more than 3 months before travel; approval is valid 3 months for a single visit, only at Roberts International Airport (ROB), Monrovia. Fingerprints and face are captured on arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-11-13"
+      "checked": "2026-11-14"
     },
     {
       "passport": "IN",
@@ -2212,18 +2218,18 @@
         "visa": "ev",
         "cost": "Not verified — the fee is not stated on Nigeria's immigration pages",
         "apply": "Online at evisa.immigration.gov.ng",
-        "note": "Get your Nigerian visa online before you travel: the Nigeria Immigration Service lists the Tourism Visa as an e-Visa class (single entry, 30 days, return ticket, proof of accommodation and a bank statement needed). Carry proof of yellow fever and polio vaccination, including a WHO yellow card. Keep your visa and entry stamp, as you must show them to leave Nigeria."
+        "note": "Get your Nigerian visa online before you travel: the Nigeria Immigration Service lists the Tourism Visa as an e-Visa class (single entry, 30 days, return ticket, proof of accommodation and a bank statement needed). Carry proof of polio vaccination. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Keep your visa and entry stamp, as you must show them to leave Nigeria."
       },
-      "checked": "2026-11-13"
+      "checked": "2026-11-14"
     },
     {
       "passport": "AU",
       "destination": "Nigeria",
       "fields": {
         "apply": "Online at evisa.immigration.gov.ng",
-        "note": "Get your Nigerian visa online before you travel: the Nigeria Immigration Service lists the Tourism Visa as an e-Visa class (single entry, 30 days, return ticket, proof of accommodation and a bank statement needed)."
+        "note": "Get your Nigerian visa online before you travel: the Nigeria Immigration Service lists the Tourism Visa as an e-Visa class (single entry, 30 days, return ticket, proof of accommodation and a bank statement needed). A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-11-13"
+      "checked": "2026-11-14"
     },
     {
       "passport": "AU",
@@ -3335,6 +3341,102 @@
         "note": "Republic of the Congo (Brazzaville), not the DRC. No e-visa or visa on arrival — get the visa in advance from a Congolese embassy, likely London for Ireland. The standard tourist visa is issued for 90 days (3 months), multiple entry. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Nigeria",
+      "fields": {
+        "note": "Tourism visa class F5A, applied for online before travel; no current immigration-service page offers a tourist visa on arrival. TWO SEPARATE ONLINE FORMS ARE ALSO MANDATORY: the Landing and Exit Card at lecard.immigration.gov.ng, completed before entering AND before leaving, and an online health declaration producing a QR code for the Port Health Officer on arrival. The tourism visa is NOT extendable. Passport valid 6 months. Dual Canadian-Nigerian citizens must enter and leave on the Nigerian passport. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Nigeria",
+      "fields": {
+        "note": "Get the visa before you fly — Nigeria's current immigration material has no visa-on-arrival option for New Zealanders. The tourism visa needs a return ticket, confirmed accommodation or a host address, and a 180-day bank statement. Nigeria runs two official portals, so check you are on the government one. Other websites that offer to submit the application for you are not operated by the Government of Nigeria and may charge an additional fee. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Nigeria",
+      "fields": {
+        "note": "eVisa REQUIRED (Visa-on-Arrival discontinued May 2025). Apply at evisa.immigration.gov.ng before travel. Also complete Landing Card + Health Declaration Form online within 72h of departure. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. ⚠️ FCDO advises against all travel to riverine areas of Delta, Bayelsa, Rivers, Akwa Ibom, Cross River states."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Nigeria",
+      "fields": {
+        "note": "Tourism e-Visa required. Two mandatory online forms: the Landing and Exit Card, and a health declaration. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Nigeria",
+      "fields": {
+        "note": "Germany is not named on any exemption list on Nigeria's Immigration Service site — no waiver list exists at all; the Tourism Visa e-Visa class applies uniformly. Two mandatory online forms also apply: the Landing and Exit Card, and a health declaration. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Nigeria",
+      "fields": {
+        "note": "Nigeria appears in India's MEA list of countries offering an e-Visa facility to Indian nationals (entry 41), with the remark that the e-visa is for short-term visitors only; long-term visitors or expatriates going for work should apply for a regular visa. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Nigeria",
+      "fields": {
+        "note": "The Netherlands is not named on any exemption list on Nigeria's Immigration Service site — no waiver list exists at all; the Tourism Visa e-Visa class applies uniformly. Two mandatory online forms also apply. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Nigeria",
+      "fields": {
+        "note": "Ireland is not named on any exemption list on Nigeria's Immigration Service site — no waiver list exists at all; the Tourism Visa e-Visa class applies uniformly. Two mandatory online forms also apply. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Liberia",
+      "fields": {
+        "note": "Visa required — apply at Liberian Embassy London before travel. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Stable democracy since civil war era. Limited tourism infrastructure but English-speaking (official language)."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Liberia",
+      "fields": {
+        "note": "Visa required before travel from the Liberian Embassy in Washington DC — airlines will not board you without a valid visa. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Liberia",
+      "fields": {
+        "note": "Liberia has missions in Germany, so the online Visa on Arrival portal does not apply — apply at the embassy instead. Passport must be valid at least 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Liberia",
+      "fields": {
+        "note": "Liberia has a consulate in New Delhi, so Indian applicants must apply there rather than through the online Visa on Arrival portal. Passport must be valid at least 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -3496,6 +3598,20 @@
       "destination": "Congo",
       "fields": {
         "blurb": "This is Congo-Brazzaville, not to be confused with the DRC in Kinshasa. The foreign ministry says most travellers need a visa, applied for at the nearest Congolese embassy or consulate, and publishes no exemption list. Expect to need a photo, a letter of invitation and proof of accommodation; the fee and permitted stay are not published. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Nigeria",
+      "fields": {
+        "blurb": "Visa on arrival was discontinued in May 2025, so entry must be arranged before you fly. All arrivals must also complete the online Landing Card and Health Declaration within 72 hours of departure. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Nigeria runs two official portals, so check you are on the government one. Other websites that offer to submit the application for you are not operated by the Government of Nigeria and may charge an additional fee."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Liberia",
+      "fields": {
+        "blurb": "A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Liberia's visa on arrival is not a walk-up service — you apply and pay online before flying and the sticker is issued at the airport on landing."
       },
       "checked": "2026-11-14"
     }
