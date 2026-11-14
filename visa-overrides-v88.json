@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T02:56:44Z",
+  "generated_at": "2026-11-14T02:57:29Z",
   "entries": [
     {
       "passport": "CA",
@@ -412,6 +412,16 @@
       "checked": "2026-11-09"
     },
     {
+      "passport": "CA",
+      "destination": "Democratic Republic of the Congo",
+      "fields": {
+        "visa": "vr",
+        "apply": "the Embassy of the Democratic Republic of the Congo, Ottawa",
+        "note": "This is the DRC (Kinshasa), not Congo-Brazzaville. Canadians must get a visa from the DRC embassy in Ottawa before leaving Canada. You cannot get a visa at a port of entry or at a DRC embassy outside your country of residence. Air passengers leaving the DRC must pay the IDEF airport tax and show proof of payment, called a Go Pass, to board. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
       "passport": "NL",
       "destination": "Chad",
       "fields": {
@@ -556,19 +566,19 @@
       "passport": "DE",
       "destination": "French Guiana",
       "fields": {
-        "note": "Yellow fever vaccination is mandatory for all travellers over 1 year old. French Guiana is in the EU but not in Schengen: EU citizens need no visa and may stay up to 3 months without formality.",
+        "note": "A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. French Guiana is in the EU but not in Schengen: EU citizens need no visa and may stay up to 3 months without formality.",
         "stay": "Up to 3 months"
       },
-      "checked": "2026-11-09"
+      "checked": "2026-11-14"
     },
     {
       "passport": "NL",
       "destination": "French Guiana",
       "fields": {
-        "note": "Yellow fever vaccination is mandatory for all travellers over 1 year old. French Guiana is in the EU but not in Schengen: EU citizens need no visa and may stay up to 3 months without formality.",
+        "note": "A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. French Guiana is in the EU but not in Schengen: EU citizens need no visa and may stay up to 3 months without formality.",
         "stay": "Up to 3 months"
       },
-      "checked": "2026-11-09"
+      "checked": "2026-11-14"
     },
     {
       "passport": "DE",
@@ -658,9 +668,9 @@
       "destination": "French Guiana",
       "fields": {
         "stay": "Up to 3 months",
-        "note": "Yellow fever vaccination is mandatory for all travellers over 1 year old. EU overseas department outside Schengen; EU citizens need no visa and may stay up to 3 months without formality."
+        "note": "A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. EU overseas department outside Schengen; EU citizens need no visa and may stay up to 3 months without formality."
       },
-      "checked": "2026-11-09"
+      "checked": "2026-11-14"
     },
     {
       "passport": "NL",
@@ -2561,6 +2571,134 @@
         "note": "Passport valid 6+ months from the application date. Upload the passport ID page, a round-trip flight booking, and an invitation letter or accommodation certificate — missing any one means automatic rejection. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Democratic Republic of the Congo",
+      "fields": {
+        "note": "DRC's e-visa portal (evisa.gouv.cd) is confirmed: it grants a 7-day, extendable Visa Aéroportuaire (VAP) for US$90 payable at the port of entry, or a full eVisa for US$300 (US$50 administrative fee plus US$250 for the visa itself), valid 3 months from issue. A DRC embassy visa arranged in advance remains an alternative route. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Democratic Republic of the Congo",
+      "fields": {
+        "note": "Get the visa before you travel, either through the government e-visa portal or at a DRC embassy. FEES VARY WILDLY BY MISSION — EUR 85 in Brussels, GBP 100 in London, USD 120 in Ottawa for broadly the same one-month visa, so check the mission covering New Zealand before paying. Allow at least a week, two if it is your first trip to the DRC. Note: no DRC source publishes an exemption list, so the visa requirement is inferred from every mission selling visas with no nationality carve-out. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Democratic Republic of the Congo",
+      "fields": {
+        "note": "DRC's e-visa portal (evisa.gouv.cd) is confirmed: it grants a 7-day, extendable Visa Aéroportuaire (VAP) for US$90 payable at the port of entry, or a full eVisa for US$300, valid 3 months from issue. A DRC Embassy in London visa arranged in advance (allow 2 to 3 weeks) remains an alternative route. A polio certificate is required. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Democratic Republic of the Congo",
+      "fields": {
+        "note": "DRC's e-visa portal (evisa.gouv.cd) is confirmed: it grants a 7-day, extendable Visa Aéroportuaire (VAP) for US$90 payable at the port of entry, or a full eVisa for US$300 (US$50 administrative fee plus US$250 for the visa itself), valid 3 months from issue. A DRC embassy visa arranged in advance remains an alternative route. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Democratic Republic of the Congo",
+      "fields": {
+        "note": "DGM runs both dgm.cd and the e-visa portal evisa.gouv.cd. evisa.gouv.cd's own FAQ confirms the eVisa authorises a 7-day single-entry airport visa (VAP) paid at the border. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Democratic Republic of the Congo",
+      "fields": {
+        "note": "DGM runs both dgm.cd and the e-visa portal evisa.gouv.cd. evisa.gouv.cd's own FAQ confirms the eVisa authorises a 7-day single-entry airport visa (VAP) paid at the border. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Democratic Republic of the Congo",
+      "fields": {
+        "note": "The eVisa authorises a 7-day single-entry airport visa (VAP), paid at the border. Apply at evisa.gouv.cd. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Democratic Republic of the Congo",
+      "fields": {
+        "note": "DGM runs both dgm.cd and the e-visa portal evisa.gouv.cd. evisa.gouv.cd's own FAQ confirms the eVisa authorises a 7-day single-entry airport visa (VAP) paid at the border. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Democratic Republic of the Congo",
+      "fields": {
+        "note": "DGM runs both dgm.cd and the e-visa portal evisa.gouv.cd. evisa.gouv.cd's own FAQ confirms the eVisa authorises a 7-day single-entry airport visa (VAP) paid at the border. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "French Guiana",
+      "fields": {
+        "note": "A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Part of the EU but NOT in Schengen — a Schengen visa is not valid and ETIAS will not apply. French Guiana is not in the Schengen area; entry is governed by the arrêté du 26 juillet 2011 (as amended), which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count. Malaria prophylaxis advised for interior travel. Home to the Kourou space centre."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "French Guiana",
+      "fields": {
+        "note": "French but NOT in Schengen. A Schengen visa is not valid here and an overseas visa is not valid for Schengen, so this allowance is separate: you can spend a full Schengen 90/180 in metropolitan France and still have a short stay here. Governed by the arrêté du 26 juillet 2011, the same exemption list as Guadeloupe, Martinique, Réunion and Saint-Pierre-et-Miquelon, on which Canada appears with no special conditions. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "French Guiana",
+      "fields": {
+        "note": "French Guiana is an overseas department and is NOT in the Schengen area — a Schengen visa gives no right of entry here, and days spent here do not count against your Schengen 90/180. New Zealand is on the visa exemption list for these territories with no special conditions. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "French Guiana",
+      "fields": {
+        "note": "A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Part of the EU but NOT in Schengen — a Schengen visa is not valid here and ETIAS will not apply. French Guiana is not in the Schengen area; entry is governed by the arrêté du 26 juillet 2011 (as amended), which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count. Dense Amazon rainforest; malaria prophylaxis advised for interior travel. Home to the Kourou space centre."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "French Guiana",
+      "fields": {
+        "note": "A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Part of the EU but NOT in Schengen — a Schengen visa is not valid and ETIAS will not apply. French Guiana is not in the Schengen area; entry is governed by the arrêté du 26 juillet 2011 (as amended), which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count. Malaria prophylaxis advised for interior travel. Home to the Kourou space centre."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "French Guiana",
+      "fields": {
+        "note": "South Korea is Schengen-visa-exempt and is treated as visa-exempt in French Guiana under the arrêté du 26 juillet 2011, though whether Korea is specifically named on that list has not been directly confirmed. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "French Guiana",
+      "fields": {
+        "note": "India is not Schengen-visa-exempt and not an EU nationality, so it falls under the general rule requiring a valid short-stay visa for French Guiana specifically, under the arrêté du 26 juillet 2011. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -2645,6 +2783,20 @@
       "destination": "Cote d'Ivoire",
       "fields": {
         "blurb": "The practical route is online pre-enrolment well ahead of travel (the UK government advises at least 10 working days), approval in about 48 working hours although it can take longer, then biometrics at the Visa aeroport desk at Abidjan airport, where the visa is printed and handed over on the spot. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Democratic Republic of the Congo",
+      "fields": {
+        "blurb": "Arrange the visa before travel, through the government e-visa portal or a DRC embassy. Fees vary wildly by mission, from EUR 85 in Brussels to GBP 100 in London and USD 120 in Ottawa for broadly the same one-month visa, so check the mission covering you before paying. Allow at least a week, two on a first trip. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "French Guiana",
+      "fields": {
+        "blurb": "French Guiana is a French department outside Schengen, and a Schengen visa is not valid here. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Your passport must be valid three months beyond the day you leave, and officers can ask for an onward ticket, accommodation and funds."
       },
       "checked": "2026-11-14"
     }
