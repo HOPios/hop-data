@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T03:00:06Z",
+  "generated_at": "2026-11-14T03:01:23Z",
   "entries": [
     {
       "passport": "CA",
@@ -783,10 +783,10 @@
       "passport": "US",
       "destination": "Togo",
       "fields": {
-        "note": "Togo no longer issues visas on arrival — apply online at voyage.gouv.tg at least five business days before your flight. African passport holders are exempt for stays of up to 30 days; the United States is not. Yellow fever certificate required.",
+        "note": "Togo no longer issues visas on arrival — apply online at voyage.gouv.tg at least five business days before your flight. African passport holders are exempt for stays of up to 30 days; the United States is not. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.",
         "stay": "Up to 90 days (the e-visa is bought for 1-15, 16-30 or 31-90 days)"
       },
-      "checked": "2026-11-10"
+      "checked": "2026-11-14"
     },
     {
       "passport": "US",
@@ -1750,18 +1750,19 @@
       "passport": "CA",
       "destination": "Togo",
       "fields": {
-        "note": "TOGO NO LONGER ISSUES VISA ON ARRIVAL. Under the new law on the policing of foreigners, all visa applications are made online before arrival. Visa exemption covers essentially the ECOWAS member countries; Canada is on the visa-required list. Apply at least 6 working days before arrival; processing takes up to 5 working days. Carry a yellow fever certificate — Togo requires it from risk countries, Canada's advice says all countries, so take the stricter reading."
+        "note": "TOGO NO LONGER ISSUES VISA ON ARRIVAL. Under the new law on the policing of foreigners, all visa applications are made online before arrival. Visa exemption covers essentially the ECOWAS member countries; Canada is on the visa-required list. Apply at least 6 working days before arrival; processing takes up to 5 working days. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
-      "checked": "2026-11-13"
+      "checked": "2026-11-14"
     },
     {
       "passport": "KR",
       "destination": "Togo",
       "fields": {
         "stay": "1 to 90 days, as applied for",
-        "extension": "With the online visa there is no need to go to the national documentation office (DGDN) seven days after arrival to extend it"
+        "extension": "With the online visa there is no need to go to the national documentation office (DGDN) seven days after arrival to extend it",
+        "note": "No visa on arrival — apply online at voyage.gouv.tg, 5 working days. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. Pay online by bank card or TMoney/Flooz."
       },
-      "checked": "2026-11-13"
+      "checked": "2026-11-14"
     },
     {
       "passport": "IN",
@@ -3198,6 +3199,142 @@
         "note": "Visa must be obtained online in advance; not issued on arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Togo",
+      "fields": {
+        "note": "Togo no longer issues visas on arrival — apply online at voyage.gouv.tg at least 7 working days before your flight. African passport holders are exempt for stays of up to 30 days; Australia is not. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Togo",
+      "fields": {
+        "note": "Togo no longer issues visas on arrival — get the e-visa before you fly. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Togo",
+      "fields": {
+        "note": "e-Visa only — Togo no longer issues visas on arrival. Apply at voyage.gouv.tg at least 6 days before you plan to arrive; the online registration certificate is also required before arrival and departure. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Togo",
+      "fields": {
+        "note": "No visa on arrival — apply online at voyage.gouv.tg, 5 working days. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. Pay online by bank card or TMoney/Flooz."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Togo",
+      "fields": {
+        "note": "Register on voyage.gouv.tg, preferably at least 7 working days before your flight. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. Online payment by bank card or TMoney/Flooz only."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Togo",
+      "fields": {
+        "note": "No visa on arrival — apply online at voyage.gouv.tg, 5 working days. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. Pay online by bank card or TMoney/Flooz."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Togo",
+      "fields": {
+        "note": "No visa on arrival — apply online at voyage.gouv.tg, 5 working days. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. Pay online by bank card or TMoney/Flooz."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Congo",
+      "fields": {
+        "note": "This is the Republic of the Congo (Brazzaville), not the DRC. The visa must come from a Congolese embassy before travel — there is no visa on arrival and no official e-visa; 'Congo e-visa' sites are commercial or DRC products. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Congo",
+      "fields": {
+        "note": "This is the Republic of the Congo (Brazzaville), not the DRC. You must obtain the visa from the Embassy of the Republic of the Congo in Ottawa before leaving Canada — there is no visa on arrival, and no other Congolese mission will accept your application. NO CONGO-BRAZZAVILLE E-VISA EXISTS: every 'Congo e-visa' offer is either a commercial agency or a DRC product mislabelled. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Congo",
+      "fields": {
+        "note": "Medium confidence, and stated in the ministry's own words. The Ministry of Foreign Affairs page for foreigners travelling to the Republic of the Congo states that most travellers need a visa, applied for as either a tourist or a business visa at the nearest Congolese embassy or consulate. It publishes no exemption list, so New Zealand's position rests on that general statement rather than on being named. Expect to need a valid passport, a photo, a letter of invitation and proof of accommodation. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Confirm the fee and permitted stay with the mission — neither is published."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Congo",
+      "fields": {
+        "note": "Visa required before travel — apply through the Republic of Congo Embassy in London. No official e-visa exists; avoid commercial 'congo-evisa' sites. A polio certificate is required. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Congo",
+      "fields": {
+        "note": "This is the Republic of the Congo (Brazzaville), not the DRC. The visa must come from a Congolese embassy before travel — there is no visa on arrival and no official e-visa; 'Congo e-visa' sites are commercial or DRC products. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Congo",
+      "fields": {
+        "note": "This is the Republic of the Congo (Brazzaville), not the DRC. No e-visa or visa on arrival — get the visa in advance from a Congolese embassy or consulate. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Congo",
+      "fields": {
+        "note": "This is the Republic of the Congo (Brazzaville), not the DRC. No e-visa or visa on arrival — get the visa in advance from a Congolese embassy or consulate. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Congo",
+      "fields": {
+        "note": "This is the Republic of the Congo (Brazzaville), not the DRC. No e-visa or visa on arrival — get the visa in advance from a Congolese embassy or consulate. The standard tourist/business visa is issued for 90 days (3 months), multiple entry. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Congo",
+      "fields": {
+        "note": "Republic of the Congo (Brazzaville), not the DRC. No e-visa or visa on arrival — get the visa in advance from a Congolese embassy or consulate. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Congo",
+      "fields": {
+        "note": "Republic of the Congo (Brazzaville), not the DRC. No e-visa or visa on arrival — get the visa in advance from a Congolese embassy, likely London for Ireland. The standard tourist visa is issued for 90 days (3 months), multiple entry. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -3345,6 +3482,20 @@
       "destination": "South Sudan",
       "fields": {
         "blurb": "South Sudan's foreign ministry tells visitors to obtain a visa from a South Sudanese embassy before travel, and missions are few. It also says some travellers may be able to get one on arrival, which is too conditional to rely on. An official e-visa portal exists but publishes no fee, eligibility list or stay length in readable form. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Visa validity runs from the day the visa is collected, not from the day you arrive."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Togo",
+      "fields": {
+        "blurb": "Togo no longer issues visas on arrival, so the e-visa must be obtained before you fly. Apply at least seven working days before your flight. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Congo",
+      "fields": {
+        "blurb": "This is Congo-Brazzaville, not to be confused with the DRC in Kinshasa. The foreign ministry says most travellers need a visa, applied for at the nearest Congolese embassy or consulate, and publishes no exemption list. Expect to need a photo, a letter of invitation and proof of accommodation; the fee and permitted stay are not published. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
       "checked": "2026-11-14"
     }
