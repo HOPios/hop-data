@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T03:11:02Z",
+  "generated_at": "2026-11-14T03:11:58Z",
   "entries": [
     {
       "passport": "CA",
@@ -88,13 +88,73 @@
       "checked": "2026-11-13"
     },
     {
+      "passport": "NZ",
+      "destination": "Madagascar",
+      "fields": {
+        "apply": "https://evisamada.gov.mg/",
+        "note": "All nationalities are eligible and the visa can also be obtained on arrival at the e-visa counters, so in practice it is e-visa or visa on arrival. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Madagascar",
+      "fields": {
+        "apply": "evisamada.gov.mg · gov.uk/foreign-travel-advice/madagascar",
+        "stay": "30 or 60 days (visa on arrival), extendable in Madagascar to 90 days in total",
+        "note": "Visa-on-arrival OR eVisa (evisamada.gov.mg). Applied at airport, paid on the spot. 30 days USD 37, 60 days USD 45, 90 days USD 55. Unique wildlife destination but 2nd-poorest country globally — petty theft common in cities. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Madagascar",
+      "fields": {
+        "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
+        "stay": "Up to 60 days",
+        "note": "Apply 1 week to 6 months before departure; approval comes within 72 hours and must be shown on arrival, printed or on a phone. The same visa is sold on arrival at the eVisa counters at the same price. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
       "passport": "DE",
       "destination": "Madagascar",
       "fields": {
         "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
-        "cost": "EUR 30 (1–15 days), EUR 35 (16–30), EUR 40 (31–60) or EUR 50 (61–90), on arrival"
+        "cost": "EUR 30 (1–15 days), EUR 35 (16–30), EUR 40 (31–60) or EUR 50 (61–90), on arrival",
+        "note": "Apply 1 week to 6 months before departure; approval comes within 72 hours and must be shown on arrival, printed or on a phone. The same visa is sold on arrival at the eVisa counters at the same price. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
-      "checked": "2026-11-13"
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Madagascar",
+      "fields": {
+        "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
+        "stay": "Up to 60 days",
+        "cost": "USD 37 for up to 60 days; same price online or on arrival",
+        "note": "Apply 1 week to 6 months before departure; approval comes within 72 hours and must be shown on arrival, printed or on a phone. The same visa is sold on arrival at the eVisa counters at the same price. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Madagascar",
+      "fields": {
+        "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
+        "stay": "60 days, extendable by 30 days",
+        "note": "Apply 1 week to 6 months before departure; approval comes within 72 hours and must be shown on arrival, printed or on a phone. The same visa is sold on arrival at the eVisa counters at the same price. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Madagascar",
+      "fields": {
+        "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
+        "note": "Apply 1 week to 6 months before departure; approval comes within 72 hours and must be shown on arrival, printed or on a phone. The same visa is sold on arrival at the eVisa counters at the same price. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
     },
     {
       "passport": "DE",
@@ -796,10 +856,10 @@
       "destination": "Malawi",
       "fields": {
         "visa": "voa",
-        "note": "Ireland is on Malawi's official Category Two list of countries that can get a visa on arrival, with or without prior authorisation.",
+        "note": "Ireland is on Malawi's official Category Two list of countries that can get a visa on arrival, with or without prior authorisation. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.",
         "apply": "Online at evisa.gov.mw, as early as possible before you travel – travellers without an e-visa have been denied boarding. If your e-visa has not been issued in time, bring US dollars in cash to pay on arrival."
       },
-      "checked": "2026-11-13"
+      "checked": "2026-11-14"
     },
     {
       "passport": "US",
@@ -4343,6 +4403,102 @@
         "note": "Ordinary passports need an eTA. Apply at least 2 weeks before travel; processing normally 3 working days. Passport valid at least 6 months with one blank page. Have a photo, itinerary, accommodation booking and payment method ready. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Madagascar",
+      "fields": {
+        "note": "Visa issued on arrival at Ivato airport, or in advance via a Malagasy mission or the e-visa portal. Two blank passport pages and a return ticket required; airport processing can be slow. The widely-repeated free 15-day tier is not confirmed by any Malagasy source. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Madagascar",
+      "fields": {
+        "note": "The visa is issued on arrival at Antananarivo (Ivato) airport by the immigration police, or in advance at a Malagasy mission or through the e-visa portal. Passport needs at least two blank pages and a return ticket is required. Processing at the airport can be slow. The widely-repeated 'free 15-day tier' could not be confirmed from any Malagasy source, and no official fee figure was found — payment is in cash, in USD, euro or ariary. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. NOTE ON THE PORTAL: apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. Do not enter card details on any site you reached from a search result."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Madagascar",
+      "fields": {
+        "note": "eVisa or VOA. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Malawi",
+      "fields": {
+        "note": "Visa on arrival restored for Category Two nationals since 24 Feb 2026 at all designated ports — airlines are instructed to board without a pre-obtained visa; online e-visas remain available (about 3 working days). The visa admits you, but the officer's permit sets your days. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Malawi",
+      "fields": {
+        "note": "A public notice effective 24 February 2026 restored visa on arrival for Category Two nationals at all designated ports of entry, and instructs airlines to board them without a pre-obtained visa. Canada is a Category Two country. Applying online in advance is still encouraged and is processed in 3 working days. WATCH THE VISA-VERSUS-PERMIT DISTINCTION: a 3-month visa does not mean a 3-month stay — the permit written at the border is a maximum of 30 days. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Malawi",
+      "fields": {
+        "note": "New Zealand is not visa-exempt for Malawi, but sits in the category that can get a visa on arrival at all designated ports — a change effective 24 February 2026. Applying online beforehand is recommended and speeds up entry. Malawi's own sources disagree on the single-entry fee (USD 50 vs USD 75). A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Malawi",
+      "fields": {
+        "note": "Visa on arrival for Category Two nationals (public notice, Feb 2026) — US$50 single entry, cash advised; e-visas remain available online. 30-day permit on arrival, extendable to 90. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Malawi",
+      "fields": {
+        "note": "Visa on arrival restored for Category Two nationals since 24 Feb 2026 at all designated ports — airlines are instructed to board without a pre-obtained visa; online e-visas remain available (about 3 working days). The visa admits you, but the officer's permit sets your days. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Malawi",
+      "fields": {
+        "note": "Passport must be valid at least 6 months beyond arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Malawi",
+      "fields": {
+        "note": "Germany's Category Two status is inferred by analogy with Hop's already-verified CA/NZ baseline; auswaertiges-amt.de's Malawi page did not expose a reachable entry-requirements sub-page. Passport must be valid at least 6 months beyond arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Malawi",
+      "fields": {
+        "note": "Apply for the e-visa online before travel; visa on arrival is not confirmed for Indian passports. Passport must be valid at least 6 months beyond arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Malawi",
+      "fields": {
+        "note": "The Netherlands' own advisory confirms a Dutch passport must be valid at least 6 months beyond arrival, and confirms travellers may apply for a visa online or obtain one on arrival at the airport. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -4602,6 +4758,20 @@
       "destination": "Kenya",
       "fields": {
         "blurb": "An eTA replaced the eVisa in 2024. The 90 days you will see quoted is how long the eTA is valid for travel, not how long you may stay — the length of stay is set at the point of entry. Apply through the official website of the Government of Kenya, www.etakenya.go.ke. Other websites that offer to submit the application for you are not operated by the Government of Kenya and may charge an additional fee. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Madagascar",
+      "fields": {
+        "blurb": "All nationalities are eligible, and the visa can also be issued on arrival at the e-visa counters, so in practice it is e-visa or visa on arrival. Fees are banded by length of stay. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Malawi",
+      "fields": {
+        "blurb": "Since 24 February 2026 a visa on arrival is available at all designated ports to the nationalities that qualify, though applying online beforehand is recommended and speeds up entry. Malawi's own sources disagree on the single-entry fee, quoting both USD 50 and USD 75. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
       "checked": "2026-11-14"
     }
