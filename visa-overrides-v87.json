@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T03:11:58Z",
+  "generated_at": "2026-11-14T03:12:57Z",
   "entries": [
     {
       "passport": "CA",
@@ -2298,9 +2298,9 @@
         "stay": "30, 60 or 90 days, as shown on the approved eVisa",
         "apply": "https://evisa.gov.mz/",
         "extension": "Contact the Mozambique Embassy directly",
-        "note": "Apply for an e-visa online on the official Mozambique eVisa portal before you travel. The tourist eVisa is for stays of 90 days or less, for the 30, 60 or 90 days shown on the approved visa. To extend your stay, contact the Mozambique Embassy directly."
+        "note": "Apply for an e-visa online on the official Mozambique eVisa portal before you travel. The tourist eVisa is for stays of 90 days or less, for the 30, 60 or 90 days shown on the approved visa. To extend your stay, contact the Mozambique Embassy directly. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
-      "checked": "2026-11-13"
+      "checked": "2026-11-14"
     },
     {
       "passport": "NZ",
@@ -4499,6 +4499,158 @@
         "note": "The Netherlands' own advisory confirms a Dutch passport must be valid at least 6 months beyond arrival, and confirms travellers may apply for a visa online or obtain one on arrival at the airport. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Mayotte",
+      "fields": {
+        "note": "Still recovering from Cyclone Chido (Dec 2024) — infrastructure and accommodation remain patchy. Elevated crime and periodic civil unrest. Part of the EU but NOT in Schengen — a Schengen visa is not valid and ETIAS will not apply. Mayotte is not in the Schengen area; entry is governed by the arrêté du 4 février 2015, which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Mayotte",
+      "fields": {
+        "note": "French overseas department but NOT in the Schengen area — a Schengen visa does not cover it and it runs its own entry regime under a separate 2015 decree. Canada is on the exemption list for Mayotte. Passport should be valid 3 months beyond departure, hold 2 blank pages, and be less than 10 years old. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Mayotte",
+      "fields": {
+        "note": "Mayotte is a French overseas department outside the Schengen area, and it runs under its own decree separate from the other overseas departments — so a Schengen visa is no use here and neither is an assumption based on mainland France. New Zealand appears in the French government's Mayotte-specific exemption table with no conditions attached. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Mayotte",
+      "fields": {
+        "note": "Still recovering from Cyclone Chido (Dec 2024) — infrastructure, water supply and accommodation remain patchy in places. Elevated crime and periodic civil unrest. Part of the EU but NOT in Schengen — a Schengen visa is not valid here and ETIAS will not apply. Mayotte is not in the Schengen area; entry is governed by the arrêté du 4 février 2015, which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Mayotte",
+      "fields": {
+        "note": "Still recovering from Cyclone Chido (Dec 2024) — infrastructure and accommodation remain patchy. Elevated crime and periodic civil unrest. Part of the EU but NOT in Schengen — a Schengen visa is not valid and ETIAS will not apply. Mayotte is not in the Schengen area; entry is governed by the arrêté du 4 février 2015, which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Mayotte",
+      "fields": {
+        "note": "Visa-free status is inferred, not confirmed on Mayotte's own exemption decree: South Korea holds the same Schengen short-stay waiver as Australia, the US, UK, Canada and New Zealand, all on Mayotte's exemption list. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Mayotte",
+      "fields": {
+        "note": "Mayotte is in the EU but outside Schengen. As an EU citizen, no visa or formality is needed to enter and stay up to 3 months; longer stays follow EU free-movement residence rules. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Mayotte",
+      "fields": {
+        "note": "A short-stay visa (visa de court séjour) is needed in advance. Inferred from other French overseas territories; not confirmed for Mayotte. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Mayotte",
+      "fields": {
+        "note": "Mayotte is part of the EU (an overseas department, not a Collectivity) even though it is outside Schengen. As an EU citizen, no visa or special formality is required to enter and reside for up to 3 months. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Mayotte",
+      "fields": {
+        "note": "Mayotte is part of the EU (an overseas department, not a Collectivity) even though it is outside Schengen. As an EU citizen, no visa or special formality is required to enter and reside for up to 3 months. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Mozambique",
+      "fields": {
+        "note": "NOT PLAIN VISA-FREE. Canadians need no visa for tourism or business stays of up to 30 days, but you must present an Electronic Travel Authorization (ETA) obtained at least 48 hours before departure. Canada appears in Mozambique's own portal table under ETA (all passport types, 30 days, tourism or business). Download and print the approved PDF and have it ready for both boarding and your arrival. Also required on arrival: a return or onward ticket (except by land), a passport valid at least 6 months beyond your expected departure date with at least 2 blank pages, and proof of accommodation. Keep the receipt provided upon arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Mozambique",
+      "fields": {
+        "note": "Apply for an e-visa before travel through the official online system. The e-visa itself is valid 2 months, within which you may enter. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Mozambique",
+      "fields": {
+        "note": "An Electronic Travel Authorisation (ETA) is required for tourism or business visits of up to 30 days; apply through the official Mozambique eVisa portal (evisa.gov.mz). You must pay online when you apply. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. ⚠️ FCDO advises against all travel to Cabo Delgado Province, except for Palma town and the area around Pemba and Afungi, and against all but essential travel to those areas."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Mozambique",
+      "fields": {
+        "note": "An ETA (evisa.gov.mz) is the confirmed route, for tourism or business, up to 30 days. Apply before you fly. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Mozambique",
+      "fields": {
+        "note": "ETA required before departure, covering 30 days for tourism or business. For a longer stay or another purpose, apply for a full eVisa instead. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Mozambique",
+      "fields": {
+        "note": "Germany is on Mozambique's ETA list (all passport types, 30 days, tourism or business). The ETA is a pre-travel permission, not a visa. For stays over 30 days or other purposes, apply for a full eVisa instead. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Mozambique",
+      "fields": {
+        "note": "Mozambique is on India's list of countries that provide an e-Visa. Apply online before travel. Passport valid for at least six months. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Mozambique",
+      "fields": {
+        "note": "An ETA is required before departure (all passport types, 30 days, tourism or business). It is a pre-travel permission, not a visa. For stays over 30 days or other purposes, apply for a full eVisa instead. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Mozambique",
+      "fields": {
+        "note": "An ETA (not a visa) is required before departure: 30 days, tourism or business, all passport types. For longer stays or other purposes, apply for a full eVisa instead. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -4772,6 +4924,20 @@
       "destination": "Malawi",
       "fields": {
         "blurb": "Since 24 February 2026 a visa on arrival is available at all designated ports to the nationalities that qualify, though applying online beforehand is recommended and speeds up entry. Malawi's own sources disagree on the single-entry fee, quoting both USD 50 and USD 75. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Mayotte",
+      "fields": {
+        "blurb": "Mayotte is French and in the EU but outside Schengen, and its visa exemptions sit in their own decree, separate from Réunion's. A Schengen visa does not admit you. Your passport must be valid 3 months beyond departure, have 2 blank pages and have been issued within the last 10 years. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Mozambique",
+      "fields": {
+        "blurb": "You apply before travel through the official online system at evisa.gov.mz. An issued e-visa is valid 2 months, within which you can enter. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
       "checked": "2026-11-14"
     }
