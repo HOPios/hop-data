@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T10:34:34Z",
+  "generated_at": "2026-11-14T02:55:19Z",
   "entries": [
     {
       "passport": "CA",
@@ -129,6 +129,20 @@
         "note": "30-day visa-free. Max 90 days in any 180-day period. From 1 November, if you travel without a visa you should apply for an Electronic Travel Authorisation (ETA) through the QazETA portal. Until 30 June, if you arrive without one you will not be refused entry but will be told of the requirement; from 1 July 2027 the ETA is mandatory for all visa-free nationals and you will be refused entry without one. The ETA is free, valid for 180 days from issue, and does not extend your visa-free stay. Not needed if you are under 16 or over 65, staying in the airport transit area without crossing the border, travelling on a diplomatic or service passport, or holding a valid Kazakh visa or residence permit."
       },
       "checked": "2026-11-09"
+    },
+    {
+      "passport": "US",
+      "destination": "Burkina Faso",
+      "fields": {
+        "visa": "vr",
+        "cost": "Not available while visas are suspended",
+        "apply": "Not available: Burkina Faso suspended visas for U.S. citizens on 30 December 2025 · travel.state.gov",
+        "note": "As of 30 December 2025, the government of Burkina Faso has suspended visas to U.S. citizens. Check with the nearest Embassy of Burkina Faso before planning travel. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over.",
+        "stay": "Not available while visas are suspended",
+        "extension": "Not available while visas are suspended",
+        "ext_cost": "Not available while visas are suspended"
+      },
+      "checked": "2026-11-14"
     },
     {
       "passport": "US",
@@ -846,9 +860,9 @@
       "destination": "Burkina Faso",
       "fields": {
         "visa": "ev",
-        "note": "E-visa: applicants can obtain the visa electronically by entering their details and paying online at visaburkina.bf. Visa required before travel, applied for on the Ministry of Security's e-visa portal or at a Burkinabè mission — the embassy in Ottawa directs all applicants to the portal. A short-stay visa cannot exceed 90 days; beyond that you need a long-stay visa or a residence permit. An international health booklet is demanded at border control and yellow fever vaccination is required of all arrivals."
+        "note": "E-visa: applicants can obtain the visa electronically by entering their details and paying online at visaburkina.bf. Visa required before travel, applied for on the Ministry of Security's e-visa portal or at a Burkinabè mission — the embassy in Ottawa directs all applicants to the portal. A short-stay visa cannot exceed 90 days; beyond that you need a long-stay visa or a residence permit. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-11-11"
+      "checked": "2026-11-14"
     },
     {
       "passport": "NZ",
@@ -999,9 +1013,10 @@
       "passport": "DE",
       "destination": "Angola",
       "fields": {
-        "apply": "Not needed for tourism up to 30 days; other purposes in person at an Angolan embassy (business visas also online at smevisa.gov.ao)"
+        "apply": "Not needed for tourism up to 30 days; other purposes in person at an Angolan embassy (business visas also online at smevisa.gov.ao)",
+        "note": "Bearbeitung des Antrags dauert in der Regel bis zu vier Wochen (for non-tourism visas applied at an Angolan embassy). A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-14"
     },
     {
       "passport": "DE",
@@ -1380,9 +1395,10 @@
       "passport": "NZ",
       "destination": "Angola",
       "fields": {
-        "stay": "Up to 30 days per entry and 90 days per year"
+        "stay": "Up to 30 days per entry and 90 days per year",
+        "note": "The exemption covers tourism only — business, work or study still need a visa. Passport must be valid more than six months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-14"
     },
     {
       "passport": "AU",
@@ -2110,6 +2126,134 @@
         "apply": "evisa.td"
       },
       "checked": "2026-11-13"
+    },
+    {
+      "passport": "AU",
+      "destination": "Angola",
+      "fields": {
+        "note": "Max 90/year. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Angola",
+      "fields": {
+        "note": "Canada is named in the Presidential Decree 189/23 exemption list. The 90 days is an annual cap, not per trip. Cash over USD 15,000 must be declared on arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Angola",
+      "fields": {
+        "note": "Visa-exempt for tourism under Decreto Presidencial 189/23 — 30 days per entry, up to 90 days per year. Passport valid 6+ months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Angola",
+      "fields": {
+        "note": "Visa-exempt for tourism under Decreto Presidencial 189/23 — 30 days per entry, up to 90 days per year. Passport valid 6+ months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Angola",
+      "fields": {
+        "note": "Ordinary Korean passports get 30 days visa-free, on a unilateral basis. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Angola",
+      "fields": {
+        "note": "MEA lists Angola in all three of its facility tables (e-visa, visa-free 30 days, and visa-on-arrival); the visa-free entry (Table 2, 30 days) matches the other passports' treatment. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Angola",
+      "fields": {
+        "note": "Dutch passport must remain valid 6+ months from arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Angola",
+      "fields": {
+        "note": "If a passport is lost in Angola, Irish citizens must contact the Irish Embassy in Lisbon — Ireland has no resident mission in Angola. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Burkina Faso",
+      "fields": {
+        "note": "Apply on the Ministry of Security's e-visa portal (visaburkina.bf) before travel; short-stay visas cap at 90 days. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Burkina Faso",
+      "fields": {
+        "note": "Apply online before travel. The portal also mentions visas issued at the border by immigration services, but that is not something to rely on. A hotel booking is required for a tourist visa. Much of the country carries severe security warnings — check current advice before booking anything. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Burkina Faso",
+      "fields": {
+        "note": "Apply for a visa online, or through the Embassy of Burkina Faso in Brussels (gov.uk). Short-stay visas cap at 90 days. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Burkina Faso",
+      "fields": {
+        "note": "E-visa required; Korean passports have no exemption of any kind. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Burkina Faso",
+      "fields": {
+        "note": "The e-visa must be applied for online before travel; applications are no longer accepted at the Burkina Faso embassy, and \"Visa on Arrival\" is explicitly discouraged. An entry form with QR code must be completed online, and can only be started from 72 hours before departure. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Burkina Faso",
+      "fields": {
+        "note": "MEA lists Burkina Faso under its e-Visa table for Indian nationals, consistent with the universal visaburkina.bf requirement found for all other passports. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Burkina Faso",
+      "fields": {
+        "note": "Apply via the Burkinese ministry e-visa portal or the Burkinese Embassy in Brussels. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Burkina Faso",
+      "fields": {
+        "note": "Ireland has no resident Embassy in Burkina Faso; emergency consular assistance is routed via the Irish Embassy in Senegal. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -2154,6 +2298,20 @@
         "blurb": "A yellow fever certificate is mandatory. Senegal abolished tourist visas for many nationalities in 2015 but not all of them, and there is no official Senegalese e-visa portal. Some passports get a visa on arrival at Dakar Blaise Diagne airport only. Anyone else who needs a visa applies in person at a Senegalese mission."
       },
       "checked": "2026-11-13"
+    },
+    {
+      "destination": "Angola",
+      "fields": {
+        "blurb": "A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Where a visa exemption applies it covers tourism only — business, work or study still need a visa. Passports are expected to have more than six months' validity, and photography is restricted near oil and diamond installations."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Burkina Faso",
+      "fields": {
+        "blurb": "Visa applications are made online before travel. The portal also mentions visas issued at the border by immigration services, but that is not something to rely on. A hotel booking is required for a tourist visa. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
     }
   ]
 }
