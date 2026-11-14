@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T03:05:37Z",
+  "generated_at": "2026-11-14T03:06:35Z",
   "entries": [
     {
       "passport": "CA",
@@ -636,9 +636,10 @@
       "destination": "Gambia",
       "fields": {
         "stay": "30 days, usually granted on arrival",
-        "cost": "US$108"
+        "cost": "US$108",
+        "note": "A visa is needed, obtainable on arrival, per the Gambia Immigration Department's own nationality list. A Securiport security fee of USD 20 (GMD 1,000) is payable in cash on arrival AND again on departure at Banjul — carry dollars or dalasi, separate from the visa fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
-      "checked": "2026-11-02"
+      "checked": "2026-11-14"
     },
     {
       "passport": "CA",
@@ -3016,9 +3017,10 @@
       "passport": "CA",
       "destination": "Gambia",
       "fields": {
-        "stay": "Up to 30 days, extendable by 30; a residence permit is needed from the 56th day"
+        "stay": "Up to 30 days, extendable by 30; a residence permit is needed from the 56th day",
+        "note": "Canada is named on the Gambia Immigration Department's exemption list. A SECURIPORT SECURITY FEE OF USD 20 (D1,000) IS PAYABLE IN CASH ON ARRIVAL AND AGAIN ON DEPARTURE at Banjul — carry US dollars or dalasi. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
-      "checked": "2026-11-11"
+      "checked": "2026-11-14"
     },
     {
       "passport": "DE",
@@ -5525,6 +5527,150 @@
         "note": "Apply with a return ticket and a scan of the passport data page. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. On arrival show the Entry Visa Letter, a passport valid more than 6 months, proof of funds, the return ticket and proof of accommodation; the visa sticker, photo and fingerprints are done at the counter. Fees are non-refundable if refused."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Mauritania",
+      "fields": {
+        "note": "The e-visa allows entry via all international ports of entry. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Mauritania",
+      "fields": {
+        "note": "The e-visa must be held BEFORE arrival — the Canadian advisory is explicit. Biometrics are captured at the border crossing to complete entry; that is a biometric step, not a visa issued on arrival. Canada is not on Mauritania's exemption list. There is no permanent Canadian office in Mauritania — an honorary consul in Nouakchott, with the Embassy of Canada in Rabat accredited. The old 'EUR 55 at the airport' figure now matches the online 30-day fee, which is probably where the confusion comes from. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Mauritania",
+      "fields": {
+        "note": "Since 5 January 2025 the e-visa must be held before boarding — it is no longer issued at the border. Biometrics are captured on arrival. New Zealand is not on Mauritania's published list of visa-waiver agreements, so it pays the rest-of-world e-visa fee. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Mauritania",
+      "fields": {
+        "note": "e-Visa via the ANRPTS portal — the MFA lists no visa on arrival; biometrics are captured at the border. 30 days at the rest-of-world tier (€55/US$60). A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "US",
+      "destination": "Mauritania",
+      "fields": {
+        "note": "The e-visa must be held BEFORE arrival — apply via the ANRPTS portal. Biometrics captured at the border complete your entry; that step is not a visa on arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Mauritania",
+      "fields": {
+        "note": "South Korea is not on Mauritania's published list of visa-waiver agreements, so an e-visa is needed. The e-visa portal offers 30-, 90- and 360-day packages. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Mauritania",
+      "fields": {
+        "note": "Germany is not on Mauritania's published list of visa-waiver agreements, so an e-visa is needed. The e-visa portal offers 30-, 90- and 360-day packages. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Mauritania",
+      "fields": {
+        "note": "E-visa open to Indian passports since 5 January 2025. The portal offers 30-, 90- and 360-day packages. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Mauritania",
+      "fields": {
+        "note": "The Netherlands is not on Mauritania's published list of visa-waiver agreements, so an e-visa is needed. The e-visa portal offers 30-, 90- and 360-day packages. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Mauritania",
+      "fields": {
+        "note": "Ireland is not on Mauritania's published list of visa-waiver agreements, so an e-visa is needed. The e-visa portal offers 30-, 90- and 360-day packages. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "AU",
+      "destination": "Gambia",
+      "fields": {
+        "note": "Visa-free entry under the Immigration Department's exemption rules. A Securiport security fee of USD 20 (D1,000) is payable in cash on arrival AND again on departure at Banjul — carry dollars or dalasi. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Gambia",
+      "fields": {
+        "note": "A visa is needed, obtainable on arrival, per the Gambia Immigration Department's own nationality list. Every arriving and departing passenger pays a USD 20 (or D1000) Securiport airport fee — that is not a visa fee and is collected separately. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Gambia",
+      "fields": {
+        "note": "Visa-free; 28 days on arrival, extendable twice by 28 days in Banjul. Airport Security Fee of USD 20 payable on arrival and again on departure. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. Popular winter beach destination."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "KR",
+      "destination": "Gambia",
+      "fields": {
+        "note": "No visa, but Entry Clearance is needed: a pre-arrival authorisation approved through a host or sponsor in the Gambia, valid 30 days, not obtainable on arrival. The host must present the original approved copy before you arrive. Airport security fee USD 20 each way. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Gambia",
+      "fields": {
+        "note": "A USD 20 airport security fee (or GMD 1,000, or the EUR/GBP equivalent) is payable in cash at airport kiosks on arrival and departure; infants 1 and under and transit passengers are exempt. It is not a visa fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. Passport valid for the whole stay."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IN",
+      "destination": "Gambia",
+      "fields": {
+        "note": "Visa and Entry Clearance both required. A host or sponsor in the Gambia must get the Entry Clearance (valid 30 days) and present the approved copy before you arrive. The visa comes from a Gambian mission or on arrival. A USD 20 airport security fee applies on arrival and departure. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "NL",
+      "destination": "Gambia",
+      "fields": {
+        "note": "A USD 20 airport security fee (or GMD 1,000, or the EUR/GBP equivalent) is payable in cash at airport kiosks on arrival and departure; infants 1 and under and transit passengers are exempt. It is not a visa fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. Passport valid for the whole stay."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "IE",
+      "destination": "Gambia",
+      "fields": {
+        "note": "Show funds, purpose of trip, an onward/return ticket within 90 days and proof of residence in Ireland; confirm with the airline. Passport valid 6 months from entry with a blank page. USD 20 Airport Security Fee on arrival and departure (infants 1 and under and transit passengers exempt). A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
     }
   ],
   "destinations": [
@@ -5714,6 +5860,20 @@
       "destination": "Guinea",
       "fields": {
         "blurb": "Apply online through the border police portal before travel; the approval letter is exchanged for the visa on arrival at Conakry. Guinea publishes no list of waiver countries, so a visa is the default assumption. The site visa.ambaguinee.org is a private operator, not the official site. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Mauritania",
+      "fields": {
+        "blurb": "Since 5 January 2025 the e-visa must be held before boarding — it is no longer issued at the border. Biometrics are captured on arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Mauritania's foreign ministry publishes its list of visa-waiver agreements; outside North and West Africa they cover only diplomatic, service or official passports."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Gambia",
+      "fields": {
+        "blurb": "A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. Every arriving and departing passenger also pays a USD 20 (or D1000) Securiport airport fee — that is not a visa fee and is collected separately."
       },
       "checked": "2026-11-14"
     }
