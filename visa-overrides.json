@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T03:06:35Z",
+  "generated_at": "2026-11-14T03:07:27Z",
   "entries": [
     {
       "passport": "CA",
@@ -5669,6 +5669,22 @@
       "destination": "Gambia",
       "fields": {
         "note": "Show funds, purpose of trip, an onward/return ticket within 90 days and proof of residence in Ireland; confirm with the airline. Passport valid 6 months from entry with a blank page. USD 20 Airport Security Fee on arrival and departure (infants 1 and under and transit passengers exempt). A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "UK",
+      "destination": "Comoros",
+      "fields": {
+        "note": "Visa-on-arrival (€30) at Moroni airport. Small Indian Ocean archipelago — quiet, undeveloped tourism. Periodic political instability. Malaria prevalent."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "passport": "CA",
+      "destination": "Somalia",
+      "fields": {
+        "note": "AN ELECTRONIC TRAVEL AUTHORISATION HAS BEEN MANDATORY FOR ALL FOREIGN PASSPORT HOLDERS SINCE 1 SEPTEMBER 2025, and Canada is on no exemption list. SOMALILAND IS A SEPARATE REGIME: the federal Somali authorisation may not be recognised in Somaliland or Puntland, Somaliland runs its own immigration authority and its own e-visa, and it wants 6 months' passport validity. The Government of Canada notes Somalia's e-visa platform previously suffered a breach of travellers' personal data."
       },
       "checked": "2026-11-14"
     }
