@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:43:12Z",
+  "generated_at": "2026-11-15T14:43:48Z",
   "entries": [
     {
       "passport": "CA",
@@ -647,7 +647,7 @@
       "destination": "Seychelles",
       "fields": {
         "stay": "Up to 90 days",
-        "note": "Seychelles issues no visas at all — a Visitor's Permit is granted on arrival — but every traveller must hold the PAID pre-arrival Travel Authorisation (€10) before departure. Have your airline booking, accommodation for every stop and proof of funds ready. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: Seychelles issues no visas at all. A Visitor's Permit is granted on arrival.\nBefore you fly: every traveller must hold the paid pre-arrival Travel Authorisation (€10) before departure.\nBring: your airline booking, accommodation for every stop and proof of funds.\nYellow fever: certificate needed only if you are aged 1 or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -1319,7 +1319,7 @@
       "passport": "AU",
       "destination": "Lesotho",
       "fields": {
-        "note": "Smartraveller states \"tourists can visit Lesotho for up to 30 days without a visa\", and that your passport must be valid six months beyond departure. Lesotho publishes no visa-exempt country list and no per-nationality stay length — its foreign ministry says only that exempt stays \"vary from 1 month to 3 months\", waived by Commonwealth membership plus bilateral agreements. To stay longer than 30 days, apply for an extension within the first 14 days of entry, and Lesotho's own e-visa page still reads \"eVISA Applications System Suspended\", with applications by email to VISA-Applications.Immigration@gov.ls."
+        "note": "Visa: not needed for tourist visits of up to 30 days, according to Smartraveller. Lesotho itself publishes no visa-exempt country list and no stay length per nationality. Its foreign ministry says only that exempt stays \"vary from 1 month to 3 months\", waived by Commonwealth membership plus bilateral agreements.\nPassport: valid six months beyond departure.\nExtension: to stay longer than 30 days, apply within the first 14 days of entry.\nE-visa: Lesotho's own e-visa page still reads \"eVISA Applications System Suspended\". Applications go by email to VISA-Applications.Immigration@gov.ls."
       }
     },
     {
@@ -2587,7 +2587,7 @@
         "stay": "30, 60 or 90 days, as shown on the approved eVisa",
         "apply": "https://evisa.gov.mz/",
         "extension": "Contact the Mozambique Embassy directly",
-        "note": "Apply for an e-visa online on the official Mozambique eVisa portal before you travel. The tourist eVisa is for stays of 90 days or less, for the 30, 60 or 90 days shown on the approved visa. To extend your stay, contact the Mozambique Embassy directly. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: apply for an e-visa on the official Mozambique eVisa portal before you travel.\nStay: the tourist eVisa is for stays of 90 days or less: the 30, 60 or 90 days shown on the approved visa.\nExtension: contact the Mozambique Embassy directly.\nYellow fever: certificate needed only if you are aged 1 or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -2615,7 +2615,7 @@
       "destination": "Nigeria",
       "fields": {
         "apply": "Online at evisa.immigration.gov.ng",
-        "note": "Get your Nigerian visa online before you travel: the Nigeria Immigration Service lists the Tourism Visa as an e-Visa class (single entry, 30 days, return ticket, proof of accommodation and a bank statement needed). A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: get your Nigerian visa online before you travel. The Nigeria Immigration Service lists the Tourism Visa as an e-Visa class: single entry, 30 days.\nDocuments: return ticket, proof of accommodation and a bank statement.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -3209,7 +3209,7 @@
       "passport": "AU",
       "destination": "Guinea-Bissau",
       "fields": {
-        "note": "Visa on arrival. Not verified — no official fee or stay length published for this passport. Guinea-Bissau publishes no official traveller portal, and sites claiming to be the official e-visa openly admit they have no mandate — trust none of them. Passport valid at least 3 months. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+        "note": "Visa: on arrival.\nFee and stay: not confirmed. No official fee or stay length is published for this passport.\nScam warning: Guinea-Bissau publishes no official traveller portal. Sites claiming to be the official e-visa openly admit they have no mandate. Trust none of them.\nPassport: valid at least 3 months.\nYellow fever: certificate required for every arriving traveller aged 1 and over."
       }
     },
     {
@@ -3265,7 +3265,7 @@
       "passport": "AU",
       "destination": "Mali",
       "fields": {
-        "note": "Australian residents can apply by email to Mali's embassy in Tokyo via the form above — the visa is emailed back, no in-person visit or posted passport needed. This route is by residence, not passport, so it does not apply if you live outside Australia, New Zealand, South Korea or the Philippines. Passport valid 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: Australian residents can apply by email to Mali's embassy in Tokyo, using the form above. The visa is emailed back, with no in-person visit or posted passport needed.\nWho it covers: the route is by residence, not passport. It does not apply if you live outside Australia, New Zealand, South Korea or the Philippines.\nPassport: valid 6 months.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -3384,7 +3384,7 @@
       "passport": "AU",
       "destination": "Sierra Leone",
       "fields": {
-        "note": "Apply on the official e-visa portal (evisa.sl) before travel; once approved, the visa itself is issued on arrival at the airport or border. The pre-approved route is the reliable one — Sierra Leonean missions do not advertise an on-arrival alternative. A yellow fever vaccination certificate is required of every arriving traveller."
+        "note": "Visa: apply on the official e-visa portal (evisa.sl) before travel. Once approved, the visa itself is issued on arrival at the airport or border.\nGood to know: the pre-approved route is the reliable one. Sierra Leonean missions do not advertise an on-arrival alternative.\nYellow fever: certificate required for every arriving traveller."
       }
     },
     {
@@ -3755,7 +3755,7 @@
       "passport": "AU",
       "destination": "Guinea",
       "fields": {
-        "note": "Apply online at the DCPAF/PAF portal and hold approval before boarding — an Entry Visa Letter arrives by email, then the physical visa is issued at the Conakry arrival counter with photo and fingerprints. Return ticket required. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: apply online at the DCPAF/PAF portal and hold approval before boarding.\nHow it works: an Entry Visa Letter arrives by email, then the physical visa is issued at the Conakry arrival counter, with photo and fingerprints.\nBring: a return ticket.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4378,7 +4378,7 @@
       "passport": "AU",
       "destination": "Kenya",
       "fields": {
-        "note": "eTA required for every visitor — apply at etakenya.go.ke about 3 working days ahead; the standard eTA is single entry. The 90-day figure on the portal is the travel window after issue, not your permitted stay, which the officer sets at entry. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "eTA: required for every visitor. Apply at etakenya.go.ke about 3 working days ahead. The standard eTA is single entry.\nStay: set by the officer at entry. The 90-day figure on the portal is the travel window after issue, not your permitted stay.\nYellow fever: certificate needed only if you are aged 1 or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -4441,7 +4441,7 @@
       "passport": "AU",
       "destination": "Madagascar",
       "fields": {
-        "note": "Visa issued on arrival at Ivato airport, or in advance via a Malagasy mission or the e-visa portal. Two blank passport pages and a return ticket required; airport processing can be slow. The widely-repeated free 15-day tier is not confirmed by any Malagasy source. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: on arrival at Ivato airport, or in advance from a Malagasy mission or the e-visa portal. Airport processing can be slow.\nBring: two blank passport pages and a return ticket.\nFree 15-day visa: not confirmed by any Malagasy source.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4462,7 +4462,7 @@
       "passport": "AU",
       "destination": "Malawi",
       "fields": {
-        "note": "Visa on arrival restored for Category Two nationals since 24 Feb 2026 at all designated ports — airlines are instructed to board without a pre-obtained visa; online e-visas remain available (about 3 working days). The visa admits you, but the officer's permit sets your days. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: on arrival at all designated ports, restored for Category Two nationals since 24 Feb 2026. Airlines are instructed to board you without a pre-obtained visa. Online e-visas remain available (about 3 working days).\nStay: the visa admits you, but the officer's permit sets your days.\nYellow fever: certificate needed only if you are aged 1 or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4525,7 +4525,7 @@
       "passport": "AU",
       "destination": "Mayotte",
       "fields": {
-        "note": "Still recovering from Cyclone Chido (Dec 2024) — infrastructure and accommodation remain patchy. Elevated crime and periodic civil unrest. Part of the EU but NOT in Schengen — a Schengen visa is not valid and ETIAS will not apply. Mayotte is not in the Schengen area; entry is governed by the arrêté du 4 février 2015, which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Schengen: part of the EU but not in Schengen. A Schengen visa is not valid and ETIAS will not apply.\nStay: its own allowance of 90 days per 180 days, separate from the Schengen 90/180 count, set by the arrêté du 4 février 2015.\nConditions: still recovering from Cyclone Chido (Dec 2024). Infrastructure and accommodation remain patchy.\nSafety: elevated crime and periodic civil unrest.\nYellow fever: certificate needed only if you are aged 1 or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4658,7 +4658,7 @@
       "passport": "AU",
       "destination": "New Caledonia",
       "fields": {
-        "note": "Serious civil unrest in 2024 caused deaths, a state of emergency and months of airport closure; Australians were repatriated by RAAF and ADF flights. Tensions over independence remain — check Smartraveller before booking. Visa-free 90 days. Not in Schengen. A short hop from Brisbane, so it is a popular AU destination when calm. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: visa-free for 90 days. Not in Schengen.\nSafety: serious civil unrest in 2024 caused deaths, a state of emergency and months of airport closure. Australians were repatriated by RAAF and ADF flights. Tensions over independence remain; check Smartraveller before booking.\nGood to know: a short hop from Brisbane, so it is popular with Australians when calm.\nYellow fever: certificate needed only if you are aged 1 or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -4861,7 +4861,7 @@
       "passport": "AU",
       "destination": "Sao Tome and Principe",
       "fields": {
-        "note": "Stays under 15 days need nothing. From 15 days, apply for the e-visa online with the Migration Service (decided within 7 working days) — the fee is paid AT THE BORDER on arrival, not online. Passport valid 3+ months beyond the stay; return ticket mandatory. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Under 15 days: nothing needed.\nFrom 15 days: apply for the e-visa online with the Migration Service (decided within 7 working days). The fee is paid at the border on arrival, not online.\nBring: a passport valid 3+ months beyond the stay, and a return ticket (mandatory).\nYellow fever: certificate needed only if you are aged 1 or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -7188,6 +7188,76 @@
       "destination": "Bonaire",
       "fields": {
         "note": "Visa: visa-exempt.\nBonaire Visitor Entry Tax: $75 (age 13+; $10 for 12 and under), payable online up to 7 days before arrival, or by card at the airport. It is not a visa fee.\nNature Fee: anyone diving, snorkelling, swimming, windsurfing or kitesurfing also pays about $40 a year to STINAPA.\nAdvisory: Smartraveller carries no dedicated Bonaire advisory page."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Greenland",
+      "fields": {
+        "note": "Schengen: not in Schengen and not in the EU. A Schengen or Danish visa does not cover Greenland.\nStay: time here counts toward the same combined 90 days per 180 shared with Schengen and the Faroe Islands (nyidanmark.dk).\nGetting there: Nuuk international airport opened Nov 2024.\nInsurance: cover for medical evacuation strongly advised. Distances are vast and weather closes routes."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Guadeloupe",
+      "fields": {
+        "note": "Visa: visa-free.\nSchengen: part of the EU but not in Schengen. A Schengen visa is not valid and ETIAS will not apply.\nStay: its own allowance of 90 days per 180 days, separate from the Schengen 90/180 count, set by the arrêté du 26 juillet 2011 (as amended).\nWeather: hurricane season June to November."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Martinique",
+      "fields": {
+        "note": "Visa: visa-free.\nSchengen: part of the EU but not in Schengen. A Schengen visa is not valid and ETIAS will not apply.\nStay: its own allowance of 90 days per 180 days, separate from the Schengen 90/180 count, set by the arrêté du 26 juillet 2011 (as amended).\nGood to know: Mount Pelée is an active volcano. Hurricane season June to November."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Pitcairn Islands",
+      "fields": {
+        "note": "Short visits: a short-term visitor visa is granted on arrival, through a combined immigration and biosecurity declaration form, for stays of up to 14 days on the same vessel. No fee.\nLonger stays (15 days–6 months): need advance Entry Clearance. Apply to admin@pitcairn.gov.pn at least 3 months ahead, with a medical exam, chest X-ray and police certificates. NZ$150 (non-refundable) for the Long-Term Visitor Visa.\nInsurance: mandatory travel/medical insurance with at least US$500,000 medevac cover for all visitors."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Réunion",
+      "fields": {
+        "note": "Visa: visa-free.\nSchengen: part of the EU but not in Schengen. A Schengen visa is not valid and ETIAS will not apply.\nStay: its own allowance of 90 days per 180 days, separate from the Schengen 90/180 count, set by the arrêté du 26 juillet 2011 (as amended, the same instrument covering Guadeloupe, French Guiana, Martinique and Saint-Pierre-et-Miquelon).\nVolcano: Piton de la Fournaise is highly active.\nSharks: swimming and surfing are banned or restricted on much of the west coast because of shark attacks. Stick to the protected lagoons."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Saint Pierre and Miquelon",
+      "fields": {
+        "note": "Visa: visa-free. Not in Schengen.\nWhere: a small French archipelago off Newfoundland.\nGetting there: access is via Canada (ferry from Fortune, Newfoundland, or flights from Montreal and Halifax), so you must also meet Canada's entry rules, including an eTA.\nSummer flight: a seasonal direct flight from Paris CDG also operates in summer (weekly, roughly late June to early September, run by Air Saint-Pierre with ASL Airlines France). Check current dates before relying on it."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Singapore",
+      "fields": {
+        "note": "Stay: do not plan around a guaranteed 90 days. Smartraveller says Australians \"do not require a visa for stays up to 90 days\", but Singapore itself publishes no fixed visa-free period. ICA grants a visit pass at the checkpoint and warns you to \"not stay beyond your Visit Pass validity\". Check the pass you are actually given.\nSG Arrival Card: compulsory and free, with a health declaration. Submit it within the 3 days before arrival, including the arrival day. Sites charging for it are not official."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Sint Maarten",
+      "fields": {
+        "note": "Visa: visa-free.\nED card: mandatory for everyone at entry.sx, including passengers transiting to Anguilla, Saba, St Barths or St Kitts.\nScam warning: the official ED card is free. Other websites that offer to fill it in for you are not operated by the Government of Sint Maarten and may charge a fee.\nGood to know: the airport (SXM) also serves French Saint-Martin."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Somalia",
+      "fields": {
+        "note": "eTA: mandatory for all foreign passports since 1 Sep 2025. Apply through the Immigration & Citizenship Agency before travel.\nSomaliland: a separate regime with its own immigration authority and e-visa. The federal authorisation may not be recognised there.\nData breach: Somalia's e-visa platform previously suffered a data breach affecting travellers' personal information (Nov 2025)."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "South Georgia and the South Sandwich Islands",
+      "fields": {
+        "note": "Visitor permit: required for essentially everyone under the Entry Control Ordinance 2022. Apply at eta.entry.gov.gs. Commercial cruise operators typically submit group bookings on passengers' behalf.\nValidity: a visitor permit is valid for 40 days (gov.gs).\nLate fee: £50 if you apply 8 days or less before arrival.\nMoney: no banks, ATMs or retail economy on the island. The Falkland Islands pound (at par with GBP) is the local currency in name only."
       }
     }
   ],
