@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:41:49Z",
+  "generated_at": "2026-11-15T14:42:32Z",
   "entries": [
     {
       "passport": "CA",
@@ -437,7 +437,7 @@
       "fields": {
         "stay": "30 days, usually granted on arrival",
         "cost": "US$108",
-        "note": "A visa is needed, obtainable on arrival, per the Gambia Immigration Department's own nationality list. A Securiport security fee of USD 20 (GMD 1,000) is payable in cash on arrival AND again on departure at Banjul — carry dollars or dalasi, separate from the visa fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: needed, and obtainable on arrival, per the Gambia Immigration Department's own nationality list.\nFee: a Securiport security fee of USD 20 (GMD 1,000), payable in cash on arrival and again on departure at Banjul. Carry dollars or dalasi. It is separate from the visa fee.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -1418,7 +1418,7 @@
       "destination": "Niger",
       "fields": {
         "stay": "Per visa granted",
-        "note": "Niger's embassy in Washington suspended entry-visa issuance for US citizens from 28 August 2025 — confirm current status before applying. Visa in advance from a Nigerien mission in your country of residence; air-side transit without leaving the airport is exempt. Processing takes about 15 days. Passport valid 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Warning: Niger's embassy in Washington suspended entry-visa issuance for US citizens from 28 August 2025. Confirm current status before applying.\nVisa: in advance from a Nigerien mission in your country of residence. Air-side transit without leaving the airport is exempt. Processing takes about 15 days.\nPassport: valid 6 months.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -2114,7 +2114,8 @@
       "destination": "Lebanon",
       "fields": {
         "stay": "1 month, extendable to 3 months",
-        "extension": "Possible — the one-month visa is extendable to 3 months"
+        "extension": "Possible — the one-month visa is extendable to 3 months",
+        "note": "Visa: one-month visa issued free at the port of entry under General Security's nationality rules.\nOverstay: if you overstay by less than one month, you can leave and pay a fine at departure. If you overstay by more than one month, you must contact General Security's bureau of Arabs and foreigners before you are allowed to leave."
       }
     },
     {
@@ -2324,7 +2325,7 @@
       "destination": "Pakistan",
       "fields": {
         "visa": "ev",
-        "note": "Pakistani missions abroad can grant US nationals a five-year multiple-entry visa with a maximum stay of three months. You need advance permission to travel in Khyber Pakhtunkhwa, parts of Azad Kashmir and Balochistan. Keep copies of your passport data page, visa and entry stamp with you at all times."
+        "note": "Visa: Pakistani missions abroad can grant US nationals a five-year multiple-entry visa with a maximum stay of three months.\nPermit: you need advance permission to travel in Khyber Pakhtunkhwa, parts of Azad Kashmir and Balochistan.\nBring: copies of your passport data page, visa and entry stamp, with you at all times."
       }
     },
     {
@@ -2606,7 +2607,7 @@
         "visa": "ev",
         "cost": "Not verified — the fee is not stated on Nigeria's immigration pages",
         "apply": "Online at evisa.immigration.gov.ng",
-        "note": "Get your Nigerian visa online before you travel: the Nigeria Immigration Service lists the Tourism Visa as an e-Visa class (single entry, 30 days, return ticket, proof of accommodation and a bank statement needed). Carry proof of polio vaccination. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Keep your visa and entry stamp, as you must show them to leave Nigeria."
+        "note": "Visa: get your Nigerian visa online before you travel. The Nigeria Immigration Service lists the Tourism Visa as an e-Visa class (single entry, 30 days, return ticket, proof of accommodation and a bank statement needed).\nPolio: carry proof of polio vaccination.\nYellow fever: certificate required for every arriving traveller aged 9 months and over.\nGood to know: keep your visa and entry stamp, as you must show them to leave Nigeria."
       }
     },
     {
@@ -2998,7 +2999,7 @@
       "passport": "US",
       "destination": "Democratic Republic of the Congo",
       "fields": {
-        "note": "DRC's e-visa portal (evisa.gouv.cd) is confirmed: it grants a 7-day, extendable Visa Aéroportuaire (VAP) for US$90 payable at the port of entry, or a full eVisa for US$300 (US$50 administrative fee plus US$250 for the visa itself), valid 3 months from issue. A DRC embassy visa arranged in advance remains an alternative route. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: apply on DRC's e-visa portal (evisa.gouv.cd), which is confirmed. A DRC embassy visa arranged in advance is an alternative route.\nVisa Aéroportuaire (VAP): 7 days, extendable, US$90 payable at the port of entry.\nFull eVisa: US$300 (US$50 administrative fee plus US$250 for the visa itself), valid 3 months from issue.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -3068,7 +3069,7 @@
       "passport": "US",
       "destination": "French Guiana",
       "fields": {
-        "note": "A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Part of the EU but NOT in Schengen — a Schengen visa is not valid and ETIAS will not apply. French Guiana is not in the Schengen area; entry is governed by the arrêté du 26 juillet 2011 (as amended), which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count. Malaria prophylaxis advised for interior travel. Home to the Kourou space centre."
+        "note": "Schengen: part of the EU but not in Schengen. A Schengen visa is not valid and ETIAS will not apply.\nStay: entry is governed by the arrêté du 26 juillet 2011 (as amended), which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count.\nHealth: malaria prophylaxis advised for interior travel.\nGood to know: home to the Kourou space centre.\nYellow fever: certificate required for every arriving traveller aged 1 year and over."
       }
     },
     {
@@ -3166,7 +3167,7 @@
       "passport": "US",
       "destination": "Ghana",
       "fields": {
-        "note": "Ghana's e-visa portal (evisa.immigration.gov.gh) is the Immigration Service's own official, standing route — not a pilot. A Ghanaian mission remains an alternative. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Stay of up to 60 days at the immigration officer's discretion."
+        "note": "Visa: Ghana's e-visa portal (evisa.immigration.gov.gh) is the Immigration Service's own official, standing route. It is not a pilot. A Ghanaian mission is an alternative.\nStay: up to 60 days at the immigration officer's discretion.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -3229,7 +3230,7 @@
       "passport": "US",
       "destination": "Guinea-Bissau",
       "fields": {
-        "note": "Visa on arrival. Not verified — no official fee or stay length published for this passport. Guinea-Bissau publishes no official traveller portal, and sites claiming to be the official e-visa openly admit they have no mandate — trust none of them. Passport valid at least six months. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+        "note": "Visa: on arrival. Not confirmed: no official fee or stay length is published for this passport.\nScam warning: Guinea-Bissau publishes no official traveller portal. Sites claiming to be the official e-visa openly admit they have no mandate. Trust none of them.\nPassport: valid at least six months.\nYellow fever: certificate required for every arriving traveller aged 1 year and over."
       }
     },
     {
@@ -3285,7 +3286,7 @@
       "passport": "US",
       "destination": "Mali",
       "fields": {
-        "note": "Mali suspended visa issuance for US citizens from 1 January 2026, with limited exceptions — confirm current status with a Malian mission before applying. Visa in advance from a Malian mission — no visa on arrival is published on any Malian government source. Passport valid 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Warning: Mali suspended visa issuance for US citizens from 1 January 2026, with limited exceptions. Confirm current status with a Malian mission before applying.\nVisa: in advance from a Malian mission. No visa on arrival is published on any Malian government source.\nPassport: valid 6 months.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -3712,7 +3713,7 @@
       "passport": "US",
       "destination": "Equatorial Guinea",
       "fields": {
-        "note": "All foreign passports must present a valid visa at entry — complete the e-visa application and hold approval before arrival. A police clearance certificate under 3 months old, a letter of invitation and proof of funds are required; visas must be used within 60 days of issue. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: every foreign passport must present a valid visa at entry. Complete the e-visa application and hold approval before arrival.\nDocuments: a police clearance certificate under 3 months old, a letter of invitation and proof of funds.\nValidity: use the visa within 60 days of issue.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -3782,7 +3783,7 @@
       "passport": "US",
       "destination": "Guinea",
       "fields": {
-        "note": "Apply online at the DCPAF/PAF portal and hold approval before boarding — an Entry Visa Letter arrives by email, then the physical visa is issued at the Conakry arrival counter with photo and fingerprints. Return ticket required. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: apply online at the DCPAF/PAF portal and hold approval before boarding. An Entry Visa Letter arrives by email, then the physical visa is issued at the Conakry arrival counter with photo and fingerprints.\nBring: a return ticket (required).\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4146,7 +4147,7 @@
       "passport": "US",
       "destination": "Djibouti",
       "fields": {
-        "note": "Correction: a visa on arrival, paid in cash in US dollars, is also currently available (GOV.UK, checked live) — this contradicts the \"no VOA since 2018\" framing below, which described the e-visa route only. The e-visa (evisa.gouv.dj) remains a valid alternative for pre-approval before travel. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: on arrival, paid in cash in US dollars. This is currently available.\nE-visa: evisa.gouv.dj is a valid alternative for pre-approval before travel.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4202,7 +4203,7 @@
       "passport": "US",
       "destination": "Eritrea",
       "fields": {
-        "note": "Visa from an Eritrean mission before travel; processing is slow, so apply well ahead. Land borders with Ethiopia and Djibouti are closed, and a separate internal travel permit is required for all travel beyond 25 km from Asmara — which catches nearly every tourist itinerary. Visas are valid three months from issue. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
+        "note": "Visa: from an Eritrean mission before travel. Processing is slow, so apply well ahead. Valid three months from issue.\nBorders: land borders with Ethiopia and Djibouti are closed.\nTravel permit: a separate internal travel permit is required for all travel beyond 25 km from Asmara, which catches nearly every tourist itinerary.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -4265,7 +4266,7 @@
       "passport": "US",
       "destination": "Eswatini",
       "fields": {
-        "note": "No visa required under Eswatini's own visa table. Passport valid 6 months with 2 blank pages. A further 30-day extension can be applied for at the Ministry of Home Affairs; staying longer than 60 days needs a Temporary Residence Permit. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: not required under Eswatini's own visa table.\nPassport: valid 6 months with 2 blank pages.\nExtension: a further 30-day extension can be applied for at the Ministry of Home Affairs. Staying longer than 60 days needs a Temporary Residence Permit.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -4489,7 +4490,7 @@
       "passport": "US",
       "destination": "Malawi",
       "fields": {
-        "note": "Visa on arrival restored for Category Two nationals since 24 Feb 2026 at all designated ports — airlines are instructed to board without a pre-obtained visa; online e-visas remain available (about 3 working days). The visa admits you, but the officer's permit sets your days. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: visa on arrival restored for Category Two nationals since 24 Feb 2026 at all designated ports. Airlines are instructed to board without a pre-obtained visa. Online e-visas remain available (about 3 working days).\nStay: the visa admits you, but the officer's permit sets your days.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4552,7 +4553,7 @@
       "passport": "US",
       "destination": "Mayotte",
       "fields": {
-        "note": "Still recovering from Cyclone Chido (Dec 2024) — infrastructure and accommodation remain patchy. Elevated crime and periodic civil unrest. Part of the EU but NOT in Schengen — a Schengen visa is not valid and ETIAS will not apply. Mayotte is not in the Schengen area; entry is governed by the arrêté du 4 février 2015, which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Good to know: still recovering from Cyclone Chido (Dec 2024). Infrastructure and accommodation remain patchy. Elevated crime and periodic civil unrest.\nSchengen: part of the EU but not in Schengen. A Schengen visa is not valid and ETIAS will not apply.\nStay: entry is governed by the arrêté du 4 février 2015, which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4685,7 +4686,7 @@
       "passport": "US",
       "destination": "New Caledonia",
       "fields": {
-        "note": "Serious civil unrest in 2024 caused deaths, a state of emergency and months of airport closure. Tensions over independence remain — check current advice before booking. Visa-free 90 days. Not in Schengen. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Good to know: serious civil unrest in 2024 caused deaths, a state of emergency and months of airport closure. Tensions over independence remain, so check current advice before booking.\nVisa: visa-free 90 days.\nSchengen: not in Schengen.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -7054,6 +7055,48 @@
       "destination": "Bonaire",
       "fields": {
         "note": "Visa: visa-exempt.\nBonaire Visitor Entry Tax: $75 (age 13+; $10 for 12 and under), payable online up to 7 days before arrival, or by card at the airport. It is not a visa fee.\nNature Fee: anyone diving, snorkelling, swimming, windsurfing or kitesurfing also pays a ~$40/yr STINAPA Nature Fee.\nStay: US citizens get the longer 180 days per 365 days, confirmed on Rijksdienst Caribisch Nederland's own tourist-stay page (rijksdienstcn.com). Other nationalities get 90 days per 180."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Gibraltar",
+      "fields": {
+        "note": "Change: on 15 July 2026 Gibraltar began running the Schengen short-stay policy, and older '3 months' advice is out of date.\nStay: 90 days in any 180 days. Gibraltar's technical notice says it has aligned \"for stays of 90 days in any 180 days\", and the USA is named on the visa-exempt list appended to it.\nShared allowance: days in Gibraltar draw down the same 90/180 allowance as Spain and the rest of Schengen, so a Spain-then-Gibraltar trip does not reset anything.\nArriving by air: you clear two sets of checks, Gibraltar immigration, then Schengen entry checks by Spanish officers including EES registration. After that the land border into Spain has no routine immigration checks.\nUK ETA: not valid for Gibraltar."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Greenland",
+      "fields": {
+        "note": "Schengen: not in Schengen and not in the EU. A Schengen or Danish visa does not cover Greenland.\nStay: time here counts toward the same combined 90 days per 180 shared with Schengen and the Faroe Islands (nyidanmark.dk).\nGood to know: Nuuk international airport opened Nov 2024, with seasonal direct service from the US east coast.\nInsurance: cover for medical evacuation is strongly advised."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Guadeloupe",
+      "fields": {
+        "note": "Visa: visa-free.\nSchengen: part of the EU but not in Schengen. A Schengen visa is not valid and ETIAS will not apply.\nStay: entry is governed by the arrêté du 26 juillet 2011 (as amended), which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count.\nGood to know: hurricane season is June to November."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Lesotho",
+      "fields": {
+        "note": "Visa: the State Department states that \"visas are not required for U.S. citizens visiting for 180 days or fewer\".\nStay: Americans are usually granted 30 days at the border. To extend towards the 180-day ceiling, apply to the Office of Immigration at the Ministry of Home Affairs. Plan around 30 days. The 180 is a ceiling you have to go and ask for.\nWarning: the State Department also warns that \"Lesotho government websites are often outdated\".\nSource gap: Lesotho publishes no visa-exempt country list and no per-nationality stay length. Its foreign ministry says only that exempt stays \"vary from 1 month to 3 months\", waived by Commonwealth membership plus bilateral agreements.\nLonger stays: anything longer needs a visa. Lesotho's own e-visa page still reads \"eVISA Applications System Suspended\", with applications by email to VISA-Applications.Immigration@gov.ls."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Martinique",
+      "fields": {
+        "note": "Visa: visa-free.\nSchengen: part of the EU but not in Schengen. A Schengen visa is not valid and ETIAS will not apply.\nStay: entry is governed by the arrêté du 26 juillet 2011 (as amended), which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count.\nGood to know: Mount Pelée is an active volcano. Hurricane season is June to November."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Palestine",
+      "fields": {
+        "note": "Entry: through Israeli-controlled crossings. There is no Palestinian port of entry, so Israel's rules decide whether you get in.\nGaza: not enterable by ordinary travellers.\nGood to know: carry your passport at checkpoints and expect long, unpredictable delays."
       }
     }
   ],
