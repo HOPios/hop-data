@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T13:32:39Z",
+  "generated_at": "2026-11-15T13:47:29Z",
   "entries": [
     {
       "passport": "CA",
@@ -8,8 +8,7 @@
       "fields": {
         "visa": "eta",
         "note": "No tourist visa for Canadians for stays of up to 30 days. From 1 January 2026 nationals of 91 listed countries must hold a visa before arrival — Canada is NOT on that list, and Canadian residence permits are separately named as exempting their holders. But PRE-REGISTRATION ON THE EASE PLATFORM IS COMPULSORY for every foreign traveller, ideally at least 5 days before travel, and the airport security tax is paid through it. Canada's travel advice calls this pre-registration an ETA: complete the online form and pay the airport security fee at least 5 days before you arrive. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
-      },
-      "checked": "2026-11-14"
+      }
     },
     {
       "passport": "UK",
@@ -26,8 +25,7 @@
       "fields": {
         "cost": "Free for a 30-day visit (Commonwealth fee waiver); otherwise USD 50 single entry, USD 70 multiple entry. East Africa Tourist Visa USD 100",
         "note": "Rwanda grants a visa on arrival to citizens of EVERY country with no prior application, and has since 1 January 2018. Canadians get the V1 visitor visa. You can also get it in advance online through Irembo, at an immigration office or at a Rwandan mission. As a Commonwealth country, Canadians get the visa on arrival free for a 30-day visit. The East Africa Tourist Visa (class V11, USD 100) covers Kenya, Uganda and Rwanda; Rwanda's immigration directorate says it may be extended in exceptional circumstances, while Canada's travel advice says it cannot be extended. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
-      },
-      "checked": "2026-11-14"
+      }
     },
     {
       "passport": "AU",
@@ -64,8 +62,7 @@
         "stay": "30 days on entry, extendable twice by 30 days at no cost, up to 90 days per calendar year",
         "extension": "Possible — apply to the General Directorate of Migration before the end of the 30-day period; a 30-day extension can be obtained twice, to a maximum of 90 days in a calendar year",
         "note": "Bolivia sorts nationalities into Grupo I / II / III; Canada is treated as Grupo I and needs no tourist visa. Passport must be valid at least 6 months. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk. The 90 days is an annual allowance, not per entry."
-      },
-      "checked": "2026-11-14"
+      }
     },
     {
       "passport": "UK",
@@ -101,8 +98,7 @@
       "destination": "Sao Tome and Principe",
       "fields": {
         "note": "Short trips need nothing. For 15 days or more, an e-visa is applied for online with the Serviço de Migração e Fronteiras, decided within 7 working days, and THE FEE IS PAID AT THE BORDER ON ARRIVAL, not online — which is unusual and easy to get wrong. Passport valid at least 6 months beyond the date you leave, return ticket mandatory, and proof of means of subsistence around EUR 100 a day. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
-      },
-      "checked": "2026-11-14"
+      }
     },
     {
       "passport": "UK",
@@ -116,8 +112,7 @@
       "destination": "Sierra Leone",
       "fields": {
         "note": "Visa on arrival (USD 80, cash) or an eVisa applied for online before travel. A yellow fever vaccination certificate is required of every arriving traveller. Commonwealth member, generally stable since civil war ended. Freetown and beaches popular. Malaria prophylaxis recommended."
-      },
-      "checked": "2026-11-14"
+      }
     },
     {
       "passport": "CA",
@@ -155,8 +150,7 @@
         "ext_cost": "Not applicable: the e-Tourist Visa cannot be extended",
         "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year",
         "note": "Designated airports and seaports only."
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "US",
@@ -290,16 +284,14 @@
       "destination": "Palau",
       "fields": {
         "extension": "Two further 30-day periods; apply at least 7 days before expiry at the Division of Immigration"
-      },
-      "checked": "2026-10-16"
+      }
     },
     {
       "passport": "NZ",
       "destination": "Palau",
       "fields": {
         "apply": "Tourist visa issued upon arrival. Submit the Palau Entry Form at most 72 hours before departure at https://www.palautravel.pw/ (the QR code is shown at check-in and on arrival)"
-      },
-      "checked": "2026-10-16"
+      }
     },
     {
       "passport": "NZ",
@@ -307,8 +299,7 @@
       "fields": {
         "apply": "https://evisamada.gov.mg/",
         "note": "All nationalities are eligible and the visa can also be obtained on arrival at the e-visa counters, so in practice it is e-visa or visa on arrival. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
-      },
-      "checked": "2026-11-14"
+      }
     },
     {
       "passport": "UK",
@@ -317,8 +308,7 @@
         "apply": "evisamada.gov.mg · gov.uk/foreign-travel-advice/madagascar",
         "stay": "30 or 60 days (visa on arrival), extendable in Madagascar to 90 days in total",
         "note": "Visa-on-arrival OR eVisa (evisamada.gov.mg). Applied at airport, paid on the spot. 30 days USD 37, 60 days USD 45, 90 days USD 55. Unique wildlife destination but 2nd-poorest country globally — petty theft common in cities. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
-      },
-      "checked": "2026-11-14"
+      }
     },
     {
       "passport": "KR",
@@ -327,8 +317,7 @@
         "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
         "stay": "Up to 60 days",
         "note": "Apply 1 week to 6 months before departure; approval comes within 72 hours and must be shown on arrival, printed or on a phone. The same visa is sold on arrival at the eVisa counters at the same price. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
-      },
-      "checked": "2026-11-14"
+      }
     },
     {
       "passport": "DE",
@@ -337,8 +326,7 @@
         "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
         "cost": "EUR 30 (1–15 days), EUR 35 (16–30), EUR 40 (31–60) or EUR 50 (61–90), on arrival",
         "note": "Apply 1 week to 6 months before departure; approval comes within 72 hours and must be shown on arrival, printed or on a phone. The same visa is sold on arrival at the eVisa counters at the same price. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
-      },
-      "checked": "2026-11-14"
+      }
     },
     {
       "passport": "IN",
@@ -348,8 +336,7 @@
         "stay": "Up to 60 days",
         "cost": "USD 37 for up to 60 days; same price online or on arrival",
         "note": "Apply 1 week to 6 months before departure; approval comes within 72 hours and must be shown on arrival, printed or on a phone. The same visa is sold on arrival at the eVisa counters at the same price. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
-      },
-      "checked": "2026-11-14"
+      }
     },
     {
       "passport": "NL",
@@ -358,8 +345,7 @@
         "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
         "stay": "60 days, extendable by 30 days",
         "note": "Apply 1 week to 6 months before departure; approval comes within 72 hours and must be shown on arrival, printed or on a phone. The same visa is sold on arrival at the eVisa counters at the same price. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
-      },
-      "checked": "2026-11-14"
+      }
     },
     {
       "passport": "IE",
@@ -367,8 +353,7 @@
       "fields": {
         "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
         "note": "Apply 1 week to 6 months before departure; approval comes within 72 hours and must be shown on arrival, printed or on a phone. The same visa is sold on arrival at the eVisa counters at the same price. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
-      },
-      "checked": "2026-11-14"
+      }
     },
     {
       "passport": "CA",
@@ -393,8 +378,7 @@
       "destination": "Hungary",
       "fields": {
         "note": "Schengen. Hungary also has a bilateral visa waiver agreement with New Zealand, signed on 7 March 2000, allowing up to 90 days in Hungary even if you have already spent 3 months in the last 6 in the Schengen area, if you leave the Schengen area before entering Hungary, do not leave Hungary for other Schengen countries during your stay and leave the Schengen area from Hungary. ETIAS is not yet in operation; no start date announced. The Entry/Exit System is live."
-      },
-      "checked": "2026-10-17"
+      }
     },
     {
       "passport": "DE",
@@ -425,8 +409,7 @@
       "destination": "Isle of Man",
       "fields": {
         "note": "India is not a UK ETA-eligible nationality — a Standard Visitor visa is required, applied for online through UKVI. A valid UK or Channel Islands visa is enough to travel around the Common Travel Area, with no Isle of Man-specific visa."
-      },
-      "checked": "2026-10-17"
+      }
     },
     {
       "passport": "AU",
@@ -450,8 +433,7 @@
       "fields": {
         "stay": "30 days on arrival; extension on request up to 90 days, depending on your funds or a local guarantee; up to 180 days if you own a home, timeshare or a 14 m+ moored yacht in Aruba, or if you are the spouse or child of a home or timeshare owner who has given a guarantee; at most 180 days in a calendar year",
         "note": "Visa-free, but the online ED card is mandatory before arrival and a USD 20 sustainability fee applies to air arrivals. Proof of accommodation (or enough funds) and an onward ticket required. Outside the hurricane belt. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
-      },
-      "checked": "2026-11-14"
+      }
     },
     {
       "passport": "US",
@@ -459,8 +441,7 @@
       "fields": {
         "stay": "30 days on arrival; extension on request up to 90 days, depending on your funds or a local guarantee; up to 180 days if you own a home, timeshare or a 14 m+ moored yacht in Aruba, or if you are the spouse or child of a home or timeshare owner who has given a guarantee; at most 180 days in a calendar year",
         "note": "Visa-free. The online ED card is still mandatory and a USD 20 sustainability fee applies. Aruba has US pre-clearance, so you arrive home as a domestic passenger. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
-      },
-      "checked": "2026-11-14"
+      }
     },
     {
       "passport": "UK",
@@ -2988,11 +2969,10 @@
       "destination": "Lebanon",
       "fields": {
         "visa": "vf",
-        "note": "Smartraveller advises DO NOT TRAVEL — armed conflict, unexploded ordnance, kidnapping risk. Insurance is very likely void. Entry itself is visa-free in practice: Lebanon's General Security grants Australians a cost-free visa of one month (extendable to 3 months) when the border is operating.",
+        "note": "Smartraveller advises — armed conflict, unexploded ordnance, kidnapping risk. Insurance is very likely void. Entry itself is visa-free in practice: Lebanon's General Security grants Australians a cost-free visa of one month (extendable to 3 months) when the border is operating.",
         "cost": "Free – one month, extendable to 3 months",
         "stay": "1 month, extendable to 3 months"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "IN",
@@ -4056,9 +4036,8 @@
       "passport": "AU",
       "destination": "Saudi Arabia",
       "fields": {
-        "note": "DO NOT TRAVEL. You can apply for a tourist visa online or on arrival."
-      },
-      "checked": "2026-11-13"
+        "note": "You can apply for a tourist visa online or on arrival."
+      }
     },
     {
       "passport": "CA",
@@ -6946,6 +6925,34 @@
         "stay": "Up to 3 months per entry; valid for 12 months or until your passport expires, whichever is shorter"
       },
       "checked": "2026-11-15"
+    },
+    {
+      "passport": "CA",
+      "destination": "Tokelau",
+      "fields": {
+        "note": "Tokelau is a self-governing territory of New Zealand. Canadians don't need a visa to enter Tokelau, but they require a permit, granted by the Council for the Ongoing Government. There is no airport: access is by boat from Apia, Samoa, usually around 24–32 hours depending on the atoll."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Tokelau",
+      "fields": {
+        "note": "Genuinely hard to reach. No airport — the only access is the MV Mataliki from Apia, Samoa (roughly 24–30 hours, sailing about fortnightly). Non-residents need a permit in advance, granted by the Council for the Ongoing Government, and you must also meet Samoa's entry rules in transit."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Tokelau",
+      "fields": {
+        "note": "Genuinely hard to reach. No airport — the only access is the MV Mataliki from Apia, Samoa (roughly 24–30 hours, sailing about fortnightly). Non-residents need a permit in advance, granted by the Council for the Ongoing Government, and you must also meet Samoa's entry rules in transit."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Tokelau",
+      "fields": {
+        "note": "Genuinely hard to reach. No airport — the only access is the MV Mataliki from Apia, Samoa (roughly 24–30 hours, sailing about fortnightly). Non-residents need a permit in advance, granted by the Council for the Ongoing Government, and you must also meet Samoa's entry rules in transit."
+      }
     }
   ],
   "destinations": [
