@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:27:48Z",
+  "generated_at": "2026-11-15T14:28:20Z",
   "entries": [
     {
       "passport": "CA",
@@ -24,7 +24,7 @@
       "destination": "Rwanda",
       "fields": {
         "cost": "Free for a 30-day visit (Commonwealth fee waiver); otherwise USD 50 single entry, USD 70 multiple entry. East Africa Tourist Visa USD 100",
-        "note": "Rwanda grants a visa on arrival to citizens of EVERY country with no prior application, and has since 1 January 2018. Canadians get the V1 visitor visa. You can also get it in advance online through Irembo, at an immigration office or at a Rwandan mission. As a Commonwealth country, Canadians get the visa on arrival free for a 30-day visit. The East Africa Tourist Visa (class V11, USD 100) covers Kenya, Uganda and Rwanda; Rwanda's immigration directorate says it may be extended in exceptional circumstances, while Canada's travel advice says it cannot be extended. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: Rwanda grants a visa on arrival to citizens of every country with no prior application, and has since 1 January 2018. Canadians get the V1 visitor visa.\nWhere to get it: you can also get it in advance online through Irembo, at an immigration office or at a Rwandan mission.\nFee: As a Commonwealth country, Canadians get the visa on arrival free for a 30-day visit.\nExtension: The East Africa Tourist Visa (class V11, USD 100) covers Kenya, Uganda and Rwanda. Rwanda's immigration directorate says it may be extended in exceptional circumstances, while Canada's travel advice says it cannot be extended.\nYellow fever: A certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -90,14 +90,14 @@
       "passport": "CA",
       "destination": "Qatar",
       "fields": {
-        "note": "THIRTY days — Qatar publishes two waiver lists and Canada is on the 30-day one, not the 90-day one that covers most of Europe. Free at the port of entry. Requires 6 months' passport validity and a return or onward ticket. Health insurance recognised by Qatar's Ministry of Public Health is required to enter. Entry may be refused if the passport shows Israeli visas or stamps, or Egyptian or Jordanian stamps from an office bordering Israel."
+        "note": "Stay: 30 days. Qatar publishes two waiver lists and Canada is on the 30-day one, not the 90-day one that covers most of Europe.\nFee: Free at the port of entry.\nPassport: Valid for 6 months. You also need a return or onward ticket.\nInsurance: Health insurance recognised by Qatar's Ministry of Public Health is required to enter.\nGood to know: Entry may be refused if the passport shows Israeli visas or stamps, or Egyptian or Jordanian stamps from an office bordering Israel."
       }
     },
     {
       "passport": "CA",
       "destination": "Sao Tome and Principe",
       "fields": {
-        "note": "Short trips need nothing. For 15 days or more, an e-visa is applied for online with the Serviço de Migração e Fronteiras, decided within 7 working days, and THE FEE IS PAID AT THE BORDER ON ARRIVAL, not online — which is unusual and easy to get wrong. Passport valid at least 6 months beyond the date you leave, return ticket mandatory, and proof of means of subsistence around EUR 100 a day. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: Short trips need nothing. For 15 days or more, an e-visa is applied for online with the Serviço de Migração e Fronteiras and decided within 7 working days.\nFee: The fee is paid at the border on arrival, not online. This is unusual and easy to get wrong.\nPassport: Valid at least 6 months beyond the date you leave. A return ticket is mandatory.\nBring: Proof of means of subsistence, around EUR 100 a day.\nYellow fever: A certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -1260,9 +1260,9 @@
       "passport": "CA",
       "destination": "Saint Barthélemy",
       "fields": {
-        "stay": "90 days in any half-year, separate from Schengen"
-      },
-      "checked": "2026-10-22"
+        "stay": "90 days in any half-year, separate from Schengen",
+        "note": "Good to know: Saint Barthélemy is French but not in Schengen. As an overseas collectivity it falls under a different instrument from the departments: the arrêté du 18 avril 2012, shared with Saint-Martin.\nVisa: Canada is on that list too with no special conditions, so the outcome is the same. A change to one list does not automatically apply to the other."
+      }
     },
     {
       "passport": "CA",
@@ -3584,16 +3584,15 @@
       "destination": "San Marino",
       "fields": {
         "stay": "Under 10 days without a permit; 10 to 30 days needs a tourist permit",
-        "note": "San Marino does publish its own rules. Its MFA states that because you must cross the Schengen area to reach San Marino, you need whatever Schengen authorisation applies BEFORE you leave — for a Canadian, nothing. San Marino's own distinctive rule is a 10-day threshold: staying more than 10 days requires a permit from the Gendarmeria (a tourist permit for 10 to 30 days, a stay permit beyond 30). There is no border control with Italy, so the 10 days is a legal obligation rather than something a stamp enforces."
-      },
-      "checked": "2026-11-13"
+        "note": "Good to know: San Marino does publish its own rules. Its MFA states that because you must cross the Schengen area to reach San Marino, you need whatever Schengen authorisation applies before you leave. For a Canadian, that is nothing.\nStay: San Marino's own rule is a 10-day threshold. Staying more than 10 days requires a permit from the Gendarmeria: a tourist permit for 10 to 30 days, a stay permit beyond 30.\nGood to know: There is no border control with Italy, so the 10 days is a legal obligation rather than something a stamp enforces."
+      }
     },
     {
       "passport": "CA",
       "destination": "Saint Helena",
       "fields": {
         "visa": "vf",
-        "note": "St Helena runs an entry permit system, not a visa system, and every visitor needs one regardless of nationality. Canadians are not on the list of passports needing an e-visa in advance, so you get a Short Term Entry Permit on arrival — but a GBP 20 entry fee is charged. Medical insurance covering evacuation to GBP 175,000 is mandatory, along with a passport valid 6 months from the date of arrival (not from the end of the permit), pre-arranged accommodation and sufficient funds. Access is a weekly Saturday flight from Johannesburg, so a missed flight means a week's wait."
+        "note": "Visa: St Helena runs an entry permit system, not a visa system. Every visitor needs one, whatever their nationality. Canadians are not on the list of passports needing an e-visa in advance, so you get a Short Term Entry Permit on arrival.\nFee: A GBP 20 entry fee is charged.\nInsurance: Medical insurance covering evacuation to GBP 175,000 is mandatory.\nPassport: Valid 6 months from the date of arrival, not from the end of the permit.\nBring: Pre-arranged accommodation and sufficient funds.\nGood to know: Access is a weekly Saturday flight from Johannesburg, so a missed flight means a week's wait."
       }
     },
     {
@@ -6110,7 +6109,7 @@
       "passport": "CA",
       "destination": "Papua New Guinea",
       "fields": {
-        "note": "Canada IS on PNG's visa-on-arrival list — it is mainland New Zealand, France and the United States that are excluded by name, so do not read a New Zealand source across. You can take the visa on arrival or lodge in advance through the ICA e-visa portal. The tourist visa application fee itself is nil; the online route adds a service fee. You need a confirmed onward or return ticket and evidence of funds. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: Canada is on PNG's visa-on-arrival list. You can take the visa on arrival or lodge in advance through the ICA e-visa portal.\nNot on the list: mainland New Zealand, France and the United States are excluded by name, so do not read a New Zealand source across.\nFee: the tourist visa application fee itself is nil. The online route adds a service fee.\nBring: a confirmed onward or return ticket and evidence of funds.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -6918,6 +6917,125 @@
       "destination": "Norway",
       "fields": {
         "note": "Visa: both UDI and Norway's mission in Canada confirm Canadians need no visa.\nConditions: Norway publishes hard conditions: at least NOK 500 for each day of your stay, a passport valid at least three months beyond your planned departure, the means to travel home, and no work of any kind including remote work.\nStay: the 90 days may be split across several visits.\nExtra days: Norway has also notified the EU of a bilateral visa waiver with Canada, in force since 1 January 1950, for 90 days (all passports). No rules for using it are published. Do not rely on it at the border."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Pakistan",
+      "fields": {
+        "note": "Visa: Canadians apply online through Pakistan's official visa portal before travelling. Pakistan's own Consulate General in Montreal directs Canadian passport holders there.\nStay: the USD tiers are visa validity, not permitted stay per entry. Pakistan does not publish the stay on any page that could be read.\nFee: applications lodged through the consulate rather than online attract an extra CAD 50 surcharge, or CAD 60 urgent.\nProcessing: for Canadian passport holders it is 7–10 working days."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Palau",
+      "fields": {
+        "note": "Visa: Canada is not on Palau's short visa-exempt list, so you take the tourist visa issued on arrival: 30 days, extendable twice by 30 days.\nFee: the cost that matters is the USD 100 Pristine Paradise Environmental Fee. The airline collects it inside your inbound fare rather than at the border, so it is easy to miss when comparing tickets.\nEntry form: submit the Palau Entry Form QR code at palautravel.pw no more than 72 hours before departure.\nPalau Pledge: you sign the Palau Pledge stamped into your passport on arrival.\nBring: passport valid 6 months, return ticket and sufficient funds."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Palestine",
+      "fields": {
+        "note": "Visa: there is no separate Palestinian tourist visa. The West Bank is reached through Israeli-controlled crossings using the ETA-IL and the entry card Israel issues on arrival. Keep that card, you need it to enter the West Bank.\nEntry: Israeli authorities may refuse entry.\nGaza: effectively closed. Erez is shut and Rafah is extremely limited.\nAllenby Bridge: crossing from Jordan at the Allenby / King Hussein Bridge requires a visa held in advance, as Jordan issues none on arrival there."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Panama",
+      "fields": {
+        "note": "Visa: Canada is named by name in a Panamanian migration resolution, Resolución No. 22706 of 10 September 2021. It excepts citizens of the United States and Canada from the general tourist rule.\nStay: 180 days, where most nationalities get 90.\nEntry conditions: Panama publishes and enforces its entry conditions: economic solvency of at least B/.500 and a confirmed booking to leave the country."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Peru",
+      "fields": {
+        "note": "Visa: Peru's own consular table lists Canada as tourist-exempt up to 90 days. A business visit still requires a visa.\nEntry card: entry and exit are recorded on the Tarjeta Andina de Migración, now digital. Printed forms have been abolished at Jorge Chávez airport and the authorised seaports, so your passport may not be stamped.\nOverstay: overstaying carries a per-day fine payable on exit."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Philippines",
+      "fields": {
+        "note": "Visa: Canadians enter visa-free for up to 30 days under Executive Order 408.\nPassport: Valid at least 6 months beyond the intended stay. You also need a return or onward ticket.\nGood to know: Admission is at the Bureau of Immigration's discretion.\nBefore you fly: eTravel registration is mandatory for all incoming travellers. It can only be filed within the 72 hours before arrival and is free on the official website.\nScam warning: Other websites that offer to fill it in for you are not operated by the Government of the Philippines and may charge a fee."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Pitcairn Islands",
+      "fields": {
+        "note": "Visa: A short-term visitor visa is granted on arrival, via a combined immigration and biosecurity declaration form, for stays of up to 14 days on the same vessel.\nStay: Longer stays (15 days-6 months) need advance Entry Clearance. Apply to admin@pitcairn.gov.pn at least 3 months ahead, with a medical exam, chest X-ray and police certificates.\nFee: NZ$150 (non-refundable) for the Long-Term Visitor Visa. No fee for short visits.\nInsurance: Mandatory travel/medical insurance with at least US$500,000 medevac cover for all visitors."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Poland",
+      "fields": {
+        "note": "Passport: Poland makes the ten-year passport rule an entry condition for visa-free stays, not just a visa-application requirement. Your passport must have been issued within the previous 10 years and be valid at least three months beyond your intended departure.\nGood to know: Visa-free entry does not cover residence, work or any paid activity."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Portugal",
+      "fields": {
+        "note": "Visa: Canada is named on the Portuguese MFA's own list of nationalities exempt from holding a visa.\nStay: Portugal has notified the EU of a bilateral waiver with Canada that is shorter than the Schengen allowance. It is 60 days, in force since 15 February 1958, for ordinary passports. Do not assume it adds 90.\nGood to know: No official guidance on how to use it could be found. Confirm with a consulate before relying on it.\nExtension: An extension of stay after visa-free entry is an AIMA procedure."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Puerto Rico",
+      "fields": {
+        "note": "Visa: Puerto Rico is inside the United States immigration zone. The Immigration and Nationality Act's definition of 'United States' expressly includes it. There is no separate Puerto Rican visa, permit or entry form.\nPassport: A Canadian needs exactly what they need for Miami: a valid passport, no visa, no ESTA.\nGood to know: The 30-day US registration requirement applies here too.\nGood to know: Travel between Puerto Rico and the mainland is domestic, with no immigration inspection."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Romania",
+      "fields": {
+        "note": "Stay: Romania joined Schengen in full on 1 January 2025 and internal border control with Hungary and Bulgaria ended. Romanian days now come out of the common Schengen allowance. Romania is no longer separate headroom.\nVisa: Romania's exemption for Canadians also has its own domestic basis in Law no. 1108 of 25 October 2001, but that grants no extra days.\nPassport: Must be valid 3 months beyond the journey and issued within the last 10 years."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Russia",
+      "fields": {
+        "note": "Visa: A visa is required and must be obtained before travelling.\nE-visa: Canada is not on the list of states whose nationals may use the unified e-visa, so that route is closed to Canadian passport holders.\nHow to apply: Complete the application on the MFA Consular Department's questionnaire portal and submit it in person to a Russian mission.\nMigration card: On arrival, immigration officers issue a migration card. Carry it throughout the stay, present it for migration registration at the place of sojourn, and hand it to a migration officer on exit."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Saint Kitts and Nevis",
+      "fields": {
+        "note": "Visa: Canada is not on the Ministry of Foreign Affairs' list of countries requiring a visa on entry, so no visa is needed. But it is not plain visa-free.\nBefore you fly: Saint Kitts launched an eTA on 26 May 2025 that applies to visa-free travellers. You must obtain one before entry.\nGood to know: The eTA is valid 90 days from issue and you must travel within that window. That is the authorisation's validity, not your permitted stay, which Saint Kitts does not publish.\nGood to know: The eTA is single-use. There is no need to reapply if it expires while you are in the country.\nScam warning: The government has warned about unofficial travel-authorisation sites. Use only knatravelform.kn."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Saint Lucia",
+      "fields": {
+        "note": "Visa: Canada is named on the Department of External Affairs schedule as not requiring a visa.\nStay: 6 weeks, not three months. That is shorter than most of the Caribbean and easy to get wrong.\nBring: A return ticket is explicitly required of all visitors.\nBefore you fly: Complete the online customs and immigration form at travelslu.govt.lc. It is accessible no more than 72 hours before travel. Show the emailed receipt on arrival."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Saint Martin",
+      "fields": {
+        "note": "Good to know: This entry is the French side only. It is French but not in Schengen, and falls under the arrêté du 18 avril 2012 with Saint-Barthélemy.\nGood to know: The Dutch side, Sint Maarten, is a separate country with its own rules. Do not read one entry across to the other.\nGood to know: The land border is unmarked, but no official source could be found describing how it is controlled. Plan on satisfying each side's rules independently."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Saint Pierre and Miquelon",
+      "fields": {
+        "note": "Visa: Saint Pierre and Miquelon is a French overseas collectivity and not part of Schengen. A Schengen visa is not valid here, and time spent here is a separate allowance. Canada is on the French exemption list for these territories.\nPassport: Arriving directly from Canada for 90 days or less, official Canadian photo identification is accepted instead of a passport, though a passport is simpler.\nPassport: Should be valid 3 months beyond departure, hold 2 blank pages, and be less than 10 years old."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Saudi Arabia",
+      "fields": {
+        "note": "Visa: Canada is on the eligible list for the Saudi eVisa. Apply online before you travel, or take the visa on arrival at Immigration Department visa offices.\nGood to know: It covers tourism, events, family visits and Umrah, but not Hajj and not study.\nPassport: Valid 6 months or more.\nGood to know: Overstaying attracts heavy fines and you will not be allowed to leave until they are paid."
       }
     }
   ],
