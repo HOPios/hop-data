@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:34:36Z",
+  "generated_at": "2026-11-15T14:35:25Z",
   "entries": [
     {
       "passport": "CA",
@@ -344,7 +344,7 @@
       "fields": {
         "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
         "stay": "60 days, extendable by 30 days",
-        "note": "Apply 1 week to 6 months before departure; approval comes within 72 hours and must be shown on arrival, printed or on a phone. The same visa is sold on arrival at the eVisa counters at the same price. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Apply: 1 week to 6 months before departure. Approval comes within 72 hours and must be shown on arrival, printed or on a phone.\nOn arrival: the same visa is sold at the eVisa counters at the same price.\nScam warning: apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -1125,7 +1125,7 @@
       "destination": "Seychelles",
       "fields": {
         "stay": "Up to 90 days",
-        "note": "Seychelles issues no visas at all — every visitor, regardless of nationality, must obtain a paid Travel Authorisation online before departure, then is granted a Visitor's Permit on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: Seychelles issues no visas at all. Every visitor, regardless of nationality, must obtain a paid Travel Authorisation online before departure, then is granted a Visitor's Permit on arrival.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -2356,7 +2356,7 @@
       "destination": "Indonesia",
       "fields": {
         "visa": "ev",
-        "note": "Apply for an e-visa before you leave, on the Indonesian immigration website. Visa on arrival is also available: the Indonesian immigration list of visa on arrival countries includes the Netherlands. The e-visa is valid for up to 30 days and can be extended by up to 30 days at Indonesian immigration. Fill in the free All Indonesia Arrival Card online, from 72 hours before arrival. A damaged passport can be refused. On Bali you pay a tourist tax, payable in advance on the LoveBali website."
+        "note": "Visa: apply for an e-visa before you leave, on the Indonesian immigration website. Visa on arrival is also available: the Indonesian immigration list of visa on arrival countries includes the Netherlands.\nStay: the e-visa is valid for up to 30 days and can be extended by up to 30 days at Indonesian immigration.\nArrival card: fill in the free All Indonesia Arrival Card online, from 72 hours before arrival.\nPassport: a damaged passport can be refused.\nBali: you pay a tourist tax, payable in advance on the LoveBali website."
       }
     },
     {
@@ -3805,7 +3805,7 @@
       "destination": "Liberia",
       "fields": {
         "apply": "Online through Liberia's official visa-on-arrival system (Hop has no working official link at present); show the approval PDF (QR code) at the airport's Visa on Arrival counter",
-        "note": "No Liberian embassy in the Netherlands — use the online Visa on Arrival portal. Apply 7 days to 3 months before travel; approval is valid 3 months for one visit, only at Roberts International Airport (ROB), Monrovia. Passport valid at least 6 months. Fingerprints and face captured on arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: there is no Liberian embassy in the Netherlands. Use the online Visa on Arrival portal.\nApply: 7 days to 3 months before travel.\nApproval: valid 3 months for one visit, only at Roberts International Airport (ROB), Monrovia.\nPassport: valid at least 6 months.\nOn arrival: fingerprints and face captured.\nYellow fever: certificate required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4624,7 +4624,7 @@
       "passport": "NL",
       "destination": "Guinea-Bissau",
       "fields": {
-        "note": "No embassy in this passport's home country — get a visa in advance from a Guinea-Bissau embassy abroad. Passport valid at least 6 months after entry. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Sites claiming to be the official e-visa (e.g. rgb-visa.com) are not confirmed as government-run — don't pay them."
+        "note": "Visa: there is no embassy in this passport's home country. Get a visa in advance from a Guinea-Bissau embassy abroad.\nPassport: valid at least 6 months after entry.\nScam warning: sites claiming to be the official e-visa (e.g. rgb-visa.com) are not confirmed as government-run. Don't pay them.\nYellow fever: certificate required of every arriving traveller aged 1 year and over."
       }
     },
     {
@@ -5016,7 +5016,7 @@
       "passport": "NL",
       "destination": "Nigeria",
       "fields": {
-        "note": "The Netherlands is not named on any exemption list on Nigeria's Immigration Service site — no waiver list exists at all; the Tourism Visa e-Visa class applies uniformly. Two mandatory online forms also apply. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: the Netherlands is not named on any exemption list on Nigeria's Immigration Service site. No waiver list exists at all. The Tourism Visa e-Visa class applies uniformly.\nForms: two mandatory online forms also apply.\nYellow fever: certificate required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5184,7 +5184,7 @@
       "passport": "NL",
       "destination": "Guinea",
       "fields": {
-        "note": "Apply with a return ticket and a scan of the passport data page. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. On arrival show the Entry Visa Letter, a passport valid more than 6 months, proof of funds, the return ticket and proof of accommodation; the visa sticker, photo and fingerprints are done at the counter. Fees are non-refundable if refused."
+        "note": "Apply: with a return ticket and a scan of the passport data page.\nOn arrival: show the Entry Visa Letter, a passport valid more than 6 months, proof of funds, the return ticket and proof of accommodation. The visa sticker, photo and fingerprints are done at the counter.\nFee: non-refundable if refused.\nYellow fever: certificate required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5310,7 +5310,7 @@
       "passport": "NL",
       "destination": "Gambia",
       "fields": {
-        "note": "A USD 20 airport security fee (or GMD 1,000, or the EUR/GBP equivalent) is payable in cash at airport kiosks on arrival and departure; infants 1 and under and transit passengers are exempt. It is not a visa fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. Passport valid for the whole stay."
+        "note": "Fee: USD 20 airport security fee (or GMD 1,000, or the EUR/GBP equivalent), payable in cash at airport kiosks on arrival and departure. It is not a visa fee.\nExempt: infants 1 and under and transit passengers.\nPassport: valid for the whole stay.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5667,7 +5667,7 @@
       "passport": "NL",
       "destination": "Eswatini",
       "fields": {
-        "note": "Visa-exempt. Passport valid 3+ months after arrival with at least 2 blank pages. Check the entry stamp carries the correct date — a wrong date can mean refused re-entry for up to a year. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: visa-exempt.\nPassport: valid 3+ months after arrival, with at least 2 blank pages.\nEntry stamp: check it carries the correct date. A wrong date can mean refused re-entry for up to a year.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -5737,7 +5737,7 @@
       "passport": "NL",
       "destination": "Ethiopia",
       "fields": {
-        "note": "Passport valid 6+ months from intended entry date; one recent passport-size photo required. Processing time is normally 3 days. Use only the official portal, evisa.gov.et. Other websites that offer to submit the application for you are not operated by the Government of Ethiopia and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Passport: valid 6+ months from intended entry date. One recent passport-size photo required.\nProcessing: normally 3 days.\nScam warning: use only the official portal, evisa.gov.et. Other websites that offer to submit the application for you are not operated by the Government of Ethiopia and may charge an additional fee.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5800,7 +5800,7 @@
       "passport": "NL",
       "destination": "Kenya",
       "fields": {
-        "note": "Ordinary passports need an eTA. Apply at least 2 weeks before travel; processing normally 3 working days. Passport valid at least 6 months with one blank page. Have a photo, itinerary, accommodation booking and payment method ready. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: ordinary passports need an eTA. Apply at least 2 weeks before travel. Processing is normally 3 working days.\nPassport: valid at least 6 months with one blank page.\nHave ready: a photo, itinerary, accommodation booking and payment method.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -5891,7 +5891,7 @@
       "passport": "NL",
       "destination": "Malawi",
       "fields": {
-        "note": "The Netherlands' own advisory confirms a Dutch passport must be valid at least 6 months beyond arrival, and confirms travellers may apply for a visa online or obtain one on arrival at the airport. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Passport: the Netherlands' own advisory confirms a Dutch passport must be valid at least 6 months beyond arrival.\nVisa: the same advisory confirms travellers may apply online or obtain one on arrival at the airport.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5954,7 +5954,7 @@
       "passport": "NL",
       "destination": "Mayotte",
       "fields": {
-        "note": "Mayotte is part of the EU (an overseas department, not a Collectivity) even though it is outside Schengen. As an EU citizen, no visa or special formality is required to enter and reside for up to 3 months. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Status: Mayotte is part of the EU (an overseas department, not a Collectivity) even though it is outside Schengen.\nVisa: as an EU citizen, no visa or special formality is required to enter and reside for up to 3 months.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -6017,7 +6017,7 @@
       "passport": "NL",
       "destination": "Mozambique",
       "fields": {
-        "note": "An ETA is required before departure (all passport types, 30 days, tourism or business). It is a pre-travel permission, not a visa. For stays over 30 days or other purposes, apply for a full eVisa instead. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: an ETA is required before departure (all passport types, 30 days, tourism or business). It is a pre-travel permission, not a visa.\nLonger stays: for stays over 30 days or other purposes, apply for a full eVisa instead.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -6220,7 +6220,7 @@
       "passport": "NL",
       "destination": "Rwanda",
       "fields": {
-        "note": "The Netherlands is not a member of the African Union, the Commonwealth or La Francophonie, so Dutch citizens pay the standard visa-on-arrival fee rather than qualifying for the fee waiver. No prior application is required. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: the Netherlands is not a member of the African Union, the Commonwealth or La Francophonie. Dutch citizens pay the standard visa-on-arrival fee rather than qualifying for the fee waiver.\nApply: no prior application is required.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -6283,7 +6283,7 @@
       "passport": "NL",
       "destination": "Sao Tome and Principe",
       "fields": {
-        "note": "As an EU citizen, the Netherlands qualifies for São Tomé's 15-day visa-exemption law (Lei n.º 5/2015, amending Article 25 of Lei n.º 5/2008), alongside USA and CPLP citizens. For stays beyond 15 days, a visa must be obtained in advance. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: as an EU citizen, the Netherlands qualifies for São Tomé's 15-day visa-exemption law (Lei n.º 5/2015, amending Article 25 of Lei n.º 5/2008), alongside USA and CPLP citizens.\nLonger stays: for stays beyond 15 days, a visa must be obtained in advance.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -7497,6 +7497,62 @@
       "destination": "Yemen",
       "fields": {
         "note": "Visa: on-arrival visas ended at the end of 2012.\nPermit: Korean law requires an exceptional passport use permit from Korea's Ministry of Foreign Affairs before a Korean passport is used to enter Yemen. Travel without it risks a fine of up to KRW 10 million or one year's imprisonment.\nGood to know: the permit is separate from any Yemeni visa."
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Honduras",
+      "fields": {
+        "note": "Passport: valid at least 6 months from arrival.\nPre-register: at prechequeo.inm.gob.hn before arrival and departure. Carry the confirmation.\nEntry stamp: make sure you get stamped. Some CA-4 land borders don't stamp, and a missing stamp can bring a fine of up to USD 250.\nStay: the CA-4 allowance (Honduras, Guatemala, El Salvador, Nicaragua) is 90 days from first entry.\nExtension: Honduras' INM can extend a tourist stay by up to 90 more days."
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Liechtenstein",
+      "fields": {
+        "note": "Entry: EEA nationals may enter with a valid travel document.\nPermit: needed for any gainful activity, or for a stay without work of more than three months within six months.\nRegister: a permit holder must register with the municipal residents' office within eight days of arrival.\nNon-working permit: needs sufficient means and comprehensive health insurance."
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Namibia",
+      "fields": {
+        "note": "Visa: required since 1 April 2025, available on arrival or as an e-visa.\nPassport: must be valid at least 6 months beyond arrival, with at least 3 blank pages.\nUnder 18: travellers need a full unabridged birth certificate showing both parents' details, or an affidavit of consent if not travelling with both parents or legal guardians."
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Saudi Arabia",
+      "fields": {
+        "note": "Visa: apply for the eVisa online or buy a visa on arrival.\nPassport: must be valid at least 6 months from departure.\nHajj and Umrah: need separate visas via Nusuk.\nOverstay: overstaying the 90 days brings fines and possible exit restrictions until paid.\nGood to know: non-Muslims may not enter the Holy Mosque in Makkah or the Prophet's Mosque in Madinah."
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Solomon Islands",
+      "fields": {
+        "note": "Visa: EU passports (official, diplomatic and ordinary) are covered by Solomon Islands' mutual visa arrangement with the EU. Visa fee exempted, maximum stay 90 days, single entry, work prohibited.\nApply: online through the e-visa portal from outside Solomon Islands, with a sponsor support letter, your passport biopage, a return ticket and a cover letter giving the purpose of travel.\nGrant letter: emailed to you. You must present a copy when you enter.\nPassport: you may not be allowed in if your passport validity is less than 6 months."
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Suriname",
+      "fields": {
+        "note": "Entry Fee: Dutch citizens are not exempt. Tourism and family-visit travellers need no visa but must pay it and carry proof at check-in and on arrival.\nVisa: business, work, study or transit needs a visa from the Consulate-General in Amsterdam.\nForm: travellers 18+ must complete the online ICF form within 7 days of travel."
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Svalbard",
+      "fields": {
+        "note": "Visa: Svalbard is part of Norway, but the Norwegian Immigration Act does not apply, so foreigners need no visa or work and residence permit to go there.\nConditions: everyone, foreign or Norwegian, must meet the 'rejection and expulsion' requirements, including having the means to reside.\nPassport: a valid passport or accepted ID is required for travel."
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Switzerland",
+      "fields": {
+        "note": "Stay: under the EU-Swiss free movement agreement, EU/EFTA citizens can stay without a permit for three months.\nPermit: after that a permit from the cantonal authority is needed, for example a job-seeker permit or a permit for non-working persons. The non-working permit needs sufficient financial means and health and accident insurance.\nRegister: required with the local authorities for those taking up residence without work, within 14 days of arrival."
       }
     }
   ],
