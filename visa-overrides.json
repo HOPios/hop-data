@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:37:07Z",
+  "generated_at": "2026-11-15T14:37:46Z",
   "entries": [
     {
       "passport": "CA",
@@ -376,7 +376,7 @@
       "passport": "NZ",
       "destination": "Hungary",
       "fields": {
-        "note": "Schengen. Hungary also has a bilateral visa waiver agreement with New Zealand, signed on 7 March 2000, allowing up to 90 days in Hungary even if you have already spent 3 months in the last 6 in the Schengen area, if you leave the Schengen area before entering Hungary, do not leave Hungary for other Schengen countries during your stay and leave the Schengen area from Hungary. ETIAS is not yet in operation; no start date announced. The Entry/Exit System is live."
+        "note": "Area: Schengen.\nBilateral agreement: Hungary also has a bilateral visa waiver agreement with New Zealand, signed on 7 March 2000. It allows up to 90 days in Hungary even if you have already spent 3 months in the last 6 in the Schengen area.\nConditions: Leave the Schengen area before entering Hungary, do not leave Hungary for other Schengen countries during your stay, and leave the Schengen area from Hungary.\nETIAS: Not yet in operation; no start date announced.\nEntry/Exit System: The Entry/Exit System is live."
       }
     },
     {
@@ -2898,7 +2898,7 @@
       "passport": "NZ",
       "destination": "Indonesia",
       "fields": {
-        "note": "New Zealand is on Indonesia's visa-on-arrival list. You can buy it at the airport counter or pre-apply for the e-VOA online. Only use the official immigration website. Other websites that offer to submit the application for you are not operated by the Government of Indonesia and may charge an additional fee."
+        "note": "Visa: New Zealand is on Indonesia's visa-on-arrival list. You can buy it at the airport counter or pre-apply for the e-VOA online.\nOfficial site: Only use the official immigration website.\nScam warning: Other websites that offer to submit the application for you are not operated by the Government of Indonesia and may charge an additional fee."
       }
     },
     {
@@ -3780,7 +3780,7 @@
       "destination": "Liberia",
       "fields": {
         "apply": "Apply online before travel through Liberia's official visa-on-arrival system; Hop has no working official link at present",
-        "note": "There is no Liberian embassy in New Zealand, so New Zealanders use the official online visa-on-arrival system: apply and pay online BEFORE flying, and the sticker is issued at the airport. It is not a walk-up visa. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: There is no Liberian embassy in New Zealand, so New Zealanders use the official online visa-on-arrival system. Apply and pay online before flying, and the sticker is issued at the airport. It is not a walk-up visa.\nYellow fever: A vaccination certificate is required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4595,7 +4595,7 @@
       "passport": "NZ",
       "destination": "Guinea-Bissau",
       "fields": {
-        "note": "No traveller-facing official portal exists for this destination. The foreign ministry site (mne.gw) loads, but its visa page says only that it is being updated, and no immigration site was found. A biometric visa does appear to be issued on arrival at Bissau airport with online pre-enrolment beforehand, at around EUR 61 plus a EUR 2.50 processing fee, but the site quoting those figures (rgb-visa.com) could not be confirmed as government-run and its own pages contradict each other on whether the stay is 30 or 90 days. Contact a Guinea-Bissau mission before travelling; do not rely on those figures. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+        "note": "Official site: No traveller-facing official portal exists for this destination. The foreign ministry site (mne.gw) loads, but its visa page says only that it is being updated, and no immigration site was found.\nVisa: A biometric visa does appear to be issued on arrival at Bissau airport with online pre-enrolment beforehand, at around EUR 61 plus a EUR 2.50 processing fee.\nNot confirmed: The site quoting those figures (rgb-visa.com) could not be confirmed as government-run, and its own pages contradict each other on whether the stay is 30 or 90 days. Do not rely on those figures.\nBefore you fly: Contact a Guinea-Bissau mission before travelling.\nYellow fever: A vaccination certificate is required of every arriving traveller aged 1 year and over."
       }
     },
     {
@@ -5141,7 +5141,7 @@
       "passport": "NZ",
       "destination": "Guinea",
       "fields": {
-        "note": "Apply online through the border police portal before travel; the approval letter is exchanged for the visa on arrival at Conakry. Guinea publishes no list of waiver countries, so a visa is the default assumption. Note that visa.ambaguinee.org is not the official site — it is a private operator that redirects to the government platform anyway. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: Apply online through the border police portal before travel. The approval letter is exchanged for the visa on arrival at Conakry.\nExemptions: Guinea publishes no list of waiver countries, so a visa is the default assumption.\nScam warning: visa.ambaguinee.org is not the official site. It is a private operator that redirects to the government platform anyway.\nYellow fever: A vaccination certificate is required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5764,7 +5764,7 @@
       "passport": "NZ",
       "destination": "Kenya",
       "fields": {
-        "note": "New Zealand is not on any of Kenya's eTA exemption lists, so an eTA is required before travel. Important: the 90 days you will see quoted is how long the eTA is valid FOR TRAVEL, not how long you may stay — the length of stay is set at the point of entry. Apply through the official website of the Government of Kenya, www.etakenya.go.ke. Other websites that offer to submit the application for you are not operated by the Government of Kenya and may charge an additional fee. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: New Zealand is not on any of Kenya's eTA exemption lists, so an eTA is required before travel.\nStay: The 90 days you will see quoted is how long the eTA is valid for travel, not how long you may stay. The length of stay is set at the point of entry.\nOfficial site: Apply through the official website of the Government of Kenya, www.etakenya.go.ke.\nScam warning: Other websites that offer to submit the application for you are not operated by the Government of Kenya and may charge an additional fee.\nYellow fever: A certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -7706,6 +7706,132 @@
       "destination": "Greece",
       "fields": {
         "note": "Visa: Greece's own foreign ministry table lists New Zealand as visa-free on all passport types.\nEntry/Exit System: Biometric registration is live.\nETIAS: Not yet in operation; no start date announced.\nBilateral agreement: Greece holds a 6.12.1961 bilateral visa waiver agreement with New Zealand allowing 90 days. The European Commission lists it as an extension-of-stay agreement (ordinary passports). No government guidance explains how to use it at the border, so do not rely on it without checking first."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Guadeloupe",
+      "fields": {
+        "note": "Good to know: Guadeloupe is a French overseas department and is not in the Schengen area. A Schengen visa gives no right of entry here, and days spent here do not count against your Schengen 90/180.\nVisa: New Zealand appears in the French government's exemption table for these territories with no special conditions attached."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Guam",
+      "fields": {
+        "note": "Visa: Guam counts as the United States for Visa Waiver Program purposes, so a New Zealander flies in on an approved ESTA and is admitted for up to 90 days.\nOther option: There is a separate Guam-CNMI waiver that gives only 45 days and only for Guam and the Northern Marianas. ESTA is the better route.\nFee: The ESTA fee is adjusted for inflation annually, so re-check it."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Guatemala",
+      "fields": {
+        "note": "Visa: The Instituto Guatemalteco de Migración's current country classification places “Nueva Zelandia” in Categoría A, exento de visa. Entry is on a valid passport alone.\nStay: The 90 days is a single allowance covering Guatemala, El Salvador, Honduras and Nicaragua together. Moving between them does not reset it, and leaving the CA-4 region entirely voids the permit.\nNicaragua: As of 2026, Nicaragua now requires New Zealanders to hold a Visa Consultada, so you cannot simply cross into Nicaragua on this permit even though it is a CA-4 member. Treat the practical free-movement zone as Guatemala, El Salvador and Honduras."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Guernsey",
+      "fields": {
+        "note": "Visa: Since 23 April 2026 a New Zealander flying direct to Guernsey from outside the Common Travel Area needs a UK Electronic Travel Authorisation. Guernsey uses the UK scheme and portal.\nVia the UK: Arriving via the UK, the same ETA covers you and there are no routine controls on the UK–Guernsey leg.\nGood to know: All three Crown Dependencies joined on the same date, and one ETA covers the UK, Jersey, Guernsey and the Isle of Man."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Guyana",
+      "fields": {
+        "note": "Visa: New Zealand is on Guyana's visa exemption schedule, confirmed on three separate government sources.\nStay: None of them states how long a visa-exempt visitor may stay. The one-month figure that circulates comes from Guyana's visa fee schedule, which by its own wording applies only to nationalities that do need a visa."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Holy See",
+      "fields": {
+        "note": "Good to know: The Vatican publishes no entry, visa or border rule at all and operates no passport control. You arrive having already been admitted to Italy, so the Italian and Schengen rules are what actually govern.\nNot immigration: Do not confuse this with the dress code and ticketing rules for St Peter's and the Museums. Those are venue conditions, not immigration.\nChanges: If Italy's entry rules change, notably when ETIAS starts, this changes with them."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Iceland",
+      "fields": {
+        "note": "Area: Schengen.\nBilateral agreement: Iceland also has a 1974 bilateral visa waiver agreement with New Zealand (in force 1.2.1974, all passports). Iceland says New Zealand citizens may stay up to 3 months beyond the 90 days allowed in the Schengen area.\nETIAS: Not yet in operation; no start date announced.\nEntry/Exit System: The Entry/Exit System is live."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "India",
+      "fields": {
+        "note": "Apply: Apply online at least 4 days before arrival and enter only through a designated airport or seaport.\nLimits: The e-Visa cannot be extended or converted, and it is not valid for Protected, Restricted or Cantonment areas.\nOfficial site: Apply through the official website of the Government of India, indianvisaonline.gov.in.\nScam warning: Other websites that offer to submit the application for you are not operated by the Government of India and may charge an additional fee."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Iraq",
+      "fields": {
+        "note": "Visa: Iraq suspended visa on arrival for New Zealanders. Get an e-visa before you fly.\nConflicting sources: One Iraqi consulate page still advertises visa on arrival at USD 75 and has not been withdrawn, so Iraq's own sources contradict each other. The e-visa is the later instruction.\nKurdistan Region: It runs a completely separate visa system (30 days, extendable to 90, about USD 72 online). The two systems are not interchangeable."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Ireland",
+      "fields": {
+        "note": "Good to know: Ireland is not in the Schengen area. It is in the EU and in the Common Travel Area with the UK, so the Schengen 90/180 and ETIAS do not apply here.\nVisa: New Zealand is named in Ireland's statutory visa order.\nBefore you fly: Ireland has not introduced any electronic travel authorisation of its own, so as at August 2026 there is nothing to apply for before you fly."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Isle of Man",
+      "fields": {
+        "note": "ETA: New since 23 April 2026. An ETA is required for New Zealanders arriving from outside the Common Travel Area.\nVia other places: An ETA is required even when travelling via Ireland, Jersey or Guernsey, unless already lawfully resident/permitted in the Common Travel Area.\nExempt: British and Irish citizens, and non-visa nationals already living in Ireland or holding existing CTA immigration permission.\nCoverage: Otherwise, a single ETA covers the UK and all three Crown Dependencies.\nValidity: 2 years or until your passport expires."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Israel",
+      "fields": {
+        "note": "Before you fly: New Zealanders are visa-exempt, but since 1 January 2025 every visa-exempt traveller must hold an approved ETA-IL before boarding. Without it, entry is refused.\nApply: Apply at least 72 hours before arrival on the official government website.\nScam warning: Other websites that offer to submit the application for you are not operated by the Government of Israel and may charge an additional fee.\nValidity: Approval lasts 2 years or until your passport expires.\nStay: For longer than 90 days you must apply to the Population and Immigration Authority."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Italy",
+      "fields": {
+        "note": "Area: Schengen short-stay rules.\nETIAS: Not yet in operation; no start date announced.\nEntry/Exit System: The Entry/Exit System is fully operational, so expect fingerprints and a facial image at the border instead of a passport stamp.\nBilateral agreement: Italy holds a 1.3.1961 bilateral visa waiver agreement with New Zealand allowing 3 months. The European Commission lists it as an extension-of-stay agreement (all passports). No government guidance explains how to use it at the border, so do not rely on it without checking first."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Kiribati",
+      "fields": {
+        "note": "Visa: New Zealanders are visa-exempt, but the 90 days is a rolling annual allowance rather than per entry.\nPassport: Must be valid at least six months beyond your departure from Kiribati.\nSource: The controlling legal order is published only as a scanned image, so this rests on the government tourism office's statement."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Kuwait",
+      "fields": {
+        "note": "Visa: New Zealand is on Kuwait's official list of nationalities that may get a visa at the border or online.\nNot confirmed: The interior ministry's own portal could not be reached, so the current fee, validity and permitted stay could not be confirmed. Check the portal before you fly. There are also unconfirmed reports the platform is being rebuilt."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Laos",
+      "fields": {
+        "note": "Official site: Apply only at laoevisa.gov.la, the official website.\nScam warning: Other websites that offer to submit the application for you are not operated by the Government of Laos and may charge an additional fee.\nEntry: Single entry, and it is accepted at 9 designated ports only. Arriving anywhere else means applying for a visa on arrival instead and forfeiting what you paid.\nValidity: The approval letter is valid 60 days."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Libya",
+      "fields": {
+        "note": "Visa: Libya's official e-visa portal is live and takes individual, agency and company applications, but it is new and unstable.\nSources: Be careful what you read elsewhere. Every Libyan embassy on Libya's own official mission register still publishes nothing about visas. The site most often cited for Libyan visa fees is not on that register at all and contradicts itself, so it is not used here.\nIn practice: Entry runs through an in-country sponsor or tour operator, tourist visas are not reliably issued, and you should not book on the assumption of getting one."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Liechtenstein",
+      "fields": {
+        "note": "Area: Liechtenstein is in Schengen through its union with Switzerland but not in the EU.\nVisa: It publishes its own entry ordinance, which adopts the EU visa list, so New Zealanders are visa-free.\nLong stays: Swiss missions take its long-stay visa applications abroad.\nGetting there: There is no airport, so you actually arrive via Switzerland or Austria.\nBilateral agreement: Liechtenstein holds a 1.8.1948 bilateral visa waiver agreement with New Zealand allowing 90 days. The European Commission lists it as an extension-of-stay agreement (all passports). No government guidance explains how to use it at the border, so do not rely on it without checking first."
       }
     }
   ],
