@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:33:39Z",
+  "generated_at": "2026-11-15T14:34:36Z",
   "entries": [
     {
       "passport": "CA",
@@ -169,7 +169,7 @@
       "fields": {
         "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
         "stay": "Up to 60 days",
-        "note": "Apply 1 week to 6 months before departure; approval comes within 72 hours and must be shown on arrival, printed or on a phone. The same visa is sold on arrival at the eVisa counters at the same price. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Apply: 1 week to 6 months before departure. Approval comes within 72 hours and must be shown on arrival, printed or on a phone.\nOn arrival: the same visa is sold at the eVisa counters at the same price.\nScam warning: apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -405,7 +405,7 @@
       "destination": "Zambia",
       "fields": {
         "stay": "30 days per entry",
-        "note": "Visa-exempt. Air arrivals need a return air ticket; land and water arrivals need enough funds for their stay and departure. The KAZA UniVisa (USD 50) also covers Zimbabwe and Botswana day trips, and South Korea is on its eligible list — but it isn't needed just to enter Zambia. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: visa-exempt.\nBring: air arrivals need a return air ticket. Land and water arrivals need enough funds for their stay and departure.\nKAZA UniVisa: USD 50, also covers Zimbabwe and Botswana day trips, and South Korea is on its eligible list. It isn't needed just to enter Zambia.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -632,7 +632,7 @@
       "destination": "Seychelles",
       "fields": {
         "stay": "Up to 90 days",
-        "note": "Seychelles issues no visas at all — every visitor, regardless of nationality, must obtain a paid Travel Authorisation online before departure, then is granted a Visitor's Permit on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: Seychelles issues no visas at all. Every visitor, regardless of nationality, must obtain a paid Travel Authorisation online before departure, then is granted a Visitor's Permit on arrival.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -816,6 +816,13 @@
       "checked": "2026-11-15"
     },
     {
+      "passport": "KR",
+      "destination": "Vietnam",
+      "fields": {
+        "note": "Visa: South Korea is one of the 25 countries on Vietnam's 45-day unilateral visa-exemption list (Group 1, valid through 14 March 2028).\nStay: extended to 45 days from 15 August 2023, regardless of passport type or purpose.\nLonger stay: an e-visa (90 days, multiple entry) remains available for longer or multiple-entry stays."
+      }
+    },
+    {
       "passport": "DE",
       "destination": "Vietnam",
       "fields": {
@@ -874,7 +881,7 @@
       "destination": "Kazakhstan",
       "fields": {
         "stay": "30 days per entry, 60 per 180",
-        "note": "Kazakhstan has run a pilot of its Electronic Travel Authorization (ETA), QazETA, since January 2026 for visa-exempt visitors including Koreans; once the ETA is mandatory, visitors without approval are refused entry. It is not needed if you get a visa from the Kazakh embassy or consulate in Korea. Korean citizens may enter without a visa for up to 30 days after crossing the border, for a total of 60 days in each period of 180 days.",
+        "note": "ETA: Kazakhstan has run a pilot of its Electronic Travel Authorization (ETA), QazETA, since January 2026 for visa-exempt visitors including Koreans. Once the ETA is mandatory, visitors without approval are refused entry.\nNot needed: if you get a visa from the Kazakh embassy or consulate in Korea.\nStay: Korean citizens may enter without a visa for up to 30 days after crossing the border, for a total of 60 days in each period of 180 days.",
         "apply": "Apply for a QazETA ETA through its mobile app 72 hours before entry (pilot since January 2026; valid for up to 180 days). Longer stays: Not verified",
         "visa": "vf"
       }
@@ -1290,7 +1297,7 @@
       "destination": "Kyrgyzstan",
       "fields": {
         "stay": "30 days",
-        "note": "Visa-free for 30 days for tourism on an ordinary passport, used in one stay or split. The visa-free system changed on 1 January 2026. Once you have used all 30 days and left, wait 30 days before re-entering visa-free; if you leave having used fewer than 30 days, you can return within that time for the remaining days.",
+        "note": "Visa: visa-free for 30 days for tourism on an ordinary passport, used in one stay or split.\nGood to know: the visa-free system changed on 1 January 2026.\nRe-entry: once you have used all 30 days and left, wait 30 days before re-entering visa-free. If you leave having used fewer than 30 days, you can return within that time for the remaining days.",
         "extension": "A longer-stay visa can be applied for at evisa.e-gov.kg after visa-free entry"
       }
     },
@@ -1748,7 +1755,7 @@
       "destination": "India",
       "fields": {
         "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year",
-        "note": "e-Visa entry only through designated airports and seaports. Apply only at indianvisaonline.gov.in, the official website. Other websites that offer to submit the application for you are not operated by the Government of India and may charge an additional fee. South Korean passport holders can also get a visa on arrival."
+        "note": "Visa: e-Visa entry only through designated airports and seaports.\nScam warning: apply only at indianvisaonline.gov.in, the official website. Other websites that offer to submit the application for you are not operated by the Government of India and may charge an additional fee.\nGood to know: South Korean passport holders can also get a visa on arrival."
       }
     },
     {
@@ -2363,7 +2370,7 @@
       "destination": "Liberia",
       "fields": {
         "apply": "Online through Liberia's official visa-on-arrival system (Hop has no working official link at present); show the approval PDF (QR code) at the airport's Visa on Arrival counter",
-        "note": "Passport must be valid at least 6 months. Apply 7 days to 3 months before travel; approval is valid 3 months for a single visit, only at Roberts International Airport (ROB), Monrovia. Fingerprints and face are captured at the airport. There is no Liberian embassy in South Korea. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Passport: valid at least 6 months.\nApply: 7 days to 3 months before travel. Approval is valid 3 months for a single visit, only at Roberts International Airport (ROB), Monrovia.\nAt the airport: fingerprints and face are captured.\nEmbassy: there is no Liberian embassy in South Korea.\nYellow fever: vaccination certificate required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -2487,7 +2494,7 @@
       "passport": "KR",
       "destination": "Tanzania",
       "fields": {
-        "note": "One visa covers Mainland Tanzania and Zanzibar — pick your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. Passport valid 6+ months with a blank visa page; show a return ticket on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: one visa covers Mainland Tanzania and Zanzibar. Pick your first destination on the form.\nInsurance: since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days. Buy it from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar.\nHealth form: fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number.\nPassport: valid 6+ months with a blank visa page.\nBring: show a return ticket on arrival.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -2903,7 +2910,7 @@
       "passport": "NL",
       "destination": "Cote d'Ivoire",
       "fields": {
-        "note": "Passport valid 6+ months from the application date. Upload the passport ID page, a round-trip flight booking, and an invitation letter or accommodation certificate — missing any one means automatic rejection. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Passport: valid 6+ months from the application date.\nUpload: the passport ID page, a round-trip flight booking, and an invitation letter or accommodation certificate. Missing any one means automatic rejection.\nYellow fever: certificate required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -3932,7 +3939,7 @@
       "passport": "NL",
       "destination": "Aruba",
       "fields": {
-        "note": "Passport valid for the whole stay and issued within the last 10 years; onward/return ticket and purpose of visit; funds of USD 150-200/day (hotel) or USD 100/day (with family); travel insurance of at least USD 15,000. A USD 20 Sustainability Fee is paid via the online ED card. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Passport: valid for the whole stay and issued within the last 10 years.\nBring: an onward or return ticket and your purpose of visit.\nFunds: USD 150-200/day (hotel) or USD 100/day (with family).\nInsurance: travel insurance of at least USD 15,000.\nFee: USD 20 Sustainability Fee, paid via the online ED card.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -3988,7 +3995,7 @@
       "passport": "NL",
       "destination": "Bolivia",
       "fields": {
-        "note": "Dutch citizens fall in Bolivia's Group I (Grupo I) and need no visa for tourism. Nederlandwereldwijd flags that authorities must stamp the passport on both arrival and departure to avoid a fine, and does not describe an extension process. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: Dutch citizens fall in Bolivia's Group I (Grupo I) and need no visa for tourism.\nPassport stamp: Nederlandwereldwijd flags that authorities must stamp the passport on both arrival and departure to avoid a fine. It does not describe an extension process.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -4352,7 +4359,7 @@
       "passport": "KR",
       "destination": "Kenya",
       "fields": {
-        "note": "Ordinary passports need an eTA. Apply at least 2 weeks before travel; processing normally 3 working days. Passport valid at least 6 months with one blank page. Have a photo, itinerary, accommodation booking and payment method ready. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: ordinary passports need an eTA.\nBefore you fly: apply at least 2 weeks before travel. Processing is normally 3 working days.\nPassport: valid at least 6 months with one blank page.\nBring: have a photo, itinerary, accommodation booking and payment method ready.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -4499,7 +4506,7 @@
       "passport": "KR",
       "destination": "Mayotte",
       "fields": {
-        "note": "Visa-free status is inferred, not confirmed on Mayotte's own exemption decree: South Korea holds the same Schengen short-stay waiver as Australia, the US, UK, Canada and New Zealand, all on Mayotte's exemption list. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: visa-free status is inferred, not confirmed on Mayotte's own exemption decree. South Korea holds the same Schengen short-stay waiver as Australia, the US, UK, Canada and New Zealand, all on Mayotte's exemption list.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4562,7 +4569,7 @@
       "passport": "KR",
       "destination": "Mozambique",
       "fields": {
-        "note": "ETA required before departure, covering 30 days for tourism or business. For a longer stay or another purpose, apply for a full eVisa instead. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: ETA required before departure, covering 30 days for tourism or business.\nLonger stay: for a longer stay or another purpose, apply for a full eVisa instead.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4632,7 +4639,7 @@
       "passport": "KR",
       "destination": "New Caledonia",
       "fields": {
-        "note": "Visa-free up to 90 days in any 180-day period under France's rules for its Pacific territories — separate from Schengen. Show funds, accommodation, a return or onward ticket and the purpose of the visit. Passport valid 3 months beyond departure with 2 blank pages. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: visa-free up to 90 days in any 180-day period under France's rules for its Pacific territories. This is separate from Schengen.\nBring: funds, accommodation, a return or onward ticket and the purpose of the visit.\nPassport: valid 3 months beyond departure with 2 blank pages.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -4702,7 +4709,7 @@
       "passport": "KR",
       "destination": "Papua New Guinea",
       "fields": {
-        "note": "South Korea is NOT on PNG's VOA list (only Japan is named among East Asian nationalities). Korean passport holders must apply in advance through the electronic visa portal. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: South Korea is not on PNG's VOA list (only Japan is named among East Asian nationalities). Korean passport holders must apply in advance through the electronic visa portal.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -4765,7 +4772,7 @@
       "passport": "KR",
       "destination": "Rwanda",
       "fields": {
-        "note": "South Korea is not a member of the African Union, the Commonwealth or La Francophonie, so South Korean citizens pay the standard visa-on-arrival fee rather than qualifying for the fee waiver. No prior application is required. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: no prior application is required. South Korea is not a member of the African Union, the Commonwealth or La Francophonie, so South Korean citizens pay the standard visa-on-arrival fee rather than qualifying for the fee waiver.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -4828,7 +4835,7 @@
       "passport": "KR",
       "destination": "Sao Tome and Principe",
       "fields": {
-        "note": "Not eligible for the 15-day visa exemption. Request the Autorização de Entrada (AE) online via eVisaST; decision in 7 working days, fee paid at the border. Passport valid 3+ months beyond the stay; return or onward ticket mandatory. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: not eligible for the 15-day visa exemption. Request the Autorização de Entrada (AE) online via eVisaST. Decision in 7 working days, fee paid at the border.\nPassport: valid 3+ months beyond the stay.\nBring: a return or onward ticket is mandatory.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -6028,6 +6035,41 @@
       "destination": "Honduras",
       "fields": {
         "note": "Passport: valid at least 6 months from arrival.\nEntry stamp: make sure you get a stamp on entry. Some CA-4 land borders don't stamp, and no stamp can mean a fine of up to USD 250.\nPre-registration: pre-register online at prechequeo.inm.gob.hn before arrival and departure, and carry the confirmation.\nStay: the CA-4 allowance runs 90 days from first entry.\nExtension: Honduras' INM can extend a tourist stay by up to 90 more days."
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Iran",
+      "fields": {
+        "note": "Visa: approval is normally arranged by a travel agency in Iran. Otherwise register at evisa.mfa.ir with a hotel booking, flight ticket and vaccination certificate.\nPassport: valid more than 6 months.\nInsurance: travel insurance is mandatory since 21 May 2024, issued with the visa.\nGood to know: passports showing travel to Israel are refused."
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Latvia",
+      "fields": {
+        "note": "Visa: visa-free for 90 days in any 180.\nExtra stay: under a bilateral waiver, a South Korean who stays inside Latvia after the Schengen allowance can remain up to another 90 days. Then you must leave Schengen or go only to a Schengen state with its own bilateral agreement.\nRe-entry: after a 90-day interval. Keep proof of time outside Latvia if stamps don't show it."
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Uganda",
+      "fields": {
+        "note": "Visa: apply online before travel. Biometrics are taken at the chosen point of entry.\nYellow fever: a certificate is no longer mandatory for entry (Uganda notice, 2 October 2026).\nValidity: an approved visa lapses 90 days after approval if unused.\nGood to know: the East Africa Tourist Visa (USD 100, multiple entry, 90 days) covers Uganda, Kenya and Rwanda."
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Venezuela",
+      "fields": {
+        "note": "Visa: South Korea is on the Venezuelan foreign ministry's list of countries exempt from the tourist visa for entry by air. South Korea's foreign ministry (0404.go.kr) states that Korea and Venezuela have an agreement allowing 90 days visa-free.\nBring: immigration may ask to see a flight ticket leaving within 90 days and proof of accommodation, so carry both."
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Yemen",
+      "fields": {
+        "note": "Visa: on-arrival visas ended at the end of 2012.\nPermit: Korean law requires an exceptional passport use permit from Korea's Ministry of Foreign Affairs before a Korean passport is used to enter Yemen. Travel without it risks a fine of up to KRW 10 million or one year's imprisonment.\nGood to know: the permit is separate from any Yemeni visa."
       }
     }
   ],
