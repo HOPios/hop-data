@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:28:20Z",
+  "generated_at": "2026-11-15T14:29:02Z",
   "entries": [
     {
       "passport": "CA",
@@ -118,7 +118,7 @@
       "passport": "CA",
       "destination": "Syria",
       "fields": {
-        "note": "Non-Arab nationals cannot get a visa at the border — a visa must be obtained in advance from a Syrian embassy or consulate. A transitional government has been in place since December 2024 and land borders and airspace may close without notice. Syria's foreign ministry site is live but publishes nothing for travellers."
+        "note": "Visa: Non-Arab nationals cannot get a visa at the border. A visa must be obtained in advance from a Syrian embassy or consulate.\nGood to know: A transitional government has been in place since December 2024. Land borders and airspace may close without notice.\nGood to know: Syria's foreign ministry site is live but publishes nothing for travellers."
       }
     },
     {
@@ -1021,7 +1021,7 @@
       "destination": "Seychelles",
       "fields": {
         "stay": "Up to 90 days, extendable to 365 days in total",
-        "note": "SEYCHELLES ISSUES NO VISA AT ALL — a Visitor's Permit is granted on arrival. But every traveller must hold a PAID pre-arrival Travel Authorisation before departing, so this is not visa-free in practice. You need an airline booking, an accommodation booking for each location you will stay at, and proof of funds. The permit itself is free for the first three months. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: Seychelles issues no visa at all. A Visitor's Permit is granted on arrival.\nBefore you fly: Every traveller must hold a paid pre-arrival Travel Authorisation before departing, so this is not visa-free in practice.\nBring: An airline booking, an accommodation booking for each location you will stay at, and proof of funds.\nFee: The permit itself is free for the first three months.\nYellow fever: A certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -2775,9 +2775,9 @@
       "passport": "CA",
       "destination": "Singapore",
       "fields": {
-        "stay": "Set by ICA at the checkpoint and shown on your e-Pass; you can apply online to extend it"
-      },
-      "checked": "2026-11-10"
+        "stay": "Set by ICA at the checkpoint and shown on your e-Pass; you can apply online to extend it",
+        "note": "Visa: No visa required.\nStay: Singapore publishes no fixed visa-free period. An ICA officer decides the length of stay at the checkpoint and shows it on your visit pass. Any 90-day figure you see elsewhere is unsourced.\nBefore you fly: The SG Arrival Card with health declaration is mandatory and free. Submit it within the 3 days before arrival, including the arrival day."
+      }
     },
     {
       "passport": "CA",
@@ -3893,7 +3893,7 @@
       "passport": "CA",
       "destination": "Tanzania",
       "fields": {
-        "note": "One visa covers both the Mainland and Zanzibar — select your first destination on the form. A 3-month single-entry visa on arrival is reported available at main ports of entry by the Government of Canada, and Tanzania's own guidelines confirm Canada is eligible for both the online e-visa and visa on arrival. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. Holding a visa is not a final authority to enter. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: One visa covers both the Mainland and Zanzibar. Select your first destination on the form.\nGood to know: A 3-month single-entry visa on arrival is reported available at main ports of entry by the Government of Canada. Tanzania's own guidelines confirm Canada is eligible for both the online e-visa and visa on arrival.\nInsurance: Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days. Buy it from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar.\nHealth form: Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival. Keep the QR code or reference number.\nGood to know: Holding a visa is not a final authority to enter.\nYellow fever: A certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4765,7 +4765,7 @@
       "passport": "CA",
       "destination": "Sierra Leone",
       "fields": {
-        "note": "Apply on the official e-visa portal before travel; once approved, the visa is issued to you on arrival at the airport or border. The Government of Canada still offers visa on arrival as an alternative, but neither Sierra Leonean mission checked mentions it and the immigration department publishes no visa-policy page, so the pre-approved e-visa is the reliable route. A SEPARATE USD 25 AIRPORT SECURITY FEE IS PAYABLE PER PASSENGER, ARRIVING AND DEPARTING. A yellow fever vaccination certificate is required of every arriving traveller."
+        "note": "Visa: Apply on the official e-visa portal before travel. Once approved, the visa is issued to you on arrival at the airport or border.\nGood to know: The Government of Canada still offers visa on arrival as an alternative, but neither Sierra Leonean mission checked mentions it and the immigration department publishes no visa-policy page. The pre-approved e-visa is the reliable route.\nFee: A separate USD 25 airport security fee is payable per passenger, arriving and departing.\nYellow fever: A vaccination certificate is required of every arriving traveller."
       }
     },
     {
@@ -4793,7 +4793,7 @@
       "passport": "CA",
       "destination": "South Sudan",
       "fields": {
-        "note": "Apply online before departure through the Ministry of Interior portal; the visa PDF is downloadable within 72 hours and you present it to the visa officer at the port of entry. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Passport valid 6 months. South Sudan's own foreign ministry still directs applicants to embassies and describes the portal as under development, so both channels may be live; the portal is the current route."
+        "note": "Visa: Apply online before departure through the Ministry of Interior portal. The visa PDF is downloadable within 72 hours. Show it to the visa officer at the port of entry.\nYellow fever: A vaccination certificate is required of every arriving traveller aged 9 months and over.\nPassport: Valid 6 months.\nGood to know: South Sudan's own foreign ministry still directs applicants to embassies and describes the portal as under development, so both channels may be live. The portal is the current route."
       }
     },
     {
@@ -5332,7 +5332,7 @@
       "passport": "CA",
       "destination": "Somalia",
       "fields": {
-        "note": "AN ELECTRONIC TRAVEL AUTHORISATION HAS BEEN MANDATORY FOR ALL FOREIGN PASSPORT HOLDERS SINCE 1 SEPTEMBER 2025, and Canada is on no exemption list. SOMALILAND IS A SEPARATE REGIME: the federal Somali authorisation may not be recognised in Somaliland or Puntland, Somaliland runs its own immigration authority and its own e-visa, and it wants 6 months' passport validity. The Government of Canada notes Somalia's e-visa platform previously suffered a breach of travellers' personal data."
+        "note": "Before you fly: An electronic travel authorisation has been mandatory for all foreign passport holders since 1 September 2025, and Canada is on no exemption list.\nGood to know: Somaliland is a separate regime. The federal Somali authorisation may not be recognised in Somaliland or Puntland. Somaliland runs its own immigration authority and its own e-visa, and it wants 6 months' passport validity.\nData breach: the Government of Canada notes Somalia's e-visa platform previously suffered a breach of travellers' personal data."
       }
     },
     {
@@ -7036,6 +7036,125 @@
       "destination": "Saudi Arabia",
       "fields": {
         "note": "Visa: Canada is on the eligible list for the Saudi eVisa. Apply online before you travel, or take the visa on arrival at Immigration Department visa offices.\nGood to know: It covers tourism, events, family visits and Umrah, but not Hajj and not study.\nPassport: Valid 6 months or more.\nGood to know: Overstaying attracts heavy fines and you will not be allowed to leave until they are paid."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Senegal",
+      "fields": {
+        "note": "Visa: Visa-free since 1 May 2015 and still in force. Canada is named on Senegal's own foreign-ministry exemption list.\nStay: Senegal words it as 'less than 3 months'. The Government of Canada words it as 90 days or less.\nPassport: Passport or travel document valid at least 6 months.\nYellow fever: Proof only if arriving from or transiting a risk country."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Serbia",
+      "fields": {
+        "note": "Good to know: Serbia's MFA has a dedicated Canada page. The counting rule is Serbia's own, not the EU rolling window.\nGood to know: Your stay must be registered within 24 hours. Hotels do it for you. If you stay privately, your host or you must register at the local police station.\nGood to know: Keep the registration slip, the 'white card', until you leave."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Sint Maarten",
+      "fields": {
+        "note": "Visa: Visa-free under the Kingdom of the Netherlands' Caribbean visa regime. Canada is on the exemption list with no island-specific restriction, unlike some nationalities that are flagged as still needing a visa for Sint Maarten.\nStay: Sint Maarten defines a tourist as someone staying no longer than three months. No residence permit or admission application is needed. Treat 90 days as the ceiling: Sint Maarten says the maximum depends on country of origin but publishes no table.\nGood to know: Employment is prohibited on a tourist stay."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Slovakia",
+      "fields": {
+        "note": "Visa: Slovakia's embassy in Canada states that Canadian passport holders need no visa for up to 90 days.\nBring: Slovakia publishes a funds figure of EUR 56 per person per day, plus the means to travel home. It does not accept bank or credit cards as proof.\nGood to know: Stays over 30 days outside a hotel or other accommodation facility must be registered with the local Border Police within 3 working days."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Solomon Islands",
+      "fields": {
+        "note": "Visa: Visitor visas must be applied for in advance through the e-visa portal.\nBring: A passport valid 6 months, a return or onward air ticket and proof of funds.\nGood to know: Work is prohibited on a visitor visa.\nGood to know: Canada is not named on any published list that can be checked. The Immigration Division's concessional-entry list is a scanned image with no text layer. Verify before travelling."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "South Africa",
+      "fields": {
+        "note": "Visa: Canada is listed at 90 days on South Africa's own exemption table, with no fee.\nGood to know: The electronic travel authorisation does not apply to Canadians. As of May 2026 it covers only tourists from China, India, Mexico and Indonesia, all visa-required nationalities. Expansion is stated policy, so re-check.\nPassport: Valid 30 days beyond departure, with at least 2 blank pages.\nBring: Travelling with anyone under 18 requires an unabridged birth certificate. South Africa's own advisory says this applies to visa-exempt foreign nationals too. One parent travelling alone also needs an affidavit of consent from the other."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "South Georgia and the South Sandwich Islands",
+      "fields": {
+        "note": "Good to know: There are no banks, ATMs or retail economy on the island. The Falkland Islands pound (at par with GBP) is the local currency in name only.\nVisa: Entry Control Ordinance 2022 requires a visitor permit for essentially everyone, applied for via eta.entry.gov.gs. Commercial cruise operators typically submit group bookings on passengers' behalf.\nStay: A visitor permit is valid for 40 days (gov.gs).\nFee: The £50 late fee applies if you apply 8 days or less before arrival."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "South Korea",
+      "fields": {
+        "note": "Stay: Canada gets an unusually generous allowance. The K-ETA eligible-countries table lists Canada at six months, where most nationalities get 90 days.\nBefore you fly: The K-ETA is currently waived. The Ministry of Justice extended the temporary exemption to 31 December 2026.\nFee: Unless it is extended again, the K-ETA requirement returns on 1 January 2027 at 10,000 KRW (about USD 7-8).\nGood to know: You can still apply for one voluntarily if you want the pre-approval."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Spain",
+      "fields": {
+        "note": "Visa: Spain's embassy in Ottawa confirms Canadians need no short-stay visa for tourism or business.\nBring: Unlike most of Schengen, Spain publishes hard conditions it actually enforces. You need a return or round-trip ticket in all cases, proof of accommodation or an invitation letter, and funds of EUR 122 per person per day with a floor of EUR 1,099 (about CAD 197.40 a day, minimum CAD 1,776.60). These amounts are indexed to the Spanish minimum wage and change annually.\nStay: Spain has also notified the EU of a bilateral visa waiver with Canada, in force since 25 January 1960, for 90 days (ordinary passports).\nGood to know: No official guidance on how to use it could be found. Confirm with a consulate before relying on it."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Sri Lanka",
+      "fields": {
+        "note": "Visa: Canada is named among the 40 countries whose nationals get the tourist ETA free. The ETA is still required. Only the fee is waived. Apply before you arrive.\nStay: On a second entry you get only the balance of the original 30 days, not a fresh 30.\nGood to know: The current arrangement is set out in Alert 01, effective 25 May 2026. Sri Lanka has changed this repeatedly, so check before you travel.\nScam warning: eta.gov.lk is the only official website. Other websites that offer to submit the application for you are not operated by the Government of Sri Lanka and may charge an additional fee."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Sudan",
+      "fields": {
+        "note": "Visa: Visas are not granted automatically. Allow at least two months between applying and travelling. Sudan's own missions list entry visas for business, official, work, humanitarian and tourist purposes.\nGood to know: You must register with the Aliens' Registration Office within 3 days of arrival. A separate permit is needed to travel outside Khartoum.\nGood to know: The Embassy of Canada in Sudan has suspended operations. There is no Canadian consular support inside the country. Heavy fighting has continued since April 2023.\nYellow fever: Proof is not required."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Suriname",
+      "fields": {
+        "note": "Visa: Not plain visa-free, and getting this wrong would strand you at check-in. Canadians travel without a visa but must buy a paid Entry Fee voucher for every entry.\nBefore you fly: Since 15 January 2024 the voucher must be shown to airline staff before boarding. Buy it online before you fly.\nGood to know: CARICOM nationals and holders of a Surinamese visa or residence permit are exempt from the fee. Canadians are not."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Svalbard",
+      "fields": {
+        "note": "Visa: Svalbard is Norwegian but sits outside the Schengen area under the Svalbard Treaty. It is visa-free for every nationality. You need only a valid travel document.\nGood to know: There is effectively no route except through mainland Norway, which is Schengen. You leave Schengen to enter Svalbard and re-enter it coming home, so your Schengen 90/180 allowance must have room for both transits. Days on Svalbard itself are not Schengen days.\nGood to know: Since 1 January 2026, travel outside the 'travel area' needs an application or registration, with four weeks' lead time. The travel area is central Longyearbyen, the airport, Pyramiden, Barentsburg and Ny-Ålesund. Organised tours are covered by the operator."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Sweden",
+      "fields": {
+        "note": "Visa: Sweden's missions confirm Canadians need no visa for 90 days or less. Canada is named in Sweden's list of bilateral visa-exemption partners.\nStay: That agreement was notified to the EU, has been in force since 30 June 1949, and covers 3 months (ordinary passports). Under it the 90 days are counted across the Nordic area: Denmark, Finland, Iceland, Norway, Sweden. Only prior time in a Nordic country within the last 6 months is deducted. In principle that means Schengen time elsewhere doesn't count against it.\nGood to know: It is a documented entitlement, but Migrationsverket does not publicise it and border systems work to the Schengen 90/180. Do not treat it as reliable. Confirm with a consulate before relying on it."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Switzerland",
+      "fields": {
+        "note": "Visa: The Swiss State Secretariat for Migration's own per-nationality list carries a Canada row reading 'No' visa for stays up to 90 days.\nGood to know: Canada's row carries footnote V1. A visa is required for gainful work in construction, catering, cleaning, security or erotic services, or for any other work over 8 days in a calendar year.\nStay: Switzerland has no bilateral agreement with Canada. A Canadian gets the Schengen 90/180 and nothing more."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Taiwan",
+      "fields": {
+        "note": "Visa: Canada is named on Taiwan's visa-exempt list. Canadian and UK passport holders get an extension right most nationalities don't have.\nPassport: Valid at least six months. You need a confirmed return or onward ticket.\nBefore you fly: The Taiwan Arrival Card has been mandatory for all inbound travellers since 1 October 2025. It is free.\nScam warning: Other websites that offer to submit the application for you are not operated by the Government of Taiwan and may charge an additional fee."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Thailand",
+      "fields": {
+        "note": "Stay: Thailand's 60-day visa exemption was revoked by Cabinet on 19 May 2026 and the tourism exemption reverts to 30 days. It takes effect 15 days after Royal Gazette publication. Canada is on the 30-day exemption table.\nBefore you fly: The Thailand Digital Arrival Card is required of all non-Thai nationals. It is free. File it within the 3 days before arrival, including the arrival date, and only at tdac.immigration.go.th.\nScam warning: Other websites that offer to fill it in for you are not operated by the Government of Thailand and may charge a fee."
       }
     }
   ],
