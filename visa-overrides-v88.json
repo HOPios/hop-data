@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:44:31Z",
+  "generated_at": "2026-11-15T14:51:55Z",
   "entries": [
     {
       "passport": "CA",
@@ -8,6 +8,14 @@
       "fields": {
         "visa": "eta",
         "note": "Visa: no tourist visa for Canadians for stays of up to 30 days.\nVisa list: from 1 January 2026 nationals of 91 listed countries must hold a visa before arrival. Canada is not on that list, and Canadian residence permits are separately named as exempting their holders.\nPre-registration: compulsory on the EASE platform for every foreign traveller, ideally at least 5 days before travel. The airport security tax is paid through it.\nETA: Canada's travel advice calls this pre-registration an ETA. Complete the online form and pay the airport security fee at least 5 days before you arrive.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Kiribati",
+      "fields": {
+        "stay": "Up to 90 days in any year",
+        "note": "Visa-free up to 90 days in any 12-month period (Commonwealth member). One of the world's most remote destinations — limited flights via Fiji. Climate change front line — low-lying atolls at risk."
       }
     },
     {
@@ -33,6 +41,13 @@
       "fields": {
         "stay": "Up to 90 days in Germany regardless of other Schengen stays",
         "note": "Visa: No visa for tourism, and no work permitted on a visa-free entry.\nEntry/Exit System: Biometric registration applies at the border.\nETIAS: Not yet in operation; no start date announced.\nBilateral agreement: Germany holds a 1.8.1972 bilateral visa waiver agreement with New Zealand allowing 3 months. The European Commission lists it as an extension-of-stay agreement (all passports).\nStay: The German Embassy in Wellington says it allows up to 90 days per stay in Germany, not counting time in other Schengen countries. You must leave Germany before re-entering for another 90 days, and the total must not exceed one year.\nGood to know: Enter and leave through a German airport so your passport is stamped. Border authorities decide each case, and the embassy cannot confirm it in writing or intervene."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Grenada",
+      "fields": {
+        "stay": "Officer sets at entry: 14, 30, 60, 90 or 180 days"
       }
     },
     {
@@ -94,8 +109,7 @@
         "extension": "Not possible: the e-Tourist Visa is non-extendable and non-convertible",
         "ext_cost": "Not applicable: the e-Tourist Visa cannot be extended",
         "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "CA",
@@ -130,8 +144,15 @@
         "apply": "Online, through Chad's official e-visa portal (https://evisa.td) · gov.uk/foreign-travel-advice/chad",
         "stay": "Not verified — Chad's e-Visa site gives no stay length",
         "cost": "Not verified — the fee is not stated on Chad's e-Visa site"
-      },
-      "checked": "2026-11-13"
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Bahamas",
+      "fields": {
+        "note": "New Zealand is on the Bahamian visa waiver list, for stays of up to 3 months. Passport, return ticket and proof of funds are required; work is not permitted.",
+        "stay": "90 days from your arrival date in practice; officer decides"
+      }
     },
     {
       "passport": "CA",
@@ -145,6 +166,14 @@
       "destination": "North Macedonia",
       "fields": {
         "note": "Visa: visa-free for up to 90 days.\nRegistration: you must register your presence within 24 hours of arrival. Hotels and other commercial accommodation usually file the registration for you. In private accommodation, register yourself at the nearest police station within 24 hours.\nPenalty: missing the registration can mean fines and difficulties when you leave."
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Antigua and Barbuda",
+      "fields": {
+        "extension": "Possible — up to 3 months (90 days) per extension; apply to the Chief Immigration Officer / Immigration Department before the entry endorsement expires",
+        "stay": "180 days from your arrival date"
       }
     },
     {
@@ -251,30 +280,41 @@
       "destination": "Wallis and Futuna",
       "fields": {
         "stay": "Up to 3 months without formality (EU citizens)"
-      },
-      "checked": "2026-11-09"
+      }
     },
     {
       "passport": "NL",
       "destination": "Wallis and Futuna",
       "fields": {
         "stay": "Up to 3 months without formality (EU citizens)"
-      },
-      "checked": "2026-11-09"
+      }
     },
     {
       "passport": "IE",
       "destination": "Wallis and Futuna",
       "fields": {
         "stay": "Up to 3 months without formality (EU citizens)"
-      },
-      "checked": "2026-11-09"
+      }
     },
     {
       "passport": "IN",
       "destination": "Isle of Man",
       "fields": {
         "note": "India is not a UK ETA-eligible nationality — a Standard Visitor visa is required, applied for online through UKVI. A valid UK or Channel Islands visa is enough to travel around the Common Travel Area, with no Isle of Man-specific visa."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Guernsey",
+      "fields": {
+        "stay": "Up to 180 days"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Guernsey",
+      "fields": {
+        "stay": "Up to 180 days"
       }
     },
     {
@@ -395,8 +435,7 @@
       "destination": "Vanuatu",
       "fields": {
         "stay": "Up to 120 days, no extension"
-      },
-      "checked": "2026-11-10"
+      }
     },
     {
       "passport": "CA",
@@ -404,6 +443,13 @@
       "fields": {
         "stay": "Up to 90 days, set by the officer; an extension is needed to stay longer",
         "note": "Visa: Canada is named on PICA's own entry visa requirements table as not requiring a visa, tagged Commonwealth.\nStay: PICA allows Commonwealth citizens a maximum of 12 months as a visitor against 6 months for non-Commonwealth. The period actually granted is what the officer stamps, so treat 12 months as a ceiling.\nDeclaration: the electronic C5 passenger declaration is mandatory for all arriving passengers and is free on the official website.\nScam warning: other websites that offer to fill it in for you are not operated by the Government of Jamaica and may charge a fee."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "United Arab Emirates",
+      "fields": {
+        "stay": "30 days (free visitor visa on arrival); longer stays need an extension, at immigration's discretion"
       }
     },
     {
@@ -416,12 +462,19 @@
       }
     },
     {
+      "passport": "CA",
+      "destination": "Saint Vincent and the Grenadines",
+      "fields": {
+        "stay": "3 months",
+        "note": "Canada is absent from the Ministry of National Security's short list of ten nationalities that must obtain an entry visa. Canadians get a three-month Visitor's Permit on arrival."
+      }
+    },
+    {
       "passport": "NL",
       "destination": "Montserrat",
       "fields": {
         "stay": "Set by the immigration officer on entry, up to 6 months"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "KR",
@@ -490,11 +543,39 @@
       }
     },
     {
+      "passport": "CA",
+      "destination": "Antigua and Barbuda",
+      "fields": {
+        "stay": "180 days from your arrival date, officer's discretion"
+      }
+    },
+    {
       "passport": "AU",
       "destination": "Saint Vincent and the Grenadines",
       "fields": {
         "stay": "90 days from your arrival date",
         "note": "No visa — only ten nationalities need one. Australians get a three-month Visitor's Permit on arrival."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Saint Vincent and the Grenadines",
+      "fields": {
+        "stay": "180 days from your arrival date"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Saint Vincent and the Grenadines",
+      "fields": {
+        "stay": "180 days from your arrival date"
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Antigua and Barbuda",
+      "fields": {
+        "stay": "180 days from your arrival date"
       }
     },
     {
@@ -506,11 +587,74 @@
       }
     },
     {
+      "passport": "KR",
+      "destination": "Dominica",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Saint Vincent and the Grenadines",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Dominica",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Saint Vincent and the Grenadines",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Antigua and Barbuda",
+      "fields": {
+        "stay": "180 days from your arrival date"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Dominica",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Dominica",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      }
+    },
+    {
       "passport": "CA",
       "destination": "Bahamas",
       "fields": {
         "stay": "240 days from your arrival date, officer's discretion",
         "note": "Visa: Canadian citizens are named on the Immigration Department's exemption list.\nEntry card: complete the Disembarkation/Embarkation Card.\nBring: a return or onward ticket and evidence of funds.\nFee: a USD 20 departure tax applies to everyone aged 6 and over.\nGood to know: the 30-day figure on that page applies to Canadian permanent residents holding Form 1000, not to citizens."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Bahamas",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Bahamas",
+      "fields": {
+        "stay": "240 days from your arrival date (subject to proof of means of support; at the immigration officer's discretion)"
       }
     },
     {
@@ -530,12 +674,40 @@
       }
     },
     {
+      "passport": "KR",
+      "destination": "Bahamas",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Bahamas",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Bahamas",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      }
+    },
+    {
       "passport": "NL",
       "destination": "Bahamas",
       "fields": {
         "stay": "Up to 3 months"
       },
       "checked": "2026-11-13"
+    },
+    {
+      "passport": "IE",
+      "destination": "Bahamas",
+      "fields": {
+        "stay": "90 days from your arrival date"
+      }
     },
     {
       "passport": "CA",
@@ -619,11 +791,46 @@
       }
     },
     {
+      "passport": "AU",
+      "destination": "Denmark",
+      "fields": {
+        "stay": "90 days from your first entry into Denmark or another Nordic country; time spent there in the preceding half-year is deducted; this applies regardless of earlier stays in other Schengen countries"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Denmark",
+      "fields": {
+        "stay": "90 days from your first entry into Denmark; time spent in Denmark in the preceding half-year is deducted; this applies regardless of earlier stays in other Schengen countries"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Grenada",
+      "fields": {
+        "stay": "Set by the officer at entry, up to 365 days from your entry date"
+      }
+    },
+    {
       "passport": "IN",
       "destination": "Cayman Islands",
       "fields": {
         "stay": "Set by the officer at entry — up to 180 days (30 days if visa-exempt)",
         "note": "Visa: required, unless you hold a valid US, Canadian or UK visa and arrive directly from the issuing country. Then no visa is needed, but the stay is no more than 30 days.\nApply: otherwise apply online in advance with a passport valid 6+ months, a photo, a bank statement, proof of employment or studies, and a police clearance under 6 months old."
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Réunion",
+      "fields": {
+        "stay": "Up to 90 days"
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "United States Virgin Islands",
+      "fields": {
+        "stay": "Set by the officer at entry — normally 180 days, up to 365 days"
       }
     },
     {
@@ -644,6 +851,13 @@
     },
     {
       "passport": "AU",
+      "destination": "Falkland Islands",
+      "fields": {
+        "stay": "Up to 30 days on arrival, up to 180 days if applied in advance"
+      }
+    },
+    {
+      "passport": "AU",
       "destination": "Seychelles",
       "fields": {
         "stay": "Up to 90 days",
@@ -652,10 +866,24 @@
     },
     {
       "passport": "US",
+      "destination": "Falkland Islands",
+      "fields": {
+        "stay": "Up to 30 days on arrival, up to 180 days if applied in advance"
+      }
+    },
+    {
+      "passport": "US",
       "destination": "Seychelles",
       "fields": {
         "stay": "Up to 90 days",
         "note": "Online ETA €10. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Falkland Islands",
+      "fields": {
+        "stay": "Up to 30 days on arrival, up to 180 days if applied in advance"
       }
     },
     {
@@ -676,10 +904,24 @@
     },
     {
       "passport": "KR",
+      "destination": "Falkland Islands",
+      "fields": {
+        "stay": "Up to 30 days on arrival"
+      }
+    },
+    {
+      "passport": "KR",
       "destination": "Seychelles",
       "fields": {
         "stay": "Up to 90 days",
         "note": "Visa: Seychelles issues no visas at all. Every visitor, regardless of nationality, must obtain a paid Travel Authorisation online before departure, then is granted a Visitor's Permit on arrival.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Falkland Islands",
+      "fields": {
+        "stay": "Up to 30 days on arrival"
       }
     },
     {
@@ -692,10 +934,24 @@
     },
     {
       "passport": "NL",
+      "destination": "Falkland Islands",
+      "fields": {
+        "stay": "Up to 30 days on arrival"
+      }
+    },
+    {
+      "passport": "NL",
       "destination": "Seychelles",
       "fields": {
         "stay": "Up to 90 days",
         "note": "Visa: Seychelles issues no visas at all. Every visitor, regardless of nationality, must obtain a paid Travel Authorisation online before departure, then is granted a Visitor's Permit on arrival.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Falkland Islands",
+      "fields": {
+        "stay": "Up to 30 days on arrival"
       }
     },
     {
@@ -715,11 +971,81 @@
       }
     },
     {
+      "passport": "AU",
+      "destination": "Barbados",
+      "fields": {
+        "stay": "180 days from your arrival date"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Barbados",
+      "fields": {
+        "stay": "180 days from your arrival date"
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Barbados",
+      "fields": {
+        "stay": "180 days from your arrival date"
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Lebanon",
+      "fields": {
+        "stay": "30 days from your arrival date, extendable to 90 days in total"
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Lebanon",
+      "fields": {
+        "stay": "30 days from your arrival date, extendable to 90 days in total"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Barbados",
+      "fields": {
+        "stay": "90 days in any half-year"
+      }
+    },
+    {
       "passport": "DE",
       "destination": "Lebanon",
       "fields": {
         "stay": "30 days from your arrival date, extendable to 90 days in total",
         "note": "Visa: on arrival at the airport for tourist stays up to 1 month, or in advance from a Lebanese mission. Tourist visas are free.\nPassport: valid 6+ months at entry.\nIsrael stamps: entry is regularly refused if the passport shows a prior stay in Israel, including Israeli stamps or Jordanian/Egyptian exit stamps to Israel."
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Barbados",
+      "fields": {
+        "stay": "90 days in any half-year"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Lebanon",
+      "fields": {
+        "stay": "30 days from your arrival date, extendable to 90 days in total"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Barbados",
+      "fields": {
+        "stay": "180 days from your arrival date"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Lebanon",
+      "fields": {
+        "stay": "30 days from your arrival date, extendable to 90 days in total"
       }
     },
     {
@@ -755,6 +1081,657 @@
       }
     },
     {
+      "passport": "AU",
+      "destination": "Jersey",
+      "fields": {
+        "stay": "Up to 180 days"
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "United Kingdom",
+      "fields": {
+        "stay": "Up to 180 days"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Jersey",
+      "fields": {
+        "stay": "Up to 180 days"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "United Kingdom",
+      "fields": {
+        "stay": "Up to 180 days"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "New Zealand",
+      "fields": {
+        "stay": "180 days from your arrival date"
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "United Kingdom",
+      "fields": {
+        "stay": "Up to 180 days"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "United Kingdom",
+      "fields": {
+        "stay": "Up to 180 days"
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "United Kingdom",
+      "fields": {
+        "stay": "Up to 180 days"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "United Kingdom",
+      "fields": {
+        "stay": "Up to 180 days"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Åland Islands",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if you have grounds to reside (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Austria",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Belgium",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Bulgaria",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Croatia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Cyprus",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Czech Republic",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Denmark",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Estonia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Finland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "France",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Greece",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Hungary",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Ireland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Italy",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Latvia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Lithuania",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Luxembourg",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Malta",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Netherlands",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Poland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Portugal",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Romania",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Slovakia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Slovenia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Spain",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Sweden",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Iceland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Åland Islands",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if you have grounds to reside (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Austria",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Belgium",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Bulgaria",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Croatia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Cyprus",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Czech Republic",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Denmark",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Estonia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Finland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "France",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Germany",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Greece",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Hungary",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Ireland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Italy",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Latvia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Lithuania",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Luxembourg",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Malta",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Poland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Portugal",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Romania",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Slovakia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Slovenia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Spain",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Sweden",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Iceland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Åland Islands",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if you have grounds to reside (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Austria",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Belgium",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Bulgaria",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Croatia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Cyprus",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Czech Republic",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Denmark",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Estonia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Finland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "France",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Germany",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Greece",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Hungary",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Italy",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Latvia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Lithuania",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Luxembourg",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Malta",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Netherlands",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Poland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Portugal",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Romania",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Slovakia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Slovenia",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Spain",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Sweden",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Iceland",
+      "fields": {
+        "stay": "Up to 90 days freely; longer if working, studying or self-funded (EU free movement)"
+      }
+    },
+    {
       "passport": "CA",
       "destination": "Monaco",
       "fields": {
@@ -785,8 +1762,7 @@
       "fields": {
         "ext_cost": "NZD 115 for the 31-day extension",
         "stay": "Less than 31 days (extendable once by 31 days, to two months in total)"
-      },
-      "checked": "2026-11-09"
+      }
     },
     {
       "passport": "KR",
@@ -883,6 +1859,14 @@
       }
     },
     {
+      "passport": "KR",
+      "destination": "Niue",
+      "fields": {
+        "stay": "29 days",
+        "note": "Visa-free for 29 days."
+      }
+    },
+    {
       "passport": "UK",
       "destination": "Saint Kitts and Nevis",
       "fields": {
@@ -897,6 +1881,21 @@
         "stay": "Up to 8 months"
       },
       "checked": "2026-11-13"
+    },
+    {
+      "passport": "DE",
+      "destination": "Pakistan",
+      "fields": {
+        "stay": "Up to 30 days"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Tunisia",
+      "fields": {
+        "stay": "120 days",
+        "note": "No visa needed for tourist stays up to 120 days. Get your passport stamped on both arrival and departure."
+      }
     },
     {
       "passport": "IN",
@@ -915,6 +1914,42 @@
       }
     },
     {
+      "passport": "KR",
+      "destination": "Antigua and Barbuda",
+      "fields": {
+        "stay": "Up to 90 days",
+        "note": "Visa-free entry, permitted to stay as long as business/holiday takes up to 90 days, provided there is an onward or return ticket, confirmed accommodation, evidence of ability to maintain themselves, and a valid passport."
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Curaçao",
+      "fields": {
+        "stay": "90 days in any 180-day period"
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Jordan",
+      "fields": {
+        "stay": "90 days"
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Saint Lucia",
+      "fields": {
+        "stay": "90 days"
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "San Marino",
+      "fields": {
+        "stay": "Up to 90 days in San Marino; staying longer needs a San Marino permit"
+      }
+    },
+    {
       "passport": "NL",
       "destination": "Cayman Islands",
       "fields": {
@@ -923,11 +1958,26 @@
       "checked": "2026-11-13"
     },
     {
+      "passport": "US",
+      "destination": "Kyrgyzstan",
+      "fields": {
+        "stay": "60 days per 120-day period"
+      }
+    },
+    {
       "passport": "CA",
       "destination": "Zambia",
       "fields": {
         "stay": "90 days per calendar year",
         "note": "Visa: Canada is on Zambia's own list of nationalities that do not require a visa. This is a genuine exemption, not merely a waived fee.\nBring: Arriving by air you must hold a valid return ticket.\nExtension: Officers commonly stamp only 30 days even though the entitlement is 90. Extensions are then granted free at any immigration office.\nGood to know: The KAZA UNIVISA (USD 50) also covers Zimbabwe and Botswana day trips, and Canada is on its eligible list. It isn't needed just to enter Zambia.\nYellow fever: A certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Niue",
+      "fields": {
+        "stay": "Under 30 days",
+        "note": "German citizens can stay under 30 days in Niue without a visa."
       }
     },
     {
@@ -1014,8 +2064,7 @@
       "fields": {
         "stay": "180 days, but 90 days total across El Salvador, Guatemala, Honduras and Nicaragua",
         "note": "Visa-free 90 days under CA-4 agreement (combined quota with Guatemala, Honduras, Nicaragua — doesn't reset at borders). Fastest-improving Central American economy but watch gang-heightened areas."
-      },
-      "checked": "2026-11-09"
+      }
     },
     {
       "passport": "UK",
@@ -1052,8 +2101,7 @@
         "stay": "Up to 3 months",
         "extension": "Not verified — no extension procedure published",
         "note": "Visa-free for EU citizens for up to 3 months in France, including overseas, with no formality. You only need a valid passport or ID card in case of an identity check, and holding either lets you stay freely. The same applies in Guadeloupe, Mayotte, Réunion and French Guiana."
-      },
-      "checked": "2026-11-09"
+      }
     },
     {
       "passport": "NL",
@@ -1062,8 +2110,7 @@
         "extension": "Not verified — no extension procedure published",
         "note": "Visa-free for EU citizens for up to 3 months in France, including overseas, with no formality. You only need a valid passport or ID card in case of an identity check, and holding either lets you stay freely.",
         "stay": "Up to 3 months"
-      },
-      "checked": "2026-11-09"
+      }
     },
     {
       "passport": "IE",
@@ -1072,8 +2119,7 @@
         "extension": "Not verified — no extension procedure published",
         "note": "Visa-free for EU citizens for up to 3 months in France, including overseas, with no formality. You only need a valid passport or ID card in case of an identity check, and holding either lets you stay freely. The same applies in Guadeloupe, Mayotte, Réunion and French Guiana.",
         "stay": "Up to 3 months"
-      },
-      "checked": "2026-11-09"
+      }
     },
     {
       "passport": "NL",
@@ -1081,8 +2127,7 @@
       "fields": {
         "note": "No visa needed: EU citizens can enter and stay up to 3 months, overseas included, with no formality beyond a valid passport or ID card. Guadeloupe is an EU outermost region outside Schengen.",
         "stay": "Up to 3 months"
-      },
-      "checked": "2026-11-09"
+      }
     },
     {
       "passport": "DE",
@@ -1090,8 +2135,7 @@
       "fields": {
         "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card. Travelling via Canada needs an eTA for air transit.",
         "stay": "Up to 3 months"
-      },
-      "checked": "2026-11-09"
+      }
     },
     {
       "passport": "NL",
@@ -1099,8 +2143,7 @@
       "fields": {
         "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card. This is unrelated to any Dutch Caribbean matter — purely a question of an EU citizen entering French territory.",
         "stay": "Up to 3 months"
-      },
-      "checked": "2026-11-09"
+      }
     },
     {
       "passport": "IE",
@@ -1108,8 +2151,7 @@
       "fields": {
         "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card.",
         "stay": "Up to 3 months"
-      },
-      "checked": "2026-11-09"
+      }
     },
     {
       "passport": "DE",
@@ -1133,8 +2175,7 @@
       "fields": {
         "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card.",
         "stay": "Up to 3 months"
-      },
-      "checked": "2026-11-09"
+      }
     },
     {
       "passport": "IE",
@@ -1142,8 +2183,7 @@
       "fields": {
         "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card.",
         "stay": "Up to 3 months"
-      },
-      "checked": "2026-11-09"
+      }
     },
     {
       "passport": "NL",
@@ -1151,8 +2191,7 @@
       "fields": {
         "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card. Sint Maarten across the open land border is a separate immigration system with its own rules.",
         "stay": "Up to 3 months"
-      },
-      "checked": "2026-11-09"
+      }
     },
     {
       "passport": "DE",
@@ -1160,8 +2199,7 @@
       "fields": {
         "note": "EU citizens can enter and stay up to 3 months in France, including overseas, with no formality beyond a valid passport or ID card.",
         "stay": "Up to 3 months"
-      },
-      "checked": "2026-11-09"
+      }
     },
     {
       "passport": "CA",
@@ -1234,8 +2272,7 @@
       "destination": "French Polynesia",
       "fields": {
         "stay": "Up to 3 months"
-      },
-      "checked": "2026-11-09"
+      }
     },
     {
       "passport": "IN",
@@ -1342,8 +2379,7 @@
       "fields": {
         "stay": "90 days within 6 months from the day of entry",
         "note": "Canada is named in Article 2 of the Decision on Visas. Bosnia and Herzegovina counts the 90 days within a six-month period starting from the day of entry."
-      },
-      "checked": "2026-11-10"
+      }
     },
     {
       "passport": "KR",
@@ -1360,8 +2396,7 @@
       "fields": {
         "stay": "90 days in any 180-day period",
         "note": "Visa-exempt. Carry a travel document valid 3+ months beyond departure and evidence of means."
-      },
-      "checked": "2026-11-10"
+      }
     },
     {
       "passport": "IE",
@@ -1369,8 +2404,7 @@
       "fields": {
         "stay": "90 days in any 180-day period",
         "note": "Visa-exempt. Carry a travel document valid 3+ months beyond departure and evidence of means."
-      },
-      "checked": "2026-11-10"
+      }
     },
     {
       "passport": "NL",
@@ -1378,8 +2412,7 @@
       "fields": {
         "stay": "90 days in any 180-day period",
         "note": "Visa-free. Carry a travel document valid 3+ months beyond departure and evidence of means."
-      },
-      "checked": "2026-11-10"
+      }
     },
     {
       "passport": "KR",
@@ -1387,8 +2420,7 @@
       "fields": {
         "stay": "90 days in any 180-day period",
         "note": "Visa-free. Passport valid 3+ months beyond departure; carry evidence of means."
-      },
-      "checked": "2026-11-10"
+      }
     },
     {
       "passport": "CA",
@@ -1426,8 +2458,7 @@
       "destination": "North Korea",
       "fields": {
         "stay": "Per visa granted"
-      },
-      "checked": "2026-11-11"
+      }
     },
     {
       "passport": "CA",
@@ -1442,8 +2473,7 @@
       "destination": "North Korea",
       "fields": {
         "stay": "Per visa granted"
-      },
-      "checked": "2026-11-11"
+      }
     },
     {
       "passport": "UK",
@@ -1459,16 +2489,14 @@
       "destination": "North Korea",
       "fields": {
         "stay": "Per visa granted"
-      },
-      "checked": "2026-11-11"
+      }
     },
     {
       "passport": "NL",
       "destination": "Turkmenistan",
       "fields": {
         "stay": "Per visa granted"
-      },
-      "checked": "2026-11-11"
+      }
     },
     {
       "passport": "NL",
@@ -1507,7 +2535,7 @@
       "destination": "Lebanon",
       "fields": {
         "visa": "vf",
-        "note": "Smartraveller advises — armed conflict, unexploded ordnance, kidnapping risk. Insurance is very likely void. Entry itself is visa-free in practice: Lebanon's General Security grants Australians a cost-free visa of one month (extendable to 3 months) when the border is operating.",
+        "note": "Entry itself is visa-free in practice: Lebanon's General Security grants Australians a cost-free visa of one month (extendable to 3 months) when the border is operating.",
         "cost": "Free – one month, extendable to 3 months",
         "stay": "1 month, extendable to 3 months"
       }
@@ -1565,8 +2593,7 @@
       "destination": "Saint Lucia",
       "fields": {
         "stay": "Up to 90 days"
-      },
-      "checked": "2026-11-11"
+      }
     },
     {
       "passport": "US",
@@ -1674,16 +2701,14 @@
       "destination": "Jordan",
       "fields": {
         "stay": "One month"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "UK",
       "destination": "Serbia",
       "fields": {
         "stay": "Up to 90 days within a 6-month period"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "KR",
@@ -1707,8 +2732,7 @@
         "stay": "90 days within 180 days",
         "extension": "Possible — apply for a residency permit if staying longer than 90 days",
         "note": "Visa-free for up to 90 days within 180 days. Passport valid at least 3 months, preferably 6, from entry. Since 1 January 2026, health and accident insurance of at least GEL 30,000 covering the whole stay is required."
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "AU",
@@ -1737,56 +2761,49 @@
       "destination": "Montserrat",
       "fields": {
         "stay": "Set by the immigration officer on entry, up to 6 months"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "US",
       "destination": "Montserrat",
       "fields": {
         "stay": "Set by the immigration officer on entry, up to 6 months"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "UK",
       "destination": "Montserrat",
       "fields": {
         "stay": "Set by the immigration officer on entry, up to 6 months"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "NZ",
       "destination": "Montserrat",
       "fields": {
         "stay": "Set by the immigration officer on entry, up to 6 months"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "KR",
       "destination": "Montserrat",
       "fields": {
         "stay": "Set by the immigration officer on entry, up to 6 months"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "DE",
       "destination": "Montserrat",
       "fields": {
         "stay": "Set by the immigration officer on entry, up to 6 months"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "IE",
       "destination": "Montserrat",
       "fields": {
         "stay": "Set by the immigration officer on entry, up to 6 months"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "KR",
@@ -1800,8 +2817,7 @@
       "destination": "India",
       "fields": {
         "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "KR",
@@ -1816,24 +2832,21 @@
       "destination": "India",
       "fields": {
         "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "NL",
       "destination": "India",
       "fields": {
         "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "IE",
       "destination": "India",
       "fields": {
         "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "KR",
@@ -1872,56 +2885,49 @@
       "destination": "Peru",
       "fields": {
         "stay": "90 days, extendable once for an equal period, within 365 days of first entry"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "US",
       "destination": "Peru",
       "fields": {
         "stay": "90 days, extendable once for an equal period, within 365 days of first entry"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "DE",
       "destination": "Andorra",
       "fields": {
         "stay": "Up to 90 days within 365 days of entry (Andorra's own rule)"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "NL",
       "destination": "Andorra",
       "fields": {
         "stay": "Up to 90 days within 365 days of entry (Andorra's own rule)"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "IE",
       "destination": "Andorra",
       "fields": {
         "stay": "Up to 90 days within 365 days of entry (Andorra's own rule)"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "AU",
       "destination": "Andorra",
       "fields": {
         "stay": "Up to 90 days within 365 days of entry (Andorra's own rule)"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "IN",
       "destination": "Andorra",
       "fields": {
         "stay": "Up to 90 days within 365 days of entry (Andorra's own rule)"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "AU",
@@ -1944,8 +2950,7 @@
       "destination": "Jamaica",
       "fields": {
         "stay": "Officer sets the initial stay on entry; Commonwealth citizens can extend up to a maximum of 12 months in total"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "AU",
@@ -1968,8 +2973,7 @@
       "destination": "Brazil",
       "fields": {
         "stay": "Up to 90 days per stay (the e-visa is valid up to 5 years with multiple entries); no more than 180 days per year in Brazil"
-      },
-      "checked": "2026-11-12"
+      }
     },
     {
       "passport": "KR",
@@ -2139,7 +3143,7 @@
       "fields": {
         "stay": "Up to 30 days, the arrival day and the departure day both counting, entering and leaving only through the six named airports (not on flights from or to Russia); cannot be extended",
         "extension": "Not possible: the stay cannot be extended",
-        "note": "Visa-free only if you enter and exit through designated airports, including Minsk National. Travel advisory: do not travel."
+        "note": "Visa-free only if you enter and exit through designated airports, including Minsk National."
       }
     },
     {
@@ -2624,8 +3628,7 @@
       "fields": {
         "stay": "Not verified — Chad's e-Visa site gives no stay length",
         "cost": "Not verified — the fee is not stated on Chad's e-Visa site"
-      },
-      "checked": "2026-11-13"
+      }
     },
     {
       "passport": "US",
@@ -2633,8 +3636,7 @@
       "fields": {
         "stay": "Not verified — Chad's e-Visa site gives no stay length",
         "cost": "Not verified — the fee is not stated on Chad's e-Visa site"
-      },
-      "checked": "2026-11-13"
+      }
     },
     {
       "passport": "KR",
@@ -2642,8 +3644,7 @@
       "fields": {
         "stay": "Not verified — Chad's e-Visa site gives no stay length",
         "cost": "Not verified — the fee is not stated on Chad's e-Visa site"
-      },
-      "checked": "2026-11-13"
+      }
     },
     {
       "passport": "DE",
@@ -2651,8 +3652,7 @@
       "fields": {
         "stay": "Not verified — Chad's e-Visa site gives no stay length",
         "cost": "Not verified — the fee is not stated on Chad's e-Visa site"
-      },
-      "checked": "2026-11-13"
+      }
     },
     {
       "passport": "IN",
@@ -2660,8 +3660,7 @@
       "fields": {
         "stay": "Not verified — Chad's e-Visa site gives no stay length",
         "cost": "Not verified — the fee is not stated on Chad's e-Visa site"
-      },
-      "checked": "2026-11-13"
+      }
     },
     {
       "passport": "IE",
@@ -2670,8 +3669,7 @@
         "stay": "Not verified — Chad's e-Visa site gives no stay length",
         "cost": "Not verified — the fee is not stated on Chad's e-Visa site",
         "apply": "evisa.td"
-      },
-      "checked": "2026-11-13"
+      }
     },
     {
       "passport": "AU",
@@ -7293,6 +8291,13 @@
       "destination": "Yemen",
       "fields": {
         "note": "Visa: tourist entry runs through Yemen's e-visa portal (yemenevisa.org) via a Yemen-accredited travel agency: a group of 10 or more, or an agency-requested urgent visa. There is no independent visa on arrival.\nRegistration: register your passport if staying more than 14 days.\nAdvisory: all governments advise against all travel to Yemen."
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Australia",
+      "fields": {
+        "note": "Apply for the eVisitor (subclass 651): multiple entry, valid 12 months from grant, up to 3 months per entry."
       }
     }
   ],
