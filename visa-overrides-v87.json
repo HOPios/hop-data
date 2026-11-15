@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:54:35Z",
+  "generated_at": "2026-11-15T14:56:08Z",
   "entries": [
     {
       "passport": "CA",
@@ -2399,14 +2399,14 @@
       "passport": "NZ",
       "destination": "Mongolia",
       "fields": {
-        "note": "IMPORTANT: this is a time-limited exemption — Mongolia's own list is headed '2023-2026'. If it is not renewed, New Zealanders revert to needing a visa from 1 January 2027. Re-check before booking anything late in the year."
+        "note": "IMPORTANT: this is a time-limited exemption — Mongolia's own list is headed '2023-2026'. If it is not renewed, New Zealanders revert to needing a visa from 1 January 2027. Re-check before booking anything late in the year.\nPublished only to 31 Dec 2026."
       }
     },
     {
       "passport": "UK",
       "destination": "Belarus",
       "fields": {
-        "note": "Visa: visa-free entry by air only, through six airports: Minsk National, Brest, Gomel, Grodno, Mogilev and Vitebsk. It does not apply on flights to or from Russia, which carry no border control.\nValid until: the visa-free entry is a Belarusian decision running to 31 Dec 2026.\nPassport: ordinary passport valid at least 3 months from the date you arrive.\nInsurance: medical insurance required."
+        "note": "Visa: visa-free entry by air only, through six airports: Minsk National, Brest, Gomel, Grodno, Mogilev and Vitebsk. It does not apply on flights to or from Russia, which carry no border control.\nValid until: the visa-free entry is a Belarusian decision running to 31 Dec 2026.\nPassport: ordinary passport valid at least 3 months from the date you arrive.\nInsurance: medical insurance required.\nPublished only to 31 Dec 2026."
       }
     },
     {
@@ -6176,7 +6176,7 @@
       "passport": "CA",
       "destination": "China",
       "fields": {
-        "note": "Visa: Canada was added to China's trial visa-free scheme from 00:00 on 17 February 2026, for business, tourism, visiting family or friends, and transit.\nExpiry: the policy expires at 24:00 on 31 December 2026 (Beijing time). After that it lapses unless extended, so check before booking anything for 2027.\nNot covered: the waiver does not cover work, study or news coverage. Those still need a visa in advance.\nStay: staying beyond 30 days also needs a visa obtained before you travel."
+        "note": "Visa: Canada was added to China's trial visa-free scheme from 00:00 on 17 February 2026, for business, tourism, visiting family or friends, and transit.\nExpiry: the policy expires at 24:00 on 31 December 2026 (Beijing time). After that it lapses unless extended, so check before booking anything for 2027.\nNot covered: the waiver does not cover work, study or news coverage. Those still need a visa in advance.\nStay: staying beyond 30 days also needs a visa obtained before you travel.\nPublished only to 31 Dec 2026."
       }
     },
     {
@@ -7296,7 +7296,7 @@
       "passport": "NZ",
       "destination": "China",
       "fields": {
-        "note": "Visa: New Zealand is on China's unilateral visa-free list for ordinary passports, covering tourism, business, visiting family or friends, exchange visits and transit.\nTrial policy: This is a trial policy that expires at 24:00 on 31 December 2026 and has to be re-checked before then.\nStay: Stays longer than 30 days still need a visa arranged in advance.\nTransit: The separate 240-hour visa-free transit scheme is a different thing and only applies if you are passing through to a third country."
+        "note": "Visa: New Zealand is on China's unilateral visa-free list for ordinary passports, covering tourism, business, visiting family or friends, exchange visits and transit.\nTrial policy: This is a trial policy that expires at 24:00 on 31 December 2026 and has to be re-checked before then.\nStay: Stays longer than 30 days still need a visa arranged in advance.\nTransit: The separate 240-hour visa-free transit scheme is a different thing and only applies if you are passing through to a third country.\nPublished only to 31 Dec 2026."
       }
     },
     {
@@ -8340,6 +8340,97 @@
       "destination": "Australia",
       "fields": {
         "note": "Apply for the eVisitor (subclass 651): multiple entry, valid 12 months from grant, up to 3 months per entry."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "China",
+      "fields": {
+        "note": "Visa-free until 31 Dec 2026.\nPublished only to 31 Dec 2026."
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "China",
+      "fields": {
+        "note": "Visa-free for up to 30 days on a valid ordinary passport, at any seaport, land border or airport open to foreigners. The exemption is a trial policy running to 31 December 2026.\nPublished only to 31 Dec 2026."
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "China",
+      "fields": {
+        "note": "Visa-free for up to 30 days at any open seaport, land border or airport, on an ordinary passport. The exemption is a trial running to 31 December 2026; re-check the end date before travel.\nPublished only to 31 Dec 2026."
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "China",
+      "fields": {
+        "note": "Visa-free under China's unilateral exemption, valid to 31 December 2026: up to 30 days on an ordinary passport, entering at any seaport, land border or airport open to foreign nationals.\nPublished only to 31 Dec 2026."
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "China",
+      "fields": {
+        "note": "Visa-free for up to 30 days at any open seaport, land border or airport, on a valid ordinary passport. This trial policy currently runs to 31 December 2026 — check the end date before travel.\nPublished only to 31 Dec 2026."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "China",
+      "fields": {
+        "note": "UK citizens visa-free through end 2026 (trial programme).\nPublished only to 31 Dec 2026."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Mongolia",
+      "fields": {
+        "note": "Australia's exemption is Mongolia's temporary scheme (2023–2026): tourism only, up to 30 days. It lapses at the end of 2026 unless renewed — check before booking 2027 travel.\nPublished only to 31 Dec 2026."
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Mongolia",
+      "fields": {
+        "note": "Temporary 30-day visa exemption for tourism, running from 2023 to 31 December 2026. It is a trial policy, not a standing arrangement — check again closer to expiry.\nPublished only to 31 Dec 2026."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Mongolia",
+      "fields": {
+        "note": "Visa-free for tourism up to 30 days under Mongolia's temporary exemption list, in force to end-2026 — check before booking 2027 travel.\nPublished only to 31 Dec 2026."
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Mongolia",
+      "fields": {
+        "note": "Temporary 30-day visa exemption for tourism, running 2023 to 31 December 2026 — a trial policy, not a standing arrangement.\nPublished only to 31 Dec 2026."
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Belarus",
+      "fields": {
+        "note": "Visa-free under Belarus's own waiver for European countries — not EU free movement, so the 30-day and 90-day caps apply.\nPublished only to 31 Dec 2026."
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Belarus",
+      "fields": {
+        "note": "Ireland is named directly on Belarus's own 38-state visa-free list — a bilateral Belarusian waiver, not EU free movement, so Irish citizens are capped at 30/90 days like most nationalities on that list (Poland, Lithuania and Latvia get 90 days).\nPublished only to 31 Dec 2026."
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Belarus",
+      "fields": {
+        "note": "The Netherlands is named directly on Belarus's own 38-state visa-free list — a bilateral Belarusian waiver, not EU free movement, so Dutch citizens are capped at 30/90 days like most nationalities on that list (Poland, Lithuania and Latvia get 90 days).\nPublished only to 31 Dec 2026."
       }
     }
   ],
