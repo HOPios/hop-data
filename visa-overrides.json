@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:32:45Z",
+  "generated_at": "2026-11-15T14:33:39Z",
   "entries": [
     {
       "passport": "CA",
@@ -2217,9 +2217,9 @@
       "passport": "IN",
       "destination": "Taiwan",
       "fields": {
-        "stay": "30 days on a TAC; not verified for a visitor visa"
-      },
-      "checked": "2026-11-02"
+        "stay": "30 days on a TAC; not verified for a visitor visa",
+        "note": "Visa: not visa-exempt.\nTravel Authorization Certificate (TAC): if you hold a valid visa or residence card from the US, UK, Canada, Australia, New Zealand, Japan, Korea or an EU/Schengen country (or one that expired under 10 years ago), or an ROC visa from the past 10 years, you can apply online. It gives 14 days per stay, is valid 90 days with multiple entries, and allows at most six entries a calendar year.\nOtherwise: apply for a visitor visa at the Taipei Economic and Cultural Center in India.\neVisa: exists only for group tours with a Tourism Administration-designated agency, or business visits recommended by the Taiwan External Trade Development Council."
+      }
     },
     {
       "passport": "IN",
@@ -3568,7 +3568,7 @@
       "passport": "IN",
       "destination": "Zimbabwe",
       "fields": {
-        "note": "Visa on arrival, or apply online in advance at evisa.gov.zw (about 7 working days; apply at least 3 weeks ahead). Multiple entry is not issued at the port and must be pre-applied online. The KAZA UniVisa (e-visa valid 3 months from issue) covers Zimbabwe and Zambia, plus Botswana day trips at Kazungula."
+        "note": "Visa: get a visa on arrival, or apply online in advance at evisa.gov.zw (about 7 working days; apply at least 3 weeks ahead).\nMultiple entry: not issued at the port and must be pre-applied online.\nKAZA UniVisa: an e-visa valid 3 months from issue. It covers Zimbabwe and Zambia, plus Botswana day trips at Kazungula."
       }
     },
     {
@@ -3633,7 +3633,7 @@
       "passport": "IN",
       "destination": "Singapore",
       "fields": {
-        "note": "Indian ordinary passport holders need a visa, issued as an e-Visa; diplomatic, official and service passports are exempt. Travellers transiting by air to or from a third country may instead qualify for the Visa-Free Transit Facility. Your visa application can be submitted online through a strategic partner or a local contact in Singapore, or at the nearest Singapore Overseas Mission or through its authorised visa agent."
+        "note": "Visa: Indian ordinary passport holders need a visa, issued as an e-Visa. Diplomatic, official and service passports are exempt.\nTransit: travellers transiting by air to or from a third country may instead qualify for the Visa-Free Transit Facility.\nApply: your visa application can be submitted online through a strategic partner or a local contact in Singapore, or at the nearest Singapore Overseas Mission or through its authorised visa agent."
       }
     },
     {
@@ -3831,7 +3831,7 @@
       "destination": "Saudi Arabia",
       "fields": {
         "visa": "vr",
-        "note": "Indian nationals holding valid US, Schengen and UK visas (either Business or Tourist visa) and having travelled on such a visa at least once are eligible for visa-on-arrival. The visa stamp should be clearly visible. Digital stamp will not be accepted. Without one, apply for a conventional visa through a Saudi diplomatic mission."
+        "note": "Visa on arrival: Indian nationals holding valid US, Schengen and UK visas (either Business or Tourist visa) and having travelled on such a visa at least once are eligible. The visa stamp should be clearly visible. A digital stamp will not be accepted.\nWithout one: apply for a conventional visa through a Saudi diplomatic mission."
       }
     },
     {
@@ -3935,7 +3935,7 @@
       "passport": "IN",
       "destination": "Tanzania",
       "fields": {
-        "note": "One visa covers Mainland Tanzania and Zanzibar — select your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. Passport valid 6+ months with a blank visa page; return ticket shown on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: one visa covers Mainland Tanzania and Zanzibar. Select your first destination on the form.\nInsurance: since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days. Buy it from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar.\nHealth form: fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number.\nPassport: valid 6+ months with a blank visa page. Show a return ticket on arrival.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4316,7 +4316,7 @@
       "passport": "KR",
       "destination": "Cote d'Ivoire",
       "fields": {
-        "note": "Passport valid 6+ months from the application date. Upload the passport ID page, a round-trip flight booking, and an invitation letter or accommodation certificate — missing any one means automatic rejection. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Passport: valid 6+ months from the application date.\nUpload: the passport ID page, a round-trip flight booking, and an invitation letter or accommodation certificate. Missing any one means automatic rejection.\nYellow fever: vaccination certificate required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4449,7 +4449,7 @@
       "passport": "KR",
       "destination": "French Guiana",
       "fields": {
-        "note": "South Korea is Schengen-visa-exempt and is treated as visa-exempt in French Guiana under the arrêté du 26 juillet 2011, though whether Korea is specifically named on that list has not been directly confirmed. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+        "note": "Visa: South Korea is Schengen-visa-exempt and is treated as visa-exempt in French Guiana under the arrêté du 26 juillet 2011. Whether Korea is specifically named on that list has not been directly confirmed.\nYellow fever: vaccination certificate required of every arriving traveller aged 1 year and over."
       }
     },
     {
@@ -4610,7 +4610,7 @@
       "passport": "KR",
       "destination": "Guinea-Bissau",
       "fields": {
-        "note": "No embassy in this passport's home country — get a visa in advance from a Guinea-Bissau embassy abroad. Passport valid at least 6 months after entry. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Sites claiming to be the official e-visa (e.g. rgb-visa.com) are not confirmed as government-run — don't pay them."
+        "note": "Visa: no embassy in this passport's home country, so get a visa in advance from a Guinea-Bissau embassy abroad.\nPassport: valid at least 6 months after entry.\nYellow fever: vaccination certificate required of every arriving traveller aged 1 year and over.\nScam warning: sites claiming to be the official e-visa (e.g. rgb-visa.com) are not confirmed as government-run. Do not pay them."
       }
     },
     {
@@ -4736,7 +4736,7 @@
       "passport": "IN",
       "destination": "Niger",
       "fields": {
-        "note": "Niger does not appear in any of MEA's three visa tables (e-visa, visa-free, visa-on-arrival), consistent with Niger's universal in-advance-visa rule. India's accredited Nigerien mission was not identified — likely New Delhi, but not confirmed. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: Niger does not appear in any of MEA's three visa tables (e-visa, visa-free, visa-on-arrival). This fits Niger's universal in-advance-visa rule.\nEmbassy: India's accredited Nigerien mission was not identified. It is likely New Delhi, but not confirmed.\nYellow fever: vaccination certificate required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5009,7 +5009,7 @@
       "passport": "IN",
       "destination": "Nigeria",
       "fields": {
-        "note": "Nigeria appears in India's MEA list of countries offering an e-Visa facility to Indian nationals (entry 41), with the remark that the e-visa is for short-term visitors only; long-term visitors or expatriates going for work should apply for a regular visa. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: Nigeria appears in India's MEA list of countries offering an e-Visa facility to Indian nationals (entry 41). The remark says the e-visa is for short-term visitors only.\nLong stays: long-term visitors or expatriates going for work should apply for a regular visa.\nYellow fever: vaccination certificate required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5163,7 +5163,7 @@
       "passport": "KR",
       "destination": "Guinea",
       "fields": {
-        "note": "Apply with a return ticket and a scan of the passport data page. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. On arrival show the Entry Visa Letter, a passport valid more than 6 months, proof of funds, the return ticket and proof of accommodation; the visa sticker, photo and fingerprints are done at the counter. Fees are non-refundable if refused."
+        "note": "Apply: with a return ticket and a scan of the passport data page.\nYellow fever: vaccination certificate required of every arriving traveller aged 9 months and over.\nOn arrival: show the Entry Visa Letter, a passport valid more than 6 months, proof of funds, the return ticket and proof of accommodation. The visa sticker, photo and fingerprints are done at the counter.\nFee: non-refundable if refused."
       }
     },
     {
@@ -5289,7 +5289,7 @@
       "passport": "KR",
       "destination": "Gambia",
       "fields": {
-        "note": "No visa, but Entry Clearance is needed: a pre-arrival authorisation approved through a host or sponsor in the Gambia, valid 30 days, not obtainable on arrival. The host must present the original approved copy before you arrive. Airport security fee USD 20 each way. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: no visa, but Entry Clearance is needed. It is a pre-arrival authorisation approved through a host or sponsor in the Gambia, valid 30 days, and not obtainable on arrival.\nHost: must present the original approved copy before you arrive.\nFee: airport security fee USD 20 each way.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5345,7 +5345,7 @@
       "passport": "KR",
       "destination": "Aruba",
       "fields": {
-        "note": "Passport valid for the whole stay and issued within the last 10 years; onward/return ticket; proof of funds (USD 150-200/day in a hotel, USD 100/day with family); travel insurance with at least USD 15,000 cover. A mandatory USD 20 Sustainability Fee is paid via the online ED card. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Passport: valid for the whole stay and issued within the last 10 years.\nBring: an onward or return ticket, and proof of funds (USD 150-200/day in a hotel, USD 100/day with family).\nInsurance: travel insurance with at least USD 15,000 cover.\nFee: a mandatory USD 20 Sustainability Fee, paid via the online ED card.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5527,7 +5527,7 @@
       "passport": "KR",
       "destination": "Djibouti",
       "fields": {
-        "note": "A cash visa on arrival in USD is available alongside the eVisa. Passport valid 6+ months after arrival. Evidence of onward travel required. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. There is no Korean embassy in Djibouti — the Korean Embassy in Addis Ababa, Ethiopia covers it."
+        "note": "Visa: a cash visa on arrival in USD is available alongside the eVisa.\nPassport: valid 6+ months after arrival.\nBring: evidence of onward travel.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.\nEmbassy: there is no Korean embassy in Djibouti. The Korean Embassy in Addis Ababa, Ethiopia covers it."
       }
     },
     {
@@ -5646,7 +5646,7 @@
       "passport": "KR",
       "destination": "Eswatini",
       "fields": {
-        "note": "South Korea is visa-exempt. Passport must be valid 3+ months after arrival with at least 2 blank pages. Check the entry stamp carries the correct date — a wrong date can lead to refused re-entry for up to a year. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: South Korea is visa-exempt.\nPassport: valid 3+ months after arrival, with at least 2 blank pages.\nEntry stamp: check it carries the correct date. A wrong date can lead to refused re-entry for up to a year.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -5716,7 +5716,7 @@
       "passport": "KR",
       "destination": "Ethiopia",
       "fields": {
-        "note": "Passport valid 6+ months from intended entry date; one recent passport-size photo required. Processing time is normally 3 days. Use only the official portal, evisa.gov.et. Other websites that offer to submit the application for you are not operated by the Government of Ethiopia and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Passport: valid 6+ months from intended entry date.\nBring: one recent passport-size photo.\nProcessing: normally 3 days.\nScam warning: use only the official portal, evisa.gov.et. Other websites that offer to submit the application for you are not operated by the Government of Ethiopia and may charge an additional fee.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -6276,7 +6276,7 @@
       "passport": "IN",
       "destination": "Sao Tome and Principe",
       "fields": {
-        "note": "India doesn't qualify for São Tomé's 15-day visa exemption. Request the Autorização de Entrada online via eVisaST (no consulate in India); decision in 7 working days, pay at the border on arrival. Passport valid 3+ months beyond the stay; return or onward ticket mandatory. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: India doesn't qualify for São Tomé's 15-day visa exemption.\nApply: request the Autorização de Entrada online via eVisaST (no consulate in India). Decision in 7 working days, pay at the border on arrival.\nPassport: valid 3+ months beyond the stay. A return or onward ticket is mandatory.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -6339,7 +6339,7 @@
       "passport": "IN",
       "destination": "Zambia",
       "fields": {
-        "note": "Not on Zambia's visa-exemption list, so an e-visa is required. Travellers under 16 cannot apply for their own e-visa and must be included on an accompanying adult's application. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: India is not on Zambia's visa-exemption list, so an e-visa is required.\nUnder 16: travellers under 16 cannot apply for their own e-visa and must be included on an accompanying adult's application.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -7420,6 +7420,48 @@
       "destination": "Nauru",
       "fields": {
         "note": "Visa: a Visitor's Visa is required before travel. There is no visa-free or on-arrival option. No sponsorship letter is needed.\nDocuments: certified passport ID-page copies, a passport photo, a police clearance covering the last 12 months' residence, and a medical fitness certificate.\nPassport: must not expire within 3 months of applying."
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Palestine",
+      "fields": {
+        "note": "Visa: India is not on Israel's ETA-IL list, so Indian nationals need Israel's e-Visa.\nEntry: there is no separate Palestinian visa. Israeli immigration issues the entry card at the crossing that governs access to Palestinian Authority areas.\nCrossings: Gaza's Erez crossing is closed, and Egypt's Rafah crossing has been closed to general traffic since 6 May 2024."
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Pitcairn Islands",
+      "fields": {
+        "note": "Visa: no advance application for a visit of 14 days or less on the same vessel. The immigration officer grants a short-term visitor visa on arrival via a combined immigration and biosecurity declaration form.\nGetting there: there is no airport. Travel is by the Government vessel from Mangareva (French Polynesia), at least two nights each way."
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Antarctica",
+      "fields": {
+        "note": "Permit: South Korea requires its nationals to get an Antarctic activity permit from the Ministry of Foreign Affairs before any Antarctic trip, tourism included.\nPenalty: going without one can mean up to 3 years in prison or a fine of up to KRW 30 million.\nBefore you fly: book through an IAATO-member tour operator and apply to the Ministry before you travel.\nSeason: October-April.\nGood to know: the departure country (commonly Argentina or Chile) has its own entry rules."
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Barbados",
+      "fields": {
+        "note": "Visa: visa-free. South Korea's foreign ministry lists 90 days for Barbados under an agreement.\nBefore you fly: complete the online Immigration and Customs Form, available from 72 hours before arrival.\nBring: a passport valid for the trip, a return ticket to your country of residence, your intended address and evidence of personal support."
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Belarus",
+      "fields": {
+        "note": "Visa: visa-free for up to 30 days, by air only. You must both arrive and leave through one of Belarus's designated airports: Minsk National, Brest, Gomel, Grodno, Mogilev or Vitebsk.\nNot covered: flights to or from Russia, which carry no border control, and entry overland.\nInsurance: medical insurance of at least EUR 10,000, valid in Belarus, is mandatory."
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Honduras",
+      "fields": {
+        "note": "Passport: valid at least 6 months from arrival.\nEntry stamp: make sure you get a stamp on entry. Some CA-4 land borders don't stamp, and no stamp can mean a fine of up to USD 250.\nPre-registration: pre-register online at prechequeo.inm.gob.hn before arrival and departure, and carry the confirmation.\nStay: the CA-4 allowance runs 90 days from first entry.\nExtension: Honduras' INM can extend a tourist stay by up to 90 more days."
       }
     }
   ],
