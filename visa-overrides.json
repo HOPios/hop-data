@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:35:25Z",
+  "generated_at": "2026-11-15T14:36:11Z",
   "entries": [
     {
       "passport": "CA",
@@ -917,7 +917,7 @@
       "destination": "Burundi",
       "fields": {
         "stay": "30 days from your arrival date",
-        "note": "Burundi's exemptions cover only East African Community and Great Lakes member states plus diplomatic passports, so New Zealanders need a visa. Apply online at the government migration portal before travel. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: Burundi's exemptions cover only East African Community and Great Lakes member states plus diplomatic passports, so New Zealanders need a visa.\nApply: Apply online at the government migration portal before travel.\nYellow fever: A vaccination certificate is required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -2849,7 +2849,7 @@
       "destination": "Yemen",
       "fields": {
         "stay": "Per visa granted",
-        "note": "The Embassy of Yemen in The Hague is not currently accepting general visa applications; it issues visas only to people of Yemeni descent, international-organisation staff, journalists and diplomats, and in some cases business travellers. Passport valid at least 6 months from departure. Houthi-held areas need separate permission."
+        "note": "Visa: the Embassy of Yemen in The Hague is not currently accepting general visa applications. It issues visas only to people of Yemeni descent, international-organisation staff, journalists and diplomats, and in some cases business travellers.\nPassport: valid at least 6 months from departure.\nPermission: Houthi-held areas need separate permission."
       }
     },
     {
@@ -3495,7 +3495,7 @@
       "passport": "NZ",
       "destination": "Aruba",
       "fields": {
-        "note": "Aruba's entry rules are separate from Schengen. An online Embarkation/Disembarkation card must be completed before arrival, and a return or onward ticket plus hotel accommodation in Aruba (or enough funds) are required; a guarantee from a person or company in Aruba can replace the accommodation or funds. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.",
+        "note": "Good to know: Aruba's entry rules are separate from Schengen.\nBefore you fly: Complete the online Embarkation/Disembarkation card before arrival.\nRequired: A return or onward ticket plus hotel accommodation in Aruba (or enough funds). A guarantee from a person or company in Aruba can replace the accommodation or funds.\nYellow fever: A certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.",
         "stay": "30 days on arrival; extension on request up to 90 days, depending on your funds or a local guarantee; up to 180 days if you own a home, timeshare or a 14 m+ moored yacht in Aruba, or if you are the spouse or child of a home or timeshare owner who has given a guarantee; at most 180 days in a calendar year"
       }
     },
@@ -3527,9 +3527,9 @@
       "passport": "NZ",
       "destination": "Belarus",
       "fields": {
-        "stay": "Up to 30 days, the arrival day and the departure day both counting, entering and leaving only through the six named airports (not on flights from or to Russia); cannot be extended"
-      },
-      "checked": "2026-11-12"
+        "stay": "Up to 30 days, the arrival day and the departure day both counting, entering and leaving only through the six named airports (not on flights from or to Russia); cannot be extended",
+        "note": "Visa: Visa-free only if you both arrive and leave through one of six airports: Minsk National, Brest, Gomel, Grodno, Mogilev or Vitebsk.\nNot covered: Flights from or onward to Russia, which are treated as domestic with no border control. Overland entry is also not covered.\nInsurance: Medical insurance with at least EUR 10,000 cover valid in Belarus for the whole stay is mandatory."
+      }
     },
     {
       "passport": "IN",
@@ -3942,7 +3942,7 @@
       "passport": "NL",
       "destination": "Tanzania",
       "fields": {
-        "note": "One visa covers Mainland Tanzania and Zanzibar — pick your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. Passport valid 6+ months with a blank visa page; show a return ticket on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: one visa covers Mainland Tanzania and Zanzibar. Pick your first destination on the form.\nInsurance: since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days. Buy it from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar.\nHealth form: fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number.\nPassport: valid 6+ months with a blank visa page. Show a return ticket on arrival.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4113,7 +4113,7 @@
       "passport": "NZ",
       "destination": "Burkina Faso",
       "fields": {
-        "note": "Apply online before travel. The portal also mentions visas issued at the border by immigration services, but that is not something to rely on. A hotel booking is required for a tourist visa. Much of the country carries severe security warnings — check current advice before booking anything. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: Apply online before travel. The portal also mentions visas issued at the border by immigration services, but that is not something to rely on.\nRequired: A hotel booking is required for a tourist visa.\nYellow fever: A vaccination certificate is required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4169,7 +4169,7 @@
       "passport": "NZ",
       "destination": "Cameroon",
       "fields": {
-        "note": "All non-Cameroonians need a visa and applications are online only. Approval gives you an authorisation with a QR code — the physical visa is printed at the airport or border post on arrival, so travel with the confirmation. Cameroon's own missions disagree on the stay length; the UK High Commission says 1–180 days, the US embassy says 1–30 days for tourism. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+        "note": "Visa: All non-Cameroonians need a visa and applications are online only. Approval gives you an authorisation with a QR code. The physical visa is printed at the airport or border post on arrival, so travel with the confirmation.\nStay: Cameroon's own missions disagree on the stay length. The UK High Commission says 1–180 days. The US embassy says 1–30 days for tourism.\nYellow fever: A vaccination certificate is required of every arriving traveller aged 1 year and over."
       }
     },
     {
@@ -4239,7 +4239,7 @@
       "passport": "NZ",
       "destination": "Central African Republic",
       "fields": {
-        "note": "MFAT confirms the Central African Republic is accredited to New Zealand from its embassy in Pretoria, not Brussels. Pretoria publishes no website; contact by email. No CAR government source publishes an exempt-nationality list, so New Zealand's position is inferred from the absence of any exemption rather than stated. Be aware that the visa-exempt list circulating online comes from aeroport-bangui.com, a commercial site last updated in 2019 that is not the airport authority — it is not relied on here. Confirm the fee, permitted stay and application procedure with the Pretoria mission before you travel. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Embassy: MFAT confirms the Central African Republic is accredited to New Zealand from its embassy in Pretoria, not Brussels. Pretoria publishes no website, so contact by email.\nVisa: No CAR government source publishes an exempt-nationality list. New Zealand's position is inferred from the absence of any exemption, not stated.\nSource warning: The visa-exempt list circulating online comes from aeroport-bangui.com, a commercial site last updated in 2019 that is not the airport authority. It is not relied on here.\nBefore you fly: Confirm the fee, permitted stay and application procedure with the Pretoria mission before you travel.\nYellow fever: A vaccination certificate is required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4918,7 +4918,7 @@
       "passport": "NZ",
       "destination": "Congo",
       "fields": {
-        "note": "Medium confidence, and stated in the ministry's own words. The Ministry of Foreign Affairs page for foreigners travelling to the Republic of the Congo states that most travellers need a visa, applied for as either a tourist or a business visa at the nearest Congolese embassy or consulate. It publishes no exemption list, so New Zealand's position rests on that general statement rather than on being named. Expect to need a valid passport, a photo, a letter of invitation and proof of accommodation. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Confirm the fee and permitted stay with the mission — neither is published."
+        "note": "Confidence: Medium, stated in the ministry's own words.\nVisa: The Ministry of Foreign Affairs page for foreigners travelling to the Republic of the Congo states that most travellers need a visa, applied for as either a tourist or a business visa at the nearest Congolese embassy or consulate.\nExemptions: It publishes no exemption list, so New Zealand's position rests on that general statement rather than on being named.\nBring: Expect to need a valid passport, a photo, a letter of invitation and proof of accommodation.\nYellow fever: A vaccination certificate is required of every arriving traveller aged 9 months and over.\nFee and stay: Confirm the fee and permitted stay with the mission. Neither is published."
       }
     },
     {
@@ -5387,7 +5387,7 @@
       "passport": "NZ",
       "destination": "Bolivia",
       "fields": {
-        "note": "New Zealand sits in Bolivia's Group I, which needs no tourist visa. The stamp given is 30 days; two further 30-day extensions can be requested from the migration directorate, capped at 90 days total per year. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: New Zealand sits in Bolivia's Group I, which needs no tourist visa.\nStay: The stamp given is 30 days.\nExtension: Two further 30-day extensions can be requested from the migration directorate, capped at 90 days total per year.\nYellow fever: A certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -5443,7 +5443,7 @@
       "passport": "NZ",
       "destination": "Cabo Verde",
       "fields": {
-        "note": "New Zealand is not on the list of 91 countries whose nationals must hold a visa before arrival from 1 January 2026, so no visa is needed for a tourist stay. Online EASE pre-registration is still required before travel, and the airport security tax is paid through it; no visa document is issued. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: New Zealand is not on the list of 91 countries whose nationals must hold a visa before arrival from 1 January 2026, so no visa is needed for a tourist stay.\nBefore you fly: Online EASE pre-registration is still required before travel, and the airport security tax is paid through it. No visa document is issued.\nYellow fever: A certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -7553,6 +7553,97 @@
       "destination": "Switzerland",
       "fields": {
         "note": "Stay: under the EU-Swiss free movement agreement, EU/EFTA citizens can stay without a permit for three months.\nPermit: after that a permit from the cantonal authority is needed, for example a job-seeker permit or a permit for non-working persons. The non-working permit needs sufficient financial means and health and accident insurance.\nRegister: required with the local authorities for those taking up residence without work, within 14 days of arrival."
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Uganda",
+      "fields": {
+        "note": "Visa: apply online before travel. Biometrics are taken at the point of entry.\nYellow fever: certificate no longer mandatory for entry (Uganda notice, 2 October 2026).\nApproval: lapses 90 days after issue if unused.\nGood to know: the East Africa Tourist Visa (USD 100, multiple entry, 90 days) covers Uganda, Kenya and Rwanda."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Åland Islands",
+      "fields": {
+        "note": "Good to know: Åland is an autonomous region of Finland and fully inside the Schengen area. Finland's rules apply.\nStay: Days spent here count toward the same 90/180 allowance as anywhere else in Schengen.\nGetting there: Reached by ferry from Turku, Helsinki or Stockholm. There is no separate immigration control.\nTax: Åland sits outside the EU VAT and excise area, which is why the ferries run duty-free shops. That is a tax boundary, not an immigration one.\nETIAS: Not yet in operation; no start date announced.\nEntry/Exit System: The EU Entry/Exit System is live."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "American Samoa",
+      "fields": {
+        "note": "Good to know: American Samoa runs its own immigration system. A US ESTA is not valid here.\nVisa: New Zealand is on American Samoa's waiver list. NZ citizens apply online for a 30-day visitor permit at least 72 hours before travel.\nRequired: Passport valid 6 months beyond departure, return ticket, accommodation and a local contact."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Australia",
+      "fields": {
+        "note": "Visa: No visa or ETA is applied for in advance. Presenting a valid NZ passport and passenger card counts as applying for the Special Category visa (subclass 444), granted at the border subject to health and character checks.\nGood to know: The visa ceases on departure and is re-granted each entry. It does not itself lead to permanent residence."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Austria",
+      "fields": {
+        "note": "ETIAS: Not yet in operation; no start date announced.\nEntry/Exit System: The EU Entry/Exit System is live (fully operational 10 April 2026), so expect fingerprints and a facial image at the border instead of a passport stamp.\nBilateral agreement: Austria holds a 1.6.1958 bilateral visa waiver agreement with New Zealand allowing 3 months. The European Commission lists it as an extension-of-stay agreement (ordinary, diplomatic and service passports). Do not rely on it without checking first."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Bahrain",
+      "fields": {
+        "note": "Visa: Bahrain's own eligibility engine (evisa.gov.bh) shows two visas for a New Zealand passport on a general tourist visit, both obtainable at the Arrival Counter: Visit Visa 2 Weeks Single Entry (2-week stay) and Visit Visa Three Months Multiple Entry (1 month per entry).\nOnline: The same nationality also qualifies for four visas online, including One Year and 5 Year multiple-entry options allowing 90 days per visit. Applying in advance buys a longer stay than turning up does.\nCountry lists: Ignore Bahrain's published country lists as a guide to eligibility. They name all 204 countries and mark every one “conditions apply”.\nFee: The fees shown are Bahrain’s published eVisa fees. That fee list does not cover the Arrival Counter, so check the counter fee when you arrive."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Belgium",
+      "fields": {
+        "note": "ETIAS: Not yet in operation; no start date announced.\nEntry/Exit System: The Entry/Exit System is live (fully operational 10 April 2026), so expect fingerprints and a facial image at the border instead of a stamp.\nBilateral agreement: Belgium holds a 15.11.1951 bilateral visa waiver agreement with New Zealand allowing 2 months. The European Commission lists it as an extension-of-stay agreement (all passports). Do not rely on it without checking first."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Bhutan",
+      "fields": {
+        "note": "Visa: Only India, Bangladesh and the Maldives are exempt from the advance e-visa. New Zealanders must hold an approved visa before flying.\nFee: The real cost is the compulsory Sustainable Development Fee (SDF) of USD 100 per adult per night. It is separate from the visa fee and far larger.\nGood to know: Reduced SDF applies to children, and a 24-hour waiver applies in four border towns."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Cambodia",
+      "fields": {
+        "note": "Visa: New Zealand is not in Cambodia's exemption tables, so a tourist visa is needed. It is available on arrival at airports and major land crossings, or in advance online.\nOfficial site: Only evisa.gov.kh is the official e-visa website.\nScam warning: Other websites that offer to submit the application for you are not operated by the Government of Cambodia and may charge an additional fee.\nArrival card: All travellers must also submit the free e-Arrival card within 7 days before arrival.\nPassport: Needs 6+ months validity."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Chad",
+      "fields": {
+        "note": "Visa: Since 2026 all Chad visa applications must be lodged online. New Zealand is not on Chad's visa-exemption list.\nApply: Apply at least 7 days before arrival and no more than 90 days ahead.\nYellow fever: A certificate is required.\nStay: The 30-day figure comes from an embassy page that predates the online-only change, so confirm when applying."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "China",
+      "fields": {
+        "note": "Visa: New Zealand is on China's unilateral visa-free list for ordinary passports, covering tourism, business, visiting family or friends, exchange visits and transit.\nTrial policy: This is a trial policy that expires at 24:00 on 31 December 2026 and has to be re-checked before then.\nStay: Stays longer than 30 days still need a visa arranged in advance.\nTransit: The separate 240-hour visa-free transit scheme is a different thing and only applies if you are passing through to a third country."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Christmas Island",
+      "fields": {
+        "note": "Territory: An Australian external territory inside the Australian migration zone, so Australian immigration law applies exactly as on the mainland.\nVisa: Presenting a valid New Zealand passport counts as applying for the Special Category visa (subclass 444), which Home Affairs grants on arrival, free of charge, subject to health and character checks. Home Affairs says “if you apply on arrival in Australia, your application will be processed at the airport or seaport”.\nGood to know: The visa ceases when you leave and is re-granted on each entry.\nGetting there: Flights arrive via Perth, where you are cleared into Australia.\nBiosecurity: Strict."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Cocos (Keeling) Islands",
+      "fields": {
+        "note": "Territory: An Australian external territory inside the Australian migration zone, so Australian immigration law applies exactly as on the mainland.\nVisa: Presenting a valid New Zealand passport counts as applying for the Special Category visa (subclass 444), granted on arrival free of charge subject to health and character checks. It ceases when you leave and is re-granted on each entry.\nGetting there: Flights arrive via Perth, usually routing through Christmas Island, and you are cleared into Australia at Perth.\nGood to know: Biosecurity is strict and there is no hospital on the islands."
       }
     }
   ],
