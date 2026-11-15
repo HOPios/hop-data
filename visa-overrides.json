@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:23:49Z",
+  "generated_at": "2026-11-15T14:25:17Z",
   "entries": [
     {
       "passport": "CA",
@@ -360,9 +360,8 @@
       "destination": "Denmark",
       "fields": {
         "stay": "90 days from your first entry into Denmark or another Nordic country; time spent there in the preceding half-year is deducted; this applies regardless of earlier stays in other Schengen countries",
-        "note": "Denmark names Canadians explicitly under a Nordic arrangement: the 3 months runs from your first entry into Denmark OR any other Nordic country, and time spent in any Nordic country in the preceding 6 months is deducted. This applies regardless of whether you have stayed in another Schengen country prior to entry into Denmark. Denmark publishes indicative funds of about DKK 350 a day in private accommodation or DKK 500 in a hotel, wants a passport valid 3 months beyond departure, and counts both the entry and the exit day. Denmark's bilateral visa waiver with Canada, notified to the EU, has been in force since 1 May 1958 and covers 3 months (all passports)."
-      },
-      "checked": "2026-10-22"
+        "note": "Visa: Denmark names Canadians explicitly under a Nordic arrangement.\nStay: the 3 months runs from your first entry into Denmark or any other Nordic country, and time spent in any Nordic country in the preceding 6 months is deducted. This applies regardless of whether you have stayed in another Schengen country prior to entry into Denmark.\nFunds: Denmark publishes indicative funds of about DKK 350 a day in private accommodation or DKK 500 in a hotel.\nPassport: valid 3 months beyond departure. Denmark counts both the entry and the exit day.\nBilateral waiver: Denmark's bilateral visa waiver with Canada, notified to the EU, has been in force since 1 May 1958 and covers 3 months (all passports)."
+      }
     },
     {
       "passport": "NZ",
@@ -1014,9 +1013,9 @@
       "passport": "CA",
       "destination": "Falkland Islands",
       "fields": {
-        "stay": "Up to 30 days on arrival, up to 180 days if applied in advance; maximum 270 days in any year"
-      },
-      "checked": "2026-10-22"
+        "stay": "Up to 30 days on arrival, up to 180 days if applied in advance; maximum 270 days in any year",
+        "note": "Visa: no visa, but every visitor needs a Visitor Permit, normally a free stamp on arrival.\nInsurance: you must hold medical cover for aero-medical evacuation to a minimum of USD 2,000,000 for the whole stay. This is the condition that catches people out.\nBring: proof of onward travel or funds for a ticket, pre-booked accommodation and sufficient funds."
+      }
     },
     {
       "passport": "CA",
@@ -2320,7 +2319,7 @@
       "fields": {
         "visa": "vr",
         "apply": "the Embassy of the Democratic Republic of the Congo, Ottawa",
-        "note": "This is the DRC (Kinshasa), not Congo-Brazzaville. Canadians must get a visa from the DRC embassy in Ottawa before leaving Canada. You cannot get a visa at a port of entry or at a DRC embassy outside your country of residence. Air passengers leaving the DRC must pay the IDEF airport tax and show proof of payment, called a Go Pass, to board. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Which Congo: this is the DRC (Kinshasa), not Congo-Brazzaville.\nVisa: Canadians must get a visa from the DRC embassy in Ottawa before leaving Canada. You cannot get a visa at a port of entry or at a DRC embassy outside your country of residence.\nAirport tax: air passengers leaving the DRC must pay the IDEF airport tax and show proof of payment, called a Go Pass, to board.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -2417,7 +2416,7 @@
       "passport": "CA",
       "destination": "Curaçao",
       "fields": {
-        "note": "Visa-free, but one thing catches people out: the free Digital Immigration Card is MANDATORY — complete it within the 7 days before departure; it is checked at airline check-in and again on arrival. Canadians can stay 90 days in any 180; to stay longer you must apply to Curaçao's Immigration Service for a short-stay residence permit, not a tourist extension. Proof of funds of about USD 1,000 per week may be requested. Your passport must be valid for the duration of your stay in Curaçao."
+        "note": "Visa: visa-free, but the free Digital Immigration Card is mandatory. Complete it within the 7 days before departure. It is checked at airline check-in and again on arrival.\nStay: Canadians can stay 90 days in any 180. To stay longer you must apply to Curaçao's Immigration Service for a short-stay residence permit, not a tourist extension.\nFunds: proof of funds of about USD 1,000 per week may be requested.\nPassport: must be valid for the duration of your stay in Curaçao."
       }
     },
     {
@@ -2933,7 +2932,7 @@
       "destination": "Gambia",
       "fields": {
         "stay": "Up to 30 days, extendable by 30; a residence permit is needed from the 56th day",
-        "note": "Canada is named on the Gambia Immigration Department's exemption list. A SECURIPORT SECURITY FEE OF USD 20 (D1,000) IS PAYABLE IN CASH ON ARRIVAL AND AGAIN ON DEPARTURE at Banjul — carry US dollars or dalasi. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: Canada is named on the Gambia Immigration Department's exemption list.\nFee: a Securiport security fee of USD 20 (D1,000) is payable in cash on arrival and again on departure at Banjul. Carry US dollars or dalasi.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -3760,7 +3759,7 @@
       "destination": "Eritrea",
       "fields": {
         "stay": "Usually one month, extendable at Immigration in Asmara; enter within 3 months of issue",
-        "note": "Visa must be obtained before travel from an Eritrean mission; processing is slow, so apply well ahead. Land borders with Ethiopia and Djibouti are closed. A SEPARATE INTERNAL TRAVEL PERMIT IS REQUIRED FOR ALL TRAVEL BEYOND 25 KM FROM ASMARA — that catches almost every tourist itinerary. Visas are valid three months from issue. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
+        "note": "Visa: must be obtained before travel from an Eritrean mission. Processing is slow, so apply well ahead. Visas are valid three months from issue.\nBorders: land borders with Ethiopia and Djibouti are closed.\nTravel permit: a separate internal travel permit is required for all travel beyond 25 km from Asmara. That catches almost every tourist itinerary.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -4299,7 +4298,7 @@
       "passport": "CA",
       "destination": "Cote d'Ivoire",
       "fields": {
-        "note": "Pre-enrol and pay online, print the approved pre-enrolment document, then complete biometric enrolment at the Visa aéroport desk at Félix-Houphouët-Boigny airport in Abidjan, where the visa is printed and issued immediately. Kiosks run 24/7. Ordinary passports only. Passport valid 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: pre-enrol and pay online, and print the approved pre-enrolment document. Then complete biometric enrolment at the Visa aéroport desk at Félix-Houphouët-Boigny airport in Abidjan, where the visa is printed and issued immediately. Kiosks run 24/7.\nPassport: ordinary passports only, valid 6 months.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4425,7 +4424,7 @@
       "passport": "CA",
       "destination": "French Guiana",
       "fields": {
-        "note": "French but NOT in Schengen. A Schengen visa is not valid here and an overseas visa is not valid for Schengen, so this allowance is separate: you can spend a full Schengen 90/180 in metropolitan France and still have a short stay here. Governed by the arrêté du 26 juillet 2011, the same exemption list as Guadeloupe, Martinique, Réunion and Saint-Pierre-et-Miquelon, on which Canada appears with no special conditions. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+        "note": "Schengen: French but not in Schengen. A Schengen visa is not valid here and an overseas visa is not valid for Schengen.\nStay: this allowance is separate. You can spend a full Schengen 90/180 in metropolitan France and still have a short stay here.\nRule: governed by the arrêté du 26 juillet 2011, the same exemption list as Guadeloupe, Martinique, Réunion and Saint-Pierre-et-Miquelon, on which Canada appears with no special conditions.\nYellow fever: certificate required for every arriving traveller aged 1 year and over."
       }
     },
     {
@@ -4474,7 +4473,7 @@
       "passport": "CA",
       "destination": "Gabon",
       "fields": {
-        "note": "Canada is NOT on Gabon's bilateral exemption list, so the e-visa applies. THE E-VISA IS ONLY VALID FOR ARRIVAL BY AIR AT LEON MBA INTERNATIONAL AIRPORT IN LIBREVILLE — it does not cover land or sea entry. Processing takes 72 hours and cannot be rushed; do not travel before the arrival date on your registration or without the Travel Authorization Receipt, or you will be turned back. Payment is made on arrival when the sticker is issued. Passport valid at least 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: Canada is not on Gabon's bilateral exemption list, so the e-visa applies.\nE-visa limit: the e-visa is only valid for arrival by air at Leon Mba International Airport in Libreville. It does not cover land or sea entry.\nProcessing: 72 hours, and it cannot be rushed.\nBefore you fly: do not travel before the arrival date on your registration or without the Travel Authorization Receipt, or you will be turned back.\nFee: payment is made on arrival when the sticker is issued.\nPassport: valid at least 6 months.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5069,7 +5068,7 @@
       "passport": "CA",
       "destination": "Equatorial Guinea",
       "fields": {
-        "note": "All foreign passport holders must present a valid visa at the point of entry. A police or criminal-record clearance certificate no older than 3 months is required even for tourist travel, plus a letter of invitation and proof of funds. Visas must be used within 60 days of issue, which is a deadline to enter, not a length of stay. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. An online visa application form is confirmed working (gov.uk, ~72-hour processing), alongside the embassy route."
+        "note": "Visa: all foreign passport holders must present a valid visa at the point of entry.\nOnline application: an online visa application form works, with processing of about 72 hours, alongside the embassy route.\nDocuments: a police or criminal-record clearance certificate no older than 3 months is required even for tourist travel, plus a letter of invitation and proof of funds.\nValidity: use the visa within 60 days of issue. This is a deadline to enter, not a length of stay.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5503,7 +5502,7 @@
       "passport": "CA",
       "destination": "Djibouti",
       "fields": {
-        "note": "Correction: a visa on arrival, paid in cash in US dollars, is also currently available (GOV.UK, checked live) — this contradicts the \"no VOA since 2018\" framing below, which described the e-visa route only. The e-visa REPLACES the visa that used to be issued at the point of entry — Djibouti's own portal says so, and remains valid for ONE ENTRY only. You need a passport valid 6 months, a flight reservation, an accommodation address and an INVITATION LETTER from an organisation or host with their contact details, which is the requirement most tourists are not expecting. Payment by Visa, Mastercard or Amex. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: an e-visa replaces the visa that used to be issued at the point of entry, as Djibouti's own portal says. It is valid for one entry only.\nYou need: a passport valid 6 months, a flight reservation, an accommodation address and an invitation letter from an organisation or host with their contact details. Most tourists are not expecting the invitation letter.\nPayment: Visa, Mastercard or Amex.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5622,7 +5621,7 @@
       "passport": "CA",
       "destination": "Eswatini",
       "fields": {
-        "note": "Canada is marked 'N' — no visa required — on Eswatini's own government visa-requirement table, and Eswatini states that any country not on that table needs no visa. Passport valid 6 months with 2 blank pages. A further 30-day extension can be applied for at the Ministry of Home Affairs; staying longer than 60 days needs a Temporary Residence Permit. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: Canada is marked 'N' (no visa required) on Eswatini's own government visa-requirement table. Eswatini states that any country not on that table needs no visa.\nPassport: valid 6 months with 2 blank pages.\nExtension: a further 30-day extension can be applied for at the Ministry of Home Affairs. Staying longer than 60 days needs a Temporary Residence Permit.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -5692,7 +5691,7 @@
       "passport": "CA",
       "destination": "Ethiopia",
       "fields": {
-        "note": "Single-entry electronic visa, applied for online; a separate on-arrival tourist visa product also exists. Processing takes about 3 days, so apply at least 3 days before arrival. Passport valid 6 months from intended entry. Transit passengers connecting at Addis Ababa without leaving the airport need no visa. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. evisa.gov.et is the only official address. Other websites that offer to submit the application for you are not operated by the Government of Ethiopia and may charge an additional fee."
+        "note": "Visa: single-entry electronic visa, applied for online. A separate on-arrival tourist visa product also exists.\nProcessing: about 3 days, so apply at least 3 days before arrival.\nPassport: valid 6 months from intended entry.\nTransit: passengers connecting at Addis Ababa without leaving the airport need no visa.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.\nScam warning: evisa.gov.et is the only official address. Other websites that offer to submit the application for you are not operated by the Government of Ethiopia and may charge an additional fee."
       }
     },
     {
@@ -6535,6 +6534,83 @@
       "destination": "Comoros",
       "fields": {
         "note": "Visa: a tourist visa is required but is obtainable on arrival at Prince Said Ibrahim International Airport in Moroni and at other points of entry. The fee is payable in euros.\nBring: euros. Confirm current pricing with your airline.\nGood to know: overstaying draws fines and possible arrest.\nYellow fever: proof is not required."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Costa Rica",
+      "fields": {
+        "note": "Visa: Canada is in Costa Rica's first visa group. Entry without a visa.\nStay: the length of the grant is genuinely unresolved. Costa Rica's own embassy in Canada says 180 calendar days non-extendable, while the 2022 directive in the government legal database says 90 calendar days non-extendable. The current November 2025 directive is a PDF that cannot be read. Either way, the days granted are set by the immigration officer.\nBring: an onward ticket and funds of USD 100 per month of stay. Costa Rica publishes and enforces this."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Croatia",
+      "fields": {
+        "note": "Visa check: Croatia's MFA checker returns 'No' for a Canadian ordinary passport.\nPassport: Croatia attaches its own condition. The passport must be valid at least three months after your planned departure from Croatia.\nRegistration: short-stay registration runs through the eVisitor system and is normally handled by your accommodation provider."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Cuba",
+      "fields": {
+        "note": "Visa: Canadians are not visa-free for Cuba. A tourist visa is required before boarding, and it is now issued electronically through the Cuban Foreign Ministry's own portal. Single entry.\nStay: Canadians get a better deal than most nationalities, with 90 days rather than 30, extendable by 90 rather than 30.\nInsurance: travel medical insurance with cover valid in Cuba is mandatory and must be bought before you leave. Arrive without it and you are made to buy Cuban insurance at the airport.\nForm: the D'Viajeros traveller information form is mandatory. Every person including children completes it online within 48 hours before check-in.\nMinors: need their own visa even if they appear in a parent's passport."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Czech Republic",
+      "fields": {
+        "note": "Visa: Canada is named on the Czech MFA's own exemption list. The exemption covers short-term non-profit stays only.\nRegistration: Czechia adds a national duty. Anyone older than 15 must register with the Foreign Police within 3 working days of arrival. Hotels register their guests, so a hotel stay covers this.\nBring: sufficient funds and medical insurance for the stay."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Dominica",
+      "fields": {
+        "note": "Visa: Dominica exempts Commonwealth citizens as a category for stays not exceeding six months. Unlike Trinidad and Tobago, it names no excluded Commonwealth states.\nCanada: covered by the category rather than named individually.\nOther exemption: a separate 21-day exemption exists for any bona fide tourist holding a return ticket."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Dominican Republic",
+      "fields": {
+        "note": "Visa: Canada is named on the Dominican Republic's own category C list. Entry is on a tourist card only, no visa.\nFee: the USD 10 tourist card has been included in the price of every air ticket issued outside the Dominican Republic since 25 April 2018, so most Canadians pay nothing extra. Tickets bought inside the country do not include it.\nEntry form: the free E-Ticket form is mandatory for every passenger entering or leaving, Dominican or foreign."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Egypt",
+      "fields": {
+        "note": "Visa: Canada is named on Egypt's own e-visa eligible-nationality list. Apply online at least 7 days before departure.\nVisa on arrival: a 30-day visa on arrival is also available, payable in cash in US dollars only.\nSinai exception: entering by land at Taba and staying inside the Sinai Peninsula (which includes Sharm el-Sheikh) gives a 14-day visa-free stamp. To travel beyond the Sinai you need the e-visa or a 30-day visa on arrival.\nGood to know: keep your entry stamp. Without it you cannot get an exit stamp."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "El Salvador",
+      "fields": {
+        "note": "Visa: category A, exempt from visa, on El Salvador's own foreign-ministry table.\nStay: El Salvador is part of the CA-4 zone with Guatemala, Honduras and Nicaragua. The 90 days is a shared regional allowance set by the officer at your first CA-4 entry point, not 90 days per country.\nEntry fee: neither the Salvadoran foreign ministry nor the Government of Canada publishes any entry fee for Canadians."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Faroe Islands",
+      "fields": {
+        "note": "Visa: the Faroes are outside Schengen and a Schengen visa does not cover them. A Canadian needs nothing extra, because anyone who may enter Denmark visa-free may enter the Faroes visa-free.\nStay: the Danish Immigration Service states in terms that visa-free days in Schengen, Greenland and the Faroes share one 90-in-180 allowance.\nPassport: bring a passport. An EU ID card is not enough for the territories."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Finland",
+      "fields": {
+        "note": "Visa: Finland's MFA records Canada as having visa exemption to the Schengen area and to Finland.\nPassport: Finland is strict on documents. The passport must have been issued within the last ten years and be valid at least 90 days after you intend to leave the Schengen area.\nRefugee travel document: a Geneva Convention refugee travel document issued by Canada does not carry the exemption."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "France",
+      "fields": {
+        "note": "Passport: France requires a passport issued less than 10 years ago and valid at least 3 months beyond your departure.\nBring: proof of accommodation, funds and a return ticket.\nBilateral waiver: France has notified the EU of a bilateral visa waiver with Canada (in force since 1 May 1950, 90 days, ordinary passports) that in principle allows further time in France after the Schengen 90 days. No official French guidance on how to use it could be found, so do not rely on it at the border without checking with a French consulate first."
       }
     }
   ],
