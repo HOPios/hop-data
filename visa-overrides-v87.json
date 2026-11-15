@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T13:48:38Z",
+  "generated_at": "2026-11-15T14:23:49Z",
   "entries": [
     {
       "passport": "CA",
       "destination": "Cabo Verde",
       "fields": {
         "visa": "eta",
-        "note": "No tourist visa for Canadians for stays of up to 30 days. From 1 January 2026 nationals of 91 listed countries must hold a visa before arrival — Canada is NOT on that list, and Canadian residence permits are separately named as exempting their holders. But PRE-REGISTRATION ON THE EASE PLATFORM IS COMPULSORY for every foreign traveller, ideally at least 5 days before travel, and the airport security tax is paid through it. Canada's travel advice calls this pre-registration an ETA: complete the online form and pay the airport security fee at least 5 days before you arrive. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: no tourist visa for Canadians for stays of up to 30 days.\nVisa list: from 1 January 2026 nationals of 91 listed countries must hold a visa before arrival. Canada is not on that list, and Canadian residence permits are separately named as exempting their holders.\nPre-registration: compulsory on the EASE platform for every foreign traveller, ideally at least 5 days before travel. The airport security tax is paid through it.\nETA: Canada's travel advice calls this pre-registration an ETA. Complete the online form and pay the airport security fee at least 5 days before you arrive.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -24,7 +24,7 @@
       "fields": {
         "stay": "30 days on entry, extendable twice by 30 days at no cost, up to 90 days per calendar year",
         "extension": "Possible — apply to the General Directorate of Migration before the end of the 30-day period; a 30-day extension can be obtained twice, to a maximum of 90 days in a calendar year",
-        "note": "Bolivia sorts nationalities into Grupo I / II / III; Canada is treated as Grupo I and needs no tourist visa. Passport must be valid at least 6 months. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk. The 90 days is an annual allowance, not per entry."
+        "note": "Visa: Bolivia sorts nationalities into Grupo I / II / III. Canada is treated as Grupo I and needs no tourist visa.\nPassport: valid at least 6 months.\nStay: the 90 days is an annual allowance, not per entry.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -88,6 +88,13 @@
         "cost": "Not verified — the fee is not stated on Chad's e-Visa site"
       },
       "checked": "2026-11-13"
+    },
+    {
+      "passport": "CA",
+      "destination": "Cambodia",
+      "fields": {
+        "note": "Visa: apply online for a single-entry tourist e-Visa and pay. You receive an approval letter within about 3 days, and the visa is stamped on arrival.\nStay: the visa allows 30 days, counted from the date of entry.\nArrival form: a free e-Arrival declaration, submitted within the 7 days before arrival or on arrival.\nScam warning: paid look-alike sites are abundant for Cambodia. Only .gov.kh domains are official."
+      }
     },
     {
       "passport": "AU",
@@ -401,6 +408,14 @@
       }
     },
     {
+      "passport": "CA",
+      "destination": "Bahamas",
+      "fields": {
+        "stay": "240 days from your arrival date, officer's discretion",
+        "note": "Visa: Canadian citizens are named on the Immigration Department's exemption list.\nEntry card: complete the Disembarkation/Embarkation Card.\nBring: a return or onward ticket and evidence of funds.\nFee: a USD 20 departure tax applies to everyone aged 6 and over.\nGood to know: the 30-day figure on that page applies to Canadian permanent residents holding Form 1000, not to citizens."
+      }
+    },
+    {
       "passport": "NZ",
       "destination": "Macau",
       "fields": {
@@ -647,7 +662,7 @@
       "destination": "Cook Islands",
       "fields": {
         "ext_cost": "NZD 115 for the 31-day extension",
-        "note": "An International Visitor Permit is issued free on arrival to everyone except New Zealand and Australian passport holders — less than 31 days, not the less than 3 months that New Zealanders and Australians get, so don't read across from a New Zealand source. You need proof of onward travel, sufficient funds, accommodation details and a passport valid 6 months. The total stay is capped at 2 months without a continuous departure of more than six months.",
+        "note": "Visa: an International Visitor Permit is issued free on arrival to everyone except New Zealand and Australian passport holders. It is for less than 31 days, not the less than 3 months that New Zealanders and Australians get, so don't read across from a New Zealand source.\nBring: proof of onward travel, sufficient funds, accommodation details and a passport valid 6 months.\nStay: the total stay is capped at 2 months without a continuous departure of more than six months.",
         "stay": "Less than 31 days"
       }
     },
@@ -1248,7 +1263,7 @@
       "destination": "Burkina Faso",
       "fields": {
         "visa": "ev",
-        "note": "E-visa: applicants can obtain the visa electronically by entering their details and paying online at visaburkina.bf. Visa required before travel, applied for on the Ministry of Security's e-visa portal or at a Burkinabè mission — the embassy in Ottawa directs all applicants to the portal. A short-stay visa cannot exceed 90 days; beyond that you need a long-stay visa or a residence permit. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: required before travel. Apply on the Ministry of Security's e-visa portal or at a Burkinabè mission. The embassy in Ottawa directs all applicants to the portal.\nE-visa: enter your details and pay online at visaburkina.bf.\nStay: a short-stay visa cannot exceed 90 days. Beyond that you need a long-stay visa or a residence permit.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -1297,7 +1312,7 @@
       "passport": "CA",
       "destination": "Cameroon",
       "fields": {
-        "note": "THE E-VISA IS NOW THE ONLY ROUTE — the postal embassy application is superseded, though Cameroon's Ottawa mission still publishes stale COVID-era postal instructions. The online grant is a visa authorisation; biometric enrolment and printing of the physical sticker happen at the embassy or consulate if you live in the city where it is; if you live in an area far from any post you get a QR authorisation and the visa is put in your passport at the border post. Onward or return ticket required. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over.",
+        "note": "Visa: the e-visa is now the only route. The postal embassy application is superseded, though Cameroon's Ottawa mission still publishes stale COVID-era postal instructions.\nHow it works: the online grant is a visa authorisation. If you live in the city where an embassy or consulate is, biometric enrolment and printing of the physical sticker happen there. If you live far from any post, you get a QR authorisation and the visa is put in your passport at the border post.\nBring: an onward or return ticket.\nYellow fever: certificate required for every arriving traveller aged 1 year and over.",
         "apply": "https://evisacam.cm/ then enrol at the embassy or consulate if you live in the city where it is; if you live in an area far from any post you get a QR authorisation and the visa is put in your passport at the border post."
       }
     },
@@ -1910,9 +1925,9 @@
       "passport": "CA",
       "destination": "Belarus",
       "fields": {
-        "stay": "Up to 30 days, the arrival day and the departure day both counting, entering and leaving only through the six named airports (not on flights from or to Russia); cannot be extended"
-      },
-      "checked": "2026-11-12"
+        "stay": "Up to 30 days, the arrival day and the departure day both counting, entering and leaving only through the six named airports (not on flights from or to Russia); cannot be extended",
+        "note": "Entry route: air only, and only through six airports (Minsk National, Brest, Gomel, Grodno, Mogilev, Vitebsk), for both entry and exit.\nRussia: this does not apply if you fly in from Russia or intend to fly out to a Russian airport. Those flights are treated as internal and have no border control.\nPassport: ordinary passports only, valid at least 90 days beyond your intended departure.\nEntry conditions: medical insurance of at least EUR 10,000 and proof of funds are conditions of entry, not optional."
+      }
     },
     {
       "passport": "NZ",
@@ -2625,7 +2640,7 @@
       "passport": "CA",
       "destination": "Central African Republic",
       "fields": {
-        "note": "Visa required in advance from the CAR embassy in Washington DC, the mission accredited to Canada — application by online or downloadable form, submitted with passport and photos, paid by bank transfer or cash. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. There is NO national CAR visa portal: the ministry's own site fails TLS verification. Several .com sites style themselves 'the official Central African Republic e-visa' with no verifiable government ownership — do not use them."
+        "note": "Visa: required in advance from the CAR embassy in Washington DC, the mission accredited to Canada. Apply by online or downloadable form, submitted with passport and photos, and pay by bank transfer or cash.\nYellow fever: certificate required for every arriving traveller aged 9 months and over.\nScam warning: there is no national CAR visa portal, and the ministry's own site fails TLS verification. Several .com sites style themselves 'the official Central African Republic e-visa' with no verifiable government ownership. Do not use them."
       }
     },
     {
@@ -3304,7 +3319,7 @@
       "passport": "CA",
       "destination": "Congo",
       "fields": {
-        "note": "This is the Republic of the Congo (Brazzaville), not the DRC. You must obtain the visa from the Embassy of the Republic of the Congo in Ottawa before leaving Canada — there is no visa on arrival, and no other Congolese mission will accept your application. NO CONGO-BRAZZAVILLE E-VISA EXISTS: every 'Congo e-visa' offer is either a commercial agency or a DRC product mislabelled. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Which Congo: this is the Republic of the Congo (Brazzaville), not the DRC.\nVisa: you must obtain the visa from the Embassy of the Republic of the Congo in Ottawa before leaving Canada. There is no visa on arrival, and no other Congolese mission will accept your application.\nScam warning: no Congo-Brazzaville e-visa exists. Every 'Congo e-visa' offer is either a commercial agency or a DRC product mislabelled.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -3731,7 +3746,7 @@
       "passport": "CA",
       "destination": "Aruba",
       "fields": {
-        "note": "A country within the Kingdom of the Netherlands with its own rules — Schengen rules do not apply. Entry conditions are enforced: return ticket, proof of accommodation, roughly USD 150–200 per person per day, and insurance covering at least USD 15,000 in medical costs. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Good to know: Aruba is a country within the Kingdom of the Netherlands with its own rules. Schengen rules do not apply.\nEntry conditions: enforced. Bring a return ticket, proof of accommodation, roughly USD 150–200 per person per day, and insurance covering at least USD 15,000 in medical costs.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4833,6 +4848,97 @@
       "destination": "Tokelau",
       "fields": {
         "note": "Genuinely hard to reach. No airport — the only access is the MV Mataliki from Apia, Samoa (roughly 24–30 hours, sailing about fortnightly). Non-residents need a permit in advance, granted by the Council for the Ongoing Government, and you must also meet Samoa's entry rules in transit."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "American Samoa",
+      "fields": {
+        "note": "Good to know: outside the US immigration zone. ESTA and US visa policy do not govern entry here.\nPermit: Canada is on American Samoa's own waiver list. Apply online for the 30-Day Visitor Permit before you travel and show the emailed permit on arrival, or you can be sent back on the vessel you arrived on.\nBring: a passport valid 6 months beyond departure, a return ticket within 30 days and confirmed accommodation."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Austria",
+      "fields": {
+        "note": "Visa: Canada is in Annex II of Regulation (EU) 2018/1806. Austria's own table records a national 3-month exemption on top.\nEES: the EU Entry/Exit System has been live since 10 April 2026. Expect biometric registration at the border. There is nothing to apply for.\nETIAS: not in force, and no start date has been published.\nBilateral waiver: Austria has also notified the EU of a bilateral visa waiver with Canada, in force since 1 July 1956, for 3 months (all passports). No official guidance on how to use it could be found. Confirm with a consulate before relying on it."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Barbados",
+      "fields": {
+        "note": "Visa: Canada is named as no-visa-required on the Ministry of Foreign Affairs visa schedule.\nEntry form: all travellers must complete the online Immigration and Customs Form, available from 72 hours before arrival. Present the receipt on arrival.\nBring: a return ticket to your country of residence, your intended address and evidence of personal support."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Belgium",
+      "fields": {
+        "note": "Visa: Annex II of Regulation (EU) 2018/1806 lists Canada among the third countries whose nationals are exempt from the visa requirement for stays of no more than 90 days in any 180-day period.\nEES: the EU Entry/Exit System has been live since 10 April 2026. Biometric registration at the border, nothing to apply for.\nETIAS: not in force, and no start date has been published. The Commission's own page says it is not in operation and that the EU will announce the date several months ahead.\nFee: the ETIAS fee will be EUR 20.\nBilateral waiver: Belgium has also notified the EU of a bilateral visa waiver with Canada, in force since 1 December 1949, for 2 months (all passports). Confirm with a consulate before relying on it."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Bermuda",
+      "fields": {
+        "note": "Visa: Canada is not on the Prohibition of Entry Order's visa-controlled list. On the contrary, a Canadian multi re-entry visa is one of the documents that lets a listed national in.\nPassport: travellers who require a Multi Re-Entry Visa (MRV) must hold an MRV and a passport both valid for at least 45 days beyond the end of the visit or work permit (Government of Bermuda). Visa-exempt Canadian visitors only need a passport valid for the duration of their stay.\nGood to know: the COVID-era Bermuda Travel Authorisation was abolished on 14 November 2022."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Bhutan",
+      "fields": {
+        "note": "Fee: the visa fee is trivial next to the Sustainable Development Fee, which is the real cost, at USD 100 per adult per night. Ten nights for two adults is USD 2,000 in SDF against USD 80 in visa fees.\nRate: the statutory rate is USD 200 a night. The halved rate is an incentive running to 31 August 2027.\nInsurance: travel insurance stopped being mandatory on 23 April 2024."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Cayman Islands",
+      "fields": {
+        "note": "Visa: Canada is named in the 'Visa Not Required' column of the Customs & Border Control country table.\nBring: a passport valid beyond your return date, a paid return ticket and proof of funds.\nGood to know: ignore the 30-day cap mentioned on that page. It applies to separately exempted categories such as people holding a US, UK or Canadian visa, not to Canadian citizens."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Chad",
+      "fields": {
+        "note": "Visa: since 11 May 2026 all visa applications are online only. Since 21 May 2026 any visa issued outside the platform is invalid for entry. Manual entry authorisations have been abolished. Canada is not on Chad's visa-exemption list.\nApply: at least 7 days before entry and no more than 90 days ahead.\nPassport: valid 6 months.\nBring: a return or onward ticket.\nRegistration: you must register with the national police within 72 hours of arrival.\nYellow fever: carry vaccination proof. The portal tells all applicants to have it checked on arrival."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Chile",
+      "fields": {
+        "note": "Visa: no visa and no reciprocity fee. Chile's own visa-and-fee table lists Canada at US$0.\nStay: a Permanencia Transitoria permit of up to 90 continuous days is granted at the border.\nDeclaration: everyone must complete the free SAG sworn declaration for food, plant and animal products. Declare everything, the fines are real."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "China",
+      "fields": {
+        "note": "Visa: Canada was added to China's trial visa-free scheme from 00:00 on 17 February 2026, for business, tourism, visiting family or friends, and transit.\nExpiry: the policy expires at 24:00 on 31 December 2026 (Beijing time). After that it lapses unless extended, so check before booking anything for 2027.\nNot covered: the waiver does not cover work, study or news coverage. Those still need a visa in advance.\nStay: staying beyond 30 days also needs a visa obtained before you travel."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Christmas Island",
+      "fields": {
+        "note": "Good to know: an Australian external territory inside Australia's migration zone, so Australian visa rules simply apply.\nVisa: arriving from outside Australia you need the same subclass 601 ETA as for the mainland. Canada is a listed eligible passport.\nDomestic flight: arriving on a domestic flight from the Australian mainland needs no passport or visa, but photo ID must be produced for every passenger including children."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Cocos (Keeling) Islands",
+      "fields": {
+        "note": "Good to know: an Australian external territory inside Australia's migration zone, so Australian visa rules apply.\nVisa: the subclass 601 ETA, same as the mainland.\nDomestic flight: arriving on a domestic flight from the Australian mainland needs no passport or visa, but photo ID is required for every passenger for Customs and Immigration clearance."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Comoros",
+      "fields": {
+        "note": "Visa: a tourist visa is required but is obtainable on arrival at Prince Said Ibrahim International Airport in Moroni and at other points of entry. The fee is payable in euros.\nBring: euros. Confirm current pricing with your airline.\nGood to know: overstaying draws fines and possible arrest.\nYellow fever: proof is not required."
       }
     }
   ],
