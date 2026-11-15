@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T03:23:30Z",
+  "generated_at": "2026-11-15T06:08:42Z",
   "entries": [
     {
       "passport": "CA",
@@ -611,9 +611,10 @@
       "destination": "Cook Islands",
       "fields": {
         "ext_cost": "NZD 235 for the 3-month extension",
-        "note": "No visa before travel — a New Zealand Visitor Permit is issued free at the border on the arrival card. The 3-month entitlement is tied specifically to New Zealand or Australian citizenship; other nationalities get less than 31 days. You need proof of onward travel and sufficient funds, and must be a genuine visitor not intending to work or study."
+        "note": "No visa before travel — a New Zealand Visitor Permit is issued free at the border on the arrival card. The 3-month entitlement is tied specifically to New Zealand or Australian citizenship; other nationalities get less than 31 days. You need proof of onward travel and sufficient funds, and must be a genuine visitor not intending to work or study.",
+        "stay": "90 days"
       },
-      "checked": "2026-11-09"
+      "checked": "2026-11-15"
     },
     {
       "passport": "US",
@@ -1781,9 +1782,10 @@
       "passport": "DE",
       "destination": "Australia",
       "fields": {
-        "cost": "Free (eVisitor)"
+        "cost": "Free (eVisitor)",
+        "note": "eVisitor (subclass 651): free, multiple entry, valid 12 months from grant, up to 3 months per entry."
       },
-      "checked": "2026-11-12"
+      "checked": "2026-11-15"
     },
     {
       "passport": "AU",
@@ -5124,9 +5126,10 @@
       "passport": "CA",
       "destination": "Tokelau",
       "fields": {
-        "stay": "Up to 10 days on a visitor's permit"
+        "stay": "Up to 10 days on a visitor's permit",
+        "note": "Tokelau is a self-governing territory of New Zealand. Canadians don't need a visa to enter Tokelau, but they require a permit, granted by the Administrator. There is no airport: access is by boat from Apia, Samoa, usually around 24–32 hours depending on the atoll."
       },
-      "checked": "2026-11-14"
+      "checked": "2026-11-15"
     },
     {
       "passport": "UK",
@@ -5140,9 +5143,10 @@
       "passport": "IE",
       "destination": "Australia",
       "fields": {
-        "cost": "Free (eVisitor)"
+        "cost": "Free (eVisitor)",
+        "note": "eVisitor (subclass 651): free, multiple entry, valid 12 months from grant, up to 3 months per entry."
       },
-      "checked": "2026-11-14"
+      "checked": "2026-11-15"
     },
     {
       "passport": "AU",
@@ -5159,6 +5163,117 @@
         "note": "Separate from US immigration — an ESTA or US visa will NOT get you in. The United Kingdom is on American Samoa's list of visa waiver countries: apply online for the 30-Day Visitor Permit within 3 business days before travel."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "passport": "DE",
+      "destination": "Gibraltar",
+      "fields": {
+        "stay": "No stay limit stated by Gibraltar",
+        "note": "Gibraltar is outside the EU and Schengen, so EU free movement does not apply. German citizens are visa-exempt and may enter with a passport or a national identity card; Gibraltar's border page gives no stay limit for them."
+      },
+      "checked": "2026-11-15"
+    },
+    {
+      "passport": "NL",
+      "destination": "Gibraltar",
+      "fields": {
+        "stay": "No stay limit stated by Gibraltar",
+        "note": "Gibraltar is a British Overseas Territory outside the EU and Schengen, so EU free movement does not apply. Dutch citizens are visa-exempt and may enter with a passport or a national identity card; Gibraltar's border page gives no stay limit for them."
+      },
+      "checked": "2026-11-15"
+    },
+    {
+      "passport": "IE",
+      "destination": "Gibraltar",
+      "fields": {
+        "stay": "No stay limit stated by Gibraltar",
+        "note": "British Overseas Territory outside the EU and Schengen; EU free movement does not apply. Irish citizens are visa-exempt and may enter with a passport or a national identity card; Gibraltar's border page gives no stay limit for them."
+      },
+      "checked": "2026-11-15"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Tokelau",
+      "fields": {
+        "extension": "Possible — a visitor's permit allows up to 10 days, a residence permit up to 3 months, at the discretion of the Administrator"
+      },
+      "checked": "2026-11-15"
+    },
+    {
+      "passport": "AU",
+      "destination": "Tokelau",
+      "fields": {
+        "note": "Genuinely hard to reach. No airport — the only access is the MV Mataliki from Apia, Samoa (roughly 24–30 hours, sailing about fortnightly). Non-residents need a permit in advance, granted by the Administrator, and you must also meet Samoa's entry rules in transit.",
+        "apply": "Office for Tokelau Affairs in Western Samoa, the Administrator in New Zealand, an Administration Officer in Tokelau (or another person the Administrator designates), or any New Zealand diplomatic or consular post · tokelau.org.nz · smartraveller.gov.au"
+      },
+      "checked": "2026-11-15"
+    },
+    {
+      "passport": "US",
+      "destination": "Tokelau",
+      "fields": {
+        "note": "Genuinely hard to reach. No airport — the only access is the MV Mataliki from Apia, Samoa (roughly 24–30 hours, sailing about fortnightly). Non-residents need a permit in advance, granted by the Administrator, and you must also meet Samoa's entry rules in transit.",
+        "apply": "Office for Tokelau Affairs in Western Samoa, the Administrator in New Zealand, an Administration Officer in Tokelau (or another person the Administrator designates), or any New Zealand diplomatic or consular post · tokelau.org.nz · travel.state.gov",
+        "stay": "10 days per visitor's permit"
+      },
+      "checked": "2026-11-15"
+    },
+    {
+      "passport": "UK",
+      "destination": "Tokelau",
+      "fields": {
+        "note": "Genuinely hard to reach. No airport — the only access is the MV Mataliki from Apia, Samoa (roughly 24–30 hours, sailing about fortnightly). Non-residents need a permit in advance, granted by the Administrator, and you must also meet Samoa's entry rules in transit.",
+        "apply": "Office for Tokelau Affairs in Western Samoa, the Administrator in New Zealand, an Administration Officer in Tokelau (or another person the Administrator designates), or any New Zealand diplomatic or consular post · tokelau.org.nz · gov.uk/foreign-travel-advice/new-zealand"
+      },
+      "checked": "2026-11-15"
+    },
+    {
+      "passport": "KR",
+      "destination": "Tokelau",
+      "fields": {
+        "stay": "Up to 10 days"
+      },
+      "checked": "2026-11-15"
+    },
+    {
+      "passport": "DE",
+      "destination": "Tokelau",
+      "fields": {
+        "stay": "Up to 10 days"
+      },
+      "checked": "2026-11-15"
+    },
+    {
+      "passport": "IN",
+      "destination": "Tokelau",
+      "fields": {
+        "stay": "Up to 10 days"
+      },
+      "checked": "2026-11-15"
+    },
+    {
+      "passport": "NL",
+      "destination": "Tokelau",
+      "fields": {
+        "stay": "Up to 10 days"
+      },
+      "checked": "2026-11-15"
+    },
+    {
+      "passport": "IE",
+      "destination": "Tokelau",
+      "fields": {
+        "stay": "Up to 10 days"
+      },
+      "checked": "2026-11-15"
+    },
+    {
+      "passport": "CA",
+      "destination": "Australia",
+      "fields": {
+        "stay": "Up to 3 months per entry; valid for 12 months or until your passport expires, whichever is shorter"
+      },
+      "checked": "2026-11-15"
     }
   ],
   "destinations": [
