@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:25:51Z",
+  "generated_at": "2026-11-15T14:26:46Z",
   "entries": [
     {
       "passport": "CA",
@@ -559,9 +559,9 @@
       "passport": "CA",
       "destination": "Jamaica",
       "fields": {
-        "stay": "Up to 90 days, set by the officer; an extension is needed to stay longer"
-      },
-      "checked": "2026-10-21"
+        "stay": "Up to 90 days, set by the officer; an extension is needed to stay longer",
+        "note": "Visa: Canada is named on PICA's own entry visa requirements table as not requiring a visa, tagged Commonwealth.\nStay: PICA allows Commonwealth citizens a maximum of 12 months as a visitor against 6 months for non-Commonwealth. The period actually granted is what the officer stamps, so treat 12 months as a ceiling.\nDeclaration: the electronic C5 passenger declaration is mandatory for all arriving passengers and is free on the official website.\nScam warning: other websites that offer to fill it in for you are not operated by the Government of Jamaica and may charge a fee."
+      }
     },
     {
       "passport": "US",
@@ -1148,9 +1148,9 @@
       "passport": "CA",
       "destination": "Lebanon",
       "fields": {
-        "stay": "30 days from your arrival date, extendable to 90 days in total"
-      },
-      "checked": "2026-10-22"
+        "stay": "30 days from your arrival date, extendable to 90 days in total",
+        "note": "Visa: Lebanon's General Security directorate names Canada directly among the countries granted a cost-free one-month visa at any port of entry.\nEmergency passport: holders of a Canadian emergency passport get the same visa issued immediately on arrival.\nOverstay: if you overstay by less than one month, you can leave and pay a fine at departure. If you overstay by more than one month, you must contact General Security's bureau of Arabs and foreigners before you are allowed to leave."
+      }
     },
     {
       "passport": "AU",
@@ -1252,9 +1252,9 @@
       "passport": "CA",
       "destination": "Jersey",
       "fields": {
-        "stay": "Up to 180 days per entry"
-      },
-      "checked": "2026-10-22"
+        "stay": "Up to 180 days per entry",
+        "note": "ETA: Jersey is in the Common Travel Area, not the UK. Since 23 April 2026 a Canadian visiting Jersey from outside the CTA needs an ETA.\nWhere it works: the UK runs the process on Jersey's behalf and the same ETA covers the UK, Guernsey and the Isle of Man.\nApply: at least 3 working days before you travel. It takes about 10 minutes."
+      }
     },
     {
       "passport": "CA",
@@ -2541,10 +2541,9 @@
       "destination": "Kazakhstan",
       "fields": {
         "apply": "Not required · an Electronic Travel Authorization (QazETA) is recommended: apply no later than 72 hours before the planned travel date",
-        "note": "Canada is named in Kazakhstan's visa-regime table as visa-free up to 30 days for ordinary passports. Watch the cumulative caps — the 30 days is per entry, but total stay must not exceed 90 days in any 180-day period. On registration: an arrival notification is required within 3 working days, but it is the duty of the RECEIVING PARTY — your hotel or host — not you, and Kazakhstan states a foreign citizen does not need to apply to the migration service personally. Kazakhstan is piloting an Electronic Travel Authorization (ETA), QazETA; Canada's advice recommends getting one before you travel. It is currently voluntary and free of charge, but may become mandatory and could carry fees. An ETA does not guarantee entry.",
+        "note": "Visa: Canada is named in Kazakhstan's visa-regime table as visa-free up to 30 days for ordinary passports.\nStay: the 30 days is per entry, but total stay must not exceed 90 days in any 180-day period.\nRegistration: an arrival notification is required within 3 working days, but it is the duty of the receiving party (your hotel or host), not you. Kazakhstan states a foreign citizen does not need to apply to the migration service personally.\nETA: Kazakhstan is piloting an Electronic Travel Authorization (ETA), QazETA. Canada's advice recommends getting one before you travel. It is currently voluntary and free of charge, but may become mandatory and could carry fees. An ETA does not guarantee entry.",
         "stay": "30 days per entry, within 90 per 180"
-      },
-      "checked": "2026-11-09"
+      }
     },
     {
       "passport": "DE",
@@ -3790,7 +3789,7 @@
       "destination": "Liberia",
       "fields": {
         "apply": "Apply online before travel through Liberia's official visa-on-arrival system (Hop has no working official link at present) — apply at least 7 days before travel; the visa is issued on arrival at Roberts International",
-        "note": "Liberia's online portal excludes applicants whose country has a Liberian embassy. Liberia's own foreign ministry publishes its complete mission list — 23 embassies and 28 consulates — AND CANADA IS ON NEITHER, so the online pre-approved visa on arrival is the correct route for Canadians. Apply at least 7 days before your flight and no more than 3 months ahead; the approval is then valid 3 months. Passport valid 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: the online pre-approved visa on arrival is the correct route for Canadians.\nWhy: Liberia's online portal excludes applicants whose country has a Liberian embassy. Liberia's own foreign ministry publishes its complete mission list, 23 embassies and 28 consulates, and Canada is on neither.\nApply: at least 7 days before your flight and no more than 3 months ahead. The approval is then valid 3 months.\nPassport: valid 6 months.\nYellow fever: vaccination certificate required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -3880,7 +3879,7 @@
       "passport": "CA",
       "destination": "Laos",
       "fields": {
-        "note": "The Lao e-Visa is single entry, the approval letter is valid 60 days from issue, and processing is usually 3 working days. The catch that strands people: an e-Visa is only valid at the designated entry points — nine airports and land checkpoints in Vientiane, Luang Prabang, Savannakhet, Champasack, Bokeo and Luang Namtha. Arriving at any other border with an e-Visa does not work. You can also obtain a tourist visa upon arrival at Wattay International Airport, Luang Prabang International Airport, Pakse International Airport and some “international” (that is, open to all foreign nationals) border crossings. You must provide a passport photo and pay a fee to obtain a visa upon arrival."
+        "note": "E-visa: single entry. The approval letter is valid 60 days from issue, and processing is usually 3 working days.\nEntry points: an e-Visa is only valid at the designated entry points: nine airports and land checkpoints in Vientiane, Luang Prabang, Savannakhet, Champasack, Bokeo and Luang Namtha. Arriving at any other border with an e-Visa does not work.\nVisa on arrival: you can also obtain a tourist visa upon arrival at Wattay International Airport, Luang Prabang International Airport, Pakse International Airport and some 'international' (that is, open to all foreign nationals) border crossings.\nBring: a passport photo and the fee for a visa upon arrival."
       }
     },
     {
@@ -4647,7 +4646,7 @@
       "passport": "CA",
       "destination": "Mali",
       "fields": {
-        "note": "Visa required in advance from a Malian mission; no visa on arrival is published on any Malian government source. Passport valid 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Canada has an embassy in Bamako, whose consular district also covers Niger. NO JOINT ALLIANCE OF SAHEL STATES VISA IS CONFIRMED IN FORCE — Mali and Niger both still run national visa regimes, and no official source states otherwise."
+        "note": "Visa: required in advance from a Malian mission. No visa on arrival is published on any Malian government source.\nPassport: valid 6 months.\nYellow fever: vaccination certificate required of every arriving traveller aged 9 months and over.\nConsular help: Canada has an embassy in Bamako, whose consular district also covers Niger.\nSahel joint visa: no joint Alliance of Sahel States visa is confirmed in force. Mali and Niger both still run national visa regimes, and no official source states otherwise."
       }
     },
     {
@@ -5207,7 +5206,7 @@
       "passport": "CA",
       "destination": "Mauritania",
       "fields": {
-        "note": "The e-visa must be held BEFORE arrival — the Canadian advisory is explicit. Biometrics are captured at the border crossing to complete entry; that is a biometric step, not a visa issued on arrival. Canada is not on Mauritania's exemption list. There is no permanent Canadian office in Mauritania — an honorary consul in Nouakchott, with the Embassy of Canada in Rabat accredited. The old 'EUR 55 at the airport' figure now matches the online 30-day fee, which is probably where the confusion comes from. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+        "note": "Visa: the e-visa must be held before arrival. Canadian travel advice is explicit on this. Canada is not on Mauritania's exemption list.\nAt the border: biometrics are captured at the border crossing to complete entry. That is a biometric step, not a visa issued on arrival.\nConsular help: there is no permanent Canadian office in Mauritania. There is an honorary consul in Nouakchott, with the Embassy of Canada in Rabat accredited.\nFee: the old 'EUR 55 at the airport' figure now matches the online 30-day fee, which is probably where the confusion comes from.\nYellow fever: vaccination certificate required of every arriving traveller aged 1 year and over."
       }
     },
     {
@@ -5760,7 +5759,7 @@
       "passport": "CA",
       "destination": "Kenya",
       "fields": {
-        "note": "Kenya abolished visas and replaced them with a mandatory eTA for every visitor including infants and children. Canada is not on any exemption list. The standard eTA is SINGLE ENTRY. Apply about 3 working days ahead. Careful: the '90 days' figure on Kenya's portal is the window in which you must TRAVEL after issue — it is not your permitted stay, which the officer sets at the border. Kenyan officials do spot-check certificates, so carry it. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: Kenya abolished visas and replaced them with a mandatory eTA for every visitor including infants and children. Canada is not on any exemption list.\neTA: the standard eTA is single entry. Apply about 3 working days ahead.\nGood to know: the '90 days' figure on Kenya's portal is the window in which you must travel after issue. It is not your permitted stay, which the officer sets at the border.\nBring: Kenyan officials do spot-check certificates, so carry yours.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -5823,7 +5822,7 @@
       "passport": "CA",
       "destination": "Madagascar",
       "fields": {
-        "note": "The visa is issued on arrival at Antananarivo (Ivato) airport by the immigration police, or in advance at a Malagasy mission or through the e-visa portal. Passport needs at least two blank pages and a return ticket is required. Processing at the airport can be slow. The widely-repeated 'free 15-day tier' could not be confirmed from any Malagasy source, and no official fee figure was found — payment is in cash, in USD, euro or ariary. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. NOTE ON THE PORTAL: apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. Do not enter card details on any site you reached from a search result."
+        "note": "Visa: issued on arrival at Antananarivo (Ivato) airport by the immigration police, or in advance at a Malagasy mission or through the e-visa portal.\nPassport: needs at least two blank pages. A return ticket is required.\nProcessing: at the airport can be slow.\nFee: no official fee figure was found. Payment is in cash, in USD, euro or ariary. The 'free 15-day tier' could not be confirmed from any Malagasy source.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.\nScam warning: apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. Do not enter card details on any site you reached from a search result."
       }
     },
     {
@@ -5844,7 +5843,7 @@
       "passport": "CA",
       "destination": "Malawi",
       "fields": {
-        "note": "A public notice effective 24 February 2026 restored visa on arrival for Category Two nationals at all designated ports of entry, and instructs airlines to board them without a pre-obtained visa. Canada is a Category Two country. Applying online in advance is still encouraged and is processed in 3 working days. WATCH THE VISA-VERSUS-PERMIT DISTINCTION: a 3-month visa does not mean a 3-month stay — the permit written at the border is a maximum of 30 days. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: a public notice effective 24 February 2026 restored visa on arrival for Category Two nationals at all designated ports of entry, and instructs airlines to board them without a pre-obtained visa. Canada is a Category Two country.\nApply: applying online in advance is still encouraged and is processed in 3 working days.\nStay: a 3-month visa does not mean a 3-month stay. The permit written at the border is a maximum of 30 days.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -6743,6 +6742,97 @@
       "destination": "Israel",
       "fields": {
         "note": "ETA-IL: mandatory for visa-exempt nationalities, Canada included, since 1 January 2025. Apply at least 72 hours before arrival.\nValidity: up to 2 years or until your passport expires, whichever comes first. A new one is needed if you change passport, name, gender or citizenship.\nPassport: must be valid at least 3 months from arrival.\nGood to know: an ETA-IL only gets you to the border. The officer there decides admission."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Italy",
+      "fields": {
+        "note": "Visa: Canada is on the Italian MFA's visa-exempt list.\nDeclaration: Italy adds an obligation most travellers miss, and its logic is inverted from what you would expect. If you fly into Italy directly from outside Schengen, your entry stamp discharges it. If you arrive from another Schengen country, you must file a 'dichiarazione di presenza' at the provincial Questura within 8 days, unless you are in a hotel, where the form you sign at check-in counts.\nPenalty: the published consequence of not doing it is an administrative expulsion order.\nExtra days: Italy has also notified the EU of a bilateral visa waiver with Canada, in force since 9 November 1952, for 3 months (all passports). No official guidance on how to use it could be found. Confirm with a consulate before relying on it."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Japan",
+      "fields": {
+        "note": "Visa: exemption for short stays: tourism, business, visiting friends or relatives, with no paid activity.\nAuthorisation: no pre-travel authorisation is required. Visit Japan Web is a convenience service for immigration and customs, not a legal entry requirement.\nGood to know: Japan's only electronic visa system is for travellers who actually need a visa. There is no 'JESTA' in force."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Jordan",
+      "fields": {
+        "note": "Allenby Bridge: no visa on arrival at the King Hussein / Allenby Bridge crossing from the West Bank. You must already hold a visa to cross there.\nVisa on arrival: works at the international airports, the Sheikh Hussein Bridge and Wadi Araba (Aqaba).\nJordan Pass: bought before you arrive, it waives the 40 JOD visa fee if you stay at least 2 nights, and includes Petra."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Kiribati",
+      "fields": {
+        "note": "Visa: Canada is named on Kiribati's visa-exemption list.\nStay: the 90 days is an annual allowance, not per entry.\nSource: the evidence is a Kiribati government tourism page rather than the immigration ministry itself, because the ministry publishes its exemption order only as a scanned image. Confirm before a long trip."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Kuwait",
+      "fields": {
+        "note": "Visa: Kuwait's own foreign ministry lists Canada among the nationalities that may either take the visa on arrival or apply through the eVisa portal. The eVisa portal is live.\nPassport: valid 6+ months. The eVisa route wants a return ticket and proof of accommodation.\nEntry refusal: entry is refused if the passport holds Israeli visas or stamps, or Egyptian or Jordanian stamps from an office bordering Israel.\nStay and fee: not published anywhere Hop could read without creating an account. Confirm with your airline."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Kyrgyzstan",
+      "fields": {
+        "note": "Visa: Canada is named at item 10 of the statutory visa-free list under the Law on visa-free regime, covering any category of passport.\nRegistration: Kyrgyzstan requires foreigners to register at their place of stay within 5 working days of entry unless their nationality is on a published exemption annex. That annex is not published anywhere reachable, so Canada's position on it is not confirmed.\nGood to know: hotels normally handle registration. Confirm locally if you are staying in a private home."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Latvia",
+      "fields": {
+        "note": "Visa: Canada is named on Latvia's own visa-exempt list.\nTravel declaration: Latvia operates an Electronic Travel Declaration normally due 48 hours before arrival, and Canada is expressly exempt from it.\nExtra days: Latvia's list of bilateral visa waiver partners does not include Canada, so there are no extra days here."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Lesotho",
+      "fields": {
+        "note": "Visa: Lesotho exempts Commonwealth nationals and countries with visa-abolition agreements, and Canada is Commonwealth.\nPassport: valid 6 months.\nIf you do need a visa: Lesotho's online e-visa system is officially suspended and applicants are directed to email the immigration department. Visa on arrival is described by Lesotho's foreign ministry as highly discouraged.\nSource: no Lesotho government page names Canada specifically, so this rests on the Commonwealth exemption plus the Government of Canada."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Libya",
+      "fields": {
+        "note": "Visa: must be obtained in advance. There is no visa on arrival.\nWhere to apply: visas are only issued to residents of the country where the application is made, so Canadians apply in person at the Embassy of Libya in Ottawa. Mail-in applications are not accepted.\nPassport: valid at least 6 months.\nProcessing: normally about 20 working days.\nConsular help: there is no Government of Canada office in Libya. Consular support runs from the Embassy of Canada in Tunis."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Liechtenstein",
+      "fields": {
+        "note": "Schengen: Liechtenstein is in Schengen through its customs and visa union with Switzerland but is not in the EU.\nVisa: its own Ordinance on Entry and the Granting of Visas adopts the Schengen framework wholesale. The visa requirement attaches only to Annex I nationals, and Canada is in Annex II.\nGood to know: Swiss missions handle visa matters for Liechtenstein, which a visa-free Canadian never needs."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Malaysia",
+      "fields": {
+        "note": "Visa: Canada is named on Malaysia's list of countries that need no visa for any purpose of entry. The Government of Canada says a tourist visa is not required for stays of up to 90 days.\nArrival card: you must complete the Malaysia Digital Arrival Card, an online pre-arrival form that can be filled in up to three days before arrival.\nGood to know: the Government of Canada advises that the MDAC is free and to use only the official website."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Maldives",
+      "fields": {
+        "note": "Visa: a free 30-day visa is issued on arrival to every nationality except Israeli passport holders. No pre-approval.\nTraveller Declaration: the form is now mandatory, not merely recommended as it once was. It must be submitted within the 96 hours before travelling in each direction.\nBring: a machine-readable passport valid at least 1 month, a confirmed onward ticket, and either a prepaid booking at a registered facility or proof of funds of USD 100 plus USD 50 per day.\nWork: employment is prohibited."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Marshall Islands",
+      "fields": {
+        "note": "Visa: Canada is named on the RMI visa-on-arrival list with the fee waived.\nConditions: a passport valid 6 months beyond your departure from the RMI, a confirmed return or onward ticket, and any visas needed for onward travel.\nNot allowed: extensions, changes of status, employment, study and research are not permitted on this entry.\nFee: a USD 20 departure fee is charged, with children under 12 and adults over 60 exempt."
       }
     }
   ],
