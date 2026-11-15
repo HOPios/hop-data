@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:39:49Z",
+  "generated_at": "2026-11-15T14:40:29Z",
   "entries": [
     {
       "passport": "CA",
@@ -298,7 +298,7 @@
       "destination": "Aruba",
       "fields": {
         "stay": "30 days on arrival; extension on request up to 90 days, depending on your funds or a local guarantee; up to 180 days if you own a home, timeshare or a 14 m+ moored yacht in Aruba, or if you are the spouse or child of a home or timeshare owner who has given a guarantee; at most 180 days in a calendar year",
-        "note": "Visa-free, but the online ED (Embarkation/Disembarkation) card is mandatory before arrival, and a USD 20 sustainability fee applies to air arrivals — both handled on the same portal. Proof of accommodation (or enough funds) and an onward ticket required. Outside the hurricane belt, so year-round travel works. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: visa-free, but the online ED (Embarkation/Disembarkation) card is mandatory before arrival.\nFee: USD 20 sustainability fee on air arrivals. It is handled on the same portal as the ED card.\nBring: proof of accommodation (or enough funds) and an onward ticket.\nGood to know: outside the hurricane belt, so year-round travel works.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -559,7 +559,7 @@
       "destination": "Burundi",
       "fields": {
         "stay": "30 days from your arrival date",
-        "note": "FCDO advises against all travel to Mugina, Cibitoke, Bukinyayana, Bubanza and Mpanda communes and part of Ntahangwa commune (RN5 road) in Bujumbura Province, plus the RN6/RN10 roads from Kayanza in Butanyerera Province. Apply online before travel (migration.gov.bi) for a validation certificate; the visa is then issued on arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: apply online before travel (migration.gov.bi) for a validation certificate. The visa is then issued on arrival.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -767,9 +767,9 @@
       "destination": "Cook Islands",
       "fields": {
         "ext_cost": "NZD 115 for the 31-day extension",
-        "stay": "Less than 31 days (extendable once by 31 days, to two months in total)"
-      },
-      "checked": "2026-11-09"
+        "stay": "Less than 31 days (extendable once by 31 days, to two months in total)",
+        "note": "Visa: a free visitor permit is stamped on arrival for essentially every nationality.\nBring: a confirmed onward ticket and pre-booked accommodation. Airlines do check, and it is a real requirement rather than a formality.\nGood to know: Rarotonga is the only international airport.\nInsurance: medical facilities are limited. Evacuation insurance to New Zealand is worth having."
+      }
     },
     {
       "passport": "US",
@@ -1020,7 +1020,7 @@
       "passport": "UK",
       "destination": "Botswana",
       "fields": {
-        "note": "Visa-free 90 days. Passport must have 3 blank pages and 6 months validity. ⚠️ Child travel rules — carry the original or a certified copy of the full birth certificate for any child aged 17 or under. If a child travels with only one parent, a guardian or another adult, or alone, carry parental consent or documents showing authority to travel, plus a certified copy of the consenting parent's passport or identity document."
+        "note": "Visa: visa-free for 90 days.\nPassport: must have 3 blank pages and 6 months validity.\nChild travel: carry the original or a certified copy of the full birth certificate for any child aged 17 or under. If a child travels with only one parent, a guardian or another adult, or alone, carry parental consent or documents showing authority to travel, plus a certified copy of the consenting parent's passport or identity document."
       }
     },
     {
@@ -1318,7 +1318,7 @@
       "passport": "UK",
       "destination": "Belarus",
       "fields": {
-        "note": "Visa-free entry (a Belarusian decision running to 31 Dec 2026) applies by AIR only, through six airports — Minsk National, Brest, Gomel, Grodno, Mogilev and Vitebsk — and not on flights to or from Russia, which carry no border control. Ordinary passport valid at least 3 months from the date you arrive; medical insurance required."
+        "note": "Visa: visa-free entry by air only, through six airports: Minsk National, Brest, Gomel, Grodno, Mogilev and Vitebsk. It does not apply on flights to or from Russia, which carry no border control.\nValid until: the visa-free entry is a Belarusian decision running to 31 Dec 2026.\nPassport: ordinary passport valid at least 3 months from the date you arrive.\nInsurance: medical insurance required."
       }
     },
     {
@@ -2913,7 +2913,7 @@
       "passport": "UK",
       "destination": "Cote d'Ivoire",
       "fields": {
-        "note": "eVisa required — apply at snedai.com (pre-enrolment) at least 10 working days before travel (UK government advice), biometrics on arrival at Abidjan airport. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. ⚠️ FCDO advises against all but essential travel within 20km of the Liberian border, and against all travel within 40km of the Burkina Faso and Mali borders and to northern Zanzan and Savanes provinces."
+        "note": "Visa: eVisa required. Apply at snedai.com (pre-enrolment) at least 10 working days before travel (UK government advice). Biometrics are taken on arrival at Abidjan airport.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -2976,7 +2976,7 @@
       "passport": "UK",
       "destination": "Democratic Republic of the Congo",
       "fields": {
-        "note": "DRC's e-visa portal (evisa.gouv.cd) is confirmed: it grants a 7-day, extendable Visa Aéroportuaire (VAP) for US$90 payable at the port of entry, or a full eVisa for US$300, valid 3 months from issue. A DRC Embassy in London visa arranged in advance (allow 2 to 3 weeks) remains an alternative route. A polio certificate is required. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: DRC's e-visa portal (evisa.gouv.cd) is confirmed. It grants a 7-day, extendable Visa Aéroportuaire (VAP) for US$90 payable at the port of entry, or a full eVisa for US$300, valid 3 months from issue.\nAlternative: a visa arranged in advance at the DRC Embassy in London (allow 2 to 3 weeks).\nPolio: a polio certificate is required.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -3046,7 +3046,7 @@
       "passport": "UK",
       "destination": "French Guiana",
       "fields": {
-        "note": "A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Part of the EU but NOT in Schengen — a Schengen visa is not valid here and ETIAS will not apply. French Guiana is not in the Schengen area; entry is governed by the arrêté du 26 juillet 2011 (as amended), which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count. Dense Amazon rainforest; malaria prophylaxis advised for interior travel. Home to the Kourou space centre."
+        "note": "Yellow fever: certificate required for every arriving traveller aged 1 year and over.\nSchengen: French Guiana is part of the EU but not in Schengen. A Schengen visa is not valid here and ETIAS will not apply.\nStay: entry is governed by the arrêté du 26 juillet 2011 (as amended), which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count.\nHealth: dense Amazon rainforest. Malaria prophylaxis advised for interior travel.\nGood to know: home to the Kourou space centre."
       }
     },
     {
@@ -3690,7 +3690,7 @@
       "passport": "UK",
       "destination": "Equatorial Guinea",
       "fields": {
-        "note": "Complete the online visa application form (gov.uk); processing takes about 72 hours. An embassy route also exists (there is an Equatorial Guinea Embassy in the UK) and may still require a local sponsor's invitation letter. Authoritarian regime, photography restrictions severe. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: complete the online visa application form (gov.uk). Processing takes about 72 hours.\nEmbassy: an embassy route also exists (there is an Equatorial Guinea Embassy in the UK) and may still require a local sponsor's invitation letter.\nGood to know: authoritarian regime, with severe photography restrictions.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -3893,7 +3893,7 @@
       "passport": "UK",
       "destination": "Gambia",
       "fields": {
-        "note": "Visa-free; 28 days on arrival, extendable twice by 28 days in Banjul. Airport Security Fee of USD 20 payable on arrival and again on departure. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. Popular winter beach destination."
+        "note": "Visa: visa-free. 28 days on arrival, extendable twice by 28 days in Banjul.\nFee: Airport Security Fee of USD 20, payable on arrival and again on departure.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.\nGood to know: popular winter beach destination."
       }
     },
     {
@@ -4124,7 +4124,7 @@
       "passport": "UK",
       "destination": "Djibouti",
       "fields": {
-        "note": "Correction: a visa on arrival, paid in cash in US dollars, is also currently available (GOV.UK, checked live) — this contradicts the \"no VOA since 2018\" framing below, which described the e-visa route only. The e-visa (evisa.gouv.dj) remains a valid alternative: needs a passport valid 6 months, onward travel, an accommodation address and an invitation letter. Tourism and business only. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: a visa on arrival, paid in cash in US dollars, is also currently available. The e-visa (evisa.gouv.dj) remains a valid alternative.\nE-visa needs: a passport valid 6 months, onward travel, an accommodation address and an invitation letter. Tourism and business only.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4180,7 +4180,7 @@
       "passport": "UK",
       "destination": "Eritrea",
       "fields": {
-        "note": "FCDO advises against travel to international border areas (Ethiopia, Djibouti, Sudan borders). Visa via embassy — Eritrea is one of the world's most closed societies. Internal travel permits required to leave Asmara. Military-age males face conscription risk. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
+        "note": "Visa: through an embassy. Eritrea is one of the world's most closed societies.\nInternal travel: permits required to leave Asmara.\nConscription: military-age males face conscription risk.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -4243,7 +4243,7 @@
       "passport": "UK",
       "destination": "Eswatini",
       "fields": {
-        "note": "Visa-free 30 days (Commonwealth member). Formerly Swaziland. Absolute monarchy — discretion advised around political topics. Frequently combined with South Africa itineraries. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: visa-free for 30 days (Commonwealth member).\nGood to know: formerly Swaziland. Absolute monarchy, so be discreet around political topics. Frequently combined with South Africa itineraries.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -4313,7 +4313,7 @@
       "passport": "UK",
       "destination": "Ethiopia",
       "fields": {
-        "note": "eVisa required — apply at evisa.gov.et before travel (visa-on-arrival available only at Addis Ababa Bole Airport). ⚠️ FCDO advises against travel to Tigray, parts of Amhara, Oromia, Afar, Somali and Benishangul-Gumuz regions due to conflict. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: eVisa required. Apply at evisa.gov.et before travel. Visa on arrival is available only at Addis Ababa Bole Airport.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4929,7 +4929,7 @@
       "passport": "NZ",
       "destination": "Zambia",
       "fields": {
-        "note": "New Zealand is on Zambia's visa-exempt list. Arriving by air you must hold a valid return ticket. If you are also crossing to Zimbabwe, the KAZA UniVisa at USD 50 covers both countries plus Botswana day trips at Kazungula for 30 days — but since Zambia alone is already free for New Zealanders, it is only worth buying if Zimbabwe is on the itinerary. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: New Zealand is on Zambia's visa-exempt list. Arriving by air you must hold a valid return ticket.\nKAZA UniVisa: if you are also crossing to Zimbabwe, it costs USD 50 and covers both countries plus Botswana day trips at Kazungula for 30 days. Since Zambia alone is already free for New Zealanders, it is only worth buying if Zimbabwe is on the itinerary.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -6822,6 +6822,69 @@
       "destination": "Venezuela",
       "fields": {
         "note": "Visa: the foreign ministry's exemption list naming New Zealand is expressly for entry by air. Nothing official covers land or sea arrivals, so do not assume an overland crossing from Colombia or Brazil is visa-free.\nStay: the immigration authority publishes nothing at all for prospective visitors, but the foreign ministry's own migratory-requirements page sets a maximum tourist stay of 90 days."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Wallis and Futuna",
+      "fields": {
+        "note": "Area: a French overseas collectivity outside the Schengen area, with its own entry regime.\nVisa: New Zealand is named on the territory's own short-stay exemption list, and the exemption covers all passport types.\nGood to know: France's central visa portal does not mention Wallis and Futuna on its New Zealand page. It covers only New Caledonia and French Polynesia, so the territory's own prefecture is the source that matters here."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Yemen",
+      "fields": {
+        "note": "Visa: tourist entry now runs through Yemen's e-visa portal (yemenevisa.org) via a Yemen-accredited travel agency. That means a group of 10 or more, or an agency-requested urgent visa.\nNationality: New Zealand is on the list of nationalities requiring a visa. There is no independent visa on arrival."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Zimbabwe",
+      "fields": {
+        "note": "Visa: New Zealand is a Category B country. A visa is required but can be bought at the port of entry, or online beforehand.\nStay: Zimbabwe publishes no permitted stay anywhere official, so do not rely on the 30-days-extendable-to-90 figure that circulates.\nKAZA UniVisa: USD 50, covers Zimbabwe and Zambia for 30 days and is the better buy if you are crossing at Victoria Falls more than once."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Bahrain",
+      "fields": {
+        "note": "Good to know: Bahrain's published country lists are no use as a guide. They name all 204 countries and mark every one \"conditions apply\".\nSource: the figures below come from Bahrain's own eligibility engine, queried for this nationality.\nVisa: applying online buys a longer stay than turning up does. UK passports get the widest on-arrival range of the four, including a 6-month multiple-entry visa issued at the counter."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Bonaire",
+      "fields": {
+        "note": "Visa: visa-exempt.\nFee: $75 Bonaire Visitor Entry Tax (age 13+; $10 for 12 and under), payable online up to 7 days before arrival, or by card at the airport. It is not a visa fee.\nNature Fee: anyone diving, snorkelling, swimming, windsurfing or kitesurfing also pays a STINAPA Nature Fee of about $40 a year.\nPassport: must be valid at least 6 months after arrival."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Curaçao",
+      "fields": {
+        "note": "Visa: visa-free, but the Digital Immigration (DI) card is mandatory. It is free and must be completed within 7 days before departure.\nStay: the 90-day allowance is specific to Curaçao (immigrationcur.org). It is not pooled with Aruba, Sint Maarten or the Caribbean Netherlands for visa-exempt visitors.\nGood to know: outside the hurricane belt."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Faroe Islands",
+      "fields": {
+        "note": "Schengen: the Faroe Islands are not in Schengen and not in the EU, despite being part of the Kingdom of Denmark. A Schengen or Danish visa does not cover the Faroes. ETIAS will not apply.\nStay: time here counts toward the same combined 90 days per 180 shared with Schengen and Greenland (nyidanmark.dk).\nTransit: you will usually also transit Copenhagen, which is Schengen itself."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Gibraltar",
+      "fields": {
+        "note": "Visa: this changed on 15 July 2026. The FCDO now states plainly that British nationals \"do not need a visa to enter Gibraltar for up to 90 days\".\nStay: the FCDO says the limit \"applies in any 180-day period\", and that \"any time you spend in Gibraltar will count alongside time spent in the Schengen Area towards this limit\".\nSources disagree: Gibraltar's own technical notice says it does not apply to British citizens. But that notice is about visa requirements, which British citizens never needed, and the FCDO applies the stay cap regardless.\nArriving by air: you clear Gibraltar immigration and then Schengen entry checks by Spanish officers, including EES.\nUK ETA: Gibraltar is not covered by the UK ETA.\nResidents: if you live in Gibraltar or hold a Gibraltar ID card, different rules apply. Check with the Gibraltar Borders and Coastguard Agency."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Greenland",
+      "fields": {
+        "note": "Schengen: Greenland is not in Schengen and not in the EU. A Schengen or Danish visa does not cover Greenland.\nStay: time here counts toward the same combined 90 days per 180 shared with Schengen and the Faroe Islands (nyidanmark.dk).\nFlights: Nuuk's international airport opened in Nov 2024, so there are now direct flights rather than the old Kangerlussuaq routing.\nInsurance: travel insurance covering evacuation is strongly advised."
       }
     }
   ],
