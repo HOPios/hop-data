@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at": "2026-11-14T23:23:04Z",
+ "generated_at": "2026-11-15T23:31:00Z",
  "uk_rule_version": "2026-09-12",
  "feeds": {
   "AU": {
    "status": "ok",
    "cadence": "daily",
-   "next_due": "2026-11-15T20:00:00Z",
-   "fetched_at": "2026-11-14T23:23:04Z",
+   "next_due": "2026-11-16T20:00:00Z",
+   "fetched_at": "2026-11-15T23:31:00Z",
    "source_records": 180,
    "joined": 179,
    "unmatched_source": [],
@@ -16,18 +16,18 @@
   "CA": {
    "status": "ok",
    "cadence": "daily",
-   "next_due": "2026-11-15T20:00:00Z",
-   "fetched_at": "2026-11-14T23:23:04Z",
+   "next_due": "2026-11-16T20:00:00Z",
+   "fetched_at": "2026-11-15T23:31:00Z",
    "source_records": 230,
    "joined": 228,
    "unmatched_source": [],
-   "newest_source_date": "2026-11-13"
+   "newest_source_date": "2026-11-15"
   },
   "US": {
    "status": "ok",
    "cadence": "daily",
-   "next_due": "2026-11-15T20:00:00Z",
-   "fetched_at": "2026-11-14T23:23:04Z",
+   "next_due": "2026-11-16T20:00:00Z",
+   "fetched_at": "2026-11-15T23:31:00Z",
    "source_records": 218,
    "joined": 214,
    "unmatched_source": [],
@@ -36,8 +36,8 @@
   "UK": {
    "status": "ok",
    "cadence": "daily",
-   "next_due": "2026-11-15T20:00:00Z",
-   "fetched_at": "2026-11-14T23:23:04Z",
+   "next_due": "2026-11-16T20:00:00Z",
+   "fetched_at": "2026-11-15T23:31:00Z",
    "source_records": 226,
    "joined": 228,
    "unmatched_source": [],
@@ -46,8 +46,8 @@
   "NZ": {
    "status": "ok",
    "cadence": "weekly",
-   "next_due": "2026-11-15T20:00:00Z",
-   "fetched_at": "2026-11-14T23:23:04Z",
+   "next_due": "2026-11-22T20:00:00Z",
+   "fetched_at": "2026-11-15T23:31:00Z",
    "source_records": 222,
    "joined": 153,
    "unmatched_source": [],
@@ -56,8 +56,8 @@
   "DE": {
    "status": "ok",
    "cadence": "daily",
-   "next_due": "2026-11-15T20:00:00Z",
-   "fetched_at": "2026-11-14T23:23:04Z",
+   "next_due": "2026-11-16T20:00:00Z",
+   "fetched_at": "2026-11-15T23:31:00Z",
    "source_records": 200,
    "joined": 200,
    "unmatched_source": [],
@@ -67,8 +67,8 @@
   "NL": {
    "status": "ok",
    "cadence": "daily",
-   "next_due": "2026-11-15T20:00:00Z",
-   "fetched_at": "2026-11-14T23:23:04Z",
+   "next_due": "2026-11-16T20:00:00Z",
+   "fetched_at": "2026-11-15T23:31:00Z",
    "source_records": 223,
    "joined": 223,
    "unmatched_source": [],
@@ -1784,7 +1784,7 @@
    "Grenada": "2026-11-13",
    "Guadeloupe": "2026-11-02",
    "Guam": "2026-11-13",
-   "Guatemala": "2026-11-06",
+   "Guatemala": "2026-11-15",
    "Guinea": "2026-10-13",
    "Guinea-Bissau": "2026-10-13",
    "Guyana": "2026-11-13",
