@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:38:32Z",
+  "generated_at": "2026-11-15T14:39:09Z",
   "entries": [
     {
       "passport": "CA",
@@ -656,7 +656,7 @@
       "destination": "Seychelles",
       "fields": {
         "stay": "Up to 90 days, permit on arrival",
-        "note": "Seychelles is often described as visa-free, and technically it is — but a pre-arrival Travel Authorisation is compulsory for everyone and there is a penalty if you arrive without one. Applications open 10 days before the flight. You also need a confirmed return ticket, confirmed accommodation and funds of at least USD 150 a day. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: often described as visa-free, and technically it is. But a pre-arrival Travel Authorisation is compulsory for everyone, and there is a penalty if you arrive without one.\nTiming: applications open 10 days before the flight.\nBring: a confirmed return ticket, confirmed accommodation and funds of at least USD 150 a day.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -2204,7 +2204,7 @@
       "destination": "Saint Helena",
       "fields": {
         "visa": "vf",
-        "note": "New Zealand is not on the list of passports needing an e-visa in advance, so the permit is issued on arrival — but a GBP 20 entry fee is payable and the conditions are real: medical insurance covering aeromedical evacuation to GBP 175,000, proof of onward travel, pre-arranged accommodation and sufficient funds. Passport must stay valid 6 months from the date of arrival (not from the end of the permit). Access is by weekly flight from Johannesburg."
+        "note": "Visa: New Zealand is not on the list of passports needing an e-visa in advance, so the permit is issued on arrival.\nFee: GBP 20 entry fee.\nConditions: medical insurance covering aeromedical evacuation to GBP 175,000, proof of onward travel, pre-arranged accommodation and sufficient funds.\nPassport: must stay valid 6 months from the date of arrival (not from the end of the permit).\nGetting there: weekly flight from Johannesburg."
       }
     },
     {
@@ -4719,7 +4719,7 @@
       "passport": "NZ",
       "destination": "Papua New Guinea",
       "fields": {
-        "note": "New Zealand is explicitly excluded from PNG's visa-on-arrival list, by name. Only New Zealand's dependent territories (Cook Islands, Niue, Tokelau passports) qualify. Arrange the visa before travel through a PNG mission; the immigration authority's own pages disagree about whether New Zealanders can use the e-visa portal, so confirm the channel before applying. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: New Zealand is explicitly excluded from PNG's visa-on-arrival list, by name. Only New Zealand's dependent territories (Cook Islands, Niue, Tokelau passports) qualify.\nBefore you fly: arrange the visa through a PNG mission.\nE-visa: the immigration authority's own pages disagree about whether New Zealanders can use the e-visa portal, so confirm the channel before applying.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -4782,7 +4782,7 @@
       "passport": "NZ",
       "destination": "Rwanda",
       "fields": {
-        "note": "The 'Rwanda is visa-free for everyone' headline is not quite right — in Rwanda's own words it is a visa on arrival for all nationalities without prior application. New Zealand gets the fee waived as a Commonwealth member, giving 30 days at no charge. Passport must be valid 6+ months. Work is not permitted on it. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: the \"Rwanda is visa-free for everyone\" headline is not quite right. In Rwanda's own words it is a visa on arrival for all nationalities without prior application.\nFee: New Zealand gets the fee waived as a Commonwealth member, giving 30 days at no charge.\nPassport: valid 6+ months.\nWork: not permitted on it.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -4845,7 +4845,7 @@
       "passport": "NZ",
       "destination": "Sao Tome and Principe",
       "fields": {
-        "note": "There is no São Toméan consulate to apply to, so travellers must get an entry authorisation online before flying — visa on arrival is explicitly refused for people coming from countries with no São Toméan post. Allow 7 working days. You need a passport valid 3 months beyond the stay, return tickets, proof of accommodation and funds of about EUR 100 per day. Payment is made at the border. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: there is no São Toméan consulate to apply to, so travellers must get an entry authorisation online before flying. Visa on arrival is explicitly refused for people coming from countries with no São Toméan post.\nTiming: allow 7 working days.\nBring: a passport valid 3 months beyond the stay, return tickets, proof of accommodation and funds of about EUR 100 per day.\nPayment: made at the border.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -6542,6 +6542,139 @@
       "destination": "North Macedonia",
       "fields": {
         "note": "Visa: not needed. The Ministry of Foreign Affairs' own inbound checker, Do you need a visa?, returns \"Visa for foreign citizens: not needed\" for New Zealand.\nStay: the ministry publishes no permitted stay alongside that answer and no visa-free country list in text form, so the length of stay is not confirmed here.\nExtra route: a separate temporary decision, valid 1 January to 31 December 2026, lets holders of a valid multiple-entry British, American or Canadian visa enter for up to 15 days. That is an additional route, not a limit on the exemption above."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Northern Mariana Islands",
+      "fields": {
+        "note": "Visa: the Northern Marianas count as the United States for Visa Waiver Program purposes, so a New Zealander travels on an approved ESTA and is admitted for up to 90 days.\nGuam-CNMI waiver: a separate waiver gives only 45 days for those islands alone.\nBefore you fly: an approved ESTA is needed before boarding, and an e-passport is mandatory."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Norway",
+      "fields": {
+        "note": "Area: Schengen.\nBilateral agreement: Norway has held a bilateral visa waiver agreement with New Zealand since 1950, but it publishes no traveller guidance on it. It operates only as an internal instruction telling police not to refuse entry on the ground that you have already spent time in other Schengen states. Do not plan extra days on it.\nETIAS: not yet in operation. No start date announced.\nEntry/Exit System: live."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Oman",
+      "fields": {
+        "note": "Stay: only 14 days, and it cannot be extended or converted. That is a shorter allowance than most people expect from a Gulf state.\nConditions: a passport valid 6+ months, a return ticket, a confirmed hotel booking, health insurance and sufficient funds. These are stated conditions of the exemption.\nLonger stays: buy an e-visa from the Royal Oman Police before you travel."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Palestine",
+      "fields": {
+        "note": "Visa: there is no Palestinian tourist visa, and Palestine's own embassy says so. Entry to the West Bank runs through Israeli-controlled crossings, and the permission that governs admission is Israel's.\nETA-IL: what you actually need is Israel's ETA-IL, mandatory for visa-exempt travellers since 1 January 2025. Apply at least 72 hours before arrival. It is valid 2 years or until your passport expires.\nGaza: no traveller-accessible route."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Peru",
+      "fields": {
+        "note": "Stay: two numbers apply, and both matter. Peru's law sets 183 days accumulated in any 365-day period, not per visit, so multiple trips draw down the same allowance. But Peru's own consular table shows 90 days for New Zealand tourists, and the officer at the border sets what you actually get. Plan on 90.\nWork: tourist status does not permit any paid work."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Pitcairn Islands",
+      "fields": {
+        "note": "Short stay: a short-term visitor visa is granted on arrival, via a combined immigration and biosecurity declaration form, for stays of up to 14 days on the same vessel. No fee for short visits.\nLonger stay: 15 days–6 months needs advance Entry Clearance, applied for to admin@pitcairn.gov.pn at least 3 months ahead, with a medical exam, chest X-ray and police certificates.\nFee: NZ$150 (non-refundable) for the Long-Term Visitor Visa.\nInsurance: mandatory travel/medical insurance with at least US$500,000 medevac cover for all visitors."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Poland",
+      "fields": {
+        "note": "Area: Schengen.\nPassport: must have been issued within the previous 10 years and be valid at least 3 months beyond your intended departure. Poland states both conditions explicitly.\nETIAS: not yet in operation. No start date announced.\nEntry/Exit System: live, so expect fingerprints and a facial image instead of a stamp."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Portugal",
+      "fields": {
+        "note": "Area: Schengen.\nBilateral agreement: Portugal holds a 1.1.1988 bilateral visa waiver agreement with New Zealand allowing 90 days, listed by the European Commission as an extension-of-stay agreement (ordinary passports). It may allow a further 90 days.\nUsing it: Portugal publishes no guidance on how to use it. There is nothing on when the clock starts or what to show at the border, and nothing on the MNE visa portal, AIMA, the diplomatic portal or the embassy accredited to New Zealand. Confirm with a Portuguese consulate before relying on it.\nETIAS: not yet in operation. No start date announced."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Puerto Rico",
+      "fields": {
+        "note": "Visa: Puerto Rico is United States territory for immigration purposes, so the Visa Waiver Program applies and you need an approved ESTA before boarding. An e-passport is mandatory.\nESTA: approval normally lasts 2 years or until your passport expires.\nFee: adjusted for inflation each US financial year, so re-check it after 1 October."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Russia",
+      "fields": {
+        "note": "Visa: New Zealand is not on the list of countries eligible for Russia's unified electronic visa. That is worth knowing, because the e-visa is what most travellers assume applies.\nApply: New Zealanders need a conventional visa arranged in advance from the Russian Embassy in Wellington, which requires a visa support letter or invitation.\nChanges: the visa type and entry and exit dates cannot be changed or extended once issued."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Saint Kitts and Nevis",
+      "fields": {
+        "note": "Visa: New Zealand is not on the Ministry of Foreign Affairs list of countries that require visas upon entry into Saint Kitts and Nevis, so no visa is needed.\neTA: an Electronic Travel Authorisation is needed. Since 26 May 2025 the government requires that \"every visitor must present an approved eTA before departing their country of origin and on arrival\". Only nationals and residents of Saint Kitts and Nevis, the OECS and CARICOM are exempt from the charge.\nApply: through knatravelform.kn or the Saint Kitts and Nevis e-Border app. App applicants get the fast-track biometric corridor on arrival.\nGood to know: anything still describing this destination as simply visa-free is out of date."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Saint Lucia",
+      "fields": {
+        "note": "Visa: New Zealand is on Saint Lucia's list of nationalities not requiring a visa.\nStay: six weeks is shorter than the three or six months most Caribbean states give, so check the date you are stamped to.\nForm: all travellers should complete the online immigration and customs form before arrival.\nCruise: one-day cruise passengers are exempt from visas."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Saint Martin",
+      "fields": {
+        "note": "Area: the French northern half of the island is an overseas collectivity outside the Schengen area.\nVisa: New Zealand appears in the French government's exemption table for Saint-Barthélemy and Saint-Martin, with no conditions.\nSint Maarten: the Dutch southern half of the same island is a separate jurisdiction with its own rules. Nothing here applies to it."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Singapore",
+      "fields": {
+        "note": "Stay: do not assume 90 days. Singapore publishes no fixed visa-free period and the officer grants what they grant. The High Commission in Wellington says 14 to 30 days is normal, and the extension rules imply a 30-day norm.\nArrival card: the SG Arrival Card is compulsory, free, and must be submitted within 3 days before arrival. Sites charging for it are not official."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Sint Maarten",
+      "fields": {
+        "note": "Which island: this is the Dutch half of the island and a constituent country of the Kingdom of the Netherlands, not French Saint Martin.\nBring: a passport issued within the last 10 years, proof of onward or return travel, funds of roughly USD 150–200 a day if you stay in a hotel and medical insurance covering at least USD 15,000 including repatriation.\nEntry form: every traveller must also complete the official online Sint Maarten entry form (the ED card) before arrival."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Somalia",
+      "fields": {
+        "note": "Visa: Somalia moved to a mandatory electronic travel authorisation from 1 September 2025. Embassies no longer process visas in person, and applications go through the portal only.\nNot published: no fee, stay or nationality list is published in readable form.\nSomaliland: runs its own separate immigration regime, with visa on arrival only at Hargeisa and Berbera airports.\nData breach: Somalia's e-visa platform previously suffered a data breach affecting travellers' personal information (Nov 2025)."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "South Africa",
+      "fields": {
+        "note": "Passport: must have at least two unused pages for stamps and be valid at least 30 days beyond your intended departure. Both cause real refusals.\nAuthorisation: South Africa's new travel authorisation is for visa-required nationalities only, so New Zealanders do not need one.\nTraveller declaration: new from 1 July 2026, everyone entering or leaving must submit an online traveller declaration at least 24 hours before departure. It is a customs form, not an entry permit, and it is free."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "South Georgia and the South Sandwich Islands",
+      "fields": {
+        "note": "Money: no banks, ATMs or retail economy on the island. The Falkland Islands pound (at par with GBP) is the local currency in name only.\nPermit: Entry Control Ordinance 2022 requires a visitor permit for essentially everyone, applied for via eta.entry.gov.gs. Commercial cruise operators typically submit group bookings on passengers' behalf.\nValidity: a visitor permit is valid for 40 days (gov.gs).\nLate fee: the £50 late fee applies if you apply 8 days or less before arrival."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "South Korea",
+      "fields": {
+        "note": "Visa: visa-free entry for 90 days is permanent under the Korea–New Zealand agreement.\nK-ETA: visa-free travellers normally need one, but it has been waived for New Zealand since April 2023. That exemption runs only to 31 December 2026 and has already been extended three times. Re-check before booking anything into 2027. If it lapses, you need a K-ETA before boarding.\nVoluntary K-ETA: you may apply for one meanwhile, but the only benefit is skipping the arrival card and the fee is non-refundable."
       }
     }
   ],
