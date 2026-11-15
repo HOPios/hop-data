@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:31:54Z",
+  "generated_at": "2026-11-15T14:32:45Z",
   "entries": [
     {
       "passport": "CA",
@@ -335,7 +335,7 @@
         "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
         "stay": "Up to 60 days",
         "cost": "USD 37 for up to 60 days; same price online or on arrival",
-        "note": "Apply 1 week to 6 months before departure; approval comes within 72 hours and must be shown on arrival, printed or on a phone. The same visa is sold on arrival at the eVisa counters at the same price. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Apply: 1 week to 6 months before departure. Approval comes within 72 hours and must be shown on arrival, printed or on a phone.\nOn arrival: the same visa is sold at the eVisa counters at the same price.\nScam warning: apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -988,9 +988,9 @@
       "passport": "IN",
       "destination": "Cayman Islands",
       "fields": {
-        "stay": "Set by the officer at entry — up to 180 days (30 days if visa-exempt)"
-      },
-      "checked": "2026-10-22"
+        "stay": "Set by the officer at entry — up to 180 days (30 days if visa-exempt)",
+        "note": "Visa: required, unless you hold a valid US, Canadian or UK visa and arrive directly from the issuing country. Then no visa is needed, but the stay is no more than 30 days.\nApply: otherwise apply online in advance with a passport valid 6+ months, a photo, a bank statement, proof of employment or studies, and a police clearance under 6 months old."
+      }
     },
     {
       "passport": "IN",
@@ -2618,7 +2618,7 @@
         "stay": "Set by the immigration officer at the point of entry",
         "extension": "Possible — apply online at fns.immigration.go.ke (Foreign Nationals Management Services); a visitor's pass can be extended to a maximum of 6 months",
         "ext_cost": "USD 50 application and processing fee (the same Immigration page also says \"The service attracts no charges\")",
-        "note": "Ordinary passports need an eTA. Apply at least 2 weeks before travel; processing normally 3 working days. Passport valid at least 6 months with one blank page. Have a photo, itinerary, accommodation booking and payment method ready. The eTA is valid for travel within 90 days of issue. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: ordinary passports need an eTA.\nApply: at least 2 weeks before travel; processing normally 3 working days. Have a photo, itinerary, accommodation booking and payment method ready.\nPassport: valid at least 6 months with one blank page.\nValidity: the eTA is valid for travel within 90 days of issue.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -3821,7 +3821,7 @@
       "destination": "Belarus",
       "fields": {
         "visa": "vr",
-        "note": "Entry through the Belarusian airports is visa-free for up to 30 days only for Indian citizens who hold a valid multiple visa of the EU member states or Schengen zone with a mark in passport on crossing the border of these states, plus a ticket with confirmation of departure from the Belarusian airports within 30 days from the date of entry. Not usable when arriving via Moscow (no passport control).",
+        "note": "Visa-free: entry through the Belarusian airports is visa-free for up to 30 days, only for Indian citizens who hold a valid multiple visa of the EU member states or Schengen zone with a mark in the passport from crossing the border of these states.\nBring: a ticket with confirmation of departure from the Belarusian airports within 30 days from the date of entry.\nGood to know: not usable when arriving via Moscow (no passport control).",
         "cost": "Not verified — no fee published for Indian passports on the visa-free page",
         "apply": "Not verified — the page names no application route for Indian passports; visa-free entry needs the Schengen-visa condition in the note"
       }
@@ -3838,7 +3838,7 @@
       "passport": "IN",
       "destination": "Cabo Verde",
       "fields": {
-        "note": "Visa-free for 30 days, but EASE online pre-registration is mandatory, and the CVE 3,400 TSA fee applies on international flights. Some airline systems (Timatic) still ask Indian passports for a visa, so carry your EASE registration and check with your airline before flying. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: visa-free for 30 days, but EASE online pre-registration is mandatory.\nFee: the CVE 3,400 TSA fee applies on international flights.\nBefore you fly: some airline systems (Timatic) still ask Indian passports for a visa, so carry your EASE registration and check with your airline.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -3848,9 +3848,8 @@
         "visa": "ev",
         "stay": "2 weeks, 1 month or 90 days, depending on the visa you choose",
         "apply": "Online at evisa.gov.bh (\"Apply now\" on the official eligibility form); a visa on arrival is also listed (see the note)",
-        "note": "The official eligibility form for Indian passports (general visit) lists online Visit Visas: 2 weeks single entry (stay 2 weeks), 3 months multiple entry (stay 1 month) and one year multiple entry (stay 90 days). A visa on arrival is also listed, with conditions that apply to every visa: 2 weeks single entry at the arrival counter, or 3 months multiple entry (stay 1 month) through Bahrain.bh. India's foreign ministry says visa on arrival is for Indian nationals holding a valid UAE, UK, US, Saudi (not Hajj/Umrah) or Schengen visit visa, or a US Green Card."
-      },
-      "checked": "2026-11-13"
+        "note": "Online visas: the official eligibility form for Indian passports (general visit) lists these Visit Visas: 2 weeks single entry (stay 2 weeks), 3 months multiple entry (stay 1 month) and one year multiple entry (stay 90 days).\nVisa on arrival: also listed, with conditions that apply to every visa: 2 weeks single entry at the arrival counter, or 3 months multiple entry (stay 1 month) through Bahrain.bh.\nWho qualifies: India's foreign ministry says visa on arrival is for Indian nationals holding a valid UAE, UK, US, Saudi (not Hajj/Umrah) or Schengen visit visa, or a US Green Card."
+      }
     },
     {
       "passport": "IN",
@@ -3858,7 +3857,7 @@
       "fields": {
         "visa": "vr",
         "apply": "Get a visa from a Central African Republic embassy before travel",
-        "note": "India's foreign ministry (MEA) lists the Central African Republic under visa on arrival, with no details given. Timatic (13 Nov 2026) says a valid visa issued by the Central African Republic is required, so get a visa from a Central African Republic embassy before you travel. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: India's foreign ministry (MEA) lists the Central African Republic under visa on arrival, with no details given. Timatic (13 Nov 2026) says a valid visa issued by the Central African Republic is required, so get a visa from a Central African Republic embassy before you travel.\nYellow fever: vaccination certificate required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4331,7 +4330,7 @@
       "passport": "IN",
       "destination": "Cote d'Ivoire",
       "fields": {
-        "note": "Passport valid 6+ months from the application date. Upload the passport ID page, a round-trip flight booking, and an invitation letter or accommodation certificate — missing any one means automatic rejection. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Passport: valid 6+ months from the application date.\nUpload: the passport ID page, a round-trip flight booking, and an invitation letter or accommodation certificate. Missing any one means automatic rejection.\nYellow fever: vaccination certificate required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4681,7 +4680,7 @@
       "passport": "IN",
       "destination": "Mali",
       "fields": {
-        "note": "Since 11 March 2025 all applications go through the diplomatiemdc.gouv.ml portal; paper applications are no longer accepted. Needed: passport valid 6+ months, photo, legalised invitation letter or hotel booking and return flight booking. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Apply: since 11 March 2025 all applications go through the diplomatiemdc.gouv.ml portal. Paper applications are no longer accepted.\nNeeded: passport valid 6+ months, photo, legalised invitation letter or hotel booking, and return flight booking.\nYellow fever: vaccination certificate required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4954,7 +4953,7 @@
       "passport": "IN",
       "destination": "Congo",
       "fields": {
-        "note": "This is the Republic of the Congo (Brazzaville), not the DRC. No e-visa or visa on arrival — get the visa in advance from a Congolese embassy or consulate. The standard tourist/business visa is issued for 90 days (3 months), multiple entry. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Which Congo: this is the Republic of the Congo (Brazzaville), not the DRC.\nVisa: no e-visa or visa on arrival. Get the visa in advance from a Congolese embassy or consulate.\nStay: the standard tourist/business visa is issued for 90 days (3 months), multiple entry.\nYellow fever: vaccination certificate required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5178,7 +5177,7 @@
       "passport": "IN",
       "destination": "Guinea",
       "fields": {
-        "note": "Apply with a return ticket and a scan of the passport data page. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. On arrival show the Entry Visa Letter, a passport valid more than 6 months, proof of funds, the return ticket and proof of accommodation; the visa sticker, photo and fingerprints are done at the counter. Fees are non-refundable if refused."
+        "note": "Apply: with a return ticket and a scan of the passport data page.\nYellow fever: vaccination certificate required of every arriving traveller aged 9 months and over.\nOn arrival: show the Entry Visa Letter, a passport valid more than 6 months, proof of funds, the return ticket and proof of accommodation. The visa sticker, photo and fingerprints are done at the counter.\nFees: non-refundable if refused."
       }
     },
     {
@@ -5304,7 +5303,7 @@
       "passport": "IN",
       "destination": "Gambia",
       "fields": {
-        "note": "Visa and Entry Clearance both required. A host or sponsor in the Gambia must get the Entry Clearance (valid 30 days) and present the approved copy before you arrive. The visa comes from a Gambian mission or on arrival. A USD 20 airport security fee applies on arrival and departure. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: both a visa and Entry Clearance are required. The visa comes from a Gambian mission or on arrival.\nEntry Clearance: a host or sponsor in the Gambia must get it (valid 30 days) and present the approved copy before you arrive.\nFee: a USD 20 airport security fee applies on arrival and departure.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5360,7 +5359,7 @@
       "passport": "IN",
       "destination": "Aruba",
       "fields": {
-        "note": "Caribbean visa required before travelling to Aruba. A USD 20 Sustainability Fee and the entry conditions (funds, insurance, onward ticket) apply on top of the visa. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: a Caribbean visa is required before travelling to Aruba.\nFee: a USD 20 Sustainability Fee and the entry conditions (funds, insurance, onward ticket) apply on top of the visa.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5416,7 +5415,7 @@
       "passport": "IN",
       "destination": "Bolivia",
       "fields": {
-        "note": "Visa required in advance from the Bolivian Embassy or Consulate in New Delhi. Bring a passport valid 6+ months, a sworn declaration form, proof of accommodation or a DIGEMIG-registered invitation letter and proof of funds. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk. Visa on arrival is unconfirmed."
+        "note": "Visa: required in advance from the Bolivian Embassy or Consulate in New Delhi.\nBring: a passport valid 6+ months, a sworn declaration form, proof of accommodation or a DIGEMIG-registered invitation letter, and proof of funds.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk.\nVisa on arrival: not confirmed."
       }
     },
     {
@@ -5661,7 +5660,7 @@
       "passport": "IN",
       "destination": "Eswatini",
       "fields": {
-        "note": "Visa required. India is not on Eswatini's visa-exempt list. Apply before you travel, online through Eswatini's eVisa portal (Ministry of Home Affairs; processing typically 2–5 business days) or through the Eswatini High Commission in Kuala Lumpur, Malaysia. There is no visa on arrival. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: required. India is not on Eswatini's visa-exempt list.\nApply: before you travel, online through Eswatini's eVisa portal (Ministry of Home Affairs; processing typically 2–5 business days) or through the Eswatini High Commission in Kuala Lumpur, Malaysia.\nVisa on arrival: there is none.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -5731,7 +5730,7 @@
       "passport": "IN",
       "destination": "Ethiopia",
       "fields": {
-        "note": "Passport valid 6+ months from intended entry date; one recent passport-size photo required. Processing time is normally 3 days. Use only the official portal, evisa.gov.et. Other websites that offer to submit the application for you are not operated by the Government of Ethiopia and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Passport: valid 6+ months from intended entry date. One recent passport-size photo is required.\nProcessing: normally 3 days.\nScam warning: use only the official portal, evisa.gov.et. Other websites that offer to submit the application for you are not operated by the Government of Ethiopia and may charge an additional fee.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5885,7 +5884,7 @@
       "passport": "IN",
       "destination": "Malawi",
       "fields": {
-        "note": "Apply for the e-visa online before travel; visa on arrival is not confirmed for Indian passports. Passport must be valid at least 6 months beyond arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: apply for the e-visa online before travel. Visa on arrival is not confirmed for Indian passports.\nPassport: must be valid at least 6 months beyond arrival.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5948,7 +5947,7 @@
       "passport": "IN",
       "destination": "Mayotte",
       "fields": {
-        "note": "A short-stay visa (visa de court séjour) is needed in advance. Inferred from other French overseas territories; not confirmed for Mayotte. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: a short-stay visa (visa de court séjour) is needed in advance.\nGood to know: this is inferred from other French overseas territories and is not confirmed for Mayotte.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -6081,7 +6080,7 @@
       "passport": "IN",
       "destination": "New Caledonia",
       "fields": {
-        "note": "Short-stay (court séjour) visa required from a French consulate before travel — not on arrival — unless the passport holds a French multiple-entry visa valid 6 months to 5 years. Passport valid 3+ months past departure, 2 blank pages, issued within 10 years; show accommodation, funds, onward ticket and purpose. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: a short-stay (court séjour) visa is required from a French consulate before travel, not on arrival. The exception is a passport that holds a French multiple-entry visa valid 6 months to 5 years.\nPassport: valid 3+ months past departure, 2 blank pages, issued within 10 years.\nShow: accommodation, funds, onward ticket and purpose.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -7386,6 +7385,41 @@
       "destination": "Zimbabwe",
       "fields": {
         "note": "Visa: on arrival, or apply online in advance at evisa.gov.zw. Processing averages 7 working days, so apply at least 3 weeks ahead.\nMultiple entry: not available on arrival for Irish passports. Apply online.\nKAZA UniVisa: 1-month validity. It covers Zimbabwe and Zambia, plus Botswana day trips at Kazungula."
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Armenia",
+      "fields": {
+        "note": "Visa: required for ordinary passports. Use the e-visa, or get a visa on arrival if you hold a valid visa or residence permit from the EU/Schengen states, the USA, Australia, New Zealand, South Korea, the UK, Canada, Russia or Japan, or a UAE, Saudi, Kuwait, Qatar, Bahrain or Oman residence permit.\nBring: without one of those, bring travel insurance, a return air ticket, an invitation letter and proof of funds.\nInsurance: travel/medical insurance is mandatory for the e-visa."
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Chile",
+      "fields": {
+        "note": "Visa: required, unless you hold a valid US visa (not C transit) or US Green Card with 6+ months' validity. Then you are visa-free for up to 90 days with proof of sufficient funds.\nApply: otherwise apply via SAC Ciudadanos to the Chilean Embassy in New Delhi or Consulate General in Mumbai.\nGood to know: no visa on arrival; processing can take up to 6 months."
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Colombia",
+      "fields": {
+        "note": "Visa: Visa V (Visitor) required, unless you hold a valid Schengen or US residence permit, or a Schengen or US visa with at least 180 days' validity left on arrival. Then you may be allowed in without a visa.\nTransit: a transit visa is needed even for direct airport transit.\nBefore you fly: Check-Mig online pre-registration is recommended."
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "French Polynesia",
+      "fields": {
+        "note": "Visa: required in advance; not available on arrival.\nExemption: if the passport already holds a French multiple-entry visa valid 6 months to 5 years.\nPassport: valid 3+ months beyond departure, 2 blank pages, issued within the last 10 years.\nShow: accommodation, funds, a return or onward ticket and trip purpose."
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Nauru",
+      "fields": {
+        "note": "Visa: a Visitor's Visa is required before travel. There is no visa-free or on-arrival option. No sponsorship letter is needed.\nDocuments: certified passport ID-page copies, a passport photo, a police clearance covering the last 12 months' residence, and a medical fitness certificate.\nPassport: must not expire within 3 months of applying."
       }
     }
   ],
