@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:25:17Z",
+  "generated_at": "2026-11-15T14:25:51Z",
   "entries": [
     {
       "passport": "CA",
@@ -576,10 +576,9 @@
       "destination": "Iceland",
       "fields": {
         "stay": "90 days in any 180, counted together with time in the rest of the Schengen area, plus up to 3 months in Iceland under a bilateral agreement",
-        "note": "Canadians need no visa for Iceland. Your combined stay in the Schengen area may not exceed 90 days in any 180-day period. Passport valid 3 months beyond departure and issued within the last 10 years. Under bilateral agreements, bona fide non-immigrants from Canada may stay in Iceland up to 3 months beyond the 90 days allowed in the Schengen area.",
+        "note": "Visa: Canadians need no visa for Iceland.\nStay: your combined stay in the Schengen area may not exceed 90 days in any 180-day period.\nPassport: valid 3 months beyond departure and issued within the last 10 years.\nExtra days: under bilateral agreements, bona fide non-immigrants from Canada may stay in Iceland up to 3 months beyond the 90 days allowed in the Schengen area.",
         "extension": "Up to 3 months beyond the Schengen 90 days, under a bilateral agreement, for bona fide non-immigrants; the right to stay is forfeited if a residence permit application is submitted during the stay"
-      },
-      "checked": "2026-11-13"
+      }
     },
     {
       "passport": "CA",
@@ -1245,9 +1244,9 @@
       "passport": "CA",
       "destination": "Guernsey",
       "fields": {
-        "stay": "Up to 180 days per entry"
-      },
-      "checked": "2026-10-22"
+        "stay": "Up to 180 days per entry",
+        "note": "Good to know: Guernsey is in the Common Travel Area, not the UK.\nETA: since 23 April 2026 a Canadian arriving in the Bailiwick from outside the CTA needs an ETA. There is no separate Guernsey application. The UK ETA is used and is recognised across the whole CTA.\nArriving from the CTA: no ETA is needed if you arrive from elsewhere in the CTA, but you still need photo ID."
+      }
     },
     {
       "passport": "CA",
@@ -4522,7 +4521,7 @@
       "passport": "CA",
       "destination": "Ghana",
       "fields": {
-        "note": "Canada is not on any Ghanaian exemption list. GHANA'S FREE-VISA POLICY FROM 25 MAY 2026 APPLIES TO AFRICAN NATIONALS ONLY and does not reach Canadians. An e-visa portal launched the same day; the High Commission in Ottawa also still takes paper applications. Visa on arrival exists only as an Emergency Entry Visa requiring pre-approval by a host in Ghana, at USD 200 — not a general tourist route. Have the vaccination at least 10 days before travel. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: Canada is not on any Ghanaian exemption list. Ghana's free-visa policy from 25 May 2026 applies to African nationals only and does not reach Canadians.\nE-visa: an e-visa portal launched the same day. The High Commission in Ottawa also still takes paper applications.\nVisa on arrival: exists only as an Emergency Entry Visa requiring pre-approval by a host in Ghana, at USD 200. It is not a general tourist route.\nYellow fever: certificate required for every arriving traveller aged 9 months and over. Have the vaccination at least 10 days before travel."
       }
     },
     {
@@ -4592,7 +4591,7 @@
       "passport": "CA",
       "destination": "Guinea-Bissau",
       "fields": {
-        "note": "A visa is required. Guinea-Bissau publishes no traveller-facing visa portal: the foreign ministry's visa page (mne.gw) says only that it is being updated, and at least one site styling itself the official e-visa openly declares it has no official mandate. Do not trust third-party 'official' Guinea-Bissau visa sites. Passport valid at least 3 months. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+        "note": "Visa: required.\nVisa portal: Guinea-Bissau publishes no traveller-facing visa portal. The foreign ministry's visa page (mne.gw) says only that it is being updated.\nScam warning: at least one site styling itself the official e-visa openly declares it has no official mandate. Do not trust third-party 'official' Guinea-Bissau visa sites.\nPassport: valid at least 3 months.\nYellow fever: certificate required for every arriving traveller aged 1 year and over."
       }
     },
     {
@@ -5138,7 +5137,7 @@
       "passport": "CA",
       "destination": "Guinea",
       "fields": {
-        "note": "Apply online at the DCPAF/PAF portal before travel — you must have approval before boarding. An Entry Visa Letter arrives by email, then you collect the physical visa at the on-arrival counter at Conakry, where your photo and fingerprints are captured. A return ticket is listed as a required document for every applicant. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: apply online at the DCPAF/PAF portal before travel. You must have approval before boarding.\nProcess: an Entry Visa Letter arrives by email. Then you collect the physical visa at the on-arrival counter at Conakry, where your photo and fingerprints are captured.\nBring: a return ticket, listed as a required document for every applicant.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -6611,6 +6610,139 @@
       "destination": "France",
       "fields": {
         "note": "Passport: France requires a passport issued less than 10 years ago and valid at least 3 months beyond your departure.\nBring: proof of accommodation, funds and a return ticket.\nBilateral waiver: France has notified the EU of a bilateral visa waiver with Canada (in force since 1 May 1950, 90 days, ordinary passports) that in principle allows further time in France after the Schengen 90 days. No official French guidance on how to use it could be found, so do not rely on it at the border without checking with a French consulate first."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Georgia",
+      "fields": {
+        "note": "Visa: Canadians may enter and stay visa-free for one full year. Canada is entry 40 on the list annexed to Government Ordinance No. 255 of 5 June 2015.\nStay: this is a genuine 365-day permission granted by the ordinance itself, not a 90-day stamp. It is one of the most generous allowances any country gives a Canadian passport."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Germany",
+      "fields": {
+        "note": "Bilateral waiver: Germany's own mission in Canada publishes a usable bilateral. After your Schengen 90 days you must leave the Schengen states entirely. Then you may return to Germany, and only Germany, for a further 90 days under the German-Canadian Agreement of 17 April 1953 (in force since 1 May 1953, all passports, notified to the EU).\nGood to know: keep your border exit stamps as proof.\nPassport: must be valid 3 months beyond the stay and issued within the last ten years.\nWork: no work on a visa-free stay."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Gibraltar",
+      "fields": {
+        "note": "Stay: since 15 July 2026 Gibraltar's short-stay entry conditions align with Schengen, so days in Gibraltar count against your Schengen 90/180. This is a real trap if you are combining Spain and Gibraltar.\nArriving by air: you face two sets of checks, Gibraltar immigration, then Schengen entry checks by Spanish officers, including EES biometric registration. Once through, the land border into Spain has no routine immigration checks.\nUK ETA: not valid for Gibraltar."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Greece",
+      "fields": {
+        "note": "Visa: the Greek MFA's country table lists Canada as visa-free for ordinary, diplomatic and service passports.\nBilateral waiver: Greece has also notified the EU of a bilateral visa waiver with Canada (in force since 1 September 1959, 90 days, ordinary passports). No official Greek guidance on how it works could be found. Confirm with a consulate before relying on it."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Greenland",
+      "fields": {
+        "note": "Visa: Greenland is part of the Kingdom of Denmark but outside the EU and outside Schengen. A Schengen or Danish visa does not cover it. Canadians need nothing extra, because anyone who can enter Denmark visa-free can enter Greenland visa-free.\nStay: days in Greenland are not a separate allowance. The Danish Immigration Service states that visa-free days in Schengen, Greenland and the Faroes share one combined 90-in-180 total, so a Greenland trip does not pause or reset a Schengen clock."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Grenada",
+      "fields": {
+        "note": "Visa: Canada is named on Grenada's official visa-requirements schedule under 'No Visa Required'.\nStay: Grenada does not publish a stay period per country. Its schedule says visitors are admitted for one of 14 days, 30 days, 60 days, 90 days or 6 months, without saying which applies to whom. Do not assume 90 days.\nCruise: passengers ashore for under 24 hours need no visa regardless of nationality."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Guam",
+      "fields": {
+        "note": "Visa: Guam is inside the United States immigration zone, so ordinary US rules apply to a Canadian. That means no visa, no ESTA and a valid passport.\nWaiver program: the Guam-CNMI Visa Waiver Program is the wrong instrument here. Canada is not on its eligible-country list and a Canadian does not need it.\nRegistration: the 30-day US alien registration requirement applies on Guam exactly as on the mainland."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Guatemala",
+      "fields": {
+        "note": "Stay: CA-4 zone. The 90 days is shared with El Salvador, Honduras and Nicaragua.\nEntry form: an electronic traveller declaration must be completed before arriving and again before leaving.\nGood to know: Guatemala's own government sites could not be reached, so this rests on the Government of Canada plus El Salvador's CA-4 harmonised table, which records no divergent treatment for Canada."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Guyana",
+      "fields": {
+        "note": "Visa: Canada is listed on Guyana's official schedule of countries whose nationals do not require a visa, with no duration condition attached. Several other countries on the same list carry explicit 90-day, 30-day or 14-day qualifiers, and Canada carries none.\nStay: Guyana publishes no standard visa-free stay. The endorsed period is decided by the immigration officer at the port of entry. Canada's own travel advice says a tourist visa is not required for stays up to 90 days, but the period that counts is the one stamped in your passport at entry."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Haiti",
+      "fields": {
+        "note": "Visa: no visa for Canadians for stays under 90 days. Formalities are completed on arrival.\nFee: a USD 10 tourist fee is payable at the airport by all foreign passport holders. It is a fee collected on arrival, not a visa, and cannot be bought in advance.\nVisa needed: only nationals of the Dominican Republic, Panama, Colombia, Cuba, Syria, Libya, Iran, Vietnam and Yemen need a visa in advance.\nGood to know: check the advisory before travelling. The security situation matters more here than the visa rule."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Holy See",
+      "fields": {
+        "note": "Rules: Vatican City publishes no immigration rules of its own and issues, checks or stamps nothing for ordinary visitors.\nBorders: Vatican City is not in Schengen and not in the EU, but it has no border control with Italy. The boundary is a wall and a marble line across St Peter's Square.\nIn practice: your entry is governed entirely by Italy. Satisfy Schengen entry rules and you can walk in.\nGood to know: museum tickets are a museum matter, not an immigration one."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Hungary",
+      "fields": {
+        "note": "Extra days: Hungary's bilateral visa waiver with Canada (notified to the EU, in force since 1 February 1991, 90 days, ordinary passports) has the clearest published rules in Europe, and its conditions are strict.\nConditions: you must not have already used up your Schengen 90 days when you enter Hungary. During the extra period you may not travel to any other Schengen state, even in transit. You must leave the Schengen area directly from Hungary on the last day.\nEES: border officers record the extra days into the EES manually, so the entitlement depends on the officer doing it.\nReporting: a stay in Hungary of more than 30 days must be reported through the Enter Hungary platform."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "India",
+      "fields": {
+        "note": "Visa: Canada is named on India's e-Visa eligible list. The product a tourist buys is the e-Tourist Visa.\nFee: the 30-day version is seasonally priced, cheaper April to June than July to March. A 3% bank charge is added to all e-Visa fees.\nTerms: the 30-day e-Tourist Visa is multiple entry, non-extendable and non-convertible.\nArrival card: an e-Arrival Card must be submitted within the 72 hours before arrival.\nScam warning: apply only at indianvisaonline.gov.in, the official website. Other websites that offer to submit the application for you are not operated by the Government of India and may charge an additional fee."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Indonesia",
+      "fields": {
+        "note": "Visa: Canadians are not visa-exempt for Indonesia. You use the visa on arrival, which can be bought online in advance as an e-VOA or at the counter at an approved entry point. It cannot be converted to another stay permit.\nGood to know: don't confuse it with Indonesia's 60-day B1 tourist e-visa at IDR 1,500,000, which is a different product.\nCustoms: an electronic customs declaration is also required of all international arrivals."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Iran",
+      "fields": {
+        "note": "Visa: required, applied for in advance through Iran's foreign ministry e-visa portal.\nConsular help: there is no Government of Canada office in Iran, so no consular help is available.\nDual citizens: dual Canadian-Iranian citizens may be required to travel on an Iranian passport and may be prevented from leaving.\nEntry refusal: entry has been refused where a passport shows an Israeli visa or stamp, or an Egyptian or Jordanian stamp from a border office adjoining Israel."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Iraq",
+      "fields": {
+        "note": "Good to know: there are two separate regimes, federal Iraq and the Kurdistan Region.\nFederal Iraq: e-visa from the Ministry of Interior at evisa.iq, 30 days, single or multiple entry, used within 3 months of grant. Register with the Iraqi Residence Office after 10 days and apply for a residence permit after 3 months.\nKurdistan Region (Erbil, Sulaymaniyah): runs its own e-visa at visit.gov.krd. Canada is on its List A, 30 days, valid 90 days from issue, extendable twice to 90 days total, roughly 100,000 IQD.\nWarning: a Kurdistan visa does not let you travel into the rest of Iraq.\nIsraeli stamps: extra screening applies if your passport shows an Israeli visa or stamp, except for Kurdistan travel."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Ireland",
+      "fields": {
+        "note": "Schengen: Ireland is not in Schengen and does not apply Schengen rules. A Schengen visa is not valid here and Irish days are entirely separate.\nVisa: Canada is on Ireland's official non-visa-required list.\nAuthorisation: there is no pre-travel authorisation. An immigration officer stamps your passport for up to 90 days.\nEES: Ireland is not participating in the EU Entry/Exit System.\nArriving from the UK: this does not exempt you from Irish immigration control."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Isle of Man",
+      "fields": {
+        "note": "ETA: the Isle of Man is in the Common Travel Area, not the UK, and it runs its own ETA under its own law. Applications opened 9 April 2026 and it became mandatory on 23 April 2026 for arrivals direct from outside the CTA or Ireland.\nOne ETA: ETAs issued by the Isle of Man, the UK, Jersey and Guernsey are mutually recognised, so one ETA covers all four.\nValidity: 2 years or until your passport expires."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Israel",
+      "fields": {
+        "note": "ETA-IL: mandatory for visa-exempt nationalities, Canada included, since 1 January 2025. Apply at least 72 hours before arrival.\nValidity: up to 2 years or until your passport expires, whichever comes first. A new one is needed if you change passport, name, gender or citizenship.\nPassport: must be valid at least 3 months from arrival.\nGood to know: an ETA-IL only gets you to the border. The officer there decides admission."
       }
     }
   ],
