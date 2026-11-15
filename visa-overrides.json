@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:31:04Z",
+  "generated_at": "2026-11-15T14:31:54Z",
   "entries": [
     {
       "passport": "CA",
@@ -352,7 +352,7 @@
       "destination": "Madagascar",
       "fields": {
         "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
-        "note": "Apply 1 week to 6 months before departure; approval comes within 72 hours and must be shown on arrival, printed or on a phone. The same visa is sold on arrival at the eVisa counters at the same price. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Apply: 1 week to 6 months before departure. Approval comes within 72 hours and must be shown on arrival, printed or on a phone.\nOn arrival: the same visa is sold at the eVisa counters at the same price.\nScam warning: apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -1141,7 +1141,7 @@
       "destination": "Seychelles",
       "fields": {
         "stay": "Up to 90 days",
-        "note": "Seychelles issues no visas at all — every visitor, regardless of nationality, must obtain a paid Travel Authorisation online before departure, then is granted a Visitor's Permit on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: Seychelles issues no visas at all. Every visitor, regardless of nationality, must obtain a paid Travel Authorisation online before departure, then is granted a Visitor's Permit on arrival.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -3390,7 +3390,7 @@
       "destination": "Zambia",
       "fields": {
         "stay": "90 days free in any period of 12 months from the day of first entry; the days may not be granted all at once, so a free extension at an Immigration Office may be needed",
-        "note": "Visa-free. Air arrivals must hold a return air ticket; land and water arrivals need sufficient funds for their stay and departure. The KAZA UniVisa (USD 50) also covers Zimbabwe and Botswana day trips, but it isn't needed just to enter Zambia. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: visa-free.\nBring: air arrivals must hold a return air ticket. Land and water arrivals need sufficient funds for their stay and departure.\nKAZA UniVisa: USD 50. It also covers Zimbabwe and Botswana day trips, but it is not needed just to enter Zambia.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -3430,7 +3430,7 @@
       "destination": "Kazakhstan",
       "fields": {
         "visa": "vf",
-        "note": "No visa is needed for stays up to 30 days; a stay over 30 days needs a visa. Not verified — whether an ETA via QazETA is mandatory. Carry your passport and the white immigration card you receive on entry at all times. If you violate the conditions of a visa you could face a short term of imprisonment and/or an entry ban of up to 5 years; overstaying the date on the immigration card may result in similar penalties.",
+        "note": "Visa: not needed for stays up to 30 days. A stay over 30 days needs a visa.\nETA: whether an ETA via QazETA is mandatory is not confirmed.\nBring: your passport and the white immigration card you receive on entry, at all times.\nPenalties: if you violate the conditions of a visa you could face a short term of imprisonment and/or an entry ban of up to 5 years. Overstaying the date on the immigration card may result in similar penalties.",
         "cost": "Free (no visa needed)"
       }
     },
@@ -3813,7 +3813,7 @@
       "destination": "Liberia",
       "fields": {
         "apply": "Online through Liberia's official visa-on-arrival system (Hop has no working official link at present); show the approval PDF (QR code) at the airport's Visa on Arrival counter",
-        "note": "Passport valid 6+ months. Apply online for the Visa on Arrival at least 7 days and no more than 3 months before travel; approval is valid 3 months for a single visit, only at Roberts International Airport (ROB), Monrovia. Fingerprints and face are captured on arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Passport: valid 6+ months.\nVisa: apply online for the Visa on Arrival at least 7 days and no more than 3 months before travel. Approval is valid 3 months for a single visit, only at Roberts International Airport (ROB), Monrovia.\nOn arrival: fingerprints and face are captured.\nYellow fever: vaccination certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -3950,7 +3950,7 @@
       "passport": "IE",
       "destination": "Tanzania",
       "fields": {
-        "note": "One visa covers Mainland Tanzania and Zanzibar — pick your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. Passport valid 6+ months with a blank visa page; show a return ticket on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: one visa covers Mainland Tanzania and Zanzibar. Pick your first destination on the form.\nInsurance: since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days. Buy it from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar.\nHealth form: fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number.\nPassport: valid 6+ months with a blank visa page.\nBring: a return ticket to show on arrival.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4632,7 +4632,7 @@
       "passport": "IE",
       "destination": "Guinea-Bissau",
       "fields": {
-        "note": "No embassy in this passport's home country — get a visa in advance from a Guinea-Bissau embassy abroad. Passport valid at least 6 months after entry. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Sites claiming to be the official e-visa (e.g. rgb-visa.com) are not confirmed as government-run — don't pay them."
+        "note": "Visa: there is no embassy in this passport's home country. Get a visa in advance from a Guinea-Bissau embassy abroad.\nPassport: valid at least 6 months after entry.\nYellow fever: vaccination certificate required for every arriving traveller aged 1 year and over.\nScam warning: sites claiming to be the official e-visa (e.g. rgb-visa.com) are not confirmed as government-run. Do not pay them."
       }
     },
     {
@@ -4751,7 +4751,7 @@
       "passport": "IE",
       "destination": "Niger",
       "fields": {
-        "note": "Ireland's DFA says Irish citizens need a visa and should contact the Embassy of Niger in Geneva on how to apply. Niger's Ministry of Foreign Affairs confirms the universal in-advance-visa rule. Ireland's DFA additionally states passports should be valid at least 6 months from date of entry with at least 2 blank pages. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: Ireland's DFA says Irish citizens need a visa and should contact the Embassy of Niger in Geneva on how to apply. Niger's Ministry of Foreign Affairs confirms the universal in-advance-visa rule.\nPassport: Ireland's DFA additionally states it should be valid at least 6 months from date of entry with at least 2 blank pages.\nYellow fever: vaccination certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5024,7 +5024,7 @@
       "passport": "IE",
       "destination": "Nigeria",
       "fields": {
-        "note": "Ireland is not named on any exemption list on Nigeria's Immigration Service site — no waiver list exists at all; the Tourism Visa e-Visa class applies uniformly. Two mandatory online forms also apply. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: Ireland is not named on any exemption list on Nigeria's Immigration Service site, and no waiver list exists at all. The Tourism Visa e-Visa class applies uniformly.\nForms: two mandatory online forms also apply.\nYellow fever: vaccination certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5192,7 +5192,7 @@
       "passport": "IE",
       "destination": "Guinea",
       "fields": {
-        "note": "Apply with a return ticket and a scan of the passport data page. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. On arrival show the Entry Visa Letter, a passport valid more than 6 months, proof of funds, the return ticket and proof of accommodation; the visa sticker, photo and fingerprints are done at the counter. Fees are non-refundable if refused."
+        "note": "Apply: with a return ticket and a scan of the passport data page.\nYellow fever: vaccination certificate required for every arriving traveller aged 9 months and over.\nOn arrival: show the Entry Visa Letter, a passport valid more than 6 months, proof of funds, the return ticket and proof of accommodation. The visa sticker, photo and fingerprints are done at the counter.\nFee: non-refundable if refused."
       }
     },
     {
@@ -5318,7 +5318,7 @@
       "passport": "IE",
       "destination": "Gambia",
       "fields": {
-        "note": "Show funds, purpose of trip, an onward/return ticket within 90 days and proof of residence in Ireland; confirm with the airline. Passport valid 6 months from entry with a blank page. USD 20 Airport Security Fee on arrival and departure (infants 1 and under and transit passengers exempt). A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Bring: funds, purpose of trip, an onward or return ticket within 90 days and proof of residence in Ireland. Confirm with the airline.\nPassport: valid 6 months from entry, with a blank page.\nFee: USD 20 Airport Security Fee on arrival and departure (infants 1 and under and transit passengers exempt).\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5808,7 +5808,7 @@
       "passport": "IE",
       "destination": "Kenya",
       "fields": {
-        "note": "Ordinary passports need an eTA. Apply at least 2 weeks before travel; processing normally 3 working days. Passport valid at least 6 months with one blank page. Have a photo, itinerary, accommodation booking and payment method ready. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: ordinary passports need an eTA.\nApply: at least 2 weeks before travel. Processing normally takes 3 working days.\nPassport: valid at least 6 months with one blank page.\nHave ready: a photo, itinerary, accommodation booking and payment method.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -5962,7 +5962,7 @@
       "passport": "IE",
       "destination": "Mayotte",
       "fields": {
-        "note": "Mayotte is part of the EU (an overseas department, not a Collectivity) even though it is outside Schengen. As an EU citizen, no visa or special formality is required to enter and reside for up to 3 months. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Status: Mayotte is part of the EU (an overseas department, not a Collectivity) even though it is outside Schengen.\nVisa: as an EU citizen, no visa or special formality is required to enter and reside for up to 3 months.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -6025,7 +6025,7 @@
       "passport": "IE",
       "destination": "Mozambique",
       "fields": {
-        "note": "An ETA (not a visa) is required before departure: 30 days, tourism or business, all passport types. For longer stays or other purposes, apply for a full eVisa instead. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: an ETA (not a visa) is required before departure. It covers 30 days, tourism or business, all passport types.\nLonger stays: for longer stays or other purposes, apply for a full eVisa instead.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -6228,7 +6228,7 @@
       "passport": "IE",
       "destination": "Rwanda",
       "fields": {
-        "note": "Ireland left the Commonwealth in 1949 and is not a member of the African Union or La Francophonie, so Irish citizens pay the standard visa-on-arrival fee rather than qualifying for the fee waiver. No prior application is required. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Fee: Ireland left the Commonwealth in 1949 and is not a member of the African Union or La Francophonie, so Irish citizens pay the standard visa-on-arrival fee rather than qualifying for the fee waiver.\nVisa: no prior application is required.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -6291,7 +6291,7 @@
       "passport": "IE",
       "destination": "Sao Tome and Principe",
       "fields": {
-        "note": "As an EU citizen, Ireland qualifies for São Tomé's 15-day visa-exemption law (Lei n.º 5/2015, amending Article 25 of Lei n.º 5/2008), alongside USA and CPLP citizens. For stays beyond 15 days, a visa must be obtained in advance. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: as an EU citizen, Ireland qualifies for São Tomé's 15-day visa-exemption law (Lei n.º 5/2015, amending Article 25 of Lei n.º 5/2008), alongside USA and CPLP citizens.\nStays beyond 15 days: a visa must be obtained in advance.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -7330,6 +7330,62 @@
       "destination": "Uganda",
       "fields": {
         "note": "Visa: apply online before travel. Biometrics are taken at the point of entry.\nApproval: lapses 90 days after approval if unused.\nYellow fever: certificate is no longer mandatory for entry (Uganda notice, 2 October 2026).\nGood to know: the East Africa Tourist Visa (USD 100, multiple entry, 90 days) covers Uganda, Kenya and Rwanda."
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Honduras",
+      "fields": {
+        "note": "Passport: valid 6+ months from arrival. Passport cards are not accepted.\nPre-registration: pre-register at prechequeo.inm.gob.hn before arrival and departure, and carry the confirmation.\nEntry stamp: get a stamp on entry. Some CA-4 land borders do not stamp, and a missing stamp can mean a fine of up to USD 250.\nStay: CA-4 allowance is 90 days from first entry. Honduras' INM can extend a tourist stay by up to 90 more days.\nGood to know: some UK-born Irish citizens have been caught by the 2024 visa rule for UK tourists. Contact the Irish Embassy in Mexico."
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Liechtenstein",
+      "fields": {
+        "note": "Entry: EEA nationals may enter with a valid travel document.\nPermit: needed for any gainful activity, or for a stay without work of more than three months within six months. A permit holder must register with the municipal residents' office within eight days of arrival.\nNon-working permit: needs sufficient means and comprehensive health insurance."
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Namibia",
+      "fields": {
+        "note": "Visa: required since 1 April 2025, available on arrival or as an e-visa.\nPassport: valid at least 6 months beyond arrival, with at least 3 blank pages.\nTravellers under 18: need a full unabridged birth certificate showing both parents' details, or an affidavit of consent if not travelling with both parents or legal guardians."
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Palestine",
+      "fields": {
+        "note": "Visa: there is no separate Palestinian visa. Israel controls entry to the West Bank.\nBefore travel: get an approved ETA-IL. Israeli immigration issues an entry card at the crossing that governs access to Palestinian Authority areas.\nGaza: Erez crossing is closed, and Rafah has been closed to general traffic since 6 May 2024."
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Saudi Arabia",
+      "fields": {
+        "note": "Visa: the multiple-entry, 1-year tourist eVisa allows 90 days in total, non-renewable. Apply online in preference to visa on arrival (credit card or MADA only).\nPassport: valid at least 6 months from entry. Passport cards are not accepted.\nGood to know: non-Muslims may not enter the Holy Mosque in Makkah or the Prophet's Mosque in Madinah."
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Svalbard",
+      "fields": {
+        "note": "Visa: Svalbard is part of Norway, but the Norwegian Immigration Act does not apply, so foreigners need no visa or work and residence permit to go there.\nConditions: everyone, foreign or Norwegian, must meet the 'rejection and expulsion' requirements, including having the means to reside.\nPassport: a valid passport or accepted ID is required for travel."
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Switzerland",
+      "fields": {
+        "note": "Stay: under the EU-Swiss free movement agreement, EU/EFTA citizens can stay without a permit for three months.\nAfter that: a permit from the cantonal authority is needed, for example a job-seeker permit or a permit for non-working persons, which needs sufficient financial means and health and accident insurance.\nRegistration: required with the local authorities for those taking up residence without work, within 14 days of arrival."
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Zimbabwe",
+      "fields": {
+        "note": "Visa: on arrival, or apply online in advance at evisa.gov.zw. Processing averages 7 working days, so apply at least 3 weeks ahead.\nMultiple entry: not available on arrival for Irish passports. Apply online.\nKAZA UniVisa: 1-month validity. It covers Zimbabwe and Zambia, plus Botswana day trips at Kazungula."
       }
     }
   ],
