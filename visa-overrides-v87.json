@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:40:29Z",
+  "generated_at": "2026-11-15T14:41:07Z",
   "entries": [
     {
       "passport": "CA",
@@ -175,7 +175,7 @@
       "fields": {
         "apply": "evisamada.gov.mg · gov.uk/foreign-travel-advice/madagascar",
         "stay": "30 or 60 days (visa on arrival), extendable in Madagascar to 90 days in total",
-        "note": "Visa-on-arrival OR eVisa (evisamada.gov.mg). Applied at airport, paid on the spot. 30 days USD 37, 60 days USD 45, 90 days USD 55. Unique wildlife destination but 2nd-poorest country globally — petty theft common in cities. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: visa on arrival or eVisa (evisamada.gov.mg). Applied for at the airport and paid on the spot.\nFee: 30 days USD 37, 60 days USD 45, 90 days USD 55.\nGood to know: unique wildlife destination, but the 2nd-poorest country globally. Petty theft is common in cities.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -314,7 +314,7 @@
       "fields": {
         "cost": "Free · the QazETA ETA is free of charge",
         "apply": "No visa needed · apply for an ETA through the QazETA portal at least 72 hours before travel (you should from 1 November; mandatory from 1 July 2027) · gov.uk/foreign-travel-advice/kazakhstan",
-        "note": "30-day visa-free. Max 90 days in any 180-day period. From 1 November, if you travel without a visa you should apply for an Electronic Travel Authorisation (ETA) through the QazETA portal. Until 30 June, if you arrive without one you will not be refused entry but will be told of the requirement; from 1 July 2027 the ETA is mandatory for all visa-free nationals and you will be refused entry without one. The ETA is free, valid for 180 days from issue, and does not extend your visa-free stay. Not needed if you are under 16 or over 65, staying in the airport transit area without crossing the border, travelling on a diplomatic or service passport, or holding a valid Kazakh visa or residence permit."
+        "note": "Stay: 30 days visa-free, with a maximum of 90 days in any 180-day period.\nETA: from 1 November, if you travel without a visa you should apply for an Electronic Travel Authorisation (ETA) through the QazETA portal.\nETA dates: until 30 June, if you arrive without one you will not be refused entry but will be told of the requirement. From 1 July 2027 the ETA is mandatory for all visa-free nationals and you will be refused entry without one.\nETA details: it is free, valid for 180 days from issue, and does not extend your visa-free stay.\nETA not needed: if you are under 16 or over 65, staying in the airport transit area without crossing the border, travelling on a diplomatic or service passport, or holding a valid Kazakh visa or residence permit."
       }
     },
     {
@@ -333,7 +333,7 @@
       "destination": "Guinea-Bissau",
       "fields": {
         "visa": "vr",
-        "note": "A visa is required. Not verified — whether it can be obtained on arrival at Bissau airport, and the fee. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Small fragile West African state — political instability common, limited tourism infrastructure. Former Portuguese colony.",
+        "note": "Visa: required. Whether it can be obtained on arrival at Bissau airport, and the fee, are not confirmed.\nYellow fever: certificate required for every arriving traveller aged 1 year and over.\nGood to know: small fragile West African state, with common political instability and limited tourism infrastructure. Former Portuguese colony.",
         "stay": "Per visa granted"
       }
     },
@@ -989,9 +989,8 @@
         "cost": "Not required",
         "apply": "No application needed · gov.uk/foreign-travel-advice/honduras",
         "extension": "National Institute of Migration (Instituto Nacional de Migración)",
-        "note": "Visa-free for up to 90 days: the exemption for British citizens took effect on 31 October 2026 (a visa was required before that). The 90 days is shared with El Salvador, Guatemala and Nicaragua and does not restart when you cross borders. Passport must be valid 6 months after you arrive, with at least 2 blank pages. You get a 30-day entry stamp on arrival. Make sure the border officer stamps your passport, and apply at an immigration office if you need to extend. Overstaying can mean a fine before you leave."
-      },
-      "checked": "2026-11-09"
+        "note": "Visa: visa-free for up to 90 days. The exemption for British citizens took effect on 31 October 2026 (a visa was required before that).\nStay: the 90 days is shared with El Salvador, Guatemala and Nicaragua and does not restart when you cross borders. You get a 30-day entry stamp on arrival. Make sure the border officer stamps your passport.\nPassport: must be valid 6 months after you arrive, with at least 2 blank pages.\nExtension: apply at an immigration office if you need to extend.\nOverstay: overstaying can mean a fine before you leave."
+      }
     },
     {
       "passport": "UK",
@@ -1484,7 +1483,7 @@
       "destination": "Mali",
       "fields": {
         "visa": "ev",
-        "note": "E-visa — the application and payment are fully online via the Malian Ministry of Foreign Affairs website, and the entry permit is issued electronically once approved; no documents need to be sent to the Malian Embassy in Brussels, which covers the UK. No visa on arrival is published on any Malian government source. Passport must be valid for the duration of your stay. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: e-visa. The application and payment are fully online via the Malian Ministry of Foreign Affairs website, and the entry permit is issued electronically once approved. No documents need to be sent to the Malian Embassy in Brussels, which covers the UK.\nVisa on arrival: none is published on any Malian government source.\nPassport: must be valid for the duration of your stay.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -1639,7 +1638,7 @@
       "passport": "UK",
       "destination": "Libya",
       "fields": {
-        "note": "Visa in advance only — there is no visa on arrival. An official e-visa portal now exists but is new and unstable, and Libyan missions issue visas only to residents of the country where the application is made (London handles UK residents). Passport valid for the duration of your stay; processing takes about 20 working days."
+        "note": "Visa: in advance only. There is no visa on arrival.\nE-visa: an official e-visa portal now exists but is new and unstable.\nEmbassy: Libyan missions issue visas only to residents of the country where the application is made (London handles UK residents).\nPassport: valid for the duration of your stay.\nProcessing: about 20 working days."
       }
     },
     {
@@ -3326,7 +3325,7 @@
       "passport": "UK",
       "destination": "Niger",
       "fields": {
-        "note": "Visa in advance from a Nigerien mission (Geneva embassy handles UK applications); air-side transit without leaving the airport is exempt. Processing takes about 15 days. Passport valid for the proposed stay (no additional period needed). A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: in advance from a Nigerien mission (Geneva embassy handles UK applications). Air-side transit without leaving the airport is exempt.\nProcessing: about 15 days.\nPassport: valid for the proposed stay (no additional period needed).\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -3599,7 +3598,7 @@
       "passport": "UK",
       "destination": "Nigeria",
       "fields": {
-        "note": "eVisa REQUIRED (Visa-on-Arrival discontinued May 2025). Apply at evisa.immigration.gov.ng before travel. Also complete Landing Card + Health Declaration Form online within 72h of departure. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. ⚠️ FCDO advises against all travel to riverine areas of Delta, Bayelsa, Rivers, Akwa Ibom, Cross River states."
+        "note": "Visa: eVisa required (visa on arrival discontinued May 2025). Apply at evisa.immigration.gov.ng before travel.\nBefore you fly: also complete the Landing Card and Health Declaration Form online within 72h of departure.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4467,7 +4466,7 @@
       "passport": "UK",
       "destination": "Malawi",
       "fields": {
-        "note": "Visa on arrival for Category Two nationals (public notice, Feb 2026) — US$50 single entry, cash advised; e-visas remain available online. 30-day permit on arrival, extendable to 90. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: on arrival for Category Two nationals (public notice, Feb 2026). US$50 single entry, cash advised. E-visas remain available online.\nStay: 30-day permit on arrival, extendable to 90.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4530,7 +4529,7 @@
       "passport": "UK",
       "destination": "Mayotte",
       "fields": {
-        "note": "Still recovering from Cyclone Chido (Dec 2024) — infrastructure, water supply and accommodation remain patchy in places. Elevated crime and periodic civil unrest. Part of the EU but NOT in Schengen — a Schengen visa is not valid here and ETIAS will not apply. Mayotte is not in the Schengen area; entry is governed by the arrêté du 4 février 2015, which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Schengen: part of the EU but not in Schengen. A Schengen visa is not valid here and ETIAS will not apply.\nStay: entry is governed by the arrêté du 4 février 2015, which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count.\nGood to know: still recovering from Cyclone Chido (Dec 2024). Infrastructure, water supply and accommodation remain patchy in places. Elevated crime and periodic civil unrest.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4593,7 +4592,7 @@
       "passport": "UK",
       "destination": "Mozambique",
       "fields": {
-        "note": "An Electronic Travel Authorisation (ETA) is required for tourism or business visits of up to 30 days; apply through the official Mozambique eVisa portal (evisa.gov.mz). You must pay online when you apply. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. ⚠️ FCDO advises against all travel to Cabo Delgado Province, except for Palma town and the area around Pemba and Afungi, and against all but essential travel to those areas."
+        "note": "Visa: an Electronic Travel Authorisation (ETA) is required for tourism or business visits of up to 30 days. Apply through the official Mozambique eVisa portal (evisa.gov.mz) and pay online when you apply.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4663,7 +4662,7 @@
       "passport": "UK",
       "destination": "New Caledonia",
       "fields": {
-        "note": "Serious civil unrest in 2024 caused deaths, a state of emergency and the closure of Nouméa's airport for months. Tensions over independence remain — check current advice before booking. Visa-free 90 days; passport needs 3 months' validity beyond departure and 2 blank pages. Not in Schengen. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: visa-free for 90 days.\nPassport: needs 3 months' validity beyond departure and 2 blank pages.\nUnrest: serious civil unrest in 2024 caused deaths, a state of emergency and the closure of Nouméa's airport for months. Tensions over independence remain, so check current advice before booking.\nGood to know: not in Schengen.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -4733,7 +4732,7 @@
       "passport": "UK",
       "destination": "Papua New Guinea",
       "fields": {
-        "note": "Visa-on-arrival at Jacksons International Airport Port Moresby (K100 / ~£24). eVisa also available at ica.gov.pg. From 1 Oct 2025 all travellers must also submit Digital Arrival Card online (free, within 72h of arrival). A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: on arrival at Jacksons International Airport Port Moresby (K100, about £24). eVisa also available at ica.gov.pg.\nDigital Arrival Card: from 1 Oct 2025 all travellers must also submit it online (free, within 72h of arrival).\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -4796,7 +4795,7 @@
       "passport": "UK",
       "destination": "Rwanda",
       "fields": {
-        "note": "Visa-on-arrival for all nationalities (since Jan 2018) — 30 days, USD 50 on arrival or via evisa.irembo.gov.rw. East Africa Tourist Visa (USD 100, 90 days) covers Kenya+Rwanda+Uganda. One of Africa's safest countries. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: on arrival for all nationalities (since Jan 2018). 30 days, USD 50 on arrival or via evisa.irembo.gov.rw.\nEast Africa Tourist Visa: USD 100, 90 days. It covers Kenya, Rwanda and Uganda.\nGood to know: one of Africa's safest countries.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -6885,6 +6884,76 @@
       "destination": "Greenland",
       "fields": {
         "note": "Schengen: Greenland is not in Schengen and not in the EU. A Schengen or Danish visa does not cover Greenland.\nStay: time here counts toward the same combined 90 days per 180 shared with Schengen and the Faroe Islands (nyidanmark.dk).\nFlights: Nuuk's international airport opened in Nov 2024, so there are now direct flights rather than the old Kangerlussuaq routing.\nInsurance: travel insurance covering evacuation is strongly advised."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Guadeloupe",
+      "fields": {
+        "note": "Visa: visa-free.\nSchengen: part of the EU but not in Schengen. A Schengen visa is not valid here and ETIAS will not apply.\nStay: entry is governed by the arrêté du 26 juillet 2011 (as amended), which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count.\nGood to know: euro currency. Hurricane season runs June to November."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Lebanon",
+      "fields": {
+        "note": "Visa: one-month visa issued free at the port of entry under General Security's nationality rules.\nOverstay: if you overstay by less than one month, you can leave and pay a fine at departure. If you overstay by more than one month, you must contact General Security's bureau of Arabs and foreigners before you are allowed to leave."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Lesotho",
+      "fields": {
+        "note": "Visa: the FCDO states \"you can visit Lesotho for up to 90 days without a visa\", with a 90-day temporary permit extension available at the Visa Application Centre in Maseru.\nSources: Lesotho publishes no visa-exempt country list and no per-nationality stay length. Its foreign ministry says only that exempt stays \"vary from 1 month to 3 months\", waived by Commonwealth membership plus bilateral agreements.\nLonger stays: anything longer needs a visa. Lesotho's own e-visa page still reads \"eVISA Applications System Suspended\", with applications by email to VISA-Applications.Immigration@gov.ls."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Marshall Islands",
+      "fields": {
+        "note": "Visa: visa-free for up to 90 days in any 180-day period, fee waived.\nBring: a passport valid 6 months beyond departure, a confirmed return or onward ticket, and any visas needed for onward travel.\nNot permitted: extensions, change of status and employment.\nKwajalein Atoll: requires separate US Military entry authorization."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Martinique",
+      "fields": {
+        "note": "Visa: visa-free.\nSchengen: part of the EU but not in Schengen. A Schengen visa is not valid here and ETIAS will not apply.\nStay: entry is governed by the arrêté du 26 juillet 2011 (as amended), which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count.\nGood to know: Mount Pelée is an active volcano. Hurricane season runs June to November."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Niue",
+      "fields": {
+        "note": "Visa: visa-free.\nBring: pre-booked accommodation. It is strictly enforced and you will not be allowed to board without it, because the island simply cannot absorb walk-ups.\nFlights: Air New Zealand from Auckland is the only air link (twice weekly to end-Oct 2026, then weekly).\nGood to know: one of the world's smallest countries and a raised coral atoll with no beaches to speak of, but exceptional diving."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Pitcairn Islands",
+      "fields": {
+        "note": "Visa: a short-term visitor visa is granted on arrival, via a combined immigration and biosecurity declaration form, for stays of up to 14 days on the same vessel.\nLonger stays: 15 days–6 months need advance Entry Clearance, applied for to admin@pitcairn.gov.pn at least 3 months ahead, with a medical exam, chest X-ray and police certificates.\nFee: NZ$150 (non-refundable) for the Long-Term Visitor Visa. No fee for short visits.\nInsurance: mandatory travel/medical insurance with at least US$500,000 medevac cover for all visitors.\nSupport: the FCDO says no travel can be guaranteed safe and there is no British Embassy on Pitcairn (support via the local Pitcairn government).\nImport restrictions: apply to alcohol without a licence, honey and used beekeeping equipment, and restricted plant/animal products."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Réunion",
+      "fields": {
+        "note": "Visa: visa-free.\nSchengen: part of the EU but not in Schengen. A Schengen visa is not valid here and ETIAS will not apply.\nStay: entry is governed by the arrêté du 26 juillet 2011 (as amended, the same instrument covering Guadeloupe, French Guiana, Martinique and Saint-Pierre-et-Miquelon), which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count.\nGood to know: Piton de la Fournaise is one of the world's most active volcanoes.\nSharks: swimming and surfing are banned or heavily restricted on much of the west coast because of shark attacks. Swim only in the protected lagoons."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Saint Barthélemy",
+      "fields": {
+        "note": "Visa: visa-free. French overseas collectivity, outside both Schengen and the EU customs area, with its own visa rules.\nGetting there: almost all arrivals connect through Sint Maarten (SXM) by small plane or ferry, so check that territory's rules too.\nStay: entry is governed by the arrêté du 18 avril 2012 (the same instrument covering Saint-Martin), which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count.\nSchengen: Saint Barthélemy is not in the Schengen area."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Saint Helena",
+      "fields": {
+        "note": "Visa: you need an entry permit to visit St Helena, and you can apply for one when you arrive.\nFee: £20, payable in cash in British pounds, euros, US dollars or South African rand.\nBring: a return ticket or proof of funds to buy one, details of your accommodation, sufficient funds for your visit and medical insurance that covers medical evacuation."
       }
     }
   ],
