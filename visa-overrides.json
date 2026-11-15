@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:26:46Z",
+  "generated_at": "2026-11-15T14:27:48Z",
   "entries": [
     {
       "passport": "CA",
@@ -260,7 +260,7 @@
       "passport": "CA",
       "destination": "North Macedonia",
       "fields": {
-        "note": "Visa-free for up to 90 days. You must register your presence within 24 hours of arrival. Hotels and other commercial accommodation usually file the registration for you; in private accommodation, register yourself at the nearest police station within 24 hours. Missing the registration can mean fines and difficulties when you leave."
+        "note": "Visa: visa-free for up to 90 days.\nRegistration: you must register your presence within 24 hours of arrival. Hotels and other commercial accommodation usually file the registration for you. In private accommodation, register yourself at the nearest police station within 24 hours.\nPenalty: missing the registration can mean fines and difficulties when you leave."
       }
     },
     {
@@ -2020,7 +2020,8 @@
       "passport": "CA",
       "destination": "Monaco",
       "fields": {
-        "stay_days": 90
+        "stay_days": 90,
+        "note": "Schengen: Monaco is not in the EU and not formally a Schengen state, but it applies the Schengen visa regime through its arrangements with France, and there is no border control on the French frontier.\nVisa: Monaco's own government says non-EEA nationals need a passport and a Schengen visa, and that once you hold one, entering Monaco needs nothing further. Canada is visa-exempt for Schengen, so a valid passport is enough.\nStay: there is no separate Monegasque day count. Days in Monaco are Schengen days."
       }
     },
     {
@@ -2684,7 +2685,7 @@
       "passport": "CA",
       "destination": "Mexico",
       "fields": {
-        "note": "No visa for tourism, transit, business, technical activities, journalism or study up to 180 days. The FMM still exists but the process has split: arriving BY AIR there is no paper form, but you must still complete a Multiple Digital Migratory Form (FMMD) online after an immigration officer stamps your passport or you use an e-gate kiosk. Arriving BY LAND you can complete the FMM online in advance through INM's FMME portal or on arrival, and pay the fee there. Paying does not guarantee entry. 180 days is a ceiling, not an entitlement — officers have been granting materially shorter periods and the number written in your passport is what counts.",
+        "note": "Visa: no visa for tourism, transit, business, technical activities, journalism or study up to 180 days.\nFMM: the FMM still exists but the process has split.\nBy air: there is no paper form, but you must still complete a Multiple Digital Migratory Form (FMMD) online after an immigration officer stamps your passport or you use an e-gate kiosk.\nBy land: you can complete the FMM online in advance through INM's FMME portal or on arrival, and pay the fee there.\nGood to know: paying does not guarantee entry.\nStay: 180 days is a ceiling, not an entitlement. Officers have been granting materially shorter periods and the number written in your passport is what counts.",
         "apply": "By air: nothing in advance. By land: complete the Forma Migratoria Múltiple Electrónica at inm.gob.mx/fmme in advance or on arrival, and pay online, at the booth or at a bank."
       }
     },
@@ -2767,7 +2768,7 @@
       "passport": "CA",
       "destination": "Oman",
       "fields": {
-        "note": "FOURTEEN days, not thirty — and Oman's foreign ministry states plainly that it cannot be extended or converted to any residence visa. Canada sits in the unconditional exemption group. Conditions: passport valid 6+ months, a return ticket, a confirmed hotel booking, health insurance and sufficient funds. Visas for longer trips are managed by the Royal Oman Police (ROP)."
+        "note": "Stay: fourteen days, not thirty. Oman's foreign ministry states plainly that it cannot be extended or converted to any residence visa.\nVisa: Canada sits in the unconditional exemption group.\nBring: passport valid 6+ months, a return ticket, a confirmed hotel booking, health insurance and sufficient funds.\nLonger trips: visas for longer trips are managed by the Royal Oman Police (ROP)."
       }
     },
     {
@@ -2783,7 +2784,7 @@
       "destination": "Niger",
       "fields": {
         "stay": "Per visa granted",
-        "note": "Visa required in advance from a Nigerien mission in your country of residence. NIGER HAS NO MISSION IN CANADA. Air-side transit is visa-exempt provided you do not leave the airport. Processing takes about 15 days. Passport valid 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Canada has no embassy in Niger — an honorary consul in Niamey, served from Bamako in Mali, which is a thin consular safety net given Mali's own situation."
+        "note": "Visa: required in advance from a Nigerien mission in your country of residence. Niger has no mission in Canada.\nTransit: air-side transit is visa-exempt provided you do not leave the airport.\nProcessing: about 15 days.\nPassport: valid 6 months.\nYellow fever: vaccination certificate required of every arriving traveller aged 9 months and over.\nConsular help: Canada has no embassy in Niger. There is an honorary consul in Niamey, served from Bamako in Mali, which is a thin consular safety net given Mali's own situation."
       }
     },
     {
@@ -2806,9 +2807,9 @@
       "passport": "CA",
       "destination": "North Korea",
       "fields": {
-        "stay": "Per visa granted"
-      },
-      "checked": "2026-11-11"
+        "stay": "Per visa granted",
+        "note": "Visa: North Korea publishes no traveller-facing immigration portal. All tourist entry is arranged through state-approved tour operators, and visas are issued in connection with a booked tour rather than by individual application.\nIndependent travel: not possible.\nGood to know: check your own government's advice before any travel."
+      }
     },
     {
       "passport": "NL",
@@ -2990,7 +2991,7 @@
       "passport": "CA",
       "destination": "Moldova",
       "fields": {
-        "note": "Canada is on Moldova's visa-exemption list. The counting rule is NOT a rolling 180-day window — the 6-month clock starts at your first entry. Border Police require a travel document valid at least 6 months beyond your intended departure, evidence of means of subsistence, and a guarantee that you will be admitted onward or will leave. No arrival registration duty was found for short-stay visitors."
+        "note": "Visa: Canada is on Moldova's visa-exemption list.\nStay: the counting rule is not a rolling 180-day window. The 6-month clock starts at your first entry.\nBring: Border Police require a travel document valid at least 6 months beyond your intended departure, evidence of means of subsistence, and a guarantee that you will be admitted onward or will leave.\nRegistration: no arrival registration duty was found for short-stay visitors."
       }
     },
     {
@@ -3101,9 +3102,9 @@
       "passport": "CA",
       "destination": "Montserrat",
       "fields": {
-        "stay": "Set by the immigration officer on entry, up to 6 months"
-      },
-      "checked": "2026-11-12"
+        "stay": "Set by the immigration officer on entry, up to 6 months",
+        "note": "Visa: Canada is named on the Government of Montserrat immigration portal's list of countries that do not require a visa.\nETA: Montserrat sets its own policy. The UK ETA does not apply here.\nStay: the portal publishes no permitted stay period, so do not assume the figure the UK's own travel advice quotes for British citizens."
+      }
     },
     {
       "passport": "AU",
@@ -4975,7 +4976,7 @@
       "passport": "CA",
       "destination": "Nigeria",
       "fields": {
-        "note": "Tourism visa class F5A, applied for online before travel; no current immigration-service page offers a tourist visa on arrival. TWO SEPARATE ONLINE FORMS ARE ALSO MANDATORY: the Landing and Exit Card at lecard.immigration.gov.ng, completed before entering AND before leaving, and an online health declaration producing a QR code for the Port Health Officer on arrival. The tourism visa is NOT extendable. Passport valid 6 months. Dual Canadian-Nigerian citizens must enter and leave on the Nigerian passport. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: tourism visa class F5A, applied for online before travel. No current immigration-service page offers a tourist visa on arrival.\nForms: two separate online forms are also mandatory.\nLanding and Exit Card: at lecard.immigration.gov.ng, completed before entering and before leaving.\nHealth declaration: an online health declaration producing a QR code for the Port Health Officer on arrival.\nExtension: the tourism visa is not extendable.\nPassport: valid 6 months.\nDual citizens: dual Canadian-Nigerian citizens must enter and leave on the Nigerian passport.\nYellow fever: vaccination certificate required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5906,7 +5907,7 @@
       "passport": "CA",
       "destination": "Mayotte",
       "fields": {
-        "note": "French overseas department but NOT in the Schengen area — a Schengen visa does not cover it and it runs its own entry regime under a separate 2015 decree. Canada is on the exemption list for Mayotte. Passport should be valid 3 months beyond departure, hold 2 blank pages, and be less than 10 years old. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Schengen: Mayotte is a French overseas department but not in the Schengen area. A Schengen visa does not cover it, and it runs its own entry regime under a separate 2015 decree.\nVisa: Canada is on the exemption list for Mayotte.\nPassport: should be valid 3 months beyond departure, hold 2 blank pages, and be less than 10 years old.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5969,7 +5970,7 @@
       "passport": "CA",
       "destination": "Mozambique",
       "fields": {
-        "note": "NOT PLAIN VISA-FREE. Canadians need no visa for tourism or business stays of up to 30 days, but you must present an Electronic Travel Authorization (ETA) obtained at least 48 hours before departure. Canada appears in Mozambique's own portal table under ETA (all passport types, 30 days, tourism or business). Download and print the approved PDF and have it ready for both boarding and your arrival. Also required on arrival: a return or onward ticket (except by land), a passport valid at least 6 months beyond your expected departure date with at least 2 blank pages, and proof of accommodation. Keep the receipt provided upon arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: not plain visa-free. Canadians need no visa for tourism or business stays of up to 30 days, but you must present an Electronic Travel Authorization (ETA) obtained at least 48 hours before departure. Canada appears in Mozambique's own portal table under ETA (all passport types, 30 days, tourism or business).\nETA: download and print the approved PDF and have it ready for both boarding and your arrival.\nAlso on arrival: a return or onward ticket (except by land), a passport valid at least 6 months beyond your expected departure date with at least 2 blank pages, and proof of accommodation. Keep the receipt provided upon arrival.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -6039,7 +6040,7 @@
       "passport": "CA",
       "destination": "New Caledonia",
       "fields": {
-        "note": "French but NOT in Schengen, so days here do not consume your Schengen 90/180. Canada appears in the exemption table for New Caledonia with no special conditions. A passport is required. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Schengen: New Caledonia is French but not in Schengen, so days here do not consume your Schengen 90/180.\nVisa: Canada appears in the exemption table for New Caledonia with no special conditions.\nPassport: required.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -6833,6 +6834,90 @@
       "destination": "Marshall Islands",
       "fields": {
         "note": "Visa: Canada is named on the RMI visa-on-arrival list with the fee waived.\nConditions: a passport valid 6 months beyond your departure from the RMI, a confirmed return or onward ticket, and any visas needed for onward travel.\nNot allowed: extensions, changes of status, employment, study and research are not permitted on this entry.\nFee: a USD 20 departure fee is charged, with children under 12 and adults over 60 exempt."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Mauritius",
+      "fields": {
+        "note": "Visa: no visa for Canadians. Mauritius states plainly that visas and extensions of stay are issued free of charge.\nStay: the total tourist stay is capped at six months in a calendar year, granted case by case.\nBring: a valid return ticket, adequate funds and a confirmed hotel booking or sponsorship for accommodation.\nTravel form: the online Mauritius All-in-One Travel Digital Form is a legal requirement, not optional. Refusal or false information can mean a fine of up to MUR 500,000 and imprisonment of up to five years.\nYellow fever: proof is not required.\nOverstay: overstaying is a criminal offence prosecuted in court."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Micronesia",
+      "fields": {
+        "note": "Visa: the Federated States of Micronesia require no entry permit from any visitor staying 30 days or less, so a Canadian needs nothing in advance. The exemption is structural rather than a named list.\nLonger stay: beyond 30 days a permit is required, and for Canadians it cannot exceed 90 days total.\nPassport: must be valid at least 120 days (4 months) beyond your date of entry. That is shorter than the usual 6-month rule but is stated specifically."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Montenegro",
+      "fields": {
+        "note": "Visa: Montenegro's own government names Canada explicitly.\nRegistration: your residence must be registered within 24 hours of arrival, and this is enforced. A hotel or other paid accommodation does it for you within 12 hours. Staying privately, you must file it yourself.\nMoving: you must re-register if you move somewhere else in Montenegro for more than 24 hours."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Morocco",
+      "fields": {
+        "note": "Visa: Canada appears on Morocco's own consular exemption list with no qualifier. Several other countries on that list carry a 30-day or 90-day cap, or an AEVM pre-authorisation requirement, and Canada carries none of them.\nPassport: valid at least 6 months.\nExtension: to stay beyond 90 days, contact the Service aux étrangers at the local police station at least 15 days before the limit expires.\nOverstay: overstaying means being held until seen by a prosecutor, and a fine."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Namibia",
+      "fields": {
+        "note": "Visa: Canada lost visa-free entry on 1 April 2025. Canadians now appear on Namibia's visa-on-arrival list and must pay.\nApply: online in advance as an e-visa, or take it on arrival at a designated port of entry. You are granted the number of days you request, to a maximum of 90 in a calendar year.\nPassport: valid 6 months with 3 blank pages.\nGood to know: this is confirmed from three separate Namibian government sources. Do not carry a visa-free rule forward."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Nauru",
+      "fields": {
+        "note": "Visa: a visitor visa must be obtained before travel. The application is lodged with the immigration office through a representative in person or online, not at the border.\nDocuments: the supporting documents are unusually heavy: certified passport pages, a 45x35mm photograph, a police certificate covering the previous 12 months, and a medical fitness certificate including a chest x-ray and blood tests.\nFee: ignore the AUD 8,000 figure that circulates. That is the media visa, on the same fee table."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Netherlands",
+      "fields": {
+        "note": "Visa: the Dutch MFA's own Canada page says plainly that Canadian passport holders need no visa.\nCaribbean: this covers the European part of the Kingdom only. Aruba, Curaçao, Sint Maarten and the Caribbean Netherlands run a separate Caribbean visa regime, and a Schengen visa does not substitute for it.\nExtra days: the Netherlands has also notified the EU of a bilateral visa waiver with Canada, in force since 1 January 1950, for 90 days (all passports). No rules for using it are published. Do not rely on it at the border."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "New Zealand",
+      "fields": {
+        "note": "Visa: Canada is on New Zealand's visa waiver list, so no visitor visa is needed in advance. A Visa Waiver Visitor Visa is then granted free on arrival.\nNZeTA: you must request an NZeTA before travelling. Allow 72 hours for it. It lasts 2 years.\nFee: the International Visitor Conservation and Tourism Levy is paid at the same time. The levy is the bigger number of the two.\nPassport: must be valid at least 3 months beyond the date you plan to leave."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Nicaragua",
+      "fields": {
+        "note": "Visa: Nicaragua changed its visa categories in Disposición No. 002-2026, in force 16 February 2026. Canada is confirmed on the Libre Visado (visa-exempt) list at number 18.\nFee: a USD 10 tourist card is payable on arrival under the General Tourism Law. This is not mentioned in Canadian travel advice, so carry small US dollars.\nPassport: must have more than six months' validity.\nStay: the officer sets the days."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Niue",
+      "fields": {
+        "note": "Entry rules: confirmed by travel.gc.ca (25 Aug 2026). The Government of Niue and its finance ministry publish arrival and departure forms and contact details but no entry requirements, no length of stay and no visa-waiver schedule.\nLaw: the schedule sits in the Entry, Residence and Departure Act 1985, which is not published on any Niue government domain.\nGood to know: New Zealanders enter Niue under a statutory right and are deliberately omitted from the waiver schedule, so deriving Niue's rule from New Zealand's position gives the opposite of the truth.\nContact: immigration@gov.nu before travelling."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Norfolk Island",
+      "fields": {
+        "note": "Visa: Norfolk Island no longer runs its own immigration system. The administering department states plainly that its visa requirements are the same as Australia's.\nArriving directly: you need the subclass 601 ETA.\nFrom the mainland: arriving from the Australian mainland needs no passport or visa, but photo ID is required."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Norway",
+      "fields": {
+        "note": "Visa: both UDI and Norway's mission in Canada confirm Canadians need no visa.\nConditions: Norway publishes hard conditions: at least NOK 500 for each day of your stay, a passport valid at least three months beyond your planned departure, the means to travel home, and no work of any kind including remote work.\nStay: the 90 days may be split across several visits.\nExtra days: Norway has also notified the EU of a bilateral visa waiver with Canada, in force since 1 January 1950, for 90 days (all passports). No rules for using it are published. Do not rely on it at the border."
       }
     }
   ],
