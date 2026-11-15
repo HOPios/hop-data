@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:39:09Z",
+  "generated_at": "2026-11-15T14:39:49Z",
   "entries": [
     {
       "passport": "CA",
@@ -133,7 +133,7 @@
       "passport": "NZ",
       "destination": "Uganda",
       "fields": {
-        "note": "New Zealand is not on Uganda's exemption list, so apply online before travel. If you are also visiting Kenya and Rwanda, the East Africa Tourist Visa at USD 100 covers all three on multiple entries for 3 months — but it is not extendable and does not stretch to Tanzania. A yellow fever certificate is no longer mandatory for entry (Uganda notice, 2 October 2026)."
+        "note": "Visa: New Zealand is not on Uganda's exemption list, so apply online before travel.\nEast Africa Tourist Visa: if you are also visiting Kenya and Rwanda, it costs USD 100 and covers all three on multiple entries for 3 months. It is not extendable and does not stretch to Tanzania.\nYellow fever: a certificate is no longer mandatory for entry (Uganda notice, 2 October 2026)."
       }
     },
     {
@@ -3461,9 +3461,9 @@
       "passport": "NZ",
       "destination": "Thailand",
       "fields": {
-        "stay": "30 days"
-      },
-      "checked": "2026-11-12"
+        "stay": "30 days",
+        "note": "Stay: the Thai Cabinet's cut of the exemption from 60 to 30 days for most countries (Royal Gazette, 31 August 2026) took effect 15 September 2026.\nBring: a passport valid 6 months, a confirmed ticket out within 30 days, and funds of at least NZD 2,000.\nLand borders: entries are capped at twice per calendar year under the new 30-day exemption.\nArrival card: the Thailand Digital Arrival Card is compulsory for all non-Thais, free, and must be submitted within 3 days before arrival."
+      }
     },
     {
       "passport": "NZ",
@@ -3898,7 +3898,7 @@
       "passport": "NZ",
       "destination": "Tanzania",
       "fields": {
-        "note": "New Zealand is explicitly excluded from Tanzania's Commonwealth waiver, so you need a visa — obtainable on arrival or online in advance, with online taking about ten days. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.",
+        "note": "Visa: New Zealand is explicitly excluded from Tanzania's Commonwealth waiver, so you need a visa. Get it on arrival or online in advance, with online taking about ten days.\nInsurance: since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days. Buy it from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar.\nHealth form: fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.",
         "cost": "USD 50 ordinary visa; plus USD 44 mandatory travel insurance"
       }
     },
@@ -4798,7 +4798,7 @@
       "passport": "NZ",
       "destination": "South Sudan",
       "fields": {
-        "note": "A visa must be held before you travel — South Sudan does not reliably issue one on arrival. THERE IS NO SOUTH SUDANESE MISSION IN NEW ZEALAND, confirmed on South Sudan's own register of missions abroad, so the online portal or a mission in a third country are the only routes. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. The Washington embassy has suspended WALK-IN service only (mail-in applications are still accepted) — the e-visa portal itself is not reported suspended."
+        "note": "Visa: must be held before you travel. South Sudan does not reliably issue one on arrival.\nMissions: there is no South Sudanese mission in New Zealand, confirmed on South Sudan's own register of missions abroad. The online portal or a mission in a third country are the only routes.\nWashington: the embassy has suspended walk-in service only (mail-in applications are still accepted). The e-visa portal itself is not reported suspended.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -8070,6 +8070,146 @@
       "destination": "South Korea",
       "fields": {
         "note": "Visa: visa-free entry for 90 days is permanent under the Korea–New Zealand agreement.\nK-ETA: visa-free travellers normally need one, but it has been waived for New Zealand since April 2023. That exemption runs only to 31 December 2026 and has already been extended three times. Re-check before booking anything into 2027. If it lapses, you need a K-ETA before boarding.\nVoluntary K-ETA: you may apply for one meanwhile, but the only benefit is skipping the arrival card and the fee is non-refundable."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Spain",
+      "fields": {
+        "note": "Area: Schengen.\nBilateral agreement: unlike Germany, Italy, France and a dozen others, Spain holds no bilateral agreement with New Zealand, so there are no extra days here.\nPassport: must be valid 3 months beyond departure from the Schengen area and issued within the previous 10 years.\nETIAS: not in operation yet.\nEntry/Exit System: live, so you can no longer track your 90/180 from passport stamps."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Sri Lanka",
+      "fields": {
+        "note": "ETA: New Zealand is one of 40 nationalities getting the tourist ETA free from 25 May 2026. The authorisation is still mandatory. Only the fee is waived.\nApply: before you travel, on the immigration department's own portal.\nSecond entry: uses the balance of the same 30 days, not a fresh 30."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Sudan",
+      "fields": {
+        "note": "Portal: no traveller-facing official portal exists for this destination. Sudan is in armed conflict and no functioning national immigration site could be reached.\nPermit: Sudan's own embassies say a sponsor must first obtain an entry permit number from the Aliens Department in Khartoum before any visa can be issued. Fees differ by mission.\nGood to know: treat this as apply-through-an-embassy-if-at-all."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Suriname",
+      "fields": {
+        "note": "Visa: Suriname abolished the visa for most nationalities in 2022 and replaced it with a compulsory Entry Fee. You buy the voucher online before departure and show it at check-in. Calling it visa-free would mislead you into boarding without it.\nVisa-required list: New Zealand is not on the 21-country visa-required list.\nTourist card: there is no tourist card for New Zealanders."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Svalbard",
+      "fields": {
+        "note": "Visa: the Governor of Svalbard states that foreigners need no visa, work permit or residence permit from the Norwegian authorities in order to travel there. The Norwegian Directorate of Immigration confirms \"you do not need a separate residence permit or visa to be allowed to stay on Svalbard\".\nStay: there is no maximum stay set by immigration rules.\nSchengen: Svalbard is outside the Schengen area but essentially every route there transits mainland Norway, which is inside it. So your days in mainland Norway count against the Schengen 90/180 allowance even though your days on Svalbard do not.\nSupport: everyone must be able to support themselves there. There is no welfare safety net, and the Governor can require you to leave if you cannot."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Sweden",
+      "fields": {
+        "note": "Area: Schengen, plus one of only three bilateral agreements with usable published rules.\nETIAS: not in operation yet.\nEntry/Exit System: live.\nBilateral agreement: Sweden holds a 1.7.1948 bilateral visa waiver agreement with New Zealand allowing 3 months, listed by the European Commission as an extension-of-stay agreement (ordinary passports).\nGuidance: Sweden does publish traveller guidance, with a worked example. 90 days visa-free in France then a further 90 in Sweden is fine.\nCounting rule: time already spent in Sweden or any other Nordic country in the previous six months is deducted. Time in non-Nordic Schengen states is not.\nBorder: Sweden publishes nothing on border procedure or the Entry/Exit System."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Switzerland",
+      "fields": {
+        "note": "Area: Schengen (via the bilateral arrangements with the EU, not EU membership).\nETIAS: not in operation yet.\nEntry/Exit System: live.\nBilateral agreement: Switzerland holds a 1.8.1948 bilateral visa waiver agreement with New Zealand allowing 90 days, listed by the European Commission as an extension-of-stay agreement (all passports).\nConditions: strict. Switzerland states them outright. Stay in Switzerland only for the extra period, carry credible evidence of your time there (accommodation receipts, transport tickets, ATM slips), and leave the whole Schengen Area directly from a Swiss external border. Flying onward to another Schengen country afterwards is expressly not permitted.\nCaveat: this is embassy guidance and is not mirrored in the migration secretariat's own instructions to border guards."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Syria",
+      "fields": {
+        "note": "Visa: required.\nOfficial site: Syria's foreign ministry site loads but offers consular services for Syrian nationals only, and its eVisa site was not working when checked on 16 Oct 2026.\nRules: the ministry says entry rules are set by Decision No. 128 of 1 July 2025, which it has not published online.\nBefore you fly: contact a Syrian embassy before you travel."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Taiwan",
+      "fields": {
+        "note": "Visa: visa-exempt for 90 days, counted from the day after arrival. It cannot be extended for New Zealanders. Only Canadian and British passport holders can extend.\nPassport: must have 6 months validity.\nBring: a confirmed onward ticket.\nArrival card: the Taiwan Arrival Card has been compulsory since 1 October 2025 and is free. Without it you cannot clear immigration."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Tajikistan",
+      "fields": {
+        "note": "Visa: visa-free since January 2022 and still current.\nPermit: a separate permit is needed for the Gorno-Badakhshan region. That is the Pamir Highway, Khorugh, Darvoz, Vanj, Rushon, Ishkoshim and Murghob.\nFee: the permit costs USD 20 when issued alongside an e-visa. Tajik embassies and consulates issue it, or you can apply online before you arrive."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Tokelau",
+      "fields": {
+        "note": "Visa: Tokelau is a New Zealand territory, so no permit is needed to enter.\nStay: a New Zealand citizen who is not a Tokelauan may not stay past 10 days without a permit.\nGetting there: there is no airport. You sail from Apia in Samoa, the boat runs fortnightly and takes 24 to 32 hours each way, so a realistic round trip will usually exceed 10 days and need a permit."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Trinidad and Tobago",
+      "fields": {
+        "note": "Visa: required. Trinidad and Tobago exempts the Commonwealth but carves out eleven states by name, and New Zealand is one of them, alongside Australia, Fiji, South Africa and Nigeria. So you need a visa despite the Commonwealth tie.\nArrival card: since March 2026 every traveller must complete the free online arrival or departure card, up to 72 hours before travel."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Tunisia",
+      "fields": {
+        "note": "Visa page: there is no traveller-facing visa page. The foreign ministry site (www.diplomatie.gov.tn) loads, but its visa page returns 404.\nOther sites: the Ministry of the Interior and its administrative services portal publish only an application form for foreigners already resident, not an entry rule. No gov.tn domain publishes a visa-exempt country list.\nWashington embassy: it sits on a .org rather than a gov.tn domain, so it is not treated as authoritative here.\nContact: a Tunisian consulate directly."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Turkmenistan",
+      "fields": {
+        "note": "Visa: one of the hardest anywhere. You cannot get one without a letter of invitation certified by the State Migration Service, valid only 3 months from certification.\nTourists: those with no personal host must go through a Turkmen travel agency.\nAirport: a visa can be collected at Ashgabat airport, but only if you already hold the certified invitation. That is not visa on arrival in any useful sense."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Tuvalu",
+      "fields": {
+        "note": "Visa: Tuvalu issues a visitor's permit on arrival.\nFee: New Zealand is not on the schedule of countries exempt from the permit fee, so expect to pay AUD 100. Australia is not on it either, while the UK, Fiji, Kiribati, Tonga and Samoa are.\nStay: visitors are capped at 3 months in any 12."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Ukraine",
+      "fields": {
+        "note": "Status: not fully confirmed, so re-check before travelling.\nMartial law: Ukraine is under martial law and entry conditions can change without notice. Regional access is restricted and the occupied territories need a separate permit.\nConflicting sources: Ukraine's own missions contradict each other. The embassy accredited to New Zealand says no visa is needed, while its missions in the US list New Zealand as e-visa eligible. Ukraine's foreign ministry table, the authoritative source, could not be checked."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "United Kingdom",
+      "fields": {
+        "note": "ETA: required since 8 January 2025. The fee rose from GBP 16 to GBP 20 on 8 April 2026.\nCoverage: one ETA covers the UK, Jersey, Guernsey and the Isle of Man for 2 years of multiple journeys, or until your passport expires. Technically these are four separate schemes that recognise each other, so if you are visiting more than one, apply to whichever you will spend most time in.\nTransit: not needed for airside transit where you do not pass through border control."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "United States",
+      "fields": {
+        "note": "Visa: New Zealand is in the Visa Waiver Program, so you need an approved ESTA before boarding and an e-passport with an electronic chip.\nESTA: approval lasts 2 years or until your passport expires.\nStay: Visa Waiver admission cannot be extended and you cannot change status inside the US.\nFee: inflation-adjusted every US financial year, so re-check it after 1 October."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Vanuatu",
+      "fields": {
+        "note": "Visa: New Zealand is on Vanuatu's exempted list, though Vanuatu's own wording is that you 'obtain a tourist visa upon arrival'. There is no advance application either way.\nStay: 120 days is the visa's maximum and it cannot be extended. What an officer actually stamps is not published, and 120 days is far more generous than commonly assumed, so check your stamp."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Venezuela",
+      "fields": {
+        "note": "Visa: the foreign ministry's exemption list naming New Zealand is expressly for entry by air. Nothing official covers land or sea arrivals, so do not assume an overland crossing from Colombia or Brazil is visa-free.\nStay: the immigration authority publishes nothing at all for prospective visitors, but the foreign ministry's own migratory-requirements page sets a maximum tourist stay of 90 days."
       }
     }
   ],
