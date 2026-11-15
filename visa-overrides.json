@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:29:49Z",
+  "generated_at": "2026-11-15T14:30:21Z",
   "entries": [
     {
       "passport": "CA",
@@ -325,7 +325,7 @@
       "fields": {
         "apply": "Online at evisamada.gov.mg, 1 week to 6 months ahead, or on arrival at the eVisa counters",
         "cost": "EUR 30 (1–15 days), EUR 35 (16–30), EUR 40 (31–60) or EUR 50 (61–90), on arrival",
-        "note": "Apply 1 week to 6 months before departure; approval comes within 72 hours and must be shown on arrival, printed or on a phone. The same visa is sold on arrival at the eVisa counters at the same price. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Apply: 1 week to 6 months before departure. Approval comes within 72 hours and must be shown on arrival, printed or on a phone.\nOn arrival: the same visa is sold at the eVisa counters at the same price.\nScam warning: apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -691,9 +691,9 @@
       "passport": "DE",
       "destination": "Nauru",
       "fields": {
-        "stay": "30 days (tourist visa)"
-      },
-      "checked": "2026-10-21"
+        "stay": "30 days (tourist visa)",
+        "note": "Visa: get a Visitor's Visa before travelling. There is no visa-free or on-arrival option. No sponsorship letter needed.\nDocuments: certified passport ID-page copies, a passport photo, a police clearance covering the last 12 months' residence, and a medical fitness certificate.\nPassport: must not expire within 3 months of applying."
+      }
     },
     {
       "passport": "CA",
@@ -1204,9 +1204,9 @@
       "passport": "DE",
       "destination": "Lebanon",
       "fields": {
-        "stay": "30 days from your arrival date, extendable to 90 days in total"
-      },
-      "checked": "2026-10-22"
+        "stay": "30 days from your arrival date, extendable to 90 days in total",
+        "note": "Visa: on arrival at the airport for tourist stays up to 1 month, or in advance from a Lebanese mission. Tourist visas are free.\nPassport: valid 6+ months at entry.\nIsrael stamps: entry is regularly refused if the passport shows a prior stay in Israel, including Israeli stamps or Jordanian/Egyptian exit stamps to Israel."
+      }
     },
     {
       "passport": "NL",
@@ -2551,7 +2551,7 @@
       "destination": "Kazakhstan",
       "fields": {
         "apply": "Up to 30 days: no visa needed. Apply for an ETA through the QazETA app before you travel. It is being phased in by border crossing: since 1 November 2026 at Aktau airport and the land crossings Urljutobe, Auhatty, Atameken and Nurly Zhol; from 1 January 2027 at Astana and Almaty airports; from 1 March 2027 at all other crossings; mandatory from 1 July 2027. Longer than 30 days: visa applied for in advance at a Kazakh embassy or consulate",
-        "note": "No visa is needed for stays up to 30 days. An ETA via the QazETA app is being phased in by border crossing and becomes mandatory on 1 July 2027; until then travellers without one may be told they need it but, according to the Kazakh authorities, are not refused entry. A stay beyond 30 days needs a visa applied for in advance at a Kazakh embassy or consulate."
+        "note": "Visa: not needed for stays up to 30 days.\nETA: via the QazETA app. It is being phased in by border crossing and becomes mandatory on 1 July 2027. Until then, travellers without one may be told they need it but, according to the Kazakh authorities, are not refused entry.\nLonger stay: a stay beyond 30 days needs a visa applied for in advance at a Kazakh embassy or consulate."
       }
     },
     {
@@ -3014,7 +3014,7 @@
       "passport": "DE",
       "destination": "Namibia",
       "fields": {
-        "note": "Visa required since 1 April 2025, available on arrival or as an e-visa. Passport must be valid at least 6 months beyond the trip with at least 3 blank pages. Travellers under 18 need a full unabridged birth certificate showing both parents' details, or an affidavit of consent if not travelling with both parents or legal guardians."
+        "note": "Visa: required since 1 April 2025. Available on arrival or as an e-visa.\nPassport: must be valid at least 6 months beyond the trip, with at least 3 blank pages.\nUnder 18: travellers need a full unabridged birth certificate showing both parents' details, or an affidavit of consent if not travelling with both parents or legal guardians."
       }
     },
     {
@@ -3095,7 +3095,7 @@
       "passport": "DE",
       "destination": "Gabon",
       "fields": {
-        "note": "Air arrival at Léon Mba International Airport, Libreville only — no land or sea entry. Passport must be valid for at least three months after the visa expires. Colour photo (35×45mm) taken within the last 6 months, no shadow. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Entry: by air only, at Léon Mba International Airport, Libreville. No land or sea entry.\nPassport: must be valid for at least three months after the visa expires.\nPhoto: colour, 35×45mm, taken within the last 6 months, no shadow.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4324,7 +4324,7 @@
       "passport": "DE",
       "destination": "Cote d'Ivoire",
       "fields": {
-        "note": "Passport valid 6+ months beyond the end of the requested stay. Upload the passport ID page, a round-trip flight booking, and an invitation letter or accommodation certificate — missing any one means automatic rejection. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Passport: valid 6+ months beyond the end of the requested stay.\nUpload: the passport ID page, a round-trip flight booking, and an invitation letter or accommodation certificate. Missing any one means automatic rejection.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4618,7 +4618,7 @@
       "passport": "DE",
       "destination": "Guinea-Bissau",
       "fields": {
-        "note": "A visa is required: apply in advance at the Guinea-Bissau embassy in Brussels, or get one on arrival at the airport (EUR 80 for 30 days) — not available at land borders. Passport must be valid six months beyond the trip. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Sites claiming to be the official e-visa (e.g. rgb-visa.com) are not confirmed as government-run — don't pay them."
+        "note": "Visa: required. Apply in advance at the Guinea-Bissau embassy in Brussels, or get one on arrival at the airport (EUR 80 for 30 days). Not available at land borders.\nPassport: must be valid six months beyond the trip.\nScam warning: sites claiming to be the official e-visa (e.g. rgb-visa.com) are not confirmed as government-run. Don't pay them.\nYellow fever: certificate required for every arriving traveller aged 1 year and over."
       }
     },
     {
@@ -4674,7 +4674,7 @@
       "passport": "DE",
       "destination": "Mali",
       "fields": {
-        "note": "The Embassy of Mali in Berlin (ambassademali.de) serves Germany, and also covers Austria, Poland, Denmark, Sweden, Iceland, Finland, Norway, Estonia, Latvia and Lithuania. Visa submissions are accepted Monday–Thursday 10:00–15:00; collection only by embassy invitation. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Embassy: the Embassy of Mali in Berlin (ambassademali.de) serves Germany, and also covers Austria, Poland, Denmark, Sweden, Iceland, Finland, Norway, Estonia, Latvia and Lithuania.\nVisa submissions: Monday–Thursday 10:00–15:00. Collection is only by embassy invitation.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4730,7 +4730,7 @@
       "passport": "DE",
       "destination": "Niger",
       "fields": {
-        "note": "Visa required in advance from a Nigerien mission — Niger maintains a mission in Berlin serving German residents directly. Air-side transit without leaving the airport is exempt. Passport valid 6 months. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: required in advance from a Nigerien mission. Niger maintains a mission in Berlin serving German residents directly.\nTransit: air-side transit without leaving the airport is exempt.\nPassport: valid 6 months.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5003,7 +5003,7 @@
       "passport": "DE",
       "destination": "Nigeria",
       "fields": {
-        "note": "Germany is not named on any exemption list on Nigeria's Immigration Service site — no waiver list exists at all; the Tourism Visa e-Visa class applies uniformly. Two mandatory online forms also apply: the Landing and Exit Card, and a health declaration. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: Germany is not named on any exemption list on Nigeria's Immigration Service site. No waiver list exists at all, and the Tourism Visa e-Visa class applies uniformly.\nForms: two mandatory online forms also apply, the Landing and Exit Card and a health declaration.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5171,7 +5171,7 @@
       "passport": "DE",
       "destination": "Guinea",
       "fields": {
-        "note": "Apply with a return ticket and a scan of the passport data page. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. On arrival show the Entry Visa Letter, a passport valid more than 6 months, proof of funds, the return ticket and proof of accommodation; the visa sticker, photo and fingerprints are done at the counter. Fees are non-refundable if refused."
+        "note": "Apply: with a return ticket and a scan of the passport data page.\nOn arrival show: the Entry Visa Letter, a passport valid more than 6 months, proof of funds, the return ticket and proof of accommodation. The visa sticker, photo and fingerprints are done at the counter.\nFee: non-refundable if refused.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5297,7 +5297,7 @@
       "passport": "DE",
       "destination": "Gambia",
       "fields": {
-        "note": "A USD 20 airport security fee (or GMD 1,000, or the EUR/GBP equivalent) is payable in cash at airport kiosks on arrival and departure; infants 1 and under and transit passengers are exempt. It is not a visa fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. Passport valid for the whole stay."
+        "note": "Fee: USD 20 airport security fee (or GMD 1,000, or the EUR/GBP equivalent), payable in cash at airport kiosks on arrival and departure. Infants 1 and under and transit passengers are exempt. It is not a visa fee.\nPassport: valid for the whole stay.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5472,7 +5472,7 @@
       "passport": "DE",
       "destination": "Cabo Verde",
       "fields": {
-        "note": "No visa needed for tourist stays up to 30 days, but online pre-registration (EASE) is required before travel. Stays over 30 and up to 90 days need a visa from Cabo Verde's embassy in Berlin. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: not needed for tourist stays up to 30 days, but online pre-registration (EASE) is required before travel.\nLonger stay: stays over 30 and up to 90 days need a visa from Cabo Verde's embassy in Berlin.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -5535,7 +5535,7 @@
       "passport": "DE",
       "destination": "Djibouti",
       "fields": {
-        "note": "A cash visa on arrival in USD is available alongside the eVisa. Passport valid 6+ months after arrival. Evidence of onward travel required. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: a cash visa on arrival in USD is available alongside the eVisa.\nPassport: valid 6+ months after arrival.\nBring: evidence of onward travel.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5654,7 +5654,7 @@
       "passport": "DE",
       "destination": "Eswatini",
       "fields": {
-        "note": "Visa-exempt. Passport valid 3+ months after arrival with at least 2 blank pages. Check the entry stamp carries the correct date — a wrong date can lead to refused re-entry for up to a year. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: not needed.\nPassport: valid 3+ months after arrival, with at least 2 blank pages.\nEntry stamp: check it carries the correct date. A wrong date can lead to refused re-entry for up to a year.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -5724,7 +5724,7 @@
       "passport": "DE",
       "destination": "Ethiopia",
       "fields": {
-        "note": "Passport valid 6+ months from intended entry date; one recent passport-size photo required. Processing time is normally 3 days. Use only the official portal, evisa.gov.et. Other websites that offer to submit the application for you are not operated by the Government of Ethiopia and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Passport: valid 6+ months from intended entry date.\nPhoto: one recent passport-size photo required.\nProcessing: normally 3 days.\nScam warning: use only the official portal, evisa.gov.et. Other websites that offer to submit the application for you are not operated by the Government of Ethiopia and may charge an additional fee.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5794,7 +5794,7 @@
       "passport": "DE",
       "destination": "Kenya",
       "fields": {
-        "note": "Ordinary passports need an eTA. Apply at least 2 weeks before travel; processing normally 3 working days. Passport valid at least 6 months with one blank page. Have a photo, itinerary, accommodation booking and payment method ready. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: ordinary passports need an eTA. Apply at least 2 weeks before travel. Processing normally takes 3 working days.\nPassport: valid at least 6 months, with one blank page.\nHave ready: a photo, itinerary, accommodation booking and payment method.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -5878,7 +5878,7 @@
       "passport": "DE",
       "destination": "Malawi",
       "fields": {
-        "note": "Germany's Category Two status is inferred by analogy with Hop's already-verified CA/NZ baseline; auswaertiges-amt.de's Malawi page did not expose a reachable entry-requirements sub-page. Passport must be valid at least 6 months beyond arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Source note: Germany's Category Two status is inferred by analogy with Hop's already-verified CA/NZ baseline. The Malawi page on auswaertiges-amt.de did not expose a reachable entry-requirements sub-page.\nPassport: must be valid at least 6 months beyond arrival.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5941,7 +5941,7 @@
       "passport": "DE",
       "destination": "Mayotte",
       "fields": {
-        "note": "Mayotte is in the EU but outside Schengen. As an EU citizen, no visa or formality is needed to enter and stay up to 3 months; longer stays follow EU free-movement residence rules. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Schengen: Mayotte is in the EU but outside Schengen.\nEntry: as an EU citizen, no visa or formality is needed to enter and stay up to 3 months. Longer stays follow EU free-movement residence rules.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -6004,7 +6004,7 @@
       "passport": "DE",
       "destination": "Mozambique",
       "fields": {
-        "note": "Germany is on Mozambique's ETA list (all passport types, 30 days, tourism or business). The ETA is a pre-travel permission, not a visa. For stays over 30 days or other purposes, apply for a full eVisa instead. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "ETA: Germany is on Mozambique's ETA list (all passport types, 30 days, tourism or business). The ETA is a pre-travel permission, not a visa.\nLonger stay: for stays over 30 days or other purposes, apply for a full eVisa instead.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -7260,6 +7260,27 @@
       "destination": "Antarctica",
       "fields": {
         "note": "Approval: Germany's Federal Environment Agency (Umweltbundesamt, UBA) says Germans planning an Antarctic activity need its approval, and names tourists among those who apply.\nBefore you book: use an IAATO-member tour operator, and check with the operator or the UBA whether your trip needs German approval.\nSeason: October-April.\nGood to know: the departure country (commonly Argentina or Chile) has its own entry rules."
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Georgia",
+      "fields": {
+        "note": "Insurance: since 1 January 2026, entry requires foreign health insurance for the whole stay covering at least GEL 30,000 (about EUR 10,000), printed or electronic, in English or Georgian.\nWork, study or family: for these, get a residence permit at a Public Service Hall in time to be granted within the 360-day visa-free period."
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Honduras",
+      "fields": {
+        "note": "Passport: valid 6+ months from arrival.\nEntry stamp: make sure your passport is stamped. Some CA-4 land borders don't stamp, and a missing stamp can bring a fine of up to USD 250.\nPre-register: at prechequeo.inm.gob.hn before arrival and departure, and carry the confirmation.\nStay: the CA-4 allowance is 90 days from first entry. An extension is possible, up to 120 days in total in the CA-4 area."
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Liechtenstein",
+      "fields": {
+        "note": "Entry: EEA nationals may enter with a valid travel document.\nPermit: needed for any gainful activity, or for a stay without work of more than three months within six months. A non-working permit needs sufficient means and comprehensive health insurance.\nRegister: a permit holder must register with the municipal residents' office within eight days of arrival."
       }
     }
   ],
