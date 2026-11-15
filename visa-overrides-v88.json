@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:29:02Z",
+  "generated_at": "2026-11-15T14:29:49Z",
   "entries": [
     {
       "passport": "CA",
@@ -56,6 +56,13 @@
       }
     },
     {
+      "passport": "CA",
+      "destination": "Uganda",
+      "fields": {
+        "note": "Visa: Canada is not on Uganda's visa-exempt list. Apply online. Biometrics are captured on arrival.\nYellow fever: A certificate is no longer mandatory for entry (Uganda notice, 2 October 2026).\nExtension: The East Africa Tourist Visa (USD 100, multiple entry, 90 days) covers Uganda, Kenya and Rwanda only. It cannot be extended once you are in the country.\nGood to know: Uganda's '90 days approval validity' is the window in which you must travel, not the stay."
+      }
+    },
+    {
       "passport": "AU",
       "destination": "India",
       "fields": {
@@ -74,6 +81,14 @@
         "stay": "30 days from arrival on the 30-day e-Tourist Visa; 1- and 5-year versions: up to 180 days per calendar year"
       },
       "checked": "2026-11-12"
+    },
+    {
+      "passport": "CA",
+      "destination": "Yemen",
+      "fields": {
+        "apply": "In advance from the nearest Yemeni embassy or consulate",
+        "note": "Visa: A visa must be obtained well in advance from the nearest Yemeni diplomatic mission. There is no independent visa on arrival.\nGood to know: Register your passport if staying more than 14 days.\nGood to know: Entry may be refused if the passport shows Israeli visas or stamps, or Egyptian or Jordanian stamps from an office bordering Israel.\nGood to know: The Government of Canada cannot facilitate your entry or exit.\nGood to know: Entry arrangements for Socotra differ in practice from the mainland and cannot be verified against any official portal."
+      }
     },
     {
       "passport": "AU",
@@ -342,6 +357,14 @@
         "apply": "Before arrival, from a Syrian embassy or consulate in your country of residence · travel.state.gov. The Syrian Embassy in Washington has suspended all consular services since 18 March 2014.",
         "cost": "Not verified — travel.state.gov gives no fee",
         "note": "According to Syrian law, only Syrian diplomatic missions can issue a valid entry visa to Syria. Get your visa before arrival from a Syrian mission in your country of residence. The Syrian Embassy in Washington has suspended all consular services since 18 March 2014."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Vanuatu",
+      "fields": {
+        "stay": "30 days",
+        "note": "Visa: Canada is named on Vanuatu's exempted-countries list under Americas and Caribbean.\nBring: A return ticket or satisfactory means of onward travel, and evidence of funds.\nGood to know: No commercial, employment or business activity is permitted, and the tourist stay cannot be extended.\nFee: The 5,150 VT figure that appears on Vanuatu's site is the visa charge for non-exempt nationalities and does not apply to you."
       }
     },
     {
@@ -654,6 +677,14 @@
     },
     {
       "passport": "CA",
+      "destination": "United Kingdom",
+      "fields": {
+        "stay": "Up to 180 days per entry",
+        "note": "Before you fly: Canadians need a UK Electronic Travel Authorisation before travelling. It is digital, linked to your passport and allows multiple journeys. It lasts 2 years or until the passport expires, whichever comes first.\nGood to know: The same ETA also covers Jersey, Guernsey and the Isle of Man. It does not cover Gibraltar.\nGood to know: It does not guarantee entry. A Border Force officer still decides at the border."
+      }
+    },
+    {
+      "passport": "CA",
       "destination": "Monaco",
       "fields": {
         "stay_days": 90,
@@ -761,6 +792,13 @@
       "checked": "2026-11-15"
     },
     {
+      "passport": "CA",
+      "destination": "Vietnam",
+      "fields": {
+        "note": "Visa: Vietnam's e-visa is open to citizens of all countries and territories, so Canadians are covered by an inclusive rule rather than a named list. Choose single or multiple entry when you apply.\nBefore you fly: Apply from outside Vietnam before travelling. Processing is 3-5 working days.\nStay: The 90 days is the maximum. The period actually granted is what appears on the issued e-visa."
+      }
+    },
+    {
       "passport": "US",
       "destination": "Bahamas",
       "fields": {
@@ -789,7 +827,7 @@
       "destination": "Zambia",
       "fields": {
         "stay": "90 days per calendar year",
-        "note": "Canada is on Zambia's own list of nationalities that do not require a visa — this is a genuine exemption, not merely a waived fee. Arriving by air you must hold a valid return ticket. Officers commonly stamp only 30 days even though the entitlement is 90, and extensions are then granted free at any immigration office. The KAZA UNIVISA (USD 50) also covers Zimbabwe and Botswana day trips, and Canada is on its eligible list — but it isn't needed just to enter Zambia. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: Canada is on Zambia's own list of nationalities that do not require a visa. This is a genuine exemption, not merely a waived fee.\nBring: Arriving by air you must hold a valid return ticket.\nExtension: Officers commonly stamp only 30 days even though the entitlement is 90. Extensions are then granted free at any immigration office.\nGood to know: The KAZA UNIVISA (USD 50) also covers Zimbabwe and Botswana day trips, and Canada is on its eligible list. It isn't needed just to enter Zambia.\nYellow fever: A certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -2041,7 +2079,7 @@
       "passport": "CA",
       "destination": "Togo",
       "fields": {
-        "note": "TOGO NO LONGER ISSUES VISA ON ARRIVAL. Under the new law on the policing of foreigners, all visa applications are made online before arrival. Visa exemption covers essentially the ECOWAS member countries; Canada is on the visa-required list. Apply at least 6 working days before arrival; processing takes up to 5 working days. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: Togo no longer issues visa on arrival. Under the new law on the policing of foreigners, all visa applications are made online before arrival.\nGood to know: Visa exemption covers essentially the ECOWAS member countries. Canada is on the visa-required list.\nBefore you fly: Apply at least 6 working days before arrival. Processing takes up to 5 working days.\nYellow fever: A certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -2624,7 +2662,7 @@
       "passport": "DE",
       "destination": "Burkina Faso",
       "fields": {
-        "note": "The e-visa must be applied for online before travel; applications are no longer accepted at the Burkina Faso embassy, and \"Visa on Arrival\" is explicitly discouraged. An entry form with QR code must be completed online, and can only be started from 72 hours before departure. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: apply for the e-visa online before travel. Applications are no longer accepted at the Burkina Faso embassy, and \"Visa on Arrival\" is explicitly discouraged.\nEntry form: complete it online (it has a QR code). You can only start it from 72 hours before departure.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -3842,7 +3880,7 @@
       "passport": "DE",
       "destination": "Aruba",
       "fields": {
-        "note": "Visa-free. Passport valid for the whole stay and issued within the last 10 years; onward/return ticket; proof of funds (USD 150-200 a day in a hotel, USD 100 a day with family); travel insurance of at least USD 15,000. Mandatory USD 20 Sustainability Fee via the online ED card. Elsewhere in the Caribbean Kingdom: 90 days per 180. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: visa-free.\nPassport: valid for the whole stay and issued within the last 10 years.\nBring: an onward or return ticket; proof of funds (USD 150-200 a day in a hotel, USD 100 a day with family); travel insurance of at least USD 15,000.\nFee: mandatory USD 20 Sustainability Fee via the online ED card.\nStay: elsewhere in the Caribbean Kingdom, 90 days per 180.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5644,6 +5682,111 @@
       "destination": "Thailand",
       "fields": {
         "note": "Stay: Thailand's 60-day visa exemption was revoked by Cabinet on 19 May 2026 and the tourism exemption reverts to 30 days. It takes effect 15 days after Royal Gazette publication. Canada is on the 30-day exemption table.\nBefore you fly: The Thailand Digital Arrival Card is required of all non-Thai nationals. It is free. File it within the 3 days before arrival, including the arrival date, and only at tdac.immigration.go.th.\nScam warning: Other websites that offer to fill it in for you are not operated by the Government of Thailand and may charge a fee."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Timor-Leste",
+      "fields": {
+        "note": "Visa: A visa on arrival is available to travellers of any nationality except those covered by a visa-waiver agreement. Canada is not in that waiver group.\nGood to know: It is single entry, except for travellers to Oecussi, who may receive multiple entries.\nOn arrival: A disembarkation and embarkation card must be completed on arrival."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Tonga",
+      "fields": {
+        "note": "Visa: Canada is named on Tonga's visa-on-arrival country list. The stay is 30 days, not 31.\nBring: A passport with at least 6 months validity, a valid return ticket out of the Kingdom, and proof of sufficient funds.\nFee: Ignore the USD 69 figure that circulates. That is an embassy processing fee for visas applied for abroad, not the on-arrival cost."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Trinidad and Tobago",
+      "fields": {
+        "note": "Visa: Canada is named on the Ministry of Homeland Security's own list of countries whose citizens do not require a visa. Canada is also not among the eleven Commonwealth states Trinidad and Tobago carves out of its exemption by name. Both directions confirm it.\nStay: Trinidad and Tobago publishes no permitted stay for visa-exempt visitors. The landing time is stamped at the officer's discretion."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Turkey",
+      "fields": {
+        "note": "Visa: Changed. Canadians no longer need an e-visa. Türkiye exempted Canadian ordinary passport holders from the visa requirement, announced by its missions in Canada on 8 February 2024.\nGood to know: The exemption covers ordinary passports and touristic travel only. Official and diplomatic passport holders still need a visa, as do other travel purposes such as work or study."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Turkmenistan",
+      "fields": {
+        "note": "Visa: No visa is issued without a Letter of Invitation certified by the State Migration Service. A tourist not visiting anyone in particular gets the invitation from an authorized travel agency in Turkmenistan. The invitation is valid 3 months from certification.\nGood to know: A visa can be stamped on arrival at Ashgabat airport, but only if you already hold the certified invitation. So this is not a visa on arrival in any ordinary sense."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Turks and Caicos Islands",
+      "fields": {
+        "note": "Visa: Canada is named on the TCI Border Force visa-exempt list. TCI sets its own policy and the UK ETA does not apply.\nPassport: Validity differs by nationality. Border Force states US, UK and Canadian citizens need a passport valid for the duration of stay, while other visitors need six months.\nStay: No permitted stay period is published by TCI itself."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Tuvalu",
+      "fields": {
+        "note": "Visa: A visitor's permit is granted on arrival.\nFee: Canadians pay for it. Canada is not on Tuvalu's fee-exemption schedule, though the UK, Fiji, Tonga, Nauru, Niue and dozens of others are.\nBring: A valid onward ticket.\nExtension: A permit or extension is only granted if you have not spent more than 3 months in Tuvalu in the 12 months before."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Ukraine",
+      "fields": {
+        "note": "Visa: Ukraine's MFA entry-regime table lists Canada as visa-free for up to 90 days per 180.\nGood to know: Martial law is in force and conditions on the ground change. Check the MFA and your airline before travelling.\nStay: The State Migration Service counts the 90 days by looking back 180 days from the date of the check. It operates an in-country extension procedure."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "United Arab Emirates",
+      "fields": {
+        "note": "Visa: Free visa on arrival, stamped at the port of entry. The UAE's residency directorate names Canada on its visa-on-arrival list.\nStay: The 90-day figure comes from the Government of Canada. The UAE's own portal publishes separate 30-day and 90-day categories but does not make the country lists readable. Confirm with your airline if you plan a long stay.\nPassport: Valid 6 months or more. Leave on the same passport you entered on."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "United States",
+      "fields": {
+        "note": "Visa: Canadians need no US visa and are not Visa Waiver Program travellers, so ESTA does not apply.\nGood to know: Since 11 April 2025, and under a final rule effective 29 June 2026, any foreign national aged 14 or over who stays 30 days or longer must be registered and fingerprinted. DHS named Canadians specifically as the gap. Many are admitted at land borders with no I-94, so they were never registered.\nForm G-325R: if you did not get an I-94 or an admission stamp, file Form G-325R with USCIS before day 30. Snowbirds driving south for the winter are squarely inside this.\nBring: Registered travellers 18 and over must carry their evidence of registration at all times. Wilful failure to register is punishable by a fine of up to USD 5,000 or six months' imprisonment.\nGood to know: This is about citizenship. Canadian permanent residents who are not citizens do need a visa."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "United States Virgin Islands",
+      "fields": {
+        "note": "Visa: The US Virgin Islands are inside the United States immigration zone. The INA's definition of 'United States' expressly includes them. No separate USVI visa or permit exists, and the 30-day US registration requirement applies.\nGood to know: The only USVI-specific immigration rule in the regulations is a waiver for British Virgin Islands nationals, which has no bearing on Canadians.\nGood to know: The USVI sits outside the US customs territory, so expect a customs inspection flying back to the mainland."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Uzbekistan",
+      "fields": {
+        "note": "Visa: Canada is on Uzbekistan's visa-free list in the 30-day category. No visa and no e-visa needed.\nGood to know: You must be registered at your place of stay within three days of arrival, excluding weekends and public holidays. Hotels and licensed accommodation do this automatically and issue a registration slip. Keep every slip, because they can be checked when you leave.\nGood to know: Staying in a private home means arranging the registration yourself."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Venezuela",
+      "fields": {
+        "note": "Visa: Canada is not on Venezuela's tourist-visa exemption list. The list runs to 71 countries and Canada is absent. You must hold a visa before travelling. None are issued on arrival, and the penalties for arriving without one include lengthy detention.\nGood to know: Canada's embassy in Caracas has been closed since 2019 and consular help is run remotely from Bogotá.\nPassport: Canadian-Venezuelan dual nationals must enter and leave on a Venezuelan passport."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Zimbabwe",
+      "fields": {
+        "note": "Visa: Canada is Category B. You do not apply in advance, but you must pay for and obtain a visa when you enter. You can also buy it online beforehand.\nPassport: Valid 6 months with 2 blank pages.\nGood to know: The KAZA UNIVISA is the better buy if you are doing Victoria Falls. USD 50 covers Zimbabwe and Zambia with multiple entries for up to 30 days, and permits Botswana day trips through Kazungula. Canada is eligible."
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Antarctica",
+      "fields": {
+        "note": "Approval: Germany's Federal Environment Agency (Umweltbundesamt, UBA) says Germans planning an Antarctic activity need its approval, and names tourists among those who apply.\nBefore you book: use an IAATO-member tour operator, and check with the operator or the UBA whether your trip needs German approval.\nSeason: October-April.\nGood to know: the departure country (commonly Argentina or Chile) has its own entry rules."
       }
     }
   ],
