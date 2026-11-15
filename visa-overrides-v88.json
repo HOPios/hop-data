@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:43:48Z",
+  "generated_at": "2026-11-15T14:44:31Z",
   "entries": [
     {
       "passport": "CA",
@@ -3482,7 +3482,7 @@
       "passport": "AU",
       "destination": "Togo",
       "fields": {
-        "note": "Togo no longer issues visas on arrival — apply online at voyage.gouv.tg at least 7 working days before your flight. African passport holders are exempt for stays of up to 30 days; Australia is not. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: apply online at voyage.gouv.tg at least 7 working days before your flight. Togo no longer issues visas on arrival.\nExemption: African passport holders are exempt for stays of up to 30 days. Australia is not.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -7258,6 +7258,41 @@
       "destination": "South Georgia and the South Sandwich Islands",
       "fields": {
         "note": "Visitor permit: required for essentially everyone under the Entry Control Ordinance 2022. Apply at eta.entry.gov.gs. Commercial cruise operators typically submit group bookings on passengers' behalf.\nValidity: a visitor permit is valid for 40 days (gov.gs).\nLate fee: £50 if you apply 8 days or less before arrival.\nMoney: no banks, ATMs or retail economy on the island. The Falkland Islands pound (at par with GBP) is the local currency in name only."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Sudan",
+      "fields": {
+        "note": "Visa: not granted automatically. Processing can take up to 10 working days if all documents are complete. Sudanese missions list business, official, work, humanitarian and tourist visas.\nAfter arrival: register with the Aliens' Registration Office within 3 days.\nTravel permit: internal travel needs a separate permit."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Svalbard",
+      "fields": {
+        "note": "Visa: a visa-free zone for every nationality under the Svalbard Treaty, and outside Schengen.\nGetting there: flights route through mainland Norway, which is in Schengen, so Norwegian entry rules apply both ways.\nConditions: you must be self-supporting. The Governor can require you to leave otherwise.\nSafety: polar bear protection (firearm and guide) required outside settlements."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Trinidad and Tobago",
+      "fields": {
+        "note": "Visa: Australia is excluded by name from Trinidad and Tobago's Commonwealth exemption. The Airports Authority list admits Commonwealth citizens but names eleven exceptions: Fiji, South Africa, Mozambique, Sri Lanka, New Zealand, Tanzania, Australia, Nigeria, Uganda, Cameroon and Papua New Guinea. Australia does not appear on the Ministry of Homeland Security's visa-free country list either.\nCommon mistake: assuming Commonwealth citizens are exempt gets this wrong."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Turkey",
+      "fields": {
+        "note": "Visa: visa-free for tourism and transit on an ordinary Australian passport. Older e-visa information is out of date: there is no e-visa to buy and no fee to pay.\nStay: Türkiye's foreign ministry words it as 90 days within any 180-day period.\nOfficial passports: holders still need a visa, which is the reverse of the usual pattern.\nPassport: allow six months' validity. The requirement is quoted variously as 150 days or six months beyond arrival."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Yemen",
+      "fields": {
+        "note": "Visa: tourist entry runs through Yemen's e-visa portal (yemenevisa.org) via a Yemen-accredited travel agency: a group of 10 or more, or an agency-requested urgent visa. There is no independent visa on arrival.\nRegistration: register your passport if staying more than 14 days.\nAdvisory: all governments advise against all travel to Yemen."
       }
     }
   ],
