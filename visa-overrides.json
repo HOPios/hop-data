@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T06:08:42Z",
+  "generated_at": "2026-11-15T13:32:39Z",
   "entries": [
     {
       "passport": "CA",
@@ -6880,15 +6880,6 @@
       "checked": "2026-11-14"
     },
     {
-      "passport": "CA",
-      "destination": "Tokelau",
-      "fields": {
-        "stay": "Up to 10 days on a visitor's permit",
-        "note": "Tokelau is a self-governing territory of New Zealand. Canadians don't need a visa to enter Tokelau, but they require a permit, granted by the Administrator. There is no airport: access is by boat from Apia, Samoa, usually around 24–32 hours depending on the atoll."
-      },
-      "checked": "2026-11-15"
-    },
-    {
       "passport": "UK",
       "destination": "Australia",
       "fields": {
@@ -6945,82 +6936,6 @@
       "fields": {
         "stay": "No stay limit stated by Gibraltar",
         "note": "British Overseas Territory outside the EU and Schengen; EU free movement does not apply. Irish citizens are visa-exempt and may enter with a passport or a national identity card; Gibraltar's border page gives no stay limit for them."
-      },
-      "checked": "2026-11-15"
-    },
-    {
-      "passport": "NZ",
-      "destination": "Tokelau",
-      "fields": {
-        "extension": "Possible — a visitor's permit allows up to 10 days, a residence permit up to 3 months, at the discretion of the Administrator"
-      },
-      "checked": "2026-11-15"
-    },
-    {
-      "passport": "AU",
-      "destination": "Tokelau",
-      "fields": {
-        "note": "Genuinely hard to reach. No airport — the only access is the MV Mataliki from Apia, Samoa (roughly 24–30 hours, sailing about fortnightly). Non-residents need a permit in advance, granted by the Administrator, and you must also meet Samoa's entry rules in transit.",
-        "apply": "Office for Tokelau Affairs in Western Samoa, the Administrator in New Zealand, an Administration Officer in Tokelau (or another person the Administrator designates), or any New Zealand diplomatic or consular post · tokelau.org.nz · smartraveller.gov.au"
-      },
-      "checked": "2026-11-15"
-    },
-    {
-      "passport": "US",
-      "destination": "Tokelau",
-      "fields": {
-        "note": "Genuinely hard to reach. No airport — the only access is the MV Mataliki from Apia, Samoa (roughly 24–30 hours, sailing about fortnightly). Non-residents need a permit in advance, granted by the Administrator, and you must also meet Samoa's entry rules in transit.",
-        "apply": "Office for Tokelau Affairs in Western Samoa, the Administrator in New Zealand, an Administration Officer in Tokelau (or another person the Administrator designates), or any New Zealand diplomatic or consular post · tokelau.org.nz · travel.state.gov",
-        "stay": "10 days per visitor's permit"
-      },
-      "checked": "2026-11-15"
-    },
-    {
-      "passport": "UK",
-      "destination": "Tokelau",
-      "fields": {
-        "note": "Genuinely hard to reach. No airport — the only access is the MV Mataliki from Apia, Samoa (roughly 24–30 hours, sailing about fortnightly). Non-residents need a permit in advance, granted by the Administrator, and you must also meet Samoa's entry rules in transit.",
-        "apply": "Office for Tokelau Affairs in Western Samoa, the Administrator in New Zealand, an Administration Officer in Tokelau (or another person the Administrator designates), or any New Zealand diplomatic or consular post · tokelau.org.nz · gov.uk/foreign-travel-advice/new-zealand"
-      },
-      "checked": "2026-11-15"
-    },
-    {
-      "passport": "KR",
-      "destination": "Tokelau",
-      "fields": {
-        "stay": "Up to 10 days"
-      },
-      "checked": "2026-11-15"
-    },
-    {
-      "passport": "DE",
-      "destination": "Tokelau",
-      "fields": {
-        "stay": "Up to 10 days"
-      },
-      "checked": "2026-11-15"
-    },
-    {
-      "passport": "IN",
-      "destination": "Tokelau",
-      "fields": {
-        "stay": "Up to 10 days"
-      },
-      "checked": "2026-11-15"
-    },
-    {
-      "passport": "NL",
-      "destination": "Tokelau",
-      "fields": {
-        "stay": "Up to 10 days"
-      },
-      "checked": "2026-11-15"
-    },
-    {
-      "passport": "IE",
-      "destination": "Tokelau",
-      "fields": {
-        "stay": "Up to 10 days"
       },
       "checked": "2026-11-15"
     },
