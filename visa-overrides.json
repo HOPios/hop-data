@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:37:46Z",
+  "generated_at": "2026-11-15T14:38:32Z",
   "entries": [
     {
       "passport": "CA",
@@ -299,7 +299,7 @@
       "destination": "Madagascar",
       "fields": {
         "apply": "https://evisamada.gov.mg/",
-        "note": "All nationalities are eligible and the visa can also be obtained on arrival at the e-visa counters, so in practice it is e-visa or visa on arrival. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: All nationalities are eligible and the visa can also be obtained on arrival at the e-visa counters, so in practice it is e-visa or visa on arrival.\nOfficial site: Apply through the official website of the Government of Madagascar.\nScam warning: Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee.\nYellow fever: A certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -2954,9 +2954,9 @@
       "passport": "NZ",
       "destination": "Namibia",
       "fields": {
-        "stay": "Up to 90 days"
-      },
-      "checked": "2026-11-12"
+        "stay": "Up to 90 days",
+        "note": "Visa: the old visa-free position is gone. Since 1 April 2025 New Zealanders must buy a visa on arrival, NAD 1,600 (about USD 90), or apply for an e-visa.\nStay: you are granted the days you ask for, capped at 90 in a calendar year.\nOut-of-date page: Namibia's own High Commission in London still lists New Zealand as visa-exempt. That page is stale, and the ministry's fact sheet overrides it."
+      }
     },
     {
       "passport": "AU",
@@ -4651,7 +4651,7 @@
       "passport": "NZ",
       "destination": "Mali",
       "fields": {
-        "note": "New Zealand residents can apply by email to Mali's embassy in Tokyo via the form above — the visa is emailed back, no in-person visit or posted passport needed. This route is by residence, not passport, so it does not apply if you live outside New Zealand, Australia, South Korea or the Philippines. Mali's exemption list covers ECOWAS states and a short list of others; New Zealand is not on it. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: New Zealand residents can apply by email to Mali's embassy in Tokyo via the form above. The visa is emailed back, with no in-person visit or posted passport.\nResidence: this route is by residence, not passport. It does not apply if you live outside New Zealand, Australia, South Korea or the Philippines.\nExemption: Mali's exemption list covers ECOWAS states and a short list of others. New Zealand is not on it.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4707,7 +4707,7 @@
       "passport": "NZ",
       "destination": "Niger",
       "fields": {
-        "note": "Niger's foreign ministry states every foreign national needs a Nigerien visa in the passport at the border; only airside transit is exempt. There is no Nigerien mission in New Zealand, and visa on arrival is possible only by interior ministry authorisation for travellers leaving a country where Niger has no representation. Fees are set per mission. Policy is being changed by nationality without notice. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: Niger's foreign ministry states every foreign national needs a Nigerien visa in the passport at the border. Only airside transit is exempt.\nVisa on arrival: there is no Nigerien mission in New Zealand. Visa on arrival is possible only by interior ministry authorisation, for travellers leaving a country where Niger has no representation.\nFee: set per mission.\nGood to know: policy is being changed by nationality without notice.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4980,7 +4980,7 @@
       "passport": "NZ",
       "destination": "Nigeria",
       "fields": {
-        "note": "Get the visa before you fly — Nigeria's current immigration material has no visa-on-arrival option for New Zealanders. The tourism visa needs a return ticket, confirmed accommodation or a host address, and a 180-day bank statement. Nigeria runs two official portals, so check you are on the government one. Other websites that offer to submit the application for you are not operated by the Government of Nigeria and may charge an additional fee. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: get it before you fly. Nigeria's current immigration material has no visa-on-arrival option for New Zealanders.\nTourism visa: needs a return ticket, confirmed accommodation or a host address, and a 180-day bank statement.\nPortals: Nigeria runs two official portals, so check you are on the government one.\nScam warning: other websites that offer to submit the application for you are not operated by the Government of Nigeria and may charge an additional fee.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5211,7 +5211,7 @@
       "passport": "NZ",
       "destination": "Mauritania",
       "fields": {
-        "note": "Since 5 January 2025 the e-visa must be held before boarding — it is no longer issued at the border. Biometrics are captured on arrival. New Zealand is not on Mauritania's published list of visa-waiver agreements, so it pays the rest-of-world e-visa fee. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+        "note": "Visa: since 5 January 2025 the e-visa must be held before boarding. It is no longer issued at the border.\nBiometrics: captured on arrival.\nFee: New Zealand is not on Mauritania's published list of visa-waiver agreements, so it pays the rest-of-world e-visa fee.\nYellow fever: certificate required for every arriving traveller aged 1 year and over."
       }
     },
     {
@@ -5848,7 +5848,7 @@
       "passport": "NZ",
       "destination": "Malawi",
       "fields": {
-        "note": "New Zealand is not visa-exempt for Malawi, but sits in the category that can get a visa on arrival at all designated ports — a change effective 24 February 2026. Applying online beforehand is recommended and speeds up entry. Malawi's own sources disagree on the single-entry fee (USD 50 vs USD 75). A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: New Zealand is not visa-exempt for Malawi, but sits in the category that can get a visa on arrival at all designated ports. This change took effect on 24 February 2026.\nBefore you fly: Applying online beforehand is recommended and speeds up entry.\nFee: Malawi's own sources disagree on the single-entry fee (USD 50 vs USD 75).\nYellow fever: A certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5911,7 +5911,7 @@
       "passport": "NZ",
       "destination": "Mayotte",
       "fields": {
-        "note": "Mayotte is a French overseas department outside the Schengen area, and it runs under its own decree separate from the other overseas departments — so a Schengen visa is no use here and neither is an assumption based on mainland France. New Zealand appears in the French government's Mayotte-specific exemption table with no conditions attached. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Schengen: Mayotte is a French overseas department outside the Schengen area. A Schengen visa is no use here.\nVisa: Mayotte runs under its own decree, separate from the other overseas departments, so do not assume mainland France rules apply. New Zealand appears in the French government's Mayotte-specific exemption table with no conditions attached.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -6044,7 +6044,7 @@
       "passport": "NZ",
       "destination": "New Caledonia",
       "fields": {
-        "note": "New Caledonia is French but outside the Schengen area, so this 90 days is separate from any Schengen allowance. France's own visa portal names New Zealand passport holders for New Caledonia explicitly. Stays over three months need a long-stay visa arranged before travel, and local approval slows it down considerably. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Schengen: New Caledonia is French but outside the Schengen area, so this 90 days is separate from any Schengen allowance.\nVisa: France's own visa portal names New Zealand passport holders for New Caledonia explicitly.\nLong stay: stays over three months need a long-stay visa arranged before travel. Local approval slows it down considerably.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -7832,6 +7832,111 @@
       "destination": "Liechtenstein",
       "fields": {
         "note": "Area: Liechtenstein is in Schengen through its union with Switzerland but not in the EU.\nVisa: It publishes its own entry ordinance, which adopts the EU visa list, so New Zealanders are visa-free.\nLong stays: Swiss missions take its long-stay visa applications abroad.\nGetting there: There is no airport, so you actually arrive via Switzerland or Austria.\nBilateral agreement: Liechtenstein holds a 1.8.1948 bilateral visa waiver agreement with New Zealand allowing 90 days. The European Commission lists it as an extension-of-stay agreement (all passports). No government guidance explains how to use it at the border, so do not rely on it without checking first."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Luxembourg",
+      "fields": {
+        "note": "Area: Schengen.\nBilateral agreement: Luxembourg also holds a bilateral visa waiver agreement with New Zealand dating to 1951. The European Commission lists it at 90 days, but Luxembourg publishes no guidance on how to use it, so do not rely on it at the border.\nETIAS: Not yet in operation; no start date announced.\nEntry/Exit System: The Entry/Exit System is live."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Malaysia",
+      "fields": {
+        "note": "Visa: Malaysia's Immigration Department lists New Zealand among countries needing no visa for any purpose of entry, but publishes no permitted stay anywhere on that page.\nArrival card: Complete the Malaysia Digital Arrival Card before you fly. It is an online pre-arrival form that can be filled in up to three days before arrival, and the Canadian and Dutch governments both say it is needed."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Maldives",
+      "fields": {
+        "note": "Visa: free 30-day visa on arrival, for all nationalities.\nDeclaration: submit the IMUGA Traveller Declaration online within 96 hours before arrival, and again before departure. Both are compulsory.\nBring: a confirmed onward ticket, a prepaid booking at a registered property or sufficient funds, and a passport valid at least a month."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Martinique",
+      "fields": {
+        "note": "Schengen: Martinique is a French overseas department and is not in the Schengen area. A Schengen visa gives no right of entry here, and days spent here do not count against your Schengen 90/180.\nVisa: New Zealand appears in the French government's exemption table for these territories, with no special conditions attached."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Mauritius",
+      "fields": {
+        "note": "Visa: not required. New Zealand is named in the immigration office's own country table.\nStay: no permitted stay is published for visa-free nationals anywhere.\nEntry conditions: a return ticket, adequate funds and confirmed accommodation.\nDigital form: the All-in-One Travel Digital Form is a legal requirement, not optional. Refusal or false information can mean a fine of up to MUR 500,000 and imprisonment of up to five years."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Monaco",
+      "fields": {
+        "note": "Visa: Monaco keeps no exemption list of its own. You need a Schengen visa unless your nationality is exempt, and New Zealand is.\nSchengen days: you enter through France and there is no Monegasque border check, so treat your days in Monaco as counting against the Schengen allowance.\nLong stay: stays over 90 days need a Monaco national visa via the French consulate."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Morocco",
+      "fields": {
+        "note": "Visa: New Zealand is on the visa-exempt list on Morocco's Ministry of Foreign Affairs consular portal, listed as \"Nouvelle Zélande\" on its Liste des pays dont les ressortissants sont dispensés du visa d'entrée au Maroc.\nConditions: New Zealand carries no annotation on that list. That means no AEVM travel authorisation and no shortened stay, both of which the list flags where they apply (Mali, Congo-Brazzaville and Guinea need an AEVM; Hong Kong and the Maldives are capped at 30 days).\nStay: the list states no duration for New Zealand. 3 months is the threshold in Moroccan law 02-03, beyond which any foreigner must obtain a carte d'immatriculation.\nCheck: confirm your own case at acces-maroc.ma before flying."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Myanmar",
+      "fields": {
+        "note": "Entry: single entry only. Re-entry needs a fresh visa.\nTiming: the approval letter must be used within 90 days of issue, and the 28 days runs from arrival.\nApply: through the official website of the Government of Myanmar.\nScam warning: other websites that offer to submit the application for you are not operated by the Government of Myanmar and may charge an additional fee."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Nauru",
+      "fields": {
+        "note": "Visa: get the visitor visa before you travel. Nauru has confirmed that Australians and New Zealanders need one.\nApply: on Form 7 to the Immigration Division of the Department of Justice and Border Control, in person through a representative or online.\nOn arrival: immigration officers keep your passport and return it later that day or the next morning. This surprises people."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Netherlands",
+      "fields": {
+        "note": "Area: Schengen.\nBilateral agreement: the Netherlands holds a 1.4.1949 bilateral visa waiver agreement with New Zealand allowing 90 days. It is still legally in force, and the European Commission lists it as an extension-of-stay agreement (all passports).\nUsing it: the Dutch government publishes no guidance on how a traveller actually uses it at the border. Do not count on extra days, and do not rely on it without checking first.\nETIAS: not yet in operation. No start date announced."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Nicaragua",
+      "fields": {
+        "note": "Visa: required. This is a reversal, so do not rely on any older visa-free answer.\nDecree: Disposición No. 002-2026 of Nicaragua's Dirección General de Migración y Extranjería, signed in Managua on 13 February 2026 and in force from 16 February 2026, lists New Zealand at number 86 among the nationalities that \"requieren de Visa Consultada, Categoría Migratoria C, para entrar a Nicaragua\".\nVisa-free list: New Zealand is not on the decree's visa-free list, which runs to 69 countries. Number 50 is Norway, and New Zealand is absent.\nVisa Consultada: the most restrictive category. The consulate must refer the application to Managua for authorisation before issuing, so allow substantial lead time.\nFee and stay: the decree sets no fee and no permitted stay.\nApply: through a Nicaraguan consulate well before you travel."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Niue",
+      "fields": {
+        "note": "Entry: New Zealanders enter under the free-association provisions of Niue's Immigration Act, which confirms the right of New Zealand citizens to travel to and remain in Niue. They do not enter under the visa-waiver schedule, which grants 30 days and does not list New Zealand.\nConditions: regardless of nationality, Niue requires pre-booked confirmed accommodation for the whole stay, a return or onward ticket, and a passport valid 3+ months. These are refusal-of-entry conditions, not suggestions."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Norfolk Island",
+      "fields": {
+        "note": "Visa: Norfolk Island applies Australian immigration law, so a New Zealander is granted the Special Category visa (subclass 444) on arrival, exactly as for mainland Australia.\nBorder: flights use international terminals and you clear Border Force and Biosecurity either way. Biosecurity is strict on food, plant material including wooden articles, and animal products.\nVia Sydney: you are cleared into Australia there, not on Norfolk."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "North Korea",
+      "fields": {
+        "note": "Portal: no traveller-facing official portal exists for this destination, and there is unlikely ever to be one. No reachable DPRK immigration or visa site exists. The state news site carries no entry information, and the foreign ministry and tourism domains return nothing.\nTours: all tourism runs through state-approved tour operators. No official source confirms whether tourism is currently open to Western visitors.\nGood to know: anything claiming a specific DPRK visa rule has almost certainly come from a tour operator, not the government."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "North Macedonia",
+      "fields": {
+        "note": "Visa: not needed. The Ministry of Foreign Affairs' own inbound checker, Do you need a visa?, returns \"Visa for foreign citizens: not needed\" for New Zealand.\nStay: the ministry publishes no permitted stay alongside that answer and no visa-free country list in text form, so the length of stay is not confirmed here.\nExtra route: a separate temporary decision, valid 1 January to 31 December 2026, lets holders of a valid multiple-entry British, American or Canadian visa enter for up to 15 days. That is an additional route, not a limit on the exemption above."
       }
     }
   ],
