@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:30:21Z",
+  "generated_at": "2026-11-15T14:31:04Z",
   "entries": [
     {
       "passport": "CA",
@@ -302,7 +302,7 @@
         "apply": "Apply and pay online in good time before entry; once approved, the eVisa is issued on arrival at the border crossing",
         "cost": "Paid online when applying (amount not stated)",
         "extension": "Possible in Sierra Leone under certain conditions",
-        "note": "An eVisa is required. Apply and pay online in good time before entry; once approved, it is issued on arrival at the border crossing. Passport must be valid at least six months at entry; an online health declaration (within 72 hours before travel) is required. A yellow fever vaccination certificate is required of every arriving traveller."
+        "note": "Visa: an eVisa is required. Apply and pay online in good time before entry. Once approved, it is issued on arrival at the border crossing.\nPassport: must be valid at least six months at entry.\nHealth form: an online health declaration is required, within 72 hours before travel.\nYellow fever: certificate required for every arriving traveller."
       }
     },
     {
@@ -576,7 +576,7 @@
       "destination": "Burundi",
       "fields": {
         "stay": "30 days from your arrival date, or 3 days",
-        "note": "Ireland has no resident Embassy in Burundi; queries are directed to the Burundi Embassy in London, or the Burundian Embassy in Kigali if travelling from Rwanda. Emergency passport assistance is routed via the Irish Embassy in Tanzania. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Irish Embassy: Ireland has no resident Embassy in Burundi. Queries go to the Burundi Embassy in London, or the Burundian Embassy in Kigali if travelling from Rwanda.\nEmergency passport: help is routed via the Irish Embassy in Tanzania.\nYellow fever: vaccination certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -632,7 +632,7 @@
       "destination": "Seychelles",
       "fields": {
         "stay": "Up to 90 days",
-        "note": "Seychelles issues no visas at all — every visitor, regardless of nationality, must obtain a paid Travel Authorisation online before departure, then is granted a Visitor's Permit on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: Seychelles issues no visas at all. Every visitor, regardless of nationality, must obtain a paid Travel Authorisation online before departure, then is granted a Visitor's Permit on arrival.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -808,6 +808,13 @@
       "checked": "2026-11-15"
     },
     {
+      "passport": "DE",
+      "destination": "Vietnam",
+      "fields": {
+        "note": "Visa: Germany is one of the 25 countries on Vietnam's 45-day unilateral visa-exemption list (Group 1, valid through 14 March 2028). The stay was extended to 45 days from 15 August 2023, regardless of passport type or purpose.\nE-visa: 90 days, multiple entry. Still available for longer or multiple-entry stays."
+      }
+    },
+    {
       "passport": "CA",
       "destination": "Vietnam",
       "fields": {
@@ -871,7 +878,7 @@
       "fields": {
         "visa": "vf",
         "apply": "Not required",
-        "note": "German citizens need no visa for stays of up to 90 days within 180 days. For longer stays, contact a Solomon Islands mission in advance. The only international airport is in Honiara. Arriving by sea is allowed only at official ports of entry; landing elsewhere brings heavy fines, detention and deportation at your own cost."
+        "note": "Visa: German citizens need none for stays of up to 90 days within 180 days. For longer stays, contact a Solomon Islands mission in advance.\nArriving: the only international airport is in Honiara. Arriving by sea is allowed only at official ports of entry. Landing elsewhere brings heavy fines, detention and deportation at your own cost."
       }
     },
     {
@@ -879,7 +886,7 @@
       "destination": "Turkmenistan",
       "fields": {
         "visa": "ev",
-        "note": "German citizens need a visa. Since 1 October 2026 it can be applied for online on the official website and is sent by email as a QR code. Carry a printed copy. Transit visas must still be applied for at a Turkmen embassy or consulate. The visa is not extended. All foreigners must register at the border on arrival and pay a consular fee and a registration fee. Longer stays also need registration with the State Migration Service."
+        "note": "Visa: German citizens need one. Since 1 October 2026 it can be applied for online on the official website and is sent by email as a QR code. Carry a printed copy.\nTransit: transit visas must still be applied for at a Turkmen embassy or consulate.\nExtension: the visa is not extended.\nFees and registration: all foreigners must register at the border on arrival and pay a consular fee and a registration fee. Longer stays also need registration with the State Migration Service."
       }
     },
     {
@@ -2472,7 +2479,7 @@
       "passport": "DE",
       "destination": "Tanzania",
       "fields": {
-        "note": "One visa covers Mainland Tanzania and Zanzibar — pick your first destination on the form. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. Passport valid 6+ months with a blank visa page; show a return ticket on arrival. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: one visa covers Mainland Tanzania and Zanzibar. Pick your first destination on the form.\nInsurance: since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days. Buy it from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar.\nHealth form: fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number.\nPassport: valid 6+ months with a blank visa page. Show a return ticket on arrival.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -2825,7 +2832,7 @@
       "passport": "IE",
       "destination": "Central African Republic",
       "fields": {
-        "note": "No Irish mission in the Central African Republic; the Consular Assistance Unit in Dublin (+353 1 408 2000) handles emergencies. No national visa portal — apply through the CAR Embassy in Paris, online or on paper. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Irish mission: none in the Central African Republic. The Consular Assistance Unit in Dublin (+353 1 408 2000) handles emergencies.\nVisa: there is no national visa portal. Apply through the CAR Embassy in Paris, online or on paper.\nYellow fever: vaccination certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -2888,7 +2895,7 @@
       "passport": "IE",
       "destination": "Cote d'Ivoire",
       "fields": {
-        "note": "Passport valid 6+ months from the application date. Upload the passport ID page, a round-trip flight booking, and an invitation letter or accommodation certificate — missing any one means automatic rejection. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Passport: valid 6+ months from the application date.\nUpload: the passport ID page, a round-trip flight booking, and an invitation letter or accommodation certificate. Missing any one means automatic rejection.\nYellow fever: vaccination certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -3511,7 +3518,7 @@
       "passport": "IE",
       "destination": "Congo",
       "fields": {
-        "note": "Republic of the Congo (Brazzaville), not the DRC. No e-visa or visa on arrival — get the visa in advance from a Congolese embassy, likely London for Ireland. The standard tourist visa is issued for 90 days (3 months), multiple entry. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Which Congo: this is the Republic of the Congo (Brazzaville), not the DRC.\nVisa: there is no e-visa and no visa on arrival. Get the visa in advance from a Congolese embassy, likely London for Ireland.\nStay: the standard tourist visa is issued for 90 days (3 months), multiple entry.\nYellow fever: vaccination certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -3917,7 +3924,7 @@
       "passport": "IE",
       "destination": "Aruba",
       "fields": {
-        "note": "Visa-free, 90 days per 180. Passport valid for the stay and issued within the last 10 years; onward/return ticket; funds of USD 150-200 a day (hotel) or USD 100 a day (with family); travel insurance of at least USD 15,000. USD 20 Sustainability Fee via the online ED card. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: visa-free, 90 days per 180.\nPassport: valid for the stay and issued within the last 10 years.\nBring: an onward or return ticket; funds of USD 150-200 a day (hotel) or USD 100 a day (with family); travel insurance of at least USD 15,000.\nFee: USD 20 Sustainability Fee via the online ED card.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -3973,7 +3980,7 @@
       "passport": "IE",
       "destination": "Bolivia",
       "fields": {
-        "note": "Irish citizens are in Bolivia's Group I and need no visa for tourism. No Irish Embassy in Bolivia; consular cover is from the Irish Embassy in Argentina and an Honorary Consul in Santa Cruz. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: Irish citizens are in Bolivia's Group I and need no visa for tourism.\nIrish Embassy: none in Bolivia. Consular cover comes from the Irish Embassy in Argentina and an Honorary Consul in Santa Cruz.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -4099,7 +4106,7 @@
       "passport": "IE",
       "destination": "Djibouti",
       "fields": {
-        "note": "A cash visa on arrival in USD is available alongside the eVisa. Passport valid 6+ months after arrival. Evidence of onward travel required. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: a cash visa on arrival in USD is available alongside the eVisa.\nPassport: valid 6+ months after arrival.\nBring: evidence of onward travel.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4288,7 +4295,7 @@
       "passport": "IE",
       "destination": "Ethiopia",
       "fields": {
-        "note": "Passport valid 6+ months from intended entry date; one recent passport-size photo required. Processing time is normally 3 days. Use only the official portal, evisa.gov.et. Other websites that offer to submit the application for you are not operated by the Government of Ethiopia and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Passport: valid 6+ months from intended entry date.\nBring: one recent passport-size photo.\nProcessing: normally 3 days.\nScam warning: use only the official portal, evisa.gov.et. Other websites that offer to submit the application for you are not operated by the Government of Ethiopia and may charge an additional fee.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4750,7 +4757,7 @@
       "passport": "DE",
       "destination": "Rwanda",
       "fields": {
-        "note": "Germany is not a member of the African Union, the Commonwealth or La Francophonie, so German citizens pay the standard visa-on-arrival fee rather than qualifying for the fee waiver. No prior application is required. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Fee: Germany is not a member of the African Union, the Commonwealth or La Francophonie, so German citizens pay the standard visa-on-arrival fee rather than qualifying for the fee waiver.\nVisa: no prior application is required.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -4813,7 +4820,7 @@
       "passport": "DE",
       "destination": "Sao Tome and Principe",
       "fields": {
-        "note": "As an EU citizen, Germany qualifies for São Tomé's 15-day visa-exemption law (Lei n.º 5/2015, amending Article 25 of Lei n.º 5/2008), alongside USA and CPLP citizens. For stays beyond 15 days, a visa must be obtained in advance. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: as an EU citizen, Germany qualifies for São Tomé's 15-day visa-exemption law (Lei n.º 5/2015, amending Article 25 of Lei n.º 5/2008), alongside USA and CPLP citizens.\nLonger stay: for stays beyond 15 days, a visa must be obtained in advance.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -4876,7 +4883,7 @@
       "passport": "DE",
       "destination": "Zambia",
       "fields": {
-        "note": "Visa-exempt. Air arrivals need a return ticket; land and water arrivals need enough funds for the stay and departure. The KAZA UniVisa (USD 50) also covers Zimbabwe and Botswana day trips, and Germany is on its eligible list — but it isn't needed just to enter Zambia. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: not needed.\nBring: air arrivals need a return ticket. Land and water arrivals need enough funds for the stay and departure.\nKAZA UniVisa: USD 50, also covers Zimbabwe and Botswana day trips. Germany is on its eligible list, but it isn't needed just to enter Zambia.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5824,6 +5831,55 @@
       "destination": "Liechtenstein",
       "fields": {
         "note": "Entry: EEA nationals may enter with a valid travel document.\nPermit: needed for any gainful activity, or for a stay without work of more than three months within six months. A non-working permit needs sufficient means and comprehensive health insurance.\nRegister: a permit holder must register with the municipal residents' office within eight days of arrival."
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "North Korea",
+      "fields": {
+        "note": "Visa: required. Normally issued by the North Korean embassy in Berlin (exceptionally another DPRK embassy, e.g. Beijing).\nInvitation: always required from the Korean side. Processing takes at least four weeks.\nPassport: must be valid at least three months from entry.\nExtension: possible locally only in exceptional cases."
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Oman",
+      "fields": {
+        "note": "Visa on arrival: free at the airport for tourist stays up to 14 days, with a return ticket, hotel reservation and proof of sufficient funds. The 14-day stay cannot be extended.\nLonger: for up to 30 days, a visa is available for a fee on entry. Longer multiple-entry visas (up to one year) are applied for before travel.\nPassport: travel documents must be valid at least 6 months after entry.\nOverstay: penalty of OMR 10 per day."
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Palestine",
+      "fields": {
+        "note": "Visa: there is no separate Palestinian visa. Israel controls entry to the West Bank.\nBefore travel: get an approved ETA-IL. Israeli immigration issues an entry card at the crossing that governs access to Palestinian Authority areas.\nGaza: crossings are closed, Erez from Israel, and Rafah from Egypt since 6 May 2024."
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Pitcairn Islands",
+      "fields": {
+        "note": "Visa: no advance application needed for a visit of 14 days or less on the same vessel. A short-term visitor visa is granted on arrival via a combined immigration and biosecurity declaration form.\nGetting there: there is no airport. All travel is by the Government's vessel from Mangareva (French Polynesia), at least two nights each way."
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Svalbard",
+      "fields": {
+        "note": "Visa: Svalbard is part of Norway, but the Norwegian Immigration Act does not apply, so foreigners need no visa or work and residence permit to go there.\nRequirements: everyone, foreign or Norwegian, must meet the 'rejection and expulsion' requirements, including having the means to reside.\nPassport: a valid passport or accepted ID is required for travel."
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Switzerland",
+      "fields": {
+        "note": "Stay: under the EU-Swiss free movement agreement, EU/EFTA citizens can stay without a permit for three months.\nAfter that: a permit from the cantonal authority is needed, for example a job-seeker permit or a permit for non-working persons, which needs sufficient financial means and health and accident insurance.\nRegister: those taking up residence without work must register with the local authorities within 14 days of arrival."
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Uganda",
+      "fields": {
+        "note": "Visa: apply online before travel. Biometrics are taken at the point of entry.\nApproval: lapses 90 days after approval if unused.\nYellow fever: certificate is no longer mandatory for entry (Uganda notice, 2 October 2026).\nGood to know: the East Africa Tourist Visa (USD 100, multiple entry, 90 days) covers Uganda, Kenya and Rwanda."
       }
     }
   ],
