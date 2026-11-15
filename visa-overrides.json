@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:36:11Z",
+  "generated_at": "2026-11-15T14:37:07Z",
   "entries": [
     {
       "passport": "CA",
@@ -75,7 +75,8 @@
       "passport": "NZ",
       "destination": "Germany",
       "fields": {
-        "stay": "Up to 90 days in Germany regardless of other Schengen stays"
+        "stay": "Up to 90 days in Germany regardless of other Schengen stays",
+        "note": "Visa: No visa for tourism, and no work permitted on a visa-free entry.\nEntry/Exit System: Biometric registration applies at the border.\nETIAS: Not yet in operation; no start date announced.\nBilateral agreement: Germany holds a 1.8.1972 bilateral visa waiver agreement with New Zealand allowing 3 months. The European Commission lists it as an extension-of-stay agreement (all passports).\nStay: The German Embassy in Wellington says it allows up to 90 days per stay in Germany, not counting time in other Schengen countries. You must leave Germany before re-entering for another 90 days, and the total must not exceed one year.\nGood to know: Enter and leave through a German airport so your passport is stamped. Border authorities decide each case, and the embassy cannot confirm it in writing or intervene."
       }
     },
     {
@@ -368,9 +369,8 @@
       "destination": "Denmark",
       "fields": {
         "stay": "90 days from your first entry into Denmark; time spent in Denmark in the preceding half-year is deducted; this applies regardless of earlier stays in other Schengen countries",
-        "note": "Denmark counts New Zealanders' time from first entry into Denmark rather than pooling it with the rest of Schengen, and deducts any time spent in Denmark in the preceding 6 months. This applies regardless of whether you have stayed in another Schengen country prior to entry into Denmark. ETIAS is not in force as at August 2026; the Entry/Exit System is live. Denmark holds a 1.1.1949 bilateral visa waiver agreement with New Zealand allowing 3 months, listed by the European Commission as an extension-of-stay agreement (all passports). Danish Immigration Service states 3 months counted from first entry into Denmark, less any time spent there in the preceding 6 months"
-      },
-      "checked": "2026-10-22"
+        "note": "Stay: Denmark counts New Zealanders' time from first entry into Denmark rather than pooling it with the rest of Schengen, and deducts any time spent in Denmark in the preceding 6 months. This applies regardless of whether you have stayed in another Schengen country prior to entry into Denmark.\nETIAS: Not in force as at August 2026.\nEntry/Exit System: Live.\nBilateral agreement: Denmark holds a 1.1.1949 bilateral visa waiver agreement with New Zealand allowing 3 months. The European Commission lists it as an extension-of-stay agreement (all passports).\nSource: The Danish Immigration Service states 3 months counted from first entry into Denmark, less any time spent there in the preceding 6 months."
+      }
     },
     {
       "passport": "NZ",
@@ -827,9 +827,9 @@
       "passport": "NZ",
       "destination": "Curaçao",
       "fields": {
-        "stay": "90 days a year"
-      },
-      "checked": "2026-10-22"
+        "stay": "90 days a year",
+        "note": "Good to know: Curaçao is part of the Kingdom of the Netherlands but has its own entry rules and is not in Schengen.\nBefore you fly: Every arriving traveller must complete the free online Digital Immigration Card within 7 days before departure on the official website.\nScam warning: Other websites that offer to fill it in for you are not operated by the Government of Curaçao and may charge a fee."
+      }
     },
     {
       "passport": "NZ",
@@ -1068,9 +1068,9 @@
       "passport": "NZ",
       "destination": "Falkland Islands",
       "fields": {
-        "stay": "Up to 30 days on arrival, up to 180 days if applied in advance; maximum 270 days in any year"
-      },
-      "checked": "2026-10-22"
+        "stay": "Up to 30 days on arrival, up to 180 days if applied in advance; maximum 270 days in any year",
+        "note": "Visa: No visa, but everyone needs a visitor permit, normally stamped in on arrival and free.\nRequired: A return ticket, pre-booked accommodation, sufficient funds and medical insurance covering aero-medical evacuation to at least USD 2,000,000. That insurance requirement is unusual and is enforced.\nETA: No UK ETA is needed.\nDeparture tax: GBP 40 applies from 1 January 2026."
+      }
     },
     {
       "passport": "NZ",
@@ -2029,7 +2029,7 @@
       "destination": "Eritrea",
       "fields": {
         "stay_days": 30,
-        "note": "There is no national portal: the page linked here belongs to the Washington mission, not Asmara, and its fees and forms apply there only. The application goes to an Eritrean embassy or consulate, which forwards it to the Immigration Office in Asmara — allow up to four weeks. Note that Eritrea requires exit visas of its own nationals; whether that reaches foreign tourists is not stated on any official page, so ask when you apply. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
+        "note": "Visa: There is no national portal. The page linked here belongs to the Washington mission, not Asmara, and its fees and forms apply there only. The application goes to an Eritrean embassy or consulate, which forwards it to the Immigration Office in Asmara.\nTiming: Allow up to four weeks.\nExit visas: Eritrea requires exit visas of its own nationals. Whether that reaches foreign tourists is not stated on any official page, so ask when you apply.\nYellow fever: A certificate is needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -2128,10 +2128,9 @@
       "destination": "Cook Islands",
       "fields": {
         "ext_cost": "NZD 235 for the 3-month extension",
-        "note": "No visa before travel — a New Zealand Visitor Permit is issued free at the border on the arrival card. The 3-month entitlement is tied specifically to New Zealand or Australian citizenship; other nationalities get less than 31 days. You need proof of onward travel and sufficient funds, and must be a genuine visitor not intending to work or study.",
+        "note": "Visa: No visa before travel. A New Zealand Visitor Permit is issued free at the border on the arrival card.\nStay: The 3-month entitlement is tied specifically to New Zealand or Australian citizenship. Other nationalities get less than 31 days.\nRequired: Proof of onward travel and sufficient funds. You must be a genuine visitor not intending to work or study.",
         "stay": "90 days"
-      },
-      "checked": "2026-11-15"
+      }
     },
     {
       "passport": "KR",
@@ -2865,7 +2864,7 @@
       "destination": "Cote d'Ivoire",
       "fields": {
         "visa": "ev",
-        "note": "E-visa: the only site officially recognised by the state for visa applications is SNEDAI (snedai.com); the online E-visa is for ordinary passports valid at least 6 months. New Zealand is named on Côte d'Ivoire's visa-required list. The practical route is online pre-enrolment, approval within about 48 working hours, then biometrics at the 'Visa aéroport' desk at Abidjan where the visa is printed and handed over on the spot. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "E-visa: The only site officially recognised by the state for visa applications is SNEDAI (snedai.com). The online E-visa is for ordinary passports valid at least 6 months.\nVisa: New Zealand is named on Côte d'Ivoire's visa-required list.\nHow to apply: The practical route is online pre-enrolment, approval within about 48 working hours, then biometrics at the 'Visa aéroport' desk at Abidjan, where the visa is printed and handed over on the spot.\nYellow fever: A vaccination certificate is required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4358,7 +4357,7 @@
       "passport": "NZ",
       "destination": "Democratic Republic of the Congo",
       "fields": {
-        "note": "Get the visa before you travel, either through the government e-visa portal or at a DRC embassy. FEES VARY WILDLY BY MISSION — EUR 85 in Brussels, GBP 100 in London, USD 120 in Ottawa for broadly the same one-month visa, so check the mission covering New Zealand before paying. Allow at least a week, two if it is your first trip to the DRC. Note: no DRC source publishes an exemption list, so the visa requirement is inferred from every mission selling visas with no nationality carve-out. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: Get the visa before you travel, either through the government e-visa portal or at a DRC embassy.\nFee: Fees vary widely by mission: EUR 85 in Brussels, GBP 100 in London, USD 120 in Ottawa for broadly the same one-month visa. Check the mission covering New Zealand before paying.\nTiming: Allow at least a week, two if it is your first trip to the DRC.\nSource: No DRC source publishes an exemption list, so the visa requirement is inferred from every mission selling visas with no nationality carve-out.\nYellow fever: A vaccination certificate is required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4428,7 +4427,7 @@
       "passport": "NZ",
       "destination": "French Guiana",
       "fields": {
-        "note": "French Guiana is an overseas department and is NOT in the Schengen area — a Schengen visa gives no right of entry here, and days spent here do not count against your Schengen 90/180. New Zealand is on the visa exemption list for these territories with no special conditions. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+        "note": "Good to know: French Guiana is an overseas department and is not in the Schengen area. A Schengen visa gives no right of entry here, and days spent here do not count against your Schengen 90/180.\nVisa: New Zealand is on the visa exemption list for these territories with no special conditions.\nYellow fever: A vaccination certificate is required of every arriving traveller aged 1 year and over."
       }
     },
     {
@@ -4526,7 +4525,7 @@
       "passport": "NZ",
       "destination": "Ghana",
       "fields": {
-        "note": "New Zealand appears in none of Ghana's five exemption categories, so get a visa before you travel. Note the visa gets you to the border; the officer decides how long you may stay. The e-visa fee is a flat rate, the same for every nationality. Visa on arrival is not a tourist route; it is an emergency permit at USD 200 needing pre-approval. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: New Zealand appears in none of Ghana's five exemption categories, so get a visa before you travel. The visa gets you to the border. The officer decides how long you may stay.\nFee: The e-visa fee is a flat rate, the same for every nationality.\nVisa on arrival: Not a tourist route. It is an emergency permit at USD 200 needing pre-approval.\nYellow fever: A vaccination certificate is required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5072,7 +5071,7 @@
       "passport": "NZ",
       "destination": "Equatorial Guinea",
       "fields": {
-        "note": "A visa must be arranged in advance, either through an Equatorial Guinea embassy or the online visa application form confirmed working at gov.uk (~72-hour processing). Expect to need an invitation letter, a police clearance certificate less than 3 months old and proof of about USD 1,000 per month of stay. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: A visa must be arranged in advance, either through an Equatorial Guinea embassy or the online visa application form (confirmed working at gov.uk; about 72-hour processing).\nBring: Expect to need an invitation letter, a police clearance certificate less than 3 months old and proof of about USD 1,000 per month of stay.\nYellow fever: A vaccination certificate is required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5275,7 +5274,7 @@
       "passport": "NZ",
       "destination": "Gambia",
       "fields": {
-        "note": "A visa is needed, obtainable on arrival, per the Gambia Immigration Department's own nationality list. Every arriving and departing passenger pays a USD 20 (or D1000) Securiport airport fee — that is not a visa fee and is collected separately. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: A visa is needed, obtainable on arrival, per the Gambia Immigration Department's own nationality list.\nFee: Every arriving and departing passenger pays a USD 20 (or D1000) Securiport airport fee. That is not a visa fee and is collected separately.\nYellow fever: A certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5506,7 +5505,7 @@
       "passport": "NZ",
       "destination": "Djibouti",
       "fields": {
-        "note": "Correction: a visa on arrival, paid in cash in US dollars, is also currently available (GOV.UK, checked live) — this contradicts the \"no VOA since 2018\" framing below, which described the e-visa route only. The e-visa route is open to all ordinary passport holders, and covers tourism and business only — any other purpose goes through a Djiboutian embassy or consulate. You will need a passport valid 6 months, onward travel, an accommodation address and an invitation letter. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa on arrival: A visa on arrival, paid in cash in US dollars, is also currently available.\nE-visa: The e-visa route is open to all ordinary passport holders, and covers tourism and business only. Any other purpose goes through a Djiboutian embassy or consulate.\nBring: A passport valid 6 months, onward travel, an accommodation address and an invitation letter.\nYellow fever: A certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5625,7 +5624,7 @@
       "passport": "NZ",
       "destination": "Eswatini",
       "fields": {
-        "note": "Eswatini's rule is that anyone not on its visa-required list needs no visa, and New Zealand is not on it. A further 30 days can be applied for at the Ministry of Home Affairs; beyond that you need a temporary residence permit. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: Eswatini's rule is that anyone not on its visa-required list needs no visa, and New Zealand is not on it.\nExtension: A further 30 days can be applied for at the Ministry of Home Affairs. Beyond that you need a temporary residence permit.\nYellow fever: A certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -5695,7 +5694,7 @@
       "passport": "NZ",
       "destination": "Ethiopia",
       "fields": {
-        "note": "Apply online before travel; the visa is stamped in on arrival at Addis Ababa. Only single-entry tourist visas are issued online — multiple entry goes through an embassy. Visa on arrival is mentioned by Ethiopian sources but none names New Zealand as eligible, so do not count on it. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: Apply online before travel. The visa is stamped in on arrival at Addis Ababa. Only single-entry tourist visas are issued online. Multiple entry goes through an embassy.\nVisa on arrival: Ethiopian sources mention it, but none names New Zealand as eligible, so do not count on it.\nYellow fever: A certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -7644,6 +7643,69 @@
       "destination": "Cocos (Keeling) Islands",
       "fields": {
         "note": "Territory: An Australian external territory inside the Australian migration zone, so Australian immigration law applies exactly as on the mainland.\nVisa: Presenting a valid New Zealand passport counts as applying for the Special Category visa (subclass 444), granted on arrival free of charge subject to health and character checks. It ceases when you leave and is re-granted on each entry.\nGetting there: Flights arrive via Perth, usually routing through Christmas Island, and you are cleared into Australia at Perth.\nGood to know: Biosecurity is strict and there is no hospital on the islands."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Cuba",
+      "fields": {
+        "note": "Visa: eVisaCuba, the Cuban Foreign Ministry's official electronic visa portal, states that “the tourist visa is valid for a single entry to Cuba, for a stay of 90 days, extendable for 90 days”. This is the replacement for the old paper tourist card.\nFee: The portal does not publish a fee or an exempt-nationality list, and Cuba's foreign ministry and diplomatic sites would not load at all, so the price is unconfirmed.\nNot confirmed: Two further requirements are widely applied but not stated on this portal and were not confirmed: the D'Viajeros online traveller declaration and compulsory travel medical insurance.\nTiming: Allow 72 business hours for a decision."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Dominican Republic",
+      "fields": {
+        "note": "Visa: Entry is on a Tourist Card, for tourism only. Business travel needs a consular visa.\nFee: The USD 10 card has been built into air tickets issued outside the Dominican Republic since 2018, so most travellers have already paid it.\nBefore you fly: The free electronic entry/exit form (E-Ticket) is compulsory for every passenger."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Egypt",
+      "fields": {
+        "note": "Visa: New Zealand is on Egypt's e-visa eligible list, which is the route officially confirmed for NZ passports. Apply at least 7 days before departure.\nPassport: Must be valid 6+ months.\nDo not rely on: A visa on arrival exists but no Egyptian source confirms it for New Zealanders. The often-quoted free South Sinai entry stamp for Sharm El Sheikh arrivals could not be confirmed from any Egyptian government page either. Do not rely on either."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "El Salvador",
+      "fields": {
+        "note": "Stay: The 90 days is a single allowance covering El Salvador, Guatemala, Honduras and Nicaragua together. Crossing between them does not reset the clock, and overstay is assessed regionally. Leaving the CA-4 area entirely starts a fresh period.\nNicaragua: As of 2026, Nicaragua now requires New Zealanders to hold a Visa Consultada under Disposición 002-2026. Even though Nicaragua is a CA-4 member, you cannot cross into it on this permit. Treat the practical free-movement zone as El Salvador, Guatemala and Honduras."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Faroe Islands",
+      "fields": {
+        "note": "Good to know: The Faroes are not in the Schengen area and a Schengen visa does not admit you, but New Zealanders need no visa either way.\nStay: Days spent here do count towards the same 90-in-180 total as Schengen. The Danish Immigration Service says so explicitly, so the common claim of a separate allowance is wrong."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Finland",
+      "fields": {
+        "note": "ETIAS: Not yet in operation; no start date announced.\nEntry/Exit System: The EU Entry/Exit System is live.\nStay: Staying beyond 90 days means applying for a residence permit from outside Finland, not extending in country.\nBilateral agreement: Finland holds a 1973 bilateral visa waiver agreement with New Zealand allowing 90 days. The European Commission lists it as an extension-of-stay agreement (ordinary passports). No government guidance explains how to use it at the border, so do not rely on it without checking first."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "France",
+      "fields": {
+        "note": "Stay: France gives New Zealanders an extra 90 days beyond the Schengen allowance, but only in metropolitan France and only after the Schengen 90 days. Taking the bilateral days first and then travelling elsewhere in Schengen makes you an overstayer.\nBorder: You must identify yourself to a French border officer so your Entry/Exit System record is manually adjusted.\nETIAS: Not yet in operation; no start date announced.\nBilateral agreement: France holds a 1.12.1947 bilateral visa waiver agreement with New Zealand allowing 90 days. The European Commission lists it as an extension-of-stay agreement (not stated)."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Gibraltar",
+      "fields": {
+        "note": "Change: Gibraltar's arrangements changed materially on 15 July 2026. It is not in Schengen but now aligns its short-stay visa policy with Schengen under the EU/UK treaty, and Schengen-style border checks and the Entry/Exit System apply at the airport and port.\nVisa: New Zealand is named on Gibraltar's own exemption list.\nETIAS: Will apply to Gibraltar once the system is operational (UK gov.uk foreign travel advice, checked 26 Sep 2026)."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Greece",
+      "fields": {
+        "note": "Visa: Greece's own foreign ministry table lists New Zealand as visa-free on all passport types.\nEntry/Exit System: Biometric registration is live.\nETIAS: Not yet in operation; no start date announced.\nBilateral agreement: Greece holds a 6.12.1961 bilateral visa waiver agreement with New Zealand allowing 90 days. The European Commission lists it as an extension-of-stay agreement (ordinary passports). No government guidance explains how to use it at the border, so do not rely on it without checking first."
       }
     }
   ],
