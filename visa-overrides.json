@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:42:32Z",
+  "generated_at": "2026-11-15T14:43:12Z",
   "entries": [
     {
       "passport": "CA",
@@ -431,7 +431,7 @@
       "destination": "Aruba",
       "fields": {
         "stay": "30 days on arrival; extension on request up to 90 days, depending on your funds or a local guarantee; up to 180 days if you own a home, timeshare or a 14 m+ moored yacht in Aruba, or if you are the spouse or child of a home or timeshare owner who has given a guarantee; at most 180 days in a calendar year",
-        "note": "Visa-free, but the online ED card is mandatory before arrival and a USD 20 sustainability fee applies to air arrivals. Proof of accommodation (or enough funds) and an onward ticket required. Outside the hurricane belt. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: visa-free, but the online ED card is mandatory before arrival.\nFee: USD 20 sustainability fee on air arrivals.\nBring: proof of accommodation (or enough funds) and an onward ticket.\nGood to know: outside the hurricane belt.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -2646,7 +2646,7 @@
       "passport": "US",
       "destination": "Togo",
       "fields": {
-        "note": "Togo no longer issues visas on arrival — apply online at voyage.gouv.tg at least five business days before your flight. African passport holders are exempt for stays of up to 30 days; the United States is not. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.",
+        "note": "Visa: Togo no longer issues visas on arrival. Apply online at voyage.gouv.tg at least five business days before your flight.\nGood to know: African passport holders are exempt for stays of up to 30 days. The United States is not.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.",
         "stay": "Up to 90 days (the e-visa is bought for 1-15, 16-30 or 31-90 days)"
       }
     },
@@ -3380,7 +3380,7 @@
       "destination": "Zambia",
       "fields": {
         "stay": "90 days free in any period of 12 months from the day of first entry; the days may not be granted all at once, so a free extension at an Immigration Office may be needed",
-        "note": "On Zambia's no-visa list — a genuine exemption, not a waived fee. Arriving by air you must hold a return ticket. Officers commonly stamp only 30 days though the entitlement is 90; extensions are then granted free at any immigration office. Doing Victoria Falls? The KAZA Univisa (USD 50) covers Zambia and Zimbabwe. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: on Zambia's no-visa list. This is a genuine exemption, not a waived fee.\nBring: a return ticket if arriving by air.\nStay: officers commonly stamp only 30 days though the entitlement is 90. Extensions are then granted free at any immigration office.\nGood to know: doing Victoria Falls? The KAZA Univisa (USD 50) covers Zambia and Zimbabwe.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -3913,7 +3913,7 @@
       "passport": "US",
       "destination": "Tanzania",
       "fields": {
-        "note": "eVisa or VOA. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: eVisa or visa on arrival.\nInsurance: since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days. Buy it from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar.\nHealth form: fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4350,7 +4350,7 @@
       "passport": "AU",
       "destination": "Democratic Republic of the Congo",
       "fields": {
-        "note": "DRC's e-visa portal (evisa.gouv.cd) is confirmed: it grants a 7-day, extendable Visa Aéroportuaire (VAP) for US$90 payable at the port of entry, or a full eVisa for US$300 (US$50 administrative fee plus US$250 for the visa itself), valid 3 months from issue. A DRC embassy visa arranged in advance remains an alternative route. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: apply on the e-visa portal (evisa.gouv.cd), or arrange a visa in advance at a DRC embassy.\nVisa Aéroportuaire (VAP): 7 days, extendable, US$90 payable at the port of entry.\nFull eVisa: US$300 (US$50 administrative fee plus US$250 for the visa itself), valid 3 months from issue.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4413,7 +4413,7 @@
       "passport": "AU",
       "destination": "French Guiana",
       "fields": {
-        "note": "A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Part of the EU but NOT in Schengen — a Schengen visa is not valid and ETIAS will not apply. French Guiana is not in the Schengen area; entry is governed by the arrêté du 26 juillet 2011 (as amended), which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count. Malaria prophylaxis advised for interior travel. Home to the Kourou space centre."
+        "note": "Schengen: part of the EU but not in Schengen. A Schengen visa is not valid and ETIAS will not apply.\nStay: its own allowance of 90 days per 180 days, separate from the Schengen 90/180 count, set by the arrêté du 26 juillet 2011 (as amended).\nHealth: malaria prophylaxis advised for interior travel.\nGood to know: home to the Kourou space centre.\nYellow fever: certificate required for every arriving traveller aged 1 and over."
       }
     },
     {
@@ -4777,7 +4777,7 @@
       "passport": "US",
       "destination": "Sierra Leone",
       "fields": {
-        "note": "Apply on the official e-visa portal (evisa.sl) before travel; once approved, the visa itself is issued on arrival at the airport or border. The pre-approved route is the reliable one — Sierra Leonean missions do not advertise an on-arrival alternative. A yellow fever vaccination certificate is required of every arriving traveller."
+        "note": "Visa: apply on the official e-visa portal (evisa.sl) before travel. Once approved, the visa itself is issued on arrival at the airport or border.\nGood to know: the pre-approved route is the reliable one. Sierra Leonean missions do not advertise an on-arrival alternative.\nYellow fever: certificate required for every arriving traveller."
       }
     },
     {
@@ -5057,7 +5057,7 @@
       "passport": "AU",
       "destination": "Equatorial Guinea",
       "fields": {
-        "note": "All foreign passports must present a valid visa at entry — complete the e-visa application and hold approval before arrival. A police clearance certificate under 3 months old, a letter of invitation and proof of funds are required; visas must be used within 60 days of issue. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Visa: every foreign passport needs a valid visa at entry. Complete the e-visa application and hold approval before arrival.\nDocuments: a police clearance certificate under 3 months old, a letter of invitation and proof of funds.\nValidity: use the visa within 60 days of issue.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5491,7 +5491,7 @@
       "passport": "AU",
       "destination": "Djibouti",
       "fields": {
-        "note": "Correction: a visa on arrival, paid in cash in US dollars, is also currently available (GOV.UK, checked live) — this contradicts the \"no VOA since 2018\" framing below, which described the e-visa route only. The e-visa (evisa.gouv.dj) remains a valid alternative: needs a passport valid 6 months, onward travel, an accommodation address and an invitation letter. Tourism and business only. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: an e-visa (evisa.gouv.dj) before you travel.\nE-visa needs: a passport valid 6 months, onward travel, an accommodation address and an invitation letter. Tourism and business only.\nYellow fever: certificate needed only if you are aged 1 or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5561,7 +5561,7 @@
       "passport": "AU",
       "destination": "Eritrea",
       "fields": {
-        "note": "Visa from an Eritrean mission before travel; processing is slow, so apply well ahead. Land borders with Ethiopia and Djibouti are closed, and a separate internal travel permit is required for all travel beyond 25 km from Asmara — which catches nearly every tourist itinerary. Visas are valid three months from issue. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
+        "note": "Visa: from an Eritrean mission before travel. Processing is slow, so apply well ahead. Valid three months from issue.\nBorders: land borders with Ethiopia and Djibouti are closed.\nTravel permit: a separate internal permit is required for all travel beyond 25 km from Asmara, which catches nearly every tourist itinerary.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -6254,7 +6254,7 @@
       "passport": "US",
       "destination": "Sao Tome and Principe",
       "fields": {
-        "note": "Stays under 15 days need nothing. From 15 days, apply for the e-visa online with the Migration Service (decided within 7 working days) — the fee is paid AT THE BORDER on arrival, not online. Passport valid 3+ months beyond the stay; return ticket mandatory. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: stays under 15 days need nothing. From 15 days, apply for the e-visa online with the Migration Service (decided within 7 working days).\nFee: paid at the border on arrival, not online.\nPassport: valid 3+ months beyond the stay. Return ticket mandatory.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -8469,6 +8469,97 @@
       "destination": "Palestine",
       "fields": {
         "note": "Entry: through Israeli-controlled crossings. There is no Palestinian port of entry, so Israel's rules decide whether you get in.\nGaza: not enterable by ordinary travellers.\nGood to know: carry your passport at checkpoints and expect long, unpredictable delays."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Pitcairn Islands",
+      "fields": {
+        "note": "Visa: a short-term visitor visa is granted on arrival, via a combined immigration and biosecurity declaration form, for stays of up to 14 days on the same vessel.\nLonger stays: 15 days-6 months need advance Entry Clearance, applied for to admin@pitcairn.gov.pn at least 3 months ahead, with a medical exam, chest X-ray and police certificates.\nFee: NZ$150 (non-refundable) for the Long-Term Visitor Visa. No fee for short visits.\nInsurance: mandatory travel/medical insurance with at least US$500,000 medevac cover for all visitors."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Réunion",
+      "fields": {
+        "note": "Visa: visa-free.\nSchengen: part of the EU but not in Schengen. A Schengen visa is not valid and ETIAS will not apply.\nStay: entry is governed by the arrêté du 26 juillet 2011 (as amended, the same instrument covering Guadeloupe, French Guiana, Martinique and Saint-Pierre-et-Miquelon), which sets its own 90-day-per-180-day allowance separate from the Schengen 90/180 count.\nGood to know: Piton de la Fournaise is highly active.\nSea safety: swimming and surfing are banned or restricted on much of the west coast because of shark attacks. Stick to the protected lagoons."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Saint Kitts and Nevis",
+      "fields": {
+        "note": "Visa: not visa-free in practice. Since 26 May 2025 \"every visitor must present an approved eTA before departing their country of origin and on arrival\".\nFee: only nationals and residents of Saint Kitts and Nevis, the OECS and CARICOM are exempt from the charge.\nApply: at knatravelform.kn or via the Saint Kitts and Nevis e-Border app. App applicants get the fast-track biometric corridor."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Saint Pierre and Miquelon",
+      "fields": {
+        "note": "Visa: visa-free.\nGood to know: a small French archipelago off Newfoundland. Not in Schengen.\nGetting there: access is via Canada (ferry from Fortune, Newfoundland, or flights from Montreal and Halifax), so you must also meet Canada's entry rules.\nSummer flight: a seasonal direct flight from Paris CDG also operates in summer (weekly, roughly late June to early September, run by Air Saint-Pierre with ASL Airlines France). Check current dates before relying on it."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Singapore",
+      "fields": {
+        "note": "Stay: do not plan around a guaranteed 90 days. The State Department says \"no visa is required for 90 days or less\", but Singapore itself publishes no fixed visa-free period. ICA grants a visit pass at the checkpoint and its own warning is to \"not stay beyond your Visit Pass validity\". Check the pass you are actually given.\nArrival card: the SG Arrival Card with health declaration is compulsory and free, submitted within the 3 days before arrival including the arrival day. Sites charging for it are not official."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Sint Maarten",
+      "fields": {
+        "note": "Visa: visa-free with a generous 180-day allowance, helped by the 1956 Friendship Treaty giving US citizens broadly Dutch-national treatment.\nArrival card: the ED card at entry.sx is still mandatory for everyone, including transit passengers.\nScam warning: the official ED card is free. Other websites that offer to fill it in for you are not operated by the Government of Sint Maarten and may charge a fee."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Somalia",
+      "fields": {
+        "note": "Visa: eTA mandatory for all foreign passports (AIC A 10/2025, in force since 1 Sep 2025). Apply via the Immigration & Citizenship Agency before travel.\nGood to know: the federal eTA does not reliably cover Somaliland.\nData breach: Somalia's e-visa platform previously suffered a data breach affecting travellers' personal information (Nov 2025)."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "South Georgia and the South Sandwich Islands",
+      "fields": {
+        "note": "Money: no banks, ATMs or retail economy on the island. The Falkland Islands pound (at par with GBP) is the local currency in name only.\nPermit: Entry Control Ordinance 2022 requires a visitor permit for essentially everyone, applied for via eta.entry.gov.gs. Commercial cruise operators typically submit group bookings on passengers' behalf.\nValidity: a visitor permit is valid for 40 days (gov.gs).\nFee: the £50 late fee applies if you apply 8 days or less before arrival."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Svalbard",
+      "fields": {
+        "note": "Visa: unique. A visa-free zone for every nationality under the Svalbard Treaty, and outside Schengen.\nGetting there: flights route through mainland Norway, which is in Schengen, so Norwegian entry rules apply both ways.\nBring: you must be self-supporting. The Governor can require you to leave otherwise.\nGood to know: polar bear protection (firearm and guide) is required outside settlements."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Trinidad and Tobago",
+      "fields": {
+        "note": "Visa: Trinidad and Tobago's own visa-free lists omit the United States, but the US State Department says no visa is required for stays of 90 days or less (23 April 2026). The two sources disagree. Hop follows the US government's position here.\nBring: evidence of onward travel. If in doubt, confirm with the nearest Trinidad and Tobago mission."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Yemen",
+      "fields": {
+        "note": "Visa: tourist entry now runs through Yemen's e-visa portal (yemenevisa.org) via a Yemen-accredited travel agency. This means a group of 10 or more, or an agency-requested urgent visa. There is no independent visa on arrival.\nRegistration: register your passport if staying more than 14 days."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Albania",
+      "fields": {
+        "note": "Visa: not needed for stays up to 90 days.\nPassport: valid at least 3 months beyond departure and issued within the last 10 years.\nExtension: only in exceptional cases (serious personal reasons, force majeure or humanitarian grounds), through the border and migration authority. Otherwise a longer stay needs a residence permit."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Bonaire",
+      "fields": {
+        "note": "Visa: visa-exempt.\nBonaire Visitor Entry Tax: $75 (age 13+; $10 for 12 and under), payable online up to 7 days before arrival, or by card at the airport. It is not a visa fee.\nNature Fee: anyone diving, snorkelling, swimming, windsurfing or kitesurfing also pays about $40 a year to STINAPA.\nAdvisory: Smartraveller carries no dedicated Bonaire advisory page."
       }
     }
   ],
