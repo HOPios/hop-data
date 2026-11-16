@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T07:16:45Z",
+  "generated_at": "2026-11-16T07:24:05Z",
   "entries": [
     {
       "passport": "CA",
@@ -7290,7 +7290,8 @@
       "passport": "NZ",
       "destination": "Bahrain",
       "fields": {
-        "note": "Visa: Bahrain's own eligibility engine (evisa.gov.bh) shows two visas for a New Zealand passport on a general tourist visit, both obtainable at the Arrival Counter: Visit Visa 2 Weeks Single Entry (2-week stay) and Visit Visa Three Months Multiple Entry (1 month per entry).\nOnline: The same nationality also qualifies for four visas online, including One Year and 5 Year multiple-entry options allowing 90 days per visit. Applying in advance buys a longer stay than turning up does.\nCountry lists: Ignore Bahrain's published country lists as a guide to eligibility. They name all 204 countries and mark every one “conditions apply”.\nFee: The fees shown are Bahrain’s published eVisa fees. That fee list does not cover the Arrival Counter, so check the counter fee when you arrive."
+        "note": "Visa: Bahrain's own eligibility engine (evisa.gov.bh) shows two visas for a New Zealand passport on a general tourist visit, both obtainable at the Arrival Counter: Visit Visa 2 Weeks Single Entry (2-week stay) and Visit Visa Three Months Multiple Entry (1 month per entry).\nOnline: The same nationality also qualifies for four visas online, including One Year and 5 Year multiple-entry options allowing 90 days per visit. Applying in advance buys a longer stay than turning up does.\nCountry lists: Ignore Bahrain's published country lists as a guide to eligibility. They name all 204 countries and mark every one “conditions apply”.\nFee: The fees shown are Bahrain’s published eVisa fees. That fee list does not cover the Arrival Counter, so check the counter fee when you arrive.",
+        "ext_cost": "Not verified"
       }
     },
     {
@@ -8825,6 +8826,24 @@
       "destination": "Chile",
       "fields": {
         "apply": "Not required"
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "United Arab Emirates",
+      "fields": {
+        "apply": "Apply online through ICP Smart Services. Ordinary passport holders and their family members only, with a valid visa, residence permit or US Green Card issued by the US, EU or UK, or a valid residence permit issued by Japan, South Korea, Australia, Canada, Singapore or New Zealand. The UAE government also calls this a visa on arrival.",
+        "cost": "Issuance fee AED 100 (14 days) or AED 250 (60 days); the ICP service pages list a separate AED 100 smart-services fee for each",
+        "ext_cost": "Not verified",
+        "note": "Only for ordinary passport holders and their family members who hold a valid visa, residence permit or US Green Card issued by the US, EU or UK, or a valid residence permit issued by Japan, South Korea, Australia, Canada, Singapore or New Zealand. Not a general visa-free allowance. Passport must be valid at least six months on entry."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Bahrain",
+      "fields": {
+        "extension": "Not verified",
+        "ext_cost": "Not verified"
       }
     }
   ],
