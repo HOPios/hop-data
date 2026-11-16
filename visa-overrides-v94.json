@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T06:12:49Z",
+  "generated_at": "2026-11-16T06:16:20Z",
   "entries": [
+    {
+      "passport": "UK",
+      "destination": "Armenia",
+      "fields": {
+        "extension": "Administration Department for Passports and Visas (OVIR)",
+        "note": "180-day visa-free (since Jan 2013)."
+      }
+    },
     {
       "passport": "CA",
       "destination": "Denmark",
@@ -38,11 +46,35 @@
     },
     {
       "passport": "UK",
+      "destination": "Guatemala",
+      "fields": {
+        "note": "Visa-free 90 days under CA-4 (combined with El Salvador, Honduras & Nicaragua — doesn't reset at borders). State of Prevention in multiple departments (Apr 2026). High violent crime nationally."
+      }
+    },
+    {
+      "passport": "UK",
       "destination": "Belarus",
       "fields": {
         "note": "Visa: visa-free for up to 30 days.\nBy air: enter and leave only through Minsk National, Brest, Gomel, Grodno, Mogilev or Vitebsk. This does not apply to flights to or from Russia, which carry no border control.\nBy road or rail: the United Kingdom is also on Belarus's 38-state list. Any international road or rail crossing, 30 days per entry, up to 90 days in a calendar year, until 31 Dec 2026 inclusive.\nAir route also needs: an ordinary passport valid at least 90 days beyond departure, medical insurance of at least EUR 10,000 valid in Belarus, and proof of funds.\nPublished only to 31 Dec 2026 (road and rail route).",
         "stay": "30 days. By air: enter and leave only through six airports. By road or rail: 30 days per entry, 90 days in a calendar year, to 31 Dec 2026.",
-        "cost": "Free"
+        "cost": "Free",
+        "extension": "Not verified",
+        "apply": "Not required"
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "North Korea",
+      "fields": {
+        "stay": "Per visa granted",
+        "note": "Visa: North Korea publishes no traveller-facing immigration portal. All tourist entry is arranged through state-approved tour operators, and visas are issued in connection with a booked tour rather than by individual application.\nIndependent travel: not possible."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Mexico",
+      "fields": {
+        "note": "Mexico charges all visitors an immigration fee, included in your ticket if you arrive on a commercial flight."
       }
     },
     {
@@ -67,6 +99,44 @@
       }
     },
     {
+      "passport": "UK",
+      "destination": "Burkina Faso",
+      "fields": {
+        "note": "Apply for a visa online, or through the Embassy of Burkina Faso in Brussels (gov.uk). Short-stay visas cap at 90 days. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over.",
+        "ext_cost": "Not applicable"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Cameroon",
+      "fields": {
+        "note": "eVisa required (evisacameroon.com). A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Central African Republic",
+      "fields": {
+        "note": "Visa in advance from a CAR diplomatic mission (Paris handles UK applications) — form, passport, photos and a letter of invitation. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. There is no national CAR visa portal.",
+        "ext_cost": "Not applicable"
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Mali",
+      "fields": {
+        "note": "Visa: New Zealand residents can apply by email to Mali's embassy in Tokyo via the form above. The visa is emailed back, with no in-person visit or posted passport.\nResidence: this route is by residence, not passport. It does not apply if you live outside New Zealand, Australia, South Korea or the Philippines.\nExemption: Mali's exemption list covers ECOWAS states and a short list of others. New Zealand is not on it.\nYellow fever: certificate required for every arriving traveller aged 9 months and over.",
+        "ext_cost": "Not applicable"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Bolivia",
+      "fields": {
+        "note": "Visa-free 90 days/year. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      }
+    },
+    {
       "passport": "US",
       "destination": "Djibouti",
       "fields": {
@@ -83,6 +153,13 @@
       }
     },
     {
+      "passport": "CA",
+      "destination": "Haiti",
+      "fields": {
+        "note": "Visa: no visa for Canadians for stays under 90 days. Formalities are completed on arrival.\nFee: a USD 10 tourist fee is payable at the airport by all foreign passport holders. It is a fee collected on arrival, not a visa, and cannot be bought in advance.\nVisa needed: only nationals of the Dominican Republic, Panama, Colombia, Cuba, Syria, Libya, Iran, Vietnam and Yemen need a visa in advance."
+      }
+    },
+    {
       "passport": "KR",
       "destination": "Barbados",
       "fields": {
@@ -95,6 +172,13 @@
       "destination": "Belarus",
       "fields": {
         "note": "Visa: visa-free for up to 30 days, by air only. You must both arrive and leave through one of Belarus's designated airports: Minsk National, Brest, Gomel, Grodno, Mogilev or Vitebsk.\nNot covered: flights to or from Russia, which carry no border control, and entry overland.\nInsurance: medical insurance of at least EUR 10,000, valid in Belarus, is mandatory.\nPassport and funds: an ordinary passport valid at least 90 days beyond departure, and proof of funds."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Yemen",
+      "fields": {
+        "note": "Visa: tourist entry runs through Yemen's e-visa portal (yemenevisa.org) via a Yemen-accredited travel agency: a group of 10 or more, or an agency-requested urgent visa. There is no independent visa on arrival.\nRegistration: register your passport if staying more than 14 days."
       }
     },
     {
@@ -166,6 +250,90 @@
       "destination": "Western Sahara",
       "fields": {
         "note": "Visa rules mirror Morocco's."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Haiti",
+      "fields": {
+        "ext_cost": "Not verified"
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Iran",
+      "fields": {
+        "extension": "Not verified"
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Ukraine",
+      "fields": {
+        "extension": "Not verified"
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Western Sahara",
+      "fields": {
+        "note": "Visa rules mirror Morocco's."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Western Sahara",
+      "fields": {
+        "note": "Visa rules mirror Morocco's."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Western Sahara",
+      "fields": {
+        "note": "Visa rules mirror Morocco's."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Algeria",
+      "fields": {
+        "note": "Visa via the Algerian Consulate in London required — documentation-heavy (hotel bookings, return ticket, invitation if business). Can be slow."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Azerbaijan",
+      "fields": {
+        "note": "ASAN eVisa system."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Bangladesh",
+      "fields": {
+        "note": "Visa on arrival USD 50 plus processing fees."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Colombia",
+      "fields": {
+        "note": "Visa-free 90 days. Check-Mig form recommended, not mandatory, 72h-1h before travel. Max 180 days in any 12 months."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Ecuador",
+      "fields": {
+        "note": "Visa-free 90 days per rolling year. State of Emergency active — expect checkpoints. Travel insurance mandatory."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Georgia",
+      "fields": {
+        "note": "Exceptional 365-day visa-free."
       }
     }
   ],
