@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T09:22:02Z",
+  "generated_at": "2026-11-16T14:08:34Z",
   "entries": [
     {
       "passport": "CA",
@@ -8590,7 +8590,8 @@
       "passport": "UK",
       "destination": "Azerbaijan",
       "fields": {
-        "note": "ASAN eVisa system."
+        "note": "ASAN eVisa system.",
+        "cost": "USD 20 (standard e-visa, 3 working days); urgent 3-hour service also offered"
       }
     },
     {
@@ -8862,6 +8863,62 @@
       "fields": {
         "extension": "Not verified",
         "ext_cost": "Not verified"
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Azerbaijan",
+      "fields": {
+        "note": "No visa needed under a temporary exemption from 1 July 2026 to 1 July 2027: up to 3 entries in that period, each for up to 30 days. Stays over 15 days must be registered with the State Migration Service."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Azerbaijan",
+      "fields": {
+        "note": "New Zealand is on the ASAN e-visa eligible list. Single entry. Standard processing is 3 working days, with a 3-hour urgent option."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Azerbaijan",
+      "fields": {
+        "note": "e-Visa via the official ASAN portal (evisa.gov.az): single entry, valid for 90 days from issue, with a stay of up to 30 days inside that window."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Azerbaijan",
+      "fields": {
+        "note": "e-Visa via the official ASAN portal (evisa.gov.az): single entry, valid for 90 days from issue, with a stay of up to 30 days inside that window."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Azerbaijan",
+      "fields": {
+        "note": "Canada is named on the ASAN e-visa eligible list. Single entry; the e-visa is valid 90 days from issue, within which you may stay 30 days."
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Azerbaijan",
+      "fields": {
+        "note": "Visa required, applied for at evisa.gov.az. Stays over 15 days need registration with the State Migration Service (migration.gov.az)."
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Azerbaijan",
+      "fields": {
+        "note": "Visa required — apply online at evisa.gov.az. Visas are valid for 90 days; stays must not exceed 30 days in total."
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Azerbaijan",
+      "fields": {
+        "apply": "Online at evisa.gov.az, at least 3 days ahead; urgent 3-hour service also offered"
       }
     }
   ],
