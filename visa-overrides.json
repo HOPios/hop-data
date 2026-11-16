@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T02:21:43Z",
+  "generated_at": "2026-11-16T05:50:26Z",
   "entries": [
     {
       "passport": "CA",
@@ -354,17 +354,19 @@
       "passport": "CA",
       "destination": "Denmark",
       "fields": {
-        "stay": "90 days from your first entry into Denmark or another Nordic country; time spent there in the preceding half-year is deducted; this applies regardless of earlier stays in other Schengen countries",
+        "stay": "Up to 3 months from your first entry into Denmark or another Nordic country; time spent there in the preceding half-year is deducted; this applies regardless of earlier stays in other Schengen countries",
         "note": "Visa: Denmark names Canadians explicitly under a Nordic arrangement.\nStay: the 3 months runs from your first entry into Denmark or any other Nordic country, and time spent in any Nordic country in the preceding 6 months is deducted. This applies regardless of whether you have stayed in another Schengen country prior to entry into Denmark.\nFunds: Denmark publishes indicative funds of about DKK 350 a day in private accommodation or DKK 500 in a hotel.\nPassport: valid 3 months beyond departure. Denmark counts both the entry and the exit day.\nBilateral waiver: Denmark's bilateral visa waiver with Canada, notified to the EU, has been in force since 1 May 1958 and covers 3 months (all passports)."
-      }
+      },
+      "checked": "2026-11-16"
     },
     {
       "passport": "NZ",
       "destination": "Denmark",
       "fields": {
-        "stay": "90 days from your first entry into Denmark; time spent in Denmark in the preceding half-year is deducted; this applies regardless of earlier stays in other Schengen countries",
+        "stay": "Up to 3 months from your first entry into Denmark; time spent in Denmark in the preceding half-year is deducted; this applies regardless of earlier stays in other Schengen countries",
         "note": "Stay: Denmark counts New Zealanders' time from first entry into Denmark rather than pooling it with the rest of Schengen, and deducts any time spent in Denmark in the preceding 6 months. This applies regardless of whether you have stayed in another Schengen country prior to entry into Denmark.\nETIAS: Not in force as at August 2026.\nEntry/Exit System: Live.\nBilateral agreement: Denmark holds a 1.1.1949 bilateral visa waiver agreement with New Zealand allowing 3 months. The European Commission lists it as an extension-of-stay agreement (all passports).\nSource: The Danish Immigration Service states 3 months counted from first entry into Denmark, less any time spent there in the preceding 6 months."
-      }
+      },
+      "checked": "2026-11-16"
     },
     {
       "passport": "NZ",
@@ -932,15 +934,17 @@
       "passport": "AU",
       "destination": "Denmark",
       "fields": {
-        "stay": "90 days from your first entry into Denmark or another Nordic country; time spent there in the preceding half-year is deducted; this applies regardless of earlier stays in other Schengen countries"
-      }
+        "stay": "Up to 3 months from your first entry into Denmark or another Nordic country; time spent there in the preceding half-year is deducted; this applies regardless of earlier stays in other Schengen countries"
+      },
+      "checked": "2026-11-16"
     },
     {
       "passport": "US",
       "destination": "Denmark",
       "fields": {
-        "stay": "90 days from your first entry into Denmark; time spent in Denmark in the preceding half-year is deducted; this applies regardless of earlier stays in other Schengen countries"
-      }
+        "stay": "Up to 3 months from your first entry into Denmark; time spent in Denmark in the preceding half-year is deducted; this applies regardless of earlier stays in other Schengen countries"
+      },
+      "checked": "2026-11-16"
     },
     {
       "passport": "DE",
@@ -7254,8 +7258,9 @@
       "passport": "KR",
       "destination": "Barbados",
       "fields": {
-        "note": "Visa: visa-free. South Korea's foreign ministry lists 90 days for Barbados under an agreement.\nBefore you fly: complete the online Immigration and Customs Form, available from 72 hours before arrival.\nBring: a passport valid for the trip, a return ticket to your country of residence, your intended address and evidence of personal support."
-      }
+        "note": "Visa: visa-free. South Korea's foreign ministry lists 90 days for Barbados under an agreement.\nBefore you fly: complete the online Immigration and Customs Form, available from 72 hours before arrival.\nBring: a passport valid at least 6 months, a return ticket to your country of residence, your intended address and evidence of personal support."
+      },
+      "checked": "2026-11-16"
     },
     {
       "passport": "KR",
@@ -8586,6 +8591,24 @@
       "fields": {
         "note": "Single-entry e-visa; entry through any international road, rail or airport checkpoint, but not from Russia."
       }
+    },
+    {
+      "passport": "KR",
+      "destination": "Bahrain",
+      "fields": {
+        "note": "Not visa-free for ordinary passports. Get an e-Visa before travel or a visa on arrival. Fees are card-only, no cash. Stay per entry: up to 30 days on the 90-day multiple-entry e-Visa; up to 90 days on the 1-year and 5-year multiple-entry e-Visas.",
+        "cost": "On arrival: BHD 5 (single entry, 2 weeks) or BHD 12 (multiple entry, valid 90 days). e-Visa: BHD 9 (single entry, 2 weeks), BHD 17 (multiple entry, valid 90 days), BHD 45 (1 year), BHD 65 (5 years). Card only, no cash"
+      },
+      "checked": "2026-11-16"
+    },
+    {
+      "passport": "KR",
+      "destination": "Brunei",
+      "fields": {
+        "apply": "No visa needed for ordinary multiple-use passports (30 days); single-use passports are not visa-free and need a visa. Complete the E-Arrival Card before entry (imm.gov.bn)",
+        "extension": "Possible — apply for a Social Visit Pass (temporary stay permit) to stay beyond 30 days"
+      },
+      "checked": "2026-11-16"
     }
   ],
   "destinations": [
