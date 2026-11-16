@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T06:17:06Z",
+  "generated_at": "2026-11-16T06:18:57Z",
   "entries": [
     {
       "passport": "CA",
@@ -8487,7 +8487,9 @@
       "destination": "Bahrain",
       "fields": {
         "note": "Not visa-free for ordinary passports. Get an e-Visa before travel or a visa on arrival. Fees are card-only, no cash. Stay per entry: up to 30 days on the 90-day multiple-entry e-Visa; up to 90 days on the 1-year and 5-year multiple-entry e-Visas.",
-        "cost": "On arrival: BHD 5 (single entry, 2 weeks) or BHD 12 (multiple entry, valid 90 days). e-Visa: BHD 9 (single entry, 2 weeks), BHD 17 (multiple entry, valid 90 days), BHD 45 (1 year), BHD 65 (5 years). Card only, no cash"
+        "cost": "On arrival: BHD 5 (single entry, 2 weeks) or BHD 12 (multiple entry, valid 90 days). e-Visa: BHD 9 (single entry, 2 weeks), BHD 17 (multiple entry, valid 90 days), BHD 45 (1 year), BHD 65 (5 years). Card only, no cash",
+        "extension": "Not verified",
+        "ext_cost": "Not verified"
       },
       "checked": "2026-11-16"
     },
