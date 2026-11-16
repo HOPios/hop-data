@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T00:46:06Z",
+  "generated_at": "2026-11-16T01:03:54Z",
   "entries": [
     {
       "passport": "CA",
@@ -3691,7 +3691,7 @@
       "passport": "AU",
       "destination": "Tanzania",
       "fields": {
-        "note": "One visa covers the Mainland and Zanzibar — select your first destination on the form; apply online at eservices.immigration.go.tz, or on arrival — Tanzania's own guidelines list Australia as eligible for both routes. Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: online at eservices.immigration.go.tz or on arrival; Tanzania's own guidelines list Australia as eligible for both routes. One visa covers the Mainland and Zanzibar; choose your first stop on the form.\nInsurance (since 1 October 2026): every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days. Buy it from NIC (inbound.nicinsurance.co.tz) if you enter through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar.\nHealth form: fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival. Keep the QR code or reference number.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -4312,7 +4312,7 @@
       "passport": "AU",
       "destination": "Ghana",
       "fields": {
-        "note": "Ghana's e-visa portal (evisa.immigration.gov.gh) is the Immigration Service's own official, standing route — not a pilot. A Ghanaian mission remains an alternative. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Stay of up to 60 days at the immigration officer's discretion."
+        "note": "Visa: apply on the Immigration Service's official e-visa portal (evisa.immigration.gov.gh), a standing route, not a pilot, or at a Ghanaian mission.\nStay: up to 60 days, at the immigration officer's discretion.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4585,7 +4585,7 @@
       "passport": "AU",
       "destination": "South Sudan",
       "fields": {
-        "note": "A visa must be held before you travel — South Sudan does not reliably issue one on arrival. THERE IS NO SOUTH SUDANESE MISSION IN AUSTRALIA, confirmed on South Sudan's own register of missions abroad, so the online portal or a mission in a third country are the only routes. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. The Washington embassy has suspended WALK-IN service only (mail-in applications are still accepted) — the e-visa portal itself is not reported suspended."
+        "note": "Visa: must be held before you travel. South Sudan does not reliably issue one on arrival.\nWhere to apply: there is no South Sudanese mission in Australia, confirmed on South Sudan's own register of missions abroad, so the online portal or a mission in a third country are the only routes.\nWashington embassy: has suspended walk-in service only (mail-in applications are still accepted). The e-visa portal itself is not reported suspended.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -4704,7 +4704,7 @@
       "passport": "AU",
       "destination": "Congo",
       "fields": {
-        "note": "This is the Republic of the Congo (Brazzaville), not the DRC. The visa must come from a Congolese embassy before travel — there is no visa on arrival and no official e-visa; 'Congo e-visa' sites are commercial or DRC products. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+        "note": "Which Congo: this is the Republic of the Congo (Brazzaville), not the DRC.\nVisa: from a Congolese embassy before travel. There is no visa on arrival and no official e-visa.\nWatch out: 'Congo e-visa' sites are commercial or DRC products.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -5068,7 +5068,7 @@
       "passport": "AU",
       "destination": "Gambia",
       "fields": {
-        "note": "Visa-free entry under the Immigration Department's exemption rules. A Securiport security fee of USD 20 (D1,000) is payable in cash on arrival AND again on departure at Banjul — carry dollars or dalasi. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: visa-free under the Immigration Department's exemption rules.\nFee: a Securiport security fee of USD 20 (D1,000), payable in cash on arrival and again on departure at Banjul. Carry dollars or dalasi.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5306,7 +5306,7 @@
       "passport": "NZ",
       "destination": "Djibouti",
       "fields": {
-        "note": "Visa on arrival: A visa on arrival, paid in cash in US dollars, is also currently available.\nE-visa: The e-visa route is open to all ordinary passport holders, and covers tourism and business only. Any other purpose goes through a Djiboutian embassy or consulate.\nBring: A passport valid 6 months, onward travel, an accommodation address and an invitation letter.\nYellow fever: A certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: an e-visa (evisa.gouv.dj) before you travel.\nE-visa: The e-visa route is open to all ordinary passport holders, and covers tourism and business only. Any other purpose goes through a Djiboutian embassy or consulate.\nBring: A passport valid 6 months, onward travel, an accommodation address and an invitation letter.\nYellow fever: A certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       }
     },
     {
@@ -5411,7 +5411,7 @@
       "passport": "AU",
       "destination": "Eswatini",
       "fields": {
-        "note": "No visa required under Eswatini's own visa table. Passport valid 6 months with 2 blank pages. A further 30-day extension can be applied for at the Ministry of Home Affairs; staying longer than 60 days needs a Temporary Residence Permit. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+        "note": "Visa: not required under Eswatini's own visa table.\nPassport: valid 6 months, with 2 blank pages.\nExtension: a further 30 days can be applied for at the Ministry of Home Affairs. Staying longer than 60 days needs a Temporary Residence Permit.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
       }
     },
     {
@@ -8570,6 +8570,13 @@
       "destination": "Belarus",
       "fields": {
         "note": "The Netherlands is named directly on Belarus's own 38-state visa-free list — a bilateral Belarusian waiver, not EU free movement, so Dutch citizens are capped at 30/90 days like most nationalities on that list (Poland, Lithuania and Latvia get 90 days).\nPublished only to 31 Dec 2026."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Gibraltar",
+      "fields": {
+        "note": "Visa: visa-exempt. Australia is named on the visa-exempt list appended to HM Government of Gibraltar's technical notice.\nStay: 90 days in any 180 days, as that technical notice states. Gibraltar has run the Schengen short-stay policy since 15 July 2026, and older '3 months' advice is out of date.\nShared allowance: days in Gibraltar draw down the same 90/180 allowance as Spain and the rest of Schengen, so a Spain-then-Gibraltar trip does not reset anything.\nArriving by air: you clear two sets of checks, Gibraltar immigration and then Schengen entry checks by Spanish officers, including EES registration. After that the land border into Spain has no routine immigration checks.\nUK ETA: not valid for Gibraltar."
       }
     }
   ],
