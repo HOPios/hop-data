@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T06:00:06Z",
+  "generated_at": "2026-11-16T06:12:49Z",
   "entries": [
     {
       "passport": "CA",
@@ -5869,7 +5869,7 @@
       "passport": "US",
       "destination": "New Caledonia",
       "fields": {
-        "note": "Good to know: serious civil unrest in 2024 caused deaths, a state of emergency and months of airport closure. Tensions over independence remain, so check current advice before booking.\nVisa: visa-free 90 days.\nSchengen: not in Schengen.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Good to know: serious civil unrest in 2024 caused deaths, a state of emergency and months of airport closure. Tensions over independence remain.\nVisa: visa-free 90 days.\nSchengen: not in Schengen.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -8617,6 +8617,35 @@
         "extension": "Possible — apply for a Social Visit Pass (temporary stay permit) to stay beyond 30 days"
       },
       "checked": "2026-11-16"
+    },
+    {
+      "passport": "US",
+      "destination": "Haiti",
+      "fields": {
+        "ext_cost": "Not verified"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Myanmar",
+      "fields": {
+        "apply": "evisa.moip.gov.mm (official) · travel.state.gov/myanmar",
+        "extension": "Not verified"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Ukraine",
+      "fields": {
+        "extension": "Not verified"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Western Sahara",
+      "fields": {
+        "note": "Visa rules mirror Morocco's."
+      }
     }
   ],
   "destinations": [
