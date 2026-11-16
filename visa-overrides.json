@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T06:16:20Z",
+  "generated_at": "2026-11-16T06:17:06Z",
   "entries": [
     {
       "passport": "CA",
@@ -221,7 +221,8 @@
       "passport": "UK",
       "destination": "Philippines",
       "fields": {
-        "ext_cost": "PHP 3,030 for the 29-day extension"
+        "ext_cost": "PHP 3,030 for the 29-day extension",
+        "note": "eTravel required."
       }
     },
     {
@@ -2711,7 +2712,9 @@
       "destination": "Mali",
       "fields": {
         "visa": "ev",
-        "note": "Visa: e-visa. The application and payment are fully online via the Malian Ministry of Foreign Affairs website, and the entry permit is issued electronically once approved. No documents need to be sent to the Malian Embassy in Brussels, which covers the UK.\nVisa on arrival: none is published on any Malian government source.\nPassport: must be valid for the duration of your stay.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
+        "note": "Visa: e-visa. The application and payment are fully online via the Malian Ministry of Foreign Affairs website, and the entry permit is issued electronically once approved. No documents need to be sent to the Malian Embassy in Brussels, which covers the UK.\nVisa on arrival: none is published on any Malian government source.\nPassport: must be valid for the duration of your stay.\nYellow fever: certificate required for every arriving traveller aged 9 months and over.",
+        "ext_cost": "Not applicable",
+        "extension": "Not practically obtainable"
       }
     },
     {
@@ -2864,7 +2867,9 @@
       "passport": "UK",
       "destination": "Libya",
       "fields": {
-        "note": "Visa: in advance only. There is no visa on arrival.\nE-visa: an official e-visa portal now exists but is new and unstable.\nEmbassy: Libyan missions issue visas only to residents of the country where the application is made (London handles UK residents).\nPassport: valid for the duration of your stay.\nProcessing: about 20 working days."
+        "note": "Visa: in advance only. There is no visa on arrival.\nE-visa: an official e-visa portal now exists but is new and unstable.\nEmbassy: Libyan missions issue visas only to residents of the country where the application is made (London handles UK residents).\nPassport: valid for the duration of your stay.\nProcessing: about 20 working days.",
+        "ext_cost": "Not applicable",
+        "extension": "Not practically available"
       }
     },
     {
@@ -4529,7 +4534,8 @@
       "passport": "UK",
       "destination": "Niger",
       "fields": {
-        "note": "Visa: in advance from a Nigerien mission (Geneva embassy handles UK applications). Air-side transit without leaving the airport is exempt.\nProcessing: about 15 days.\nPassport: valid for the proposed stay (no additional period needed).\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
+        "note": "Visa: in advance from a Nigerien mission (Geneva embassy handles UK applications). Air-side transit without leaving the airport is exempt.\nProcessing: about 15 days.\nPassport: valid for the proposed stay (no additional period needed).\nYellow fever: certificate required for every arriving traveller aged 9 months and over.",
+        "ext_cost": "Not applicable"
       }
     },
     {
@@ -5868,7 +5874,7 @@
       "passport": "UK",
       "destination": "New Caledonia",
       "fields": {
-        "note": "Visa: visa-free for 90 days.\nPassport: needs 3 months' validity beyond departure and 2 blank pages.\nUnrest: serious civil unrest in 2024 caused deaths, a state of emergency and the closure of Nouméa's airport for months. Tensions over independence remain, so check current advice before booking.\nGood to know: not in Schengen.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+        "note": "Visa: visa-free for 90 days.\nPassport: needs 3 months' validity beyond departure and 2 blank pages.\nUnrest: serious civil unrest in 2024 caused deaths, a state of emergency and the closure of Nouméa's airport for months. Tensions over independence remain.\nGood to know: not in Schengen.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
       }
     },
     {
@@ -8110,7 +8116,8 @@
       "passport": "UK",
       "destination": "Lebanon",
       "fields": {
-        "note": "Visa: one-month visa issued free at the port of entry under General Security's nationality rules.\nOverstay: if you overstay by less than one month, you can leave and pay a fine at departure. If you overstay by more than one month, you must contact General Security's bureau of Arabs and foreigners before you are allowed to leave."
+        "note": "Visa: one-month visa issued free at the port of entry under General Security's nationality rules.\nOverstay: if you overstay by less than one month, you can leave and pay a fine at departure. If you overstay by more than one month, you must contact General Security's bureau of Arabs and foreigners before you are allowed to leave.",
+        "cost": "Free (VOA)"
       }
     },
     {
@@ -8194,7 +8201,8 @@
       "passport": "UK",
       "destination": "Somalia",
       "fields": {
-        "note": "Visa: eTA mandatory for all foreign passports since 1 Sep 2025. Apply via the Immigration & Citizenship Agency before travel.\nSomaliland: a separate regime with its own immigration authority and e-visa. The federal authorisation may not be recognised there.\nData breach: Somalia's e-visa platform previously suffered a data breach affecting travellers' personal information (Nov 2025)."
+        "note": "Visa: eTA mandatory for all foreign passports since 1 Sep 2025. Apply via the Immigration & Citizenship Agency before travel.\nSomaliland: a separate regime with its own immigration authority and e-visa. The federal authorisation may not be recognised there.\nData breach: Somalia's e-visa platform previously suffered a data breach affecting travellers' personal information (Nov 2025).",
+        "ext_cost": "Not applicable"
       }
     },
     {
@@ -8243,7 +8251,8 @@
       "passport": "US",
       "destination": "Bahrain",
       "fields": {
-        "note": "Good to know: Bahrain's published country lists are no guide. They name all 204 countries and mark every one \"conditions apply\".\nSource: the figures below come from Bahrain's own eligibility engine, queried for this nationality.\nStay: applying online buys a longer stay than turning up does.\nVisa: US passports are offered a 10 Year multiple-entry visa that other nationalities are not."
+        "note": "Good to know: Bahrain's published country lists are no guide. They name all 204 countries and mark every one \"conditions apply\".\nSource: the figures below come from Bahrain's own eligibility engine, queried for this nationality.\nStay: applying online buys a longer stay than turning up does.\nVisa: US passports are offered a 10 Year multiple-entry visa that other nationalities are not.",
+        "extension": "Not verified"
       }
     },
     {
@@ -8603,7 +8612,8 @@
       "passport": "US",
       "destination": "Belarus",
       "fields": {
-        "note": "Single-entry e-visa; entry through any international road, rail or airport checkpoint, but not from Russia."
+        "note": "Single-entry e-visa; entry through any international road, rail or airport checkpoint, but not from Russia.",
+        "extension": "Not verified"
       }
     },
     {
@@ -8735,6 +8745,113 @@
       "destination": "Georgia",
       "fields": {
         "note": "Exceptional 365-day visa-free."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Haiti",
+      "fields": {
+        "ext_cost": "Not applicable",
+        "apply": "Not required"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Iran",
+      "fields": {
+        "extension": "Not verified"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Iraq",
+      "fields": {
+        "extension": "Not verified"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Jordan",
+      "fields": {
+        "note": "Border area restrictions."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Kosovo",
+      "fields": {
+        "note": "90-day visa-free."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Moldova",
+      "fields": {
+        "note": "90-day visa-free."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Myanmar",
+      "fields": {
+        "apply": "evisa.moip.gov.mm · gov.uk/foreign-travel-advice/myanmar-burma"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Pakistan",
+      "fields": {
+        "note": "Terrorism risk."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Peru",
+      "fields": {
+        "note": "Visa-free — up to 90 days per entry, max 183 days per rolling 365. Entry registered digitally (TAM). State of Emergency in Lima & Callao."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Russia",
+      "fields": {
+        "extension": "Not verified"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Saudi Arabia",
+      "fields": {
+        "note": "eVisa easy to obtain."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Sudan",
+      "fields": {
+        "ext_cost": "Not applicable"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Thailand",
+      "fields": {
+        "note": "Visa-exempt stay cut from 60 to 30 days for tourism, effective 15 September 2026. TDAC digital arrival card required (free). A proposed 300 THB entry fee has been repeatedly delayed and is not confirmed in force — check before you fly."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Tunisia",
+      "fields": {
+        "note": "Visa-free 90 days."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Ukraine",
+      "fields": {
+        "extension": "State Migration Service",
+        "cost": "Free"
       }
     }
   ],
