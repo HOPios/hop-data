@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T01:12:40Z",
+  "generated_at": "2026-11-16T02:21:43Z",
   "entries": [
     {
       "passport": "CA",
@@ -5320,7 +5320,8 @@
       "passport": "US",
       "destination": "Djibouti",
       "fields": {
-        "note": "Visa: on arrival, paid in cash in US dollars. This is currently available.\nE-visa: evisa.gouv.dj is a valid alternative for pre-approval before travel.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+        "note": "Visa: on arrival, paid in cash in US dollars. This is currently available.\nE-visa: evisa.gouv.dj is a valid alternative for pre-approval before travel.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.",
+        "cost": "USD 23 to 30 on arrival"
       }
     },
     {
@@ -8577,6 +8578,13 @@
       "destination": "Gibraltar",
       "fields": {
         "note": "Visa: visa-exempt. Australia is named on the visa-exempt list appended to HM Government of Gibraltar's technical notice.\nStay: 90 days in any 180 days, as that technical notice states. Gibraltar has run the Schengen short-stay policy since 15 July 2026, and older '3 months' advice is out of date.\nShared allowance: days in Gibraltar draw down the same 90/180 allowance as Spain and the rest of Schengen, so a Spain-then-Gibraltar trip does not reset anything.\nArriving by air: you clear two sets of checks, Gibraltar immigration and then Schengen entry checks by Spanish officers, including EES registration. After that the land border into Spain has no routine immigration checks.\nUK ETA: not valid for Gibraltar."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Belarus",
+      "fields": {
+        "note": "Single-entry e-visa; entry through any international road, rail or airport checkpoint, but not from Russia."
       }
     }
   ],
