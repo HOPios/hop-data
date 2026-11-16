@@ -1,0 +1,471 @@
+{
+  "schema": 1,
+  "generated_at": "2026-11-16T09:22:02Z",
+  "entries": [
+    {
+      "passport": "KR",
+      "destination": "Saint Lucia",
+      "fields": {
+        "stay": "90 days",
+        "apply": "Complete the online arrival form (travelslu.govt.lc) from 72 hours before departure; no visa"
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Bahrain",
+      "fields": {
+        "note": "Visa: Bahrain's own eligibility engine (evisa.gov.bh) shows two visas for a New Zealand passport on a general tourist visit, both obtainable at the Arrival Counter: Visit Visa 2 Weeks Single Entry (2-week stay) and Visit Visa Three Months Multiple Entry (1 month per entry).\nOnline: The same nationality also qualifies for four visas online, including One Year and 5 Year multiple-entry options allowing 90 days per visit. Applying in advance buys a longer stay than turning up does.\nCountry lists: Ignore Bahrain's published country lists as a guide to eligibility. They name all 204 countries and mark every one “conditions apply”.\nFee: The fees shown are Bahrain’s published eVisa fees. That fee list does not cover the Arrival Counter, so check the counter fee when you arrive.",
+        "ext_cost": "Not verified"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Bahrain",
+      "fields": {
+        "note": "Good to know: Bahrain's published country lists are no use as a guide. They name all 204 countries and mark every one \"conditions apply\".\nSource: the figures below come from Bahrain's own eligibility engine, queried for this nationality.\nVisa: applying online buys a longer stay than turning up does. UK passports get the widest on-arrival range of the four, including a 6-month multiple-entry visa issued at the counter.",
+        "extension": "Not verified",
+        "ext_cost": "Not verified"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Lebanon",
+      "fields": {
+        "note": "Visa: one-month visa issued free at the port of entry under General Security's nationality rules.\nOverstay: if you overstay by less than one month, you can leave and pay a fine at departure. If you overstay by more than one month, you must contact General Security's bureau of Arabs and foreigners before you are allowed to leave.",
+        "cost": "Free (VOA)",
+        "apply": "At the port of entry (visa on arrival) — no advance application required."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Mongolia",
+      "fields": {
+        "note": "Visa-free for tourism up to 30 days under Mongolia's temporary exemption list, in force to end-2026 — check before booking 2027 travel.\nPublished only to 31 Dec 2026.",
+        "apply": "Not required (visa-free) — present passport at any Mongolian port of entry."
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Bahrain",
+      "fields": {
+        "extension": "Not verified",
+        "ext_cost": "Not verified"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Bahrain",
+      "fields": {
+        "extension": "Not verified",
+        "ext_cost": "Not verified"
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Trinidad and Tobago",
+      "fields": {
+        "apply": "Complete the online arrival form (travel.gov.tt), mandatory, from 72 hours before arrival; no visa",
+        "cost": "Not required",
+        "note": "Visa-free for 90 days under a bilateral agreement. Passport must be valid for 6 months or more. Entry may be refused without an onward ticket; it can be asked for at immigration. The online arrival form is mandatory (travel.gov.tt)."
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Grenada",
+      "fields": {
+        "apply": "Complete the online arrival card (edcard.gov.gd) before arrival; no visa"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Hong Kong",
+      "fields": {
+        "ext_cost": "HKD 330"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Cyprus",
+      "fields": {
+        "apply": "Not required"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Argentina",
+      "fields": {
+        "apply": "Not required"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Chile",
+      "fields": {
+        "apply": "Not required"
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "United Arab Emirates",
+      "fields": {
+        "apply": "Apply online through ICP Smart Services. Ordinary passport holders and their family members only, with a valid visa, residence permit or US Green Card issued by the US, EU or UK, or a valid residence permit issued by Japan, South Korea, Australia, Canada, Singapore or New Zealand. The UAE government also calls this a visa on arrival.",
+        "cost": "Issuance fee AED 100 (14 days) or AED 250 (60 days); the ICP service pages list a separate AED 100 smart-services fee for each",
+        "ext_cost": "Not verified",
+        "note": "Only for ordinary passport holders and their family members who hold a valid visa, residence permit or US Green Card issued by the US, EU or UK, or a valid residence permit issued by Japan, South Korea, Australia, Canada, Singapore or New Zealand. Not a general visa-free allowance. Passport must be valid at least six months on entry."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Bahrain",
+      "fields": {
+        "extension": "Not verified",
+        "ext_cost": "Not verified"
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Bahrain",
+      "fields": {
+        "extension": "Not verified",
+        "ext_cost": "Not verified"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Bahrain",
+      "fields": {
+        "extension": "Not verified",
+        "ext_cost": "Not verified"
+      }
+    }
+  ],
+  "destinations": [
+    {
+      "destination": "Nicaragua",
+      "fields": {
+        "blurb": "A new decree, Disposición No. 002-2026, took effect on 16 February 2026 and reshuffled which nationalities need a visa, so treat older answers as unreliable. Nicaragua is also in the CA-4 zone: the 90-day allowance is shared with Guatemala, Honduras and El Salvador and does not reset at those borders."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "destination": "Botswana",
+      "fields": {
+        "blurb": "Passports need three blank pages and six months' validity. Child travel rules are unusually strict: carry the original or a certified copy of the full birth certificate for any child aged 17 or under, plus parental consent or documents showing authority to travel when a child travels with one parent, a guardian, another adult or alone."
+      },
+      "checked": "2026-11-09"
+    },
+    {
+      "destination": "Cook Islands",
+      "fields": {
+        "blurb": "A free visitor permit is issued at the border: 31 days for most nationalities, 90 days for New Zealand and Australian passport holders, so New Zealand sources do not read across. You need proof of onward travel and sufficient funds, and work or study is not allowed. Extensions are applied for locally and carry a fee."
+      }
+    },
+    {
+      "destination": "Liberia",
+      "fields": {
+        "official_link": null
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "destination": "Tanzania",
+      "fields": {
+        "blurb": "Since 1 October 2026 every foreign visitor needs Tanzania's inbound travel insurance, USD 44 for up to 92 days: from NIC (inbound.nicinsurance.co.tz) if entering through the Mainland, or ZIC (inbound.visitzanzibar.go.tz) through Zanzibar. Fill in the online Traveller's Health Surveillance Form at afyamsafiri.moh.go.tz before you travel or on arrival, and keep the QR code or reference number. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. Applying online takes about ten days."
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "destination": "Senegal",
+      "fields": {
+        "blurb": "A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk. Senegal abolished tourist visas for many nationalities in 2015 but not all of them, and there is no official Senegalese e-visa portal. Some passports get a visa on arrival at Dakar Blaise Diagne airport only. Anyone else who needs a visa applies in person at a Senegalese mission."
+      }
+    },
+    {
+      "destination": "Angola",
+      "fields": {
+        "blurb": "A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Where a visa exemption applies it covers tourism only — business, work or study still need a visa. Passports are expected to have more than six months' validity, and photography is restricted near oil and diamond installations."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Burkina Faso",
+      "fields": {
+        "blurb": "Visa applications are made online before travel. The portal also mentions visas issued at the border by immigration services, but that is not something to rely on. A hotel booking is required for a tourist visa. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Burundi",
+      "fields": {
+        "blurb": "Burundi's exemptions cover only East African Community and Great Lakes member states plus diplomatic passports, so most visitors need a visa. Apply online before travel at migration.gov.bi; the visa is then issued on arrival, and the foreign ministry publishes the fee-free visa categories. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Cameroon",
+      "fields": {
+        "blurb": "All non-Cameroonians need a visa and applications are online only. Approval gives an authorisation with a QR code, and the physical visa is printed at the airport or border post on arrival, so travel with the confirmation. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Central African Republic",
+      "fields": {
+        "blurb": "No government source publishes an exempt-nationality list; the visa-exempt list circulating online comes from a commercial site last updated in 2019 that is not the airport authority. Apart from the visa on arrival India's government lists for Indian nationals, visas are lodged at an embassy with an invitation letter or mission order, hotel booking and flight plan, and the fee and permitted stay should be confirmed with the mission. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Cote d'Ivoire",
+      "fields": {
+        "blurb": "The practical route is online pre-enrolment well ahead of travel (the UK government advises at least 10 working days), approval in about 48 working hours although it can take longer, then biometrics at the Visa aeroport desk at Abidjan airport, where the visa is printed and handed over on the spot. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Democratic Republic of the Congo",
+      "fields": {
+        "blurb": "Arrange the visa before travel, through the government e-visa portal or a DRC embassy. Fees vary wildly by mission, from EUR 85 in Brussels to GBP 100 in London and USD 120 in Ottawa for broadly the same one-month visa, so check the mission covering you before paying. Allow at least a week, two on a first trip. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "French Guiana",
+      "fields": {
+        "blurb": "French Guiana is a French department outside Schengen, and a Schengen visa is not valid here. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Your passport must be valid three months beyond the day you leave, and officers can ask for an onward ticket, accommodation and funds."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Gabon",
+      "fields": {
+        "blurb": "Entry is conditional on holding a visa, with exemptions for a short list of nationalities published only as a scanned image. Apply through the e-visa platform or a Gabonese embassy at least five days before travel, arriving via Libreville. Staying beyond 90 days means applying for a residence card after arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Ghana",
+      "fields": {
+        "blurb": "Hard currency must be declared. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Fees are set by each mission rather than nationally, and the visa only gets you to the border — the officer decides how long you may stay. Visa on arrival is not a tourist route: it is a pre-approved emergency permit at USD 200."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Guinea-Bissau",
+      "fields": {
+        "blurb": "Guinea-Bissau publishes no official traveller portal. Germany's foreign office tells German citizens that a visa can be obtained on arrival at the airport (EUR 80 for 30 days) but not at land borders, and that tourist visas should where possible be applied for in advance at the embassy in Brussels. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Mali",
+      "fields": {
+        "blurb": "Mali's embassy in Washington lists visa-free entry for ECOWAS citizens and citizens of Algeria, Cameroon, Andorra, Monaco, Chad, Gambia, Morocco, Mauritania and Tunisia. For UK travellers a visa is required, and the application and payment are fully online via the Malian Ministry of Foreign Affairs website, which directs applicants to the competent embassy or consulate; the Malian Embassy in Brussels covers the UK. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Niger",
+      "fields": {
+        "blurb": "Niger's foreign ministry states that every foreign national needs a visa in the passport at the border; only airside transit is exempt. Visa on arrival exists only by interior ministry authorisation, and only for travellers leaving a country where Niger has no mission. Fees are set by each mission. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Sierra Leone",
+      "fields": {
+        "blurb": "All non-ECOWAS nationals need a visa, obtained either through the immigration department's own e-visa portal (sl-evisa.gov.sl, around USD 80) or from a Sierra Leone mission abroad. Other websites that offer to submit the application for you are not operated by the Government of Sierra Leone and may charge an additional fee. A yellow fever vaccination certificate is required of every arriving traveller."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "South Sudan",
+      "fields": {
+        "blurb": "South Sudan's foreign ministry tells visitors to obtain a visa from a South Sudanese embassy before travel, and missions are few. It also says some travellers may be able to get one on arrival, which is too conditional to rely on. An official e-visa portal exists but publishes no fee, eligibility list or stay length in readable form. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Visa validity runs from the day the visa is collected, not from the day you arrive."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Togo",
+      "fields": {
+        "blurb": "Togo no longer issues visas on arrival, so the e-visa must be obtained before you fly. Apply at least seven working days before your flight. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Congo",
+      "fields": {
+        "blurb": "This is Congo-Brazzaville, not to be confused with the DRC in Kinshasa. The foreign ministry says most travellers need a visa, applied for at the nearest Congolese embassy or consulate, and publishes no exemption list. Expect to need a photo, a letter of invitation and proof of accommodation; the fee and permitted stay are not published. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Nigeria",
+      "fields": {
+        "blurb": "Visa on arrival was discontinued in May 2025, so entry must be arranged before you fly. All arrivals must also complete the online Landing Card and Health Declaration within 72 hours of departure. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Nigeria runs two official portals, so check you are on the government one. Other websites that offer to submit the application for you are not operated by the Government of Nigeria and may charge an additional fee."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Liberia",
+      "fields": {
+        "blurb": "A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. Liberia's visa on arrival is not a walk-up service — you apply and pay online before flying and the sticker is issued at the airport on landing."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Equatorial Guinea",
+      "fields": {
+        "blurb": "An online visa application form is confirmed working (gov.uk, ~72-hour processing). Expect to need an invitation letter from a local sponsor, a police clearance certificate less than 3 months old and proof of about USD 1,000 per month of stay. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over. An embassy route also remains available."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Guinea",
+      "fields": {
+        "blurb": "Apply online through the border police portal before travel; the approval letter is exchanged for the visa on arrival at Conakry. Guinea publishes no list of waiver countries, so a visa is the default assumption. The site visa.ambaguinee.org is a private operator, not the official site. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Mauritania",
+      "fields": {
+        "blurb": "Since 5 January 2025 the e-visa must be held before boarding — it is no longer issued at the border. Biometrics are captured on arrival. A yellow fever vaccination certificate is required of every arriving traveller aged 1 year and over. Mauritania's foreign ministry publishes its list of visa-waiver agreements; outside North and West Africa they cover only diplomatic, service or official passports."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Gambia",
+      "fields": {
+        "blurb": "A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk. Every arriving and departing passenger also pays a USD 20 (or D1000) Securiport airport fee — that is not a visa fee and is collected separately."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Aruba",
+      "fields": {
+        "blurb": "Aruba is part of the Kingdom of the Netherlands but sets its own entry rules. Every traveller, children included, must complete the online ED card within 7 days before travel and show it to the airline. Air arrivals pay a USD 20 sustainability fee. Use the official website, edcardaruba.aw. Other websites that offer to fill the ED card in for you are not operated by the Government of Aruba and may charge a fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Bolivia",
+      "fields": {
+        "blurb": "Bolivia sorts nationalities into three groups, and which group you fall into decides both whether you need a visa and whether a reciprocity fee applies. Visitors who enter without a visa are stamped in for 30 days; two further 30-day extensions can be requested from the migration directorate, capped at 90 days in any year. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Cabo Verde",
+      "fields": {
+        "blurb": "Every traveller, exempt or not, must pre-register on the EASE platform up to 5 days before travel and pay the airport security tax of about EUR 31; paying at the border instead costs more. Where a visa on arrival applies, it is not available at every entry point. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Djibouti",
+      "fields": {
+        "blurb": "Every visitor needs a visa. The government e-visa portal is the official route, and approval before you fly avoids depending on what the airport issues on the day. Your passport must be valid six months on arrival, and you need proof of onward travel. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Eritrea",
+      "fields": {
+        "blurb": "Applications go to an Eritrean embassy or consulate, which forwards them to the Immigration Office in Asmara, so allow up to four weeks. The link is the Washington mission's own visa page, not a national portal, so its fees and forms apply there only. Internal travel permits are required to leave Asmara. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Eswatini",
+      "fields": {
+        "blurb": "Eswatini works by exception: anyone not on its visa-required list needs no visa. Travellers who do need one apply online through the Ministry of Home Affairs eVisa portal; there is no visa on arrival. A further 30 days can be applied for at the Ministry of Home Affairs, and beyond that you need a temporary residence permit. Formerly Swaziland, and an absolute monarchy — discretion is advised around political topics. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Ethiopia",
+      "fields": {
+        "blurb": "Apply online at evisa.gov.et before travel; the visa is stamped in on arrival at Addis Ababa. Only single-entry tourist visas are issued online — multiple entry goes through an embassy. Visa on arrival, where it is available at all, is offered only at Addis Ababa Bole Airport. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Kenya",
+      "fields": {
+        "blurb": "An eTA replaced the eVisa in 2024. The 90 days you will see quoted is how long the eTA is valid for travel, not how long you may stay — the length of stay is set at the point of entry. Apply through the official website of the Government of Kenya, www.etakenya.go.ke. Other websites that offer to submit the application for you are not operated by the Government of Kenya and may charge an additional fee. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Madagascar",
+      "fields": {
+        "blurb": "All nationalities are eligible, and the visa can also be issued on arrival at the e-visa counters, so in practice it is e-visa or visa on arrival. Fees are banded by length of stay. Apply through the official website of the Government of Madagascar. Other websites that offer to submit the application for you are not operated by the Government of Madagascar and may charge an additional fee. A yellow fever certificate is needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Malawi",
+      "fields": {
+        "blurb": "Since 24 February 2026 a visa on arrival is available at all designated ports to the nationalities that qualify, though applying online beforehand is recommended and speeds up entry. Malawi's own sources disagree on the single-entry fee, quoting both USD 50 and USD 75. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Mayotte",
+      "fields": {
+        "blurb": "Mayotte is French and in the EU but outside Schengen, and its visa exemptions sit in their own decree, separate from Réunion's. A Schengen visa does not admit you. Your passport must be valid 3 months beyond departure, have 2 blank pages and have been issued within the last 10 years. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Mozambique",
+      "fields": {
+        "blurb": "You apply before travel through the official online system at evisa.gov.mz. An issued e-visa is valid 2 months, within which you can enter. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "New Caledonia",
+      "fields": {
+        "blurb": "New Caledonia is French but outside Schengen, with its own visa exemption decree, separate from French Polynesia's. A Schengen visa does not admit you, and an overseas visa does not cover mainland France. Your passport must be valid 3 months beyond departure, with 2 blank pages. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Papua New Guinea",
+      "fields": {
+        "blurb": "Since 1 October 2025 every traveller must submit the free Digital Arrival Card online within 72 hours of arrival, on top of any visa. The visa-on-arrival list carries explicit exclusions, and the immigration authority's own pages disagree about who may use the e-visa portal, so confirm the channel before applying. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Rwanda",
+      "fields": {
+        "blurb": "In Rwanda's own words this is a visa on arrival for all nationalities, issued without prior application: 30 days, USD 50 payable on arrival or online beforehand, waived for citizens of African Union, Commonwealth and La Francophonie countries. Passports must be valid six months and work is not permitted. The East Africa Tourist Visa (USD 100, 90 days) covers Kenya, Rwanda and Uganda together. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Sao Tome and Principe",
+      "fields": {
+        "blurb": "Where there is no Sao Tomean diplomatic post, an entry authorisation must be obtained online before flying — visa on arrival is explicitly refused to travellers coming from countries with no post. Allow seven working days, and expect to show a passport valid three months beyond the stay, return tickets, accommodation and funds of about EUR 100 a day. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Seychelles",
+      "fields": {
+        "blurb": "Often described as visa-free, and technically it is — but a pre-arrival Travel Authorisation is compulsory for everyone and there is a penalty for arriving without one. Applications open 10 days before the flight, at seychelles.govtas.com. You also need a confirmed return ticket, confirmed accommodation and funds of at least USD 150 a day. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    },
+    {
+      "destination": "Zambia",
+      "fields": {
+        "blurb": "Arriving by air you must hold a valid return ticket. If you are also crossing into Zimbabwe, the KAZA UniVisa at USD 50 covers both countries plus Botswana day trips at Kazungula for 30 days. A departure tax of USD 25 applies, usually included in the airfare. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
+      },
+      "checked": "2026-11-14"
+    }
+  ]
+}
