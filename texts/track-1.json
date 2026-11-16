@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "track": 1,
-  "version": 2,
-  "published": "2026-11-06",
+  "version": 3,
+  "published": "2026-11-16",
   "texts": {
     "visa": {
       "title": "Visa disclaimer",
@@ -143,7 +143,7 @@
       "body": [
         {
           "type": "paragraph",
-          "text": "Every destination card links your own government’s travel advisory page, so you can check the current guidance yourself. Premium adds a direct link to the destination’s official visa or e-visa portal. Hop carries ten passports — Australia, Canada, Germany, India, Ireland, the Netherlands, New Zealand, South Korea, the United Kingdom and the United States. “Last date checked” on a card is the last day Hop checked that entry against an official source and found nothing that changes it. Hop re-checks many official pages every week; when one changes, the date stays as it was and the card says Hop is re-checking it. Anything Hop hasn’t been able to confirm against an official source is marked “Not confirmed” rather than guessed, and the {no_portal} destinations with no official online portal say so on the card. Always confirm with the official source before you travel."
+          "text": "Every destination card links your own government’s travel advisory page, so you can check the current guidance yourself. Premium adds a direct link to the destination’s official visa or e-visa portal. Hop carries ten passports — Australia, Canada, Germany, India, Ireland, the Netherlands, New Zealand, South Korea, the United Kingdom and the United States. On a card, “last checked” beside Visa type and Stay length is the last day Hop checked that part against an official source and found nothing that changes it. Where no visa is needed, the card shows a single “Last date checked”. Hop re-checks many official pages every week; when one changes, the date stays as it was and the card says Hop is re-checking it. Anything Hop hasn’t been able to confirm against an official source is marked “Not confirmed” rather than guessed, and the {no_portal} destinations with no official online portal say so on the card. Always confirm with the official source before you travel."
         }
       ]
     }

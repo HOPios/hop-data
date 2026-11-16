@@ -1,0 +1,852 @@
+{
+  "schema": 1,
+  "track": 2,
+  "version": 2,
+  "published": "2026-11-17",
+  "privacy": {
+    "title": "Hop Privacy Policy",
+    "subtitle": "You don’t need an account. Your trips, bookings and documents stay in Hop on your phone.",
+    "applies_from": "2026-11-17",
+    "version_line": "Version 2, applying from 17 November 2026",
+    "body": [
+      {
+        "type": "paragraph",
+        "lead": "The short version.",
+        "text": "You don’t create a Hop account. Your trips, bookings, settings and documents are kept in Hop on your device. To run Hop, manage Hop Premium and answer you, we handle a small amount of technical, subscription and support information, as this policy explains. Hop has no ads and no advertising trackers, and we don’t sell your personal information or use it for advertising."
+      },
+      {
+        "type": "paragraph",
+        "lead": "Who we are.",
+        "text": "Hop is provided by Hop Group Pty Ltd (ACN 702 900 632, ABN 71 702 900 632), trading as Hop Travel, PO Box 193, Australind WA 6233, Australia (“we”, “us”). We are responsible for the personal information described here (the “controller” under EU and UK law). For privacy questions or requests, email support@hoptravelapp.com."
+      },
+      {
+        "type": "paragraph",
+        "lead": "What stays on your device.",
+        "text": "Your chosen passport; your settings and display choices (such as your theme, which tips you’ve already seen and whether Explore shows the map or the list); your saved trips and their details, including stops, places, notes and the bookings you add; your travel history (the countries you’ve been to, with any years and months you add); your currency picks and favourites; the last exchange rates Hop downloaded; the latest copy of these legal texts and which version you’ve agreed to; whether your Hop Premium subscription was active when Hop last checked and the date it runs to; the random Support ID described below, once it exists; Premium photos you have opened or saved; and a few technical settings. These are kept in Hop’s own storage on your phone. Photos and PDFs you attach to a stop, a trip or a booking (a visa, an approval, insurance, a booking confirmation) are kept there too."
+      },
+      {
+        "type": "paragraph",
+        "lead": "Your documents.",
+        "text": "Hop does not upload your documents to us or to anyone else; a document leaves Hop only if you share it or save a copy yourself. When you tap Auto-fill, Hop reads that photo or PDF on your phone to fill in a booking; the file and the words in it never leave your phone. Anyone who can unlock your phone and open Hop could see your documents, unless you turn on the optional passcode lock (Settings, Document lock). The lock encrypts the contents of each stored file, including trip documents and booking attachments, with a key made from your passcode; the file’s name, type, size and date stay readable, and the name shows on the locked row. With the lock on, Hop also encrypts your booking reference numbers. If you turn on Face ID, Touch ID or fingerprint unlock, your phone keeps your passcode in its secure storage and releases it only after it recognises you; Hop never receives your face or fingerprint data. The passcode is 4 to 8 digits, so it raises the bar but is not unbreakable, and if you forget it the documents cannot be recovered."
+      },
+      {
+        "type": "paragraph",
+        "lead": "Backups and deleting.",
+        "text": "Your phone’s own backups (iCloud, or Google’s backup on Android, which is on by default for apps) may include copies of everything above; a locked document’s contents stay encrypted in a backup. How a backup is protected depends on your phone, its settings and the backup provider. Removing a stop, trip or booking removes its documents and attachments. Countries a trip added to your travel history stay there until you remove them. Deleting Hop or clearing its data removes Hop’s copy of everything above, but not copies in your phone’s backups, files you saved or shared, or the original photo or PDF you attached. We keep no other copy, so keep your own."
+      },
+      {
+        "type": "paragraph",
+        "lead": "Network requests Hop makes.",
+        "text": "Hop’s screens and information are built into the app, so it works without a connection. When you’re online, Hop downloads public data files to keep its information current between app updates: government travel-advisory levels, entry-rule corrections, the dates on which Hop last checked each destination’s entry rules, the current version of these legal texts, and short in-app notices. They come from raw.githubusercontent.com (GitHub), or from a jsDelivr mirror if that fails. Hop also fetches exchange rates directly from ExchangeRate-API about once a day, with Frankfurter (European Central Bank rates) as a fallback. Like any web request, these send your IP address and standard technical details, such as the time and your device’s network software, to the provider, which handles them under its own privacy policy. Hop adds no personal information, trip details, documents or identifier to them. Offline, Hop uses the last rates and texts it saved, or the ones built into the app."
+      },
+      {
+        "type": "paragraph",
+        "lead": "Premium photos.",
+        "text": "Hop’s Premium sections show extra photos that are not built into the app. When you open one of those photos, or tap “Download photos for this trip”, Hop downloads it from its own photo storage, served by Cloudflare. Cloudflare receives your IP address and the name of each photo you open. Each photo shows a place, so Cloudflare can tell which destinations you looked at. Hop does not receive or keep a record of these requests. Each photo is then kept on your phone, so it is not downloaded again, and you can remove saved photos in Settings. A Premium photo you have not saved shows as a blurred preview until you are back online. If you never open a Premium section, Hop never contacts its photo storage."
+      },
+      {
+        "type": "paragraph",
+        "lead": "Notifications.",
+        "text": "Hop can send you notifications. They are made on your phone from the same daily data; nothing about you or your trips is sent to us."
+      },
+      {
+        "type": "paragraph",
+        "lead": "The Hop website.",
+        "text": "hoptravelapp.com is hosted by Cloudflare, which sees routine technical data such as your IP address when you visit. When you open its privacy or terms page, your browser also downloads the current text from GitHub or jsDelivr, which see your IP address."
+      },
+      {
+        "type": "paragraph",
+        "lead": "Shared links.",
+        "text": "If you share a trip or your travel map, Hop puts only the details you choose into the link itself, on your phone. Hop doesn’t upload or store them, and the pages at hoptravelapp.com/t/ (trips) and hoptravelapp.com/w/ (travel maps) read the link only in the viewer’s own browser. Anyone who has the link can see those details, and a link can’t be cancelled once sent."
+      },
+      {
+        "type": "paragraph",
+        "lead": "Purchases.",
+        "text": "Payment for Hop Premium is taken by Apple (App Store) or Google (Google Play); we never see your card details. We use RevenueCat, Inc. (United States) to show current prices and to check whether a subscription is active. RevenueCat processes this information for us under a data processing agreement."
+      },
+      {
+        "type": "list",
+        "items": [
+          "If you never open the Hop Premium screen, buy, restore or redeem a code, Hop never contacts RevenueCat.",
+          "When you first open the Hop Premium screen, Hop creates a random ID on your device and sends it to RevenueCat to get the prices. With each request, RevenueCat also receives your IP address, your app store’s country and basic details about your phone: on iPhone, a code Apple gives us that is the same for all of our apps on that phone and isn’t used for advertising; on Android, basic details about the phone and its software. RevenueCat records these with the ID, the time and a country worked out from that IP address. Hop contacts it again only when you open the Hop Premium screen again.",
+          "If you buy, restore or redeem a subscription, RevenueCat links that ID to your purchase and renewal records from Apple or Google. While your subscription is active, Hop checks with RevenueCat when it opens and when you return to it while online. After your subscription ends, Hop checks only when you open the Hop Premium screen or tap Restore Purchases."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "RevenueCat never receives your name, email address or card details from Hop. We use this information to turn Hop Premium on and off, to help you with purchases, and to see how many people subscribe and renew. On Android, Google Play’s billing library in Hop also sends Google technical details about how each purchase request went, for example whether it worked or the connection failed. Google uses them to run, support and improve Google Play billing."
+      },
+      {
+        "type": "paragraph",
+        "lead": "Your Support ID.",
+        "text": "Hop’s settings show a Support ID, which is the random ID above. If you contact us about your subscription, including it helps us find your record; once you send it, your email is connected to that record. We may ask for a little more information to make sure a request is really yours. If you no longer have the ID, for example after reinstalling Hop, tell us and we’ll explain what we can do. Deleting your subscription data doesn’t cancel your subscription; cancel it in your App Store or Google Play account."
+      },
+      {
+        "type": "paragraph",
+        "lead": "If you contact us.",
+        "text": "If you email support@, admin@ or feedback@hoptravelapp.com, we receive your email address, your name if you include it, and your message, and keep them in our email account (Google Workspace). We use them only to reply and to fix what you report, and we never add you to a mailing list."
+      },
+      {
+        "type": "paragraph",
+        "lead": "Test versions.",
+        "text": "If you join a test version of Hop through Apple TestFlight or Google Play testing, Apple or Google may show us the email address and name you joined with, and any feedback or screenshots you choose to send through them. Apple also shows us how many times each tester used a test build and any crashes; testers who joined through a public link appear without their name. We use these only to run the test."
+      },
+      {
+        "type": "paragraph",
+        "lead": "App stores.",
+        "text": "Apple and Google may give us crash reports and download and usage statistics if you have allowed sharing with app developers in your phone’s settings. These are not meant to identify you, and we don’t try to. Downloads, purchases and offer codes are handled by Apple or Google under their own terms and privacy policies; where they sell to you directly, as in the EU and UK, they decide how they use their own records."
+      },
+      {
+        "type": "paragraph",
+        "lead": "Counting how Hop is used.",
+        "text": "Hop has no analytics of its own and sends no count of how often it’s opened, or by whom, to us or anyone else. We see how many people subscribe and renew through RevenueCat, as described above."
+      },
+      {
+        "type": "paragraph",
+        "lead": "Links out.",
+        "text": "Government visa and advisory links open other websites, which have their own privacy practices."
+      },
+      {
+        "type": "paragraph",
+        "lead": "Why we use your information, and for how long.",
+        "text": "If you are in the EU or UK, these are our legal bases."
+      },
+      {
+        "type": "table",
+        "header": [
+          "What",
+          "Why",
+          "Legal basis",
+          "How long we keep it"
+        ],
+        "rows": [
+          [
+            "Subscription records (RevenueCat), including the record made when you first open the Hop Premium screen",
+            "To show prices, provide Hop Premium, restore it and help with purchases",
+            "Performing our contract with you, or steps you ask for before buying",
+            "Deleted at our yearly October clean-up once 3 years have passed since its last activity (a purchase, a restore, a visit to the Hop Premium screen, or contact with us about it), or sooner if you ask"
+          ],
+          [
+            "The same records, counted",
+            "To see how many people subscribe and renew",
+            "Our legitimate interest in knowing whether Hop works as a business; we use only the random ID and purchase records",
+            "As above"
+          ],
+          [
+            "Emails you send us",
+            "To reply and fix what you report",
+            "Our legitimate interest in answering you, or our contract with you if it is about a purchase",
+            "Up to 2 years after our last reply, longer only if needed for a complaint or legal claim"
+          ],
+          [
+            "Premium photo requests and visits to hoptravelapp.com (your IP address and the photo or page requested, seen by Cloudflare)",
+            "To deliver the photos you open and the website you visit",
+            "Performing our contract with you (photos); our legitimate interest in running our website (website)",
+            "Hop keeps no record. Cloudflare keeps routine technical data as its own privacy policy describes"
+          ],
+          [
+            "Test-version details",
+            "To run the test",
+            "Our legitimate interest in testing Hop",
+            "While the test runs"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "lead": "Do you have to give us information?",
+        "text": "No. You can use Hop without giving us any personal information. Without the random ID sent to RevenueCat, Hop can’t show prices or provide Hop Premium, and without your email we can’t reply to you. We don’t make decisions about you by automated means, and we don’t build a profile of you."
+      },
+      {
+        "type": "paragraph",
+        "lead": "Your rights.",
+        "text": "Wherever you live, you can ask us for a copy of the personal information we hold about you, and ask us to correct or delete it, at support@hoptravelapp.com (for subscription records, include your Support ID if you have it). If you are in the EU or UK, you can also object to our use based on legitimate interests, ask us to restrict it, and receive your subscription records in a portable form, and you can complain to your local data protection authority. We reply within one month; if we need longer, we’ll tell you why within that month. If the law requires us to keep something you asked us to delete, we’ll tell you what and why. To make a complaint about how we handle your information, email support@hoptravelapp.com with “Privacy” in the subject, and we’ll answer within one month. If you are in Australia and aren’t happy with our answer, you can also contact the Office of the Australian Information Commissioner (oaic.gov.au), which can tell you whether it can help."
+      },
+      {
+        "type": "paragraph",
+        "lead": "Where your information is processed.",
+        "text": "Our service providers process information outside Australia, mainly in the United States: RevenueCat (subscription records), under a data processing agreement that includes the EU Standard Contractual Clauses and the UK International Data Transfer Addendum; and Google Workspace (email), under Google’s data processing terms, which also include the EU Standard Contractual Clauses. You can ask us for a copy of the safeguards we rely on. Cloudflare serves Hop’s Premium photos and the Hop website; photo requests are handled for us under Cloudflare’s data processing terms, Hop does not receive them, and how long Cloudflare keeps that data is set by its own privacy policy (cloudflare.com/privacypolicy). When your device or browser fetches public data files, legal texts or exchange rates, GitHub, jsDelivr, ExchangeRate-API or Frankfurter receives your IP address directly. Apple and Google handle testing, purchases, offer codes, billing logs and app statistics as independent businesses under their own terms."
+      },
+      {
+        "type": "paragraph",
+        "lead": "Children.",
+        "text": "Hop is a general travel app and isn’t aimed at children. You don’t need to give us any personal information to use it. If you’re under 18, ask a parent or guardian before buying Hop Premium. If you believe a child has sent us personal information, for example by email, contact us and we’ll delete it."
+      },
+      {
+        "type": "paragraph",
+        "lead": "California.",
+        "text": "We do not sell or share personal information, as those words are used in the California Consumer Privacy Act, and we do not use personal information for targeted advertising. California residents can ask to know, correct or delete the personal information we hold, using the contact details above, and we won’t treat you differently for asking."
+      },
+      {
+        "type": "paragraph",
+        "lead": "Changes and contact.",
+        "text": "We may update this policy without an app update: Hop downloads the current version when you’re online, keeps it for offline use and shows the date it applies from. If a change is significant, Hop tells you in the app before you carry on. You can read this policy in Hop and at hoptravelapp.com/privacy. Every earlier version, with the date it applied from, is kept at hoptravelapp.com/legal/earlier-versions, and we’ll send you a copy if you ask. Questions: support@hoptravelapp.com."
+      }
+    ],
+    "change": "significant",
+    "summary": "The Purchases section now also lists what RevenueCat receives with each request: your app store’s country and basic details about your phone.",
+    "what_changed": [
+      "The Purchases section now also lists what RevenueCat receives with each request: your app store’s country and basic details about your phone."
+    ]
+  },
+  "terms": {
+    "title": "Hop Terms of Service",
+    "subtitle": "The short version: Hop is a travel reference. Always confirm the rules with official sources before you book and again before you travel.",
+    "applies_from": "2026-11-17",
+    "version_line": "Version 2, applying from 17 November 2026",
+    "body": [
+      {
+        "type": "heading",
+        "text": "1. WHO WE ARE"
+      },
+      {
+        "type": "paragraph",
+        "text": "1.1 Hop is provided by Hop Group Pty Ltd (ACN 702 900 632, ABN 71 702 900 632), trading as Hop Travel, of PO Box 193, Australind WA 6233, Australia."
+      },
+      {
+        "type": "paragraph",
+        "text": "1.2 You can contact us by email at support@hoptravelapp.com, and we aim to reply within 5 business days."
+      },
+      {
+        "type": "heading",
+        "text": "2. WORDS USED IN THESE TERMS"
+      },
+      {
+        "type": "paragraph",
+        "text": "2.1 In these terms:"
+      },
+      {
+        "type": "paragraph",
+        "lead": "’Disclaimer’",
+        "text": "means the Hop Disclaimer published in Hop and at hoptravelapp.com/terms, as changed from time to time under clause 15."
+      },
+      {
+        "type": "paragraph",
+        "lead": "’Hop’",
+        "text": "means the Hop: Visa & Entry Rules app, the website hoptravelapp.com, and the information and features we provide through them."
+      },
+      {
+        "type": "paragraph",
+        "lead": "’Hop Premium’",
+        "text": "means the optional paid subscription described in clause 12."
+      },
+      {
+        "type": "paragraph",
+        "lead": "’Last date checked’",
+        "text": "has the meaning given in clause 5.3."
+      },
+      {
+        "type": "paragraph",
+        "lead": "’material change’",
+        "text": "has the meaning given in clause 15.4."
+      },
+      {
+        "type": "paragraph",
+        "lead": "’official source’",
+        "text": "means the website or other publication of a government, or of its embassy, consulate, immigration authority or foreign affairs department, or of the European Union, that sets out the rule, advice or information concerned."
+      },
+      {
+        "type": "paragraph",
+        "lead": "’Privacy Policy’",
+        "text": "means the Hop Privacy Policy published in Hop and at hoptravelapp.com."
+      },
+      {
+        "type": "paragraph",
+        "lead": "’Store’",
+        "text": "means the Apple App Store or Google Play, whichever you used to download Hop or to buy Hop Premium."
+      },
+      {
+        "type": "paragraph",
+        "lead": "’we’, ‘us’ and ‘our’",
+        "text": "mean Hop Group Pty Ltd."
+      },
+      {
+        "type": "paragraph",
+        "lead": "’you’ and ‘your’",
+        "text": "mean the person using Hop."
+      },
+      {
+        "type": "paragraph",
+        "text": "2.2 The word “including” and similar words do not limit what comes before them."
+      },
+      {
+        "type": "heading",
+        "text": "3. THESE TERMS"
+      },
+      {
+        "type": "paragraph",
+        "text": "3.1 These terms apply when you use Hop. By using Hop, or by subscribing to Hop Premium, you agree to these terms."
+      },
+      {
+        "type": "paragraph",
+        "text": "3.2 The Disclaimer forms part of these terms."
+      },
+      {
+        "type": "paragraph",
+        "text": "3.3 If you downloaded Hop from the Apple App Store, Apple’s Licensed Application End User License Agreement (apple.com/legal/internet-services/itunes/dev/stdeula) also applies to your licence to use the app. If that agreement and these terms conflict about that licence, Apple’s agreement applies, but nothing in it limits your rights under clause 10."
+      },
+      {
+        "type": "paragraph",
+        "text": "3.4 Purchases of Hop Premium are also covered by the Store’s own terms."
+      },
+      {
+        "type": "heading",
+        "text": "4. WHAT HOP IS"
+      },
+      {
+        "type": "paragraph",
+        "text": "4.1 Hop is a travel reference for personal use. It shows general information about visas, entry rules, government travel advisories and currency, and travel guides."
+      },
+      {
+        "type": "paragraph",
+        "text": "4.2 The visa and entry information in Hop is a general summary, in our own words, of the rules that official sources publish for holders of a particular passport. It does not take into account your personal circumstances, such as your travel history, the purpose or length of your trip, your route, your health or your character."
+      },
+      {
+        "type": "paragraph",
+        "text": "4.3 We use software, including artificial intelligence research tools, to find and check official sources. Every visa and entry rule in Hop is based on wording published by an official source, and a person reviews each change to a rule before it is published in Hop."
+      },
+      {
+        "type": "paragraph",
+        "text": "4.4 We provide Hop as it is and as available, subject to your rights under clause 10. Features and content change over time (see clause 15)."
+      },
+      {
+        "type": "heading",
+        "text": "5. CHECK BEFORE YOU TRAVEL"
+      },
+      {
+        "type": "paragraph",
+        "text": "5.1 Visa, entry, advisory and currency information, and the guides, places, food and photos in the “Explore” section of Hop, can be incomplete, out of date or wrong."
+      },
+      {
+        "type": "paragraph",
+        "text": "5.2 Before you book, and again before you travel, confirm every requirement with official sources: the destination’s government (its embassy, consulate or official immigration website), your own government’s travel advice, and your airline or other carrier, which checks travel documents before you board."
+      },
+      {
+        "type": "paragraph",
+        "text": "5.3 “Last date checked” is the last day on which we checked an entry against an official source and found nothing that changes it. It is not a promise that the rule has not changed since that day. Where an entry shows a notice that it is being re-checked or that a detail is not confirmed, rely on the official source and not on Hop for that entry."
+      },
+      {
+        "type": "paragraph",
+        "text": "5.4 For the travel advisory of your own government, Hop shows that government’s level where it publishes its own levels. Where a government’s own system does not match Hop’s four steps one for one, the step Hop shows is Hop’s reading of that government’s advice and not the government’s own rating, and the card says so. Read the government’s advice itself, which is linked on each card, including any warnings for parts of a country, before you decide whether to travel."
+      },
+      {
+        "type": "paragraph",
+        "text": "5.5 Currency figures are indicative mid-market reference rates, updated about once a day. They are not a quote from any bank, card provider or money changer, and they are not what you will be charged."
+      },
+      {
+        "type": "heading",
+        "text": "6. NOT ADVICE AND NOT IMMIGRATION ASSISTANCE"
+      },
+      {
+        "type": "paragraph",
+        "text": "6.1 Hop is general information. It is not migration, legal, financial or travel advice, and using Hop does not create an agency, advisory or other professional relationship between you and us."
+      },
+      {
+        "type": "paragraph",
+        "text": "6.2 We are not registered migration agents or lawyers. We do not assess whether you are eligible for a visa, advise you on which visa to apply for, help you prepare or lodge a visa application, or deal with any government on your behalf. If you need advice about your own circumstances, contact the relevant official source or, for an Australian visa, a registered migration agent or an Australian legal practitioner."
+      },
+      {
+        "type": "paragraph",
+        "text": "6.3 If you email us, we answer questions about how Hop works and we check reports of possible mistakes against the official source. We do not answer questions about your own visa or entry situation, and we will refer you to the official source."
+      },
+      {
+        "type": "paragraph",
+        "text": "6.4 Hop is independent. It is not affiliated with or endorsed by any government or government agency. Showing a government’s information in Hop does not mean that government endorses Hop. Where a government agency has given Hop permission to use its information, that permission is not an endorsement or approval of Hop."
+      },
+      {
+        "type": "heading",
+        "text": "7. YOUR DOCUMENTS, BOOKINGS AND SHARED LINKS"
+      },
+      {
+        "type": "paragraph",
+        "text": "7.1 Documents and booking confirmations you attach stay in Hop on your device, and in your phone’s own backups if you use them. We do not hold a copy, so please keep your own copy elsewhere."
+      },
+      {
+        "type": "paragraph",
+        "text": "7.2 If you set a passcode and forget it, we cannot recover your documents."
+      },
+      {
+        "type": "paragraph",
+        "text": "7.3 Your documents are never locked behind Hop Premium (see clause 12.17)."
+      },
+      {
+        "type": "paragraph",
+        "text": "7.4 Auto-fill reads your tickets and booking confirmations on your phone and can misread them, and a list you copy from Hop, such as the countries for a visa form, contains only what you have recorded in Hop. Check each of them against your passport and the original documents before you rely on it or enter it on a form."
+      },
+      {
+        "type": "paragraph",
+        "text": "7.5 If you share a trip or your travel map as a link, you choose what it includes. The details you choose are contained in the link itself and are displayed only in the browser of the person who opens it, and we do not upload or store them. Anyone with the link can see those details, and a link cannot be cancelled once you have sent it."
+      },
+      {
+        "type": "heading",
+        "text": "8. USING HOP"
+      },
+      {
+        "type": "paragraph",
+        "text": "8.1 Anyone may use the free features of Hop. Hop Premium may be bought only by a person aged 18 or over, or by a younger person with the permission of a parent or guardian."
+      },
+      {
+        "type": "paragraph",
+        "text": "8.2 You must not:"
+      },
+      {
+        "type": "paragraph",
+        "text": "(a) use Hop for any unlawful purpose;"
+      },
+      {
+        "type": "paragraph",
+        "text": "(b) interfere with, overload or try to gain unauthorised access to Hop or the systems we use to provide it;"
+      },
+      {
+        "type": "paragraph",
+        "text": "(c) use Hop Premium features without a current subscription, or help anyone else to do so; or"
+      },
+      {
+        "type": "paragraph",
+        "text": "(d) send abusive or unlawful material to us, including through our support email address."
+      },
+      {
+        "type": "paragraph",
+        "text": "8.3 If you send us a correction, a report of a possible mistake or a suggestion, we may use it to improve Hop without payment to you, and we do not publish your name or email address with it."
+      },
+      {
+        "type": "heading",
+        "text": "9. PRIVACY"
+      },
+      {
+        "type": "paragraph",
+        "text": "9.1 Our Privacy Policy explains what personal information we collect and how we handle it."
+      },
+      {
+        "type": "heading",
+        "text": "10. YOUR CONSUMER RIGHTS"
+      },
+      {
+        "type": "paragraph",
+        "text": "10.1 The Australian Consumer Law gives you rights that no agreement can take away, including guarantees that our services will be supplied with due care and skill and will be fit for any purpose you make known to us. Nothing in these terms or the Disclaimer excludes, restricts or modifies those rights."
+      },
+      {
+        "type": "paragraph",
+        "text": "10.2 If we fail to meet a consumer guarantee, you are entitled to the remedies the law provides, which may include having the service supplied again, a refund, or compensation for loss that was reasonably foreseeable."
+      },
+      {
+        "type": "paragraph",
+        "text": "10.3 If you live outside Australia, the consumer laws of your country may also give you rights that cannot be excluded by agreement. These terms do not limit those rights."
+      },
+      {
+        "type": "heading",
+        "text": "11. RESPONSIBILITY FOR LOSS"
+      },
+      {
+        "type": "paragraph",
+        "text": "11.1 This clause applies only as far as the law allows, and it does not limit your rights under clause 10."
+      },
+      {
+        "type": "paragraph",
+        "text": "11.2 You are responsible for confirming requirements with official sources before you book or travel (see clause 5.2). We are not responsible for loss or costs that happen because you relied on Hop instead of doing that, such as being refused boarding, entry or a visa, or missing travel, unless the loss was caused by our failure to take reasonable care or to meet a consumer guarantee."
+      },
+      {
+        "type": "paragraph",
+        "text": "11.3 We are not responsible for loss caused solely by events outside our reasonable control, such as a government changing its rules or advice without notice, an official source being wrong or unavailable, or a failure of Apple’s, Google’s or a data provider’s systems."
+      },
+      {
+        "type": "paragraph",
+        "text": "11.4 Hop is provided for personal use only, so we are not responsible for any loss of profit, revenue or business opportunity."
+      },
+      {
+        "type": "paragraph",
+        "text": "11.5 Where the law allows our liability to be limited, our total liability to you for all claims relating to Hop is limited to the total amount you paid for Hop Premium in the 12 months before the claim arose, or A$50 if you have not paid for Hop Premium. This limit does not apply to your rights under clause 10."
+      },
+      {
+        "type": "heading",
+        "text": "12. HOP PREMIUM SUBSCRIPTIONS"
+      },
+      {
+        "type": "paragraph",
+        "text": "12.1 Hop is free to use. Hop Premium is an optional paid subscription that adds the features listed on the Hop Premium screen in the app."
+      },
+      {
+        "type": "paragraph",
+        "text": "12.2 Hop Premium is provided by us and billed through the Store. The Store shows who sells and bills the subscription in your country (in the European Union and the United Kingdom, for example, Apple or Google sells it to you). In every country, we provide the Hop Premium features and remain responsible for them, including under clause 10."
+      },
+      {
+        "type": "paragraph",
+        "text": "12.3 Hop Premium is offered as a monthly or a yearly subscription. The price for your country is shown in the app and by the Store before you confirm. Depending on where you live, the price includes tax or the Store adds it at checkout. In Australia, the price shown includes GST."
+      },
+      {
+        "type": "paragraph",
+        "text": "12.4 The yearly plan may include a 7 day free trial for new subscribers. The Store decides whether you are eligible (generally one free trial for each person or account), and Hop shows the trial only when the Store says you are eligible. Nothing is charged during the trial. When the trial ends, the yearly subscription starts and the yearly price is charged, unless you cancel first: on iPhone, at least 24 hours before the trial ends, and on Android, before it ends. In some countries, such as South Korea, the Store asks you to agree before the first paid charge, and if you do not agree, the subscription ends with the trial."
+      },
+      {
+        "type": "paragraph",
+        "text": "12.5 Payment is taken by Apple or Google, not by us. We never see your card details."
+      },
+      {
+        "type": "paragraph",
+        "text": "12.6 Your subscription renews automatically at the end of each period, at the price that applies then (see clause 12.13), unless you cancel before the period ends. On iPhone, Apple may charge a renewal up to 24 hours before the new period starts, so cancel at least 24 hours before the current period ends. On Android, Google charges at the start of each new period and may place a temporary authorisation hold on your payment method up to 48 hours before it (up to 5 days before in India and Brazil). A hold is not a charge."
+      },
+      {
+        "type": "paragraph",
+        "text": "12.7 Hop shows you a reminder in the app, with the date and the price, when a free trial starts, 3 days before a free trial ends, 30 days before a yearly plan renews, and once a year for a monthly plan. Hop has no user accounts, so you see these reminders when you open Hop, and we do not send them by email. Apple and Google may also send you their own notices."
+      },
+      {
+        "type": "paragraph",
+        "text": "12.8 You can switch between the monthly and yearly plans in your Store subscription settings. On iPhone, switching from monthly to yearly starts the yearly plan straight away and Apple refunds the unused part of your month, and switching from yearly to monthly starts at your next renewal. On Android, Google Play shows when a change takes effect before you confirm."
+      },
+      {
+        "type": "paragraph",
+        "text": "12.9 You can cancel at any time in your Store account, or by tapping “Manage or cancel subscription” in Hop. On iPhone, go to Settings, then your name, then Subscriptions, then Hop. On Android, go to Google Play, then your profile icon, then Payments and subscriptions, then Subscriptions, then Hop. Deleting the app, or asking us to delete your subscription data, does not cancel a subscription. When you cancel, Hop Premium continues until the end of the period you have paid for."
+      },
+      {
+        "type": "paragraph",
+        "text": "12.10 We do not refund unused time in a period when you cancel, except under clause 15.7, clause 15.8 or clause 16.2, or where the law or the Store’s own policy provides a refund. Nothing in this clause limits your rights under clause 10."
+      },
+      {
+        "type": "paragraph",
+        "text": "12.11 Refund requests for App Store purchases are made to Apple at reportaproblem.apple.com. Refund requests for Google Play purchases can be made through Google Play or to us. Where you are entitled to a refund or other remedy from us under these terms or under the law, we will provide it, whether or not the Store also provides a refund, and for an App Store purchase we will pay the refund to you directly. To ask us for a remedy, email support@hoptravelapp.com."
+      },
+      {
+        "type": "paragraph",
+        "text": "12.12 If you live in the European Union or the United Kingdom, you may be able to withdraw from the purchase, usually within 14 days. In those countries, Apple (Apple Distribution International) or Google (Google Commerce Limited) sells the subscription to you, so you exercise that right with them: on iPhone through Purchase History and “Withdraw Transaction” or Apple’s model withdrawal form, and on Android through a refund request in Google Play or Google’s model withdrawal form. When you buy, the Store may ask you to agree that Hop Premium starts straight away and that you then lose the right to withdraw. This does not limit any other way the law lets you exercise your rights, or any rights you have against us. Email us if you need help."
+      },
+      {
+        "type": "paragraph",
+        "text": "12.13 We may change the price of Hop Premium for future subscription periods, for example because of changes in our costs, features, taxes or exchange rates. A price change never applies to a period you have already paid for. If the price of your subscription increases, Apple or Google tells you before the new price applies. Where the Store’s rules or your local law require your agreement, the subscription will not renew at the higher price unless you agree, and if you do not agree, it ends at the end of the period you have paid for. Otherwise, the new price applies from the renewal date given in the Store’s notice, unless you cancel before then."
+      },
+      {
+        "type": "paragraph",
+        "text": "12.14 Hop Premium keeps working without an internet connection, except that a Premium photo you have not yet saved to your phone shows as a blurred preview until you are back online. If Hop cannot confirm a renewal because your phone is offline, Hop Premium continues for up to 7 days after the renewal date Hop last recorded, then pauses until Hop can check again. If a payment fails, Apple or Google may keep your subscription active while they retry the payment, and Hop Premium follows what they report. This does not change your billing, which Apple or Google manage."
+      },
+      {
+        "type": "paragraph",
+        "text": "12.15 Your subscription belongs to your Apple ID or Google account. Tap “Restore purchases” on the Hop Premium screen to turn Hop Premium back on after reinstalling Hop, or on another device signed in to the same Store account. A subscription bought through Apple does not turn on Hop Premium on Android, and a subscription bought through Google does not turn on Hop Premium on iPhone."
+      },
+      {
+        "type": "paragraph",
+        "text": "12.16 Hop Premium cannot be shared through Apple Family Sharing or the Google Play family library."
+      },
+      {
+        "type": "paragraph",
+        "text": "12.17 If your subscription ends, nothing is deleted. Hop keeps your trips and travel history on your device, but hides trips beyond the one free trip, and dated travel history from before the previous calendar year, until you subscribe again. The trip that stays visible keeps all its stops, but you cannot add more stops than the free limit. Your documents are never locked: the “Document lock” screen in Hop’s settings lists every document, including trip documents and booking confirmations, so you can open it, save a copy or delete it, even when its trip is hidden. You can delete hidden trips from Hop’s settings at any time."
+      },
+      {
+        "type": "paragraph",
+        "text": "12.18 We may add, change or remove Hop Premium features. If a change materially reduces Hop Premium during a period you have paid for, clause 15.8 applies."
+      },
+      {
+        "type": "heading",
+        "text": "13. CONTENT AND LICENCES"
+      },
+      {
+        "type": "paragraph",
+        "text": "13.1 Hop’s own text, data compilations and design belong to us, and we give you a personal, non-exclusive and non-transferable licence to use them for your own non-commercial travel planning."
+      },
+      {
+        "type": "paragraph",
+        "text": "13.2 You must not copy, extract, scrape or republish Hop’s visa, entry or advisory information in bulk, use it to build or train another product or service, sell or license it to anyone else, or reverse engineer the app, except as far as the law allows you to do so."
+      },
+      {
+        "type": "paragraph",
+        "text": "13.3 Photos and government material shown in Hop belong to their owners and are used under their own licences, which are credited in Hop’s settings under “Photo credits” and “Data sources and attribution”. Those licences, and not these terms, govern your use of that material."
+      },
+      {
+        "type": "heading",
+        "text": "14. LINKS AND DATA FEEDS"
+      },
+      {
+        "type": "paragraph",
+        "text": "14.1 Hop links to, and downloads public data from, other websites, including official sources. We choose official sources with care, but we do not control those websites and are not responsible for their content or availability."
+      },
+      {
+        "type": "paragraph",
+        "text": "14.2 This clause does not limit our responsibility for how we choose and describe those sources, or your rights under clause 10."
+      },
+      {
+        "type": "heading",
+        "text": "15. CHANGES TO HOP AND TO THESE TERMS"
+      },
+      {
+        "type": "paragraph",
+        "text": "15.1 We may change Hop’s features and content at any time."
+      },
+      {
+        "type": "paragraph",
+        "text": "15.2 We may change these terms or the Disclaimer only:"
+      },
+      {
+        "type": "paragraph",
+        "text": "(a) to reflect a change in the law, a requirement of a regulator or a change in a Store’s rules;"
+      },
+      {
+        "type": "paragraph",
+        "text": "(b) to meet a security, technical or operational requirement;"
+      },
+      {
+        "type": "paragraph",
+        "text": "(c) to reflect a change in Hop’s features or in Hop Premium;"
+      },
+      {
+        "type": "paragraph",
+        "text": "(d) to correct an error or make the wording clearer;"
+      },
+      {
+        "type": "paragraph",
+        "text": "(e) to reflect a change in who provides Hop; or"
+      },
+      {
+        "type": "paragraph",
+        "text": "(f) where the change is otherwise reasonably necessary to protect our legitimate interests."
+      },
+      {
+        "type": "paragraph",
+        "text": "15.3 Hop downloads the current terms, Disclaimer and Privacy Policy when you are online, so they can change without an app update. Each version shows the date it applies from, and Hop keeps the last version it downloaded for use when you are offline. A change applies from its date and never to anything that happened before that date."
+      },
+      {
+        "type": "paragraph",
+        "text": "15.4 A material change is a change to these terms or the Disclaimer that:"
+      },
+      {
+        "type": "paragraph",
+        "text": "(a) takes something away from subscribers, or changes the price, free trial, renewal, cancellation or refund terms;"
+      },
+      {
+        "type": "paragraph",
+        "text": "(b) adds a duty, fee, restriction or limit for people using Hop;"
+      },
+      {
+        "type": "paragraph",
+        "text": "(c) changes clause 10, clause 11, clause 14 or clause 17;"
+      },
+      {
+        "type": "paragraph",
+        "text": "(d) changes who provides Hop;"
+      },
+      {
+        "type": "paragraph",
+        "text": "(e) weakens clause 5, changes what Hop is or is not under clause 4 or clause 6, or changes what is free in Hop; or"
+      },
+      {
+        "type": "paragraph",
+        "text": "(f) is otherwise a change that a reasonable person would want to know about before continuing to use Hop."
+      },
+      {
+        "type": "paragraph",
+        "text": "15.5 A change is not a material change if it only makes the wording clearer without changing its meaning, corrects a typing error, updates contact details, adds examples or credits, or gives people using Hop more than before."
+      },
+      {
+        "type": "paragraph",
+        "text": "15.6 If we make a material change, Hop shows it to you in the app, with a summary of the change and the full text, and asks you to agree before you continue using Hop. If you do not agree, you may stop using Hop at any time, and you can still open, save and delete your documents, read the legal documents, manage or cancel Hop Premium and email us."
+      },
+      {
+        "type": "paragraph",
+        "text": "15.7 If you have Hop Premium and you cancel because of a material change within 30 days after Hop first shows you that change, we will refund the unused part of your current subscription period."
+      },
+      {
+        "type": "paragraph",
+        "text": "15.8 If a change to these terms or to Hop Premium materially reduces what you receive from a subscription you have already paid for, we will tell you in the app at least 30 days before the change takes effect, unless a legal or security reason requires a faster change. You may then cancel, and we will refund the unused part of your current subscription period."
+      },
+      {
+        "type": "paragraph",
+        "text": "15.9 We keep every earlier version of these terms and the Disclaimer, with its date, at hoptravelapp.com/legal/earlier-versions, and we will send you a copy of any earlier version if you ask."
+      },
+      {
+        "type": "paragraph",
+        "text": "15.10 Price changes are covered by clause 12.13."
+      },
+      {
+        "type": "heading",
+        "text": "16. IF WE STOP PROVIDING HOP OR END YOUR ACCESS"
+      },
+      {
+        "type": "paragraph",
+        "text": "16.1 We may stop providing Hop, or any part of it, at any time."
+      },
+      {
+        "type": "paragraph",
+        "text": "16.2 If we stop offering Hop Premium during a period you have paid for, we will refund the unused part of that period, and we will make hidden trips and travel history visible to everyone in an app update."
+      },
+      {
+        "type": "paragraph",
+        "text": "16.3 We may suspend or end your access to Hop’s online content and data, or to Hop Premium, if you breach clause 8.2 or clause 13.2 in a material way. Where we are able to contact you, we will tell you before we do so, unless the breach is serious or is continuing."
+      },
+      {
+        "type": "paragraph",
+        "text": "16.4 If we end your access under clause 16.3, you can still open, save and delete your documents, and clause 16.3 does not limit your rights under clause 10."
+      },
+      {
+        "type": "heading",
+        "text": "17. LAW AND COMPLAINTS"
+      },
+      {
+        "type": "paragraph",
+        "text": "17.1 These terms are governed by the laws of Western Australia, Australia."
+      },
+      {
+        "type": "paragraph",
+        "text": "17.2 If you live outside Australia, you keep the protections that the law where you live gives you and that cannot be removed by agreement, including your right to go to your local courts or consumer bodies."
+      },
+      {
+        "type": "paragraph",
+        "text": "17.3 If something goes wrong, please email support@hoptravelapp.com first so that we can try to resolve it. This does not affect your right to contact a consumer protection agency or to go to court."
+      },
+      {
+        "type": "heading",
+        "text": "18. GENERAL"
+      },
+      {
+        "type": "paragraph",
+        "text": "18.1 If any part of these terms is invalid or cannot be enforced, it is limited or removed to the extent necessary, and the rest of these terms continues to apply."
+      },
+      {
+        "type": "paragraph",
+        "text": "18.2 We may transfer our rights and obligations under these terms to another business that takes over Hop. A transfer is a material change under clause 15.4, and clause 15.6 and clause 15.7 apply to it."
+      },
+      {
+        "type": "paragraph",
+        "text": "18.3 If we do not enforce a part of these terms straight away, we can still enforce it later."
+      }
+    ],
+    "change": "minor"
+  },
+  "disclaimer": {
+    "title": "Hop Disclaimer",
+    "applies_from": "2026-11-17",
+    "version_line": "Version 2, applying from 17 November 2026",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "This Disclaimer forms part of the Hop Terms of Service, and words defined in the Hop Terms of Service have the same meaning in this Disclaimer."
+      },
+      {
+        "type": "heading",
+        "text": "1. HOP IS A TRAVEL REFERENCE, NOT ADVICE"
+      },
+      {
+        "type": "paragraph",
+        "text": "1.1 Hop shows general published information about visas, entry rules, government travel advisories and currency, and travel guides, to help you plan your travel."
+      },
+      {
+        "type": "paragraph",
+        "text": "1.2 Hop is general information. It is not migration, legal, financial or travel advice, and using Hop does not create an agency, advisory or other professional relationship between you and us."
+      },
+      {
+        "type": "paragraph",
+        "text": "1.3 The visa and entry information in Hop is a general summary, in our own words, of the rules that official sources publish for holders of a particular passport. It does not take into account your personal circumstances."
+      },
+      {
+        "type": "paragraph",
+        "text": "1.4 We use software, including artificial intelligence research tools, to find and check official sources. Every visa and entry rule in Hop is based on wording published by an official source, and a person reviews each change to a rule before it is published in Hop."
+      },
+      {
+        "type": "heading",
+        "text": "2. NOT IMMIGRATION ASSISTANCE"
+      },
+      {
+        "type": "paragraph",
+        "text": "2.1 We are not registered migration agents or lawyers. We do not assess whether you are eligible for a visa, advise you on which visa to apply for, help you prepare or lodge a visa application, or deal with any government on your behalf."
+      },
+      {
+        "type": "paragraph",
+        "text": "2.2 If you need advice about your own circumstances, contact the relevant official source or, for an Australian visa, a registered migration agent or an Australian legal practitioner."
+      },
+      {
+        "type": "heading",
+        "text": "3. ALWAYS CHECK BEFORE YOU TRAVEL"
+      },
+      {
+        "type": "paragraph",
+        "text": "3.1 Rules change, sometimes without notice, and despite careful checking any entry in Hop can be incomplete or out of date."
+      },
+      {
+        "type": "paragraph",
+        "text": "3.2 Before you book, and again before you travel, confirm every requirement with official sources: the destination’s government (its embassy, consulate or official immigration website), your own government’s travel advice, and your airline or other carrier, which checks travel documents before you board."
+      },
+      {
+        "type": "paragraph",
+        "text": "3.3 Every destination card links to your own government’s travel advice, and Hop Premium adds a direct link to the destination’s official visa or electronic visa website."
+      },
+      {
+        "type": "paragraph",
+        "text": "3.4 “Last date checked” is the last day on which we checked an entry against an official source and found nothing that changes it. It is not a promise that the rule has not changed since that day."
+      },
+      {
+        "type": "heading",
+        "text": "4. TRAVEL ADVISORIES"
+      },
+      {
+        "type": "paragraph",
+        "text": "4.1 Advisory levels belong to the governments that publish them: Australia, Canada, Germany, the Netherlands, New Zealand, the United Kingdom and the United States. Hop shows each government’s advice on a four step scale."
+      },
+      {
+        "type": "paragraph",
+        "text": "4.2 Governments describe their advice in different ways: some use four levels or colours, and others use warnings for all or part of a country. Where a government’s own system does not match Hop’s four steps one for one, the step Hop shows is Hop’s reading of that government’s advice and not the government’s own rating, and the card says so. Read the government’s advice itself, which is linked on each card, including any warnings for parts of a country, before you decide whether to travel."
+      },
+      {
+        "type": "paragraph",
+        "text": "4.3 Canada publishes levels numbered 0 to 3, and Hop shows them as steps 1 to 4, with Canada’s own level shown on the card."
+      },
+      {
+        "type": "paragraph",
+        "text": "4.4 For Irish and South Korean passports, Hop links to the government’s travel advice instead of showing a level. India’s government publishes no comparable advisory rating, so cards for Indian passports show “No advisory rating”. India’s Ministry of External Affairs may still issue advisories, so check its website as well."
+      },
+      {
+        "type": "heading",
+        "text": "5. EXCHANGE RATES"
+      },
+      {
+        "type": "paragraph",
+        "text": "5.1 Currency figures are indicative mid-market reference rates, updated about once a day. They are not a quote from any bank, card provider or money changer, and they are not what you will be charged."
+      },
+      {
+        "type": "paragraph",
+        "text": "5.2 When you are online, Hop fetches rates from ExchangeRate-API about once a day. If that service is not available, Hop uses the European Central Bank’s reference rates for the currencies they cover and its built-in table for other currencies. When you are offline, Hop uses the last rates it saved or its built-in table, and shows the date of the rates."
+      },
+      {
+        "type": "heading",
+        "text": "6. YOUR OWN RECORDS"
+      },
+      {
+        "type": "paragraph",
+        "text": "6.1 Auto-fill reads your tickets and booking confirmations on your phone and can misread them, and a list you copy from Hop, such as the countries for a visa form, contains only what you have recorded in Hop. Check each of them against your passport and the original documents before you rely on it or enter it on a form."
+      },
+      {
+        "type": "heading",
+        "text": "7. HOP IS INDEPENDENT"
+      },
+      {
+        "type": "paragraph",
+        "text": "7.1 Hop is independent. It is not affiliated with or endorsed by any government or government agency. Where a government agency has given Hop permission to use its information, that permission is not an endorsement or approval of Hop."
+      },
+      {
+        "type": "heading",
+        "text": "8. YOUR RIGHTS"
+      },
+      {
+        "type": "paragraph",
+        "text": "8.1 Hop is provided as it is, but nothing in this Disclaimer excludes, restricts or modifies the guarantees and rights you have under the Australian Consumer Law or the consumer laws of your country. The Hop Terms of Service set out who is responsible for what and clarify our responsibilities."
+      }
+    ],
+    "change": "minor"
+  },
+  "history": [
+    {
+      "version": 1,
+      "applies_from": "2026-11-17",
+      "privacy": {
+        "change": "significant",
+        "summary": "Hop Premium is now a paid subscription, billed by Apple or Google and managed with RevenueCat; the policy explains what that involves, how long records are kept and your rights.",
+        "applies_from": "2026-11-17"
+      },
+      "terms": {
+        "change": "material",
+        "summary": "The main change: where a government agency has given Hop permission to use its information, that permission is not an endorsement or approval of Hop.",
+        "applies_from": "2026-11-17"
+      },
+      "disclaimer": {
+        "change": "material",
+        "summary": "Hop Group Pty Ltd now provides Hop, and the Terms now cover paid Hop Premium: how it renews, how to cancel and how refunds work.",
+        "applies_from": "2026-11-17"
+      }
+    }
+  ]
+}
