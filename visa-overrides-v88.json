@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T06:18:57Z",
+  "generated_at": "2026-11-16T06:50:24Z",
   "entries": [
     {
       "passport": "CA",
@@ -548,7 +548,7 @@
       "destination": "South Georgia and the South Sandwich Islands",
       "fields": {
         "stay": "40 days (Visitor Entry Permit)",
-        "note": "Visa: Entry Control Ordinance 2022 requires a visitor permit for essentially everyone, applied for via eta.entry.gov.gs. Commercial cruise operators typically submit group bookings on passengers' behalf.\nPermit: a visitor permit is valid for 40 days (gov.gs). The £50 late fee applies if you apply 8 days or less before arrival.\nMoney: no banks, ATMs or retail economy on the island. The Falkland Islands pound (at par with GBP) is the local currency in name only.\nFCDO: the FCDO's own dedicated page (separate from the Falklands and Antarctica) carries a standard informational advisory, with no 'advise against travel' warning.\nGood to know: historic whaling stations are off-limits (asbestos hazard)."
+        "note": "Visa: Entry Control Ordinance 2022 requires a visitor permit for essentially everyone, applied for via eta.entry.gov.gs. Commercial cruise operators typically submit group bookings on passengers' behalf.\nPermit: a visitor permit is valid for 40 days (gov.gs). The £50 late fee applies if you apply 8 days or less before arrival.\nMoney: no banks, ATMs or retail economy on the island. The Falkland Islands pound (at par with GBP) is the local currency in name only.\nGood to know: historic whaling stations are off-limits (asbestos hazard)."
       }
     },
     {
@@ -2124,7 +2124,7 @@
       "passport": "UK",
       "destination": "Nicaragua",
       "fields": {
-        "note": "Visa-free 90 days under CA-4 agreement (combined quota with Guatemala, El Salvador, Honduras — doesn't reset at borders). Political tensions ongoing — monitor FCDO advice, avoid demonstrations."
+        "note": "Visa-free 90 days under CA-4 agreement (combined quota with Guatemala, El Salvador, Honduras — doesn't reset at borders). Political tensions ongoing."
       }
     },
     {
@@ -8720,6 +8720,48 @@
       "fields": {
         "extension": "State Migration Service",
         "cost": "Free"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Afghanistan",
+      "fields": {
+        "apply": "Not verified"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Iran",
+      "fields": {
+        "apply": "Not verified"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Russia",
+      "fields": {
+        "apply": "Not verified"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Venezuela",
+      "fields": {
+        "apply": "Not verified"
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Hong Kong",
+      "fields": {
+        "ext_cost": "HKD 330"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Hong Kong",
+      "fields": {
+        "ext_cost": "HKD 330"
       }
     }
   ],
