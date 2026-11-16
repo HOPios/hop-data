@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T06:50:24Z",
+  "generated_at": "2026-11-16T07:16:45Z",
   "entries": [
     {
       "passport": "CA",
@@ -1984,7 +1984,8 @@
       "passport": "KR",
       "destination": "Saint Lucia",
       "fields": {
-        "stay": "90 days"
+        "stay": "90 days",
+        "apply": "Complete the online arrival form (travelslu.govt.lc) from 72 hours before departure; no visa"
       }
     },
     {
@@ -7983,7 +7984,8 @@
       "destination": "Lebanon",
       "fields": {
         "note": "Visa: one-month visa issued free at the port of entry under General Security's nationality rules.\nOverstay: if you overstay by less than one month, you can leave and pay a fine at departure. If you overstay by more than one month, you must contact General Security's bureau of Arabs and foreigners before you are allowed to leave.",
-        "cost": "Free (VOA)"
+        "cost": "Free (VOA)",
+        "apply": "At the port of entry (visa on arrival) — no advance application required."
       }
     },
     {
@@ -8433,7 +8435,8 @@
       "passport": "UK",
       "destination": "Mongolia",
       "fields": {
-        "note": "Visa-free for tourism up to 30 days under Mongolia's temporary exemption list, in force to end-2026 — check before booking 2027 travel.\nPublished only to 31 Dec 2026."
+        "note": "Visa-free for tourism up to 30 days under Mongolia's temporary exemption list, in force to end-2026 — check before booking 2027 travel.\nPublished only to 31 Dec 2026.",
+        "apply": "Not required (visa-free) — present passport at any Mongolian port of entry."
       }
     },
     {
@@ -8762,6 +8765,66 @@
       "destination": "Hong Kong",
       "fields": {
         "ext_cost": "HKD 330"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Bahrain",
+      "fields": {
+        "extension": "Not verified",
+        "ext_cost": "Not verified"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Bahrain",
+      "fields": {
+        "extension": "Not verified",
+        "ext_cost": "Not verified"
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Trinidad and Tobago",
+      "fields": {
+        "apply": "Complete the online arrival form (travel.gov.tt), mandatory, from 72 hours before arrival; no visa",
+        "cost": "Not required",
+        "note": "Visa-free for 90 days under a bilateral agreement. Passport must be valid for 6 months or more. Entry may be refused without an onward ticket; it can be asked for at immigration. The online arrival form is mandatory (travel.gov.tt)."
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Grenada",
+      "fields": {
+        "apply": "Complete the online arrival card (edcard.gov.gd) before arrival; no visa"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Hong Kong",
+      "fields": {
+        "ext_cost": "HKD 330"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Cyprus",
+      "fields": {
+        "apply": "Not required"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Argentina",
+      "fields": {
+        "apply": "Not required"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Chile",
+      "fields": {
+        "apply": "Not required"
       }
     }
   ],
