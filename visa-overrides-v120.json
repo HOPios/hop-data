@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T14:28:00Z",
+  "generated_at": "2026-11-16T15:01:39Z",
   "entries": [
     {
       "passport": "KR",
@@ -157,28 +157,29 @@
       "passport": "NZ",
       "destination": "Azerbaijan",
       "fields": {
-        "note": "New Zealand is on the ASAN e-visa eligible list. Single entry. Standard processing is 3 working days, with a 3-hour urgent option."
+        "note": "New Zealand is on the ASAN e-visa eligible list. The single-entry e-visa is issued within 3 working days, or within 3 hours on the urgent route, for a stay of up to 30 days. The ASAN system also issues multiple-entry e-visas.",
+        "stay": "Up to 30 days (single-entry e-visa)"
       }
     },
     {
       "passport": "AU",
       "destination": "Azerbaijan",
       "fields": {
-        "note": "e-Visa via the official ASAN portal (evisa.gov.az): single entry, valid for 90 days from issue, with a stay of up to 30 days inside that window."
+        "note": "Apply for an e-visa through the official ASAN portal (evisa.gov.az). The single-entry e-visa allows a stay of up to 30 days and is valid for up to 90 days. The ASAN system also issues multiple-entry e-visas."
       }
     },
     {
       "passport": "US",
       "destination": "Azerbaijan",
       "fields": {
-        "note": "e-Visa via the official ASAN portal (evisa.gov.az): single entry, valid for 90 days from issue, with a stay of up to 30 days inside that window."
+        "note": "Apply for an e-visa through the official ASAN portal (evisa.gov.az). The single-entry e-visa allows a stay of up to 30 days and is valid for up to 90 days. The ASAN system also issues multiple-entry e-visas."
       }
     },
     {
       "passport": "CA",
       "destination": "Azerbaijan",
       "fields": {
-        "note": "Canada is named on the ASAN e-visa eligible list. Single entry; the e-visa is valid 90 days from issue, within which you may stay 30 days."
+        "note": "Canada is named on the ASAN e-visa eligible list. The single-entry e-visa allows a stay of up to 30 days and is valid for up to 90 days. The ASAN system also issues multiple-entry e-visas."
       }
     },
     {
