@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T14:56:08Z",
+  "generated_at": "2026-11-16T00:46:06Z",
   "entries": [
     {
       "passport": "CA",
@@ -1758,98 +1758,90 @@
       "passport": "UK",
       "destination": "Cook Islands",
       "fields": {
-        "ext_cost": "$115 for a 31-day extension",
+        "ext_cost": "NZD 115 for a 31-day extension",
         "stay": "31 days",
         "note": "Visa: a free visitor permit is stamped on arrival for essentially every nationality.\nBring: a confirmed onward ticket and pre-booked accommodation. Airlines do check, and it is a real requirement rather than a formality.\nGood to know: Rarotonga is the only international airport.\nInsurance: medical facilities are limited. Evacuation insurance to New Zealand is worth having.",
         "extension": "Possible — upon application you can visit up to 8 months in total"
-      },
-      "checked": "2026-11-15"
+      }
     },
     {
       "passport": "US",
       "destination": "Cook Islands",
       "fields": {
-        "ext_cost": "$115 for a 31-day extension",
+        "ext_cost": "NZD 115 for a 31-day extension",
         "stay": "31 days",
         "extension": "Possible — upon application you can visit up to 8 months in total"
-      },
-      "checked": "2026-11-15"
+      }
     },
     {
       "passport": "KR",
       "destination": "Cook Islands",
       "fields": {
-        "ext_cost": "$115 for a 31-day extension",
+        "ext_cost": "NZD 115 for a 31-day extension",
         "note": "No visa needed before travel — a free visitor permit is issued on arrival for 31 days. Passport valid 6+ months beyond departure with 2 blank pages. Show an onward or return ticket, sufficient funds and arranged accommodation.",
         "stay": "31 days",
         "visa": "vf",
         "apply": "On arrival at Rarotonga — a visitor permit issued at the border, no advance application",
         "extension": "Possible — upon application you can visit up to 8 months in total"
-      },
-      "checked": "2026-11-15"
+      }
     },
     {
       "passport": "DE",
       "destination": "Cook Islands",
       "fields": {
-        "ext_cost": "$115 for a 31-day extension",
+        "ext_cost": "NZD 115 for a 31-day extension",
         "note": "No advance visa — a free visitor permit is issued on arrival for 31 days. Passport valid 6+ months beyond departure, with 2 blank pages. Show an onward or return ticket, enough funds and booked accommodation.",
         "stay": "31 days",
         "visa": "vf",
         "apply": "On arrival at Rarotonga — a visitor permit issued at the border, no advance application",
         "extension": "Possible — upon application you can visit up to 8 months in total"
-      },
-      "checked": "2026-11-15"
+      }
     },
     {
       "passport": "NL",
       "destination": "Cook Islands",
       "fields": {
-        "ext_cost": "$115 for a 31-day extension",
+        "ext_cost": "NZD 115 for a 31-day extension",
         "note": "No visa needed before travel — a free visitor permit for 31 days is issued on arrival. Passport valid 6+ months beyond departure, with 2 blank pages. Onward/return ticket, sufficient funds and arranged accommodation required.",
         "stay": "31 days",
         "visa": "vf",
         "apply": "On arrival at Rarotonga — a visitor permit issued at the border, no advance application",
         "extension": "Possible — upon application you can visit up to 8 months in total"
-      },
-      "checked": "2026-11-15"
+      }
     },
     {
       "passport": "IE",
       "destination": "Cook Islands",
       "fields": {
-        "ext_cost": "$115 for a 31-day extension",
+        "ext_cost": "NZD 115 for a 31-day extension",
         "note": "No visa needed in advance — a free visitor permit for 31 days is issued on arrival. Passport valid 6+ months beyond departure with 2 blank pages. Show an onward/return ticket, sufficient funds and arranged accommodation.",
         "stay": "31 days",
         "visa": "vf",
         "apply": "On arrival at Rarotonga — a visitor permit issued at the border, no advance application",
         "extension": "Possible — upon application you can visit up to 8 months in total"
-      },
-      "checked": "2026-11-15"
+      }
     },
     {
       "passport": "IN",
       "destination": "Cook Islands",
       "fields": {
-        "ext_cost": "$115 for a 31-day extension",
+        "ext_cost": "NZD 115 for a 31-day extension",
         "note": "No visa needed in advance — a visitor permit is issued free on arrival for 31 days. Passport valid 6+ months beyond departure, with 2 blank pages. Show an onward/return ticket, sufficient funds and arranged accommodation.",
         "stay": "31 days",
         "visa": "vf",
         "apply": "On arrival at Rarotonga — a visitor permit issued at the border, no advance application",
         "extension": "Possible — upon application you can visit up to 8 months in total"
-      },
-      "checked": "2026-11-15"
+      }
     },
     {
       "passport": "CA",
       "destination": "Cook Islands",
       "fields": {
-        "ext_cost": "$115 for a 31-day extension",
+        "ext_cost": "NZD 115 for a 31-day extension",
         "note": "Visa: an International Visitor Permit is issued free on arrival to everyone except New Zealand and Australian passport holders. It is for 31 days, not the 90 days that New Zealand and Australian passport holders get, so don't read across from a New Zealand source.\nBring: proof of onward travel, sufficient funds, accommodation details and a passport valid 6 months.\nStay: with extensions you can stay up to 8 months in total.",
         "stay": "31 days",
         "extension": "Possible — upon application you can visit up to 8 months in total"
-      },
-      "checked": "2026-11-15"
+      }
     },
     {
       "passport": "AU",
@@ -1857,15 +1849,14 @@
       "fields": {
         "stay": "90 days",
         "extension": "Possible — apply for a visitor extension before your permission to stay expires; upon application you can visit up to 12 months in total",
-        "ext_cost": "$235 for a 90-day extension"
-      },
-      "checked": "2026-11-15"
+        "ext_cost": "NZD 235 for a 90-day extension"
+      }
     },
     {
       "passport": "NZ",
       "destination": "Cook Islands",
       "fields": {
-        "ext_cost": "$235 for a 90-day extension",
+        "ext_cost": "NZD 235 for a 90-day extension",
         "note": "Visa: No visa before travel. A New Zealand Visitor Permit is issued free at the border on the arrival card.\nStay: New Zealand and Australian passport holders get 90 days on arrival. All other passports get 31 days.\nRequired: Proof of onward travel and sufficient funds. You must be a genuine visitor not intending to work or study.",
         "stay": "90 days",
         "extension": "Possible — upon application you can visit up to 12 months in total"
