@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T14:08:34Z",
+  "generated_at": "2026-11-16T14:28:00Z",
   "entries": [
     {
       "passport": "CA",
@@ -8869,7 +8869,7 @@
       "passport": "KR",
       "destination": "Azerbaijan",
       "fields": {
-        "note": "No visa needed under a temporary exemption from 1 July 2026 to 1 July 2027: up to 3 entries in that period, each for up to 30 days. Stays over 15 days must be registered with the State Migration Service."
+        "note": "No visa needed under a temporary exemption from 1 July 2026 to 1 July 2027: up to 3 entries in that period, each for up to 30 days. Stays over 15 days must be registered at the place of residence."
       }
     },
     {
@@ -8918,7 +8918,15 @@
       "passport": "DE",
       "destination": "Azerbaijan",
       "fields": {
-        "apply": "Online at evisa.gov.az, at least 3 days ahead; urgent 3-hour service also offered"
+        "apply": "Online at evisa.gov.az, issued within 3 working days; urgent 3-hour service also offered",
+        "note": "Visa required — apply online at evisa.gov.az. Register at your place of residence if staying more than 15 days."
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Azerbaijan",
+      "fields": {
+        "note": "Standard ASAN e-visa. Anyone staying more than 15 days must register at the place of residence."
       }
     }
   ],
@@ -9249,6 +9257,13 @@
         "blurb": "Arriving by air you must hold a valid return ticket. If you are also crossing into Zimbabwe, the KAZA UniVisa at USD 50 covers both countries plus Botswana day trips at Kazungula for 30 days. A departure tax of USD 25 applies, usually included in the airfare. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk."
       },
       "checked": "2026-11-14"
+    },
+    {
+      "destination": "Azerbaijan",
+      "fields": {
+        "blurb": "Standard e-visa processing is three working days, with a three-hour urgent option."
+      },
+      "checked": "2026-11-16"
     }
   ]
 }
