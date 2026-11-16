@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T01:03:54Z",
+  "generated_at": "2026-11-16T01:12:40Z",
   "entries": [
     {
       "passport": "CA",
@@ -4584,7 +4584,7 @@
       "passport": "US",
       "destination": "Congo",
       "fields": {
-        "note": "Which Congo: this is the Republic of the Congo (Brazzaville), not the DRC.\nVisa: from a Congolese embassy before travel. There is no visa on arrival and no official e-visa.\nScam warning: 'Congo e-visa' sites are commercial or DRC products.\nYellow fever: certificate required for every arriving traveller aged 9 months and over."
+        "note": "This is the Republic of the Congo (Brazzaville), not the DRC. The visa must come from a Congolese embassy before travel — there is no visa on arrival and no official e-visa; 'Congo e-visa' sites are commercial or DRC products. A yellow fever vaccination certificate is required of every arriving traveller aged 9 months and over."
       }
     },
     {
@@ -7525,7 +7525,7 @@
       "passport": "NZ",
       "destination": "Mauritius",
       "fields": {
-        "note": "Visa: not required. New Zealand is named in the immigration office's own country table.\nStay: no permitted stay is published for visa-free nationals anywhere.\nEntry conditions: a return ticket, adequate funds and confirmed accommodation.\nDigital form: the All-in-One Travel Digital Form is a legal requirement, not optional. Refusal or false information can mean a fine of up to MUR 500,000 and imprisonment of up to five years."
+        "note": "No visa required — New Zealand is named in the immigration office's own country table. It publishes no permitted stay for visa-free nationals anywhere. Entry conditions are a return ticket, adequate funds and confirmed accommodation. The All-in-One Travel Digital Form is a legal requirement, not optional — refusal or false information can mean a fine of up to MUR 500,000 and imprisonment of up to five years."
       }
     },
     {
@@ -7756,7 +7756,7 @@
       "passport": "NZ",
       "destination": "Suriname",
       "fields": {
-        "note": "Visa: Suriname abolished the visa for most nationalities in 2022 and replaced it with a compulsory Entry Fee. You buy the voucher online before departure and show it at check-in. Calling it visa-free would mislead you into boarding without it.\nVisa-required list: New Zealand is not on the 21-country visa-required list.\nTourist card: there is no tourist card for New Zealanders."
+        "note": "Coded as an authorisation rather than visa-free deliberately. Suriname abolished the visa for most nationalities in 2022 and replaced it with a compulsory Entry Fee — you buy the voucher online before departure and show it at check-in, so calling it visa-free would mislead you into boarding without it. New Zealand is not on the 21-country visa-required list. There is no tourist card for New Zealanders."
       }
     },
     {
@@ -7777,7 +7777,7 @@
       "passport": "NZ",
       "destination": "Switzerland",
       "fields": {
-        "note": "Area: Schengen (via the bilateral arrangements with the EU, not EU membership).\nETIAS: not in operation yet.\nEntry/Exit System: live.\nBilateral agreement: Switzerland holds a 1.8.1948 bilateral visa waiver agreement with New Zealand allowing 90 days, listed by the European Commission as an extension-of-stay agreement (all passports).\nConditions: strict. Switzerland states them outright. Stay in Switzerland only for the extra period, carry credible evidence of your time there (accommodation receipts, transport tickets, ATM slips), and leave the whole Schengen Area directly from a Swiss external border. Flying onward to another Schengen country afterwards is expressly not permitted.\nCaveat: this is embassy guidance and is not mirrored in the migration secretariat's own instructions to border guards."
+        "note": "Schengen (via the bilateral arrangements with the EU, not EU membership), and the clearest bilateral rules of the lot — but the conditions are strict. ETIAS is not in operation yet; the Entry/Exit System is live. Switzerland holds a 1.8.1948 bilateral visa waiver agreement with New Zealand allowing 90 days, listed by the European Commission as an extension-of-stay agreement (all passports). The most operational guidance of the seventeen. Switzerland states the conditions outright: stay in Switzerland ONLY for the extra period, carry credible evidence of your time there (accommodation receipts, transport tickets, ATM slips), and leave the whole Schengen Area directly from a Swiss external border — flying onward to another Schengen country afterwards is expressly not permitted. Caveat: this is embassy guidance and is not mirrored in the migration secretariat's own instructions to border guards."
       }
     },
     {
