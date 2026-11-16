@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-15T01:17:53.110Z",
+ "generated_at": "2026-11-16T01:22:08.539Z",
  "dates": {
   "AU": {
    "Albania": "2026-11-08",
@@ -149,7 +149,7 @@
    "Dominican Republic": "2026-11-09",
    "Egypt": "2026-11-09",
    "El Salvador": "2026-11-09",
-   "Estonia": "2026-11-09",
+   "Estonia": "2026-11-16",
    "Eswatini": "2026-11-09",
    "Ethiopia": "2026-11-09",
    "Falkland Islands": "2026-11-09",
@@ -554,7 +554,7 @@
    "Denmark": "2026-11-09",
    "Dominica": "2026-11-09",
    "Ecuador": "2026-11-09",
-   "Estonia": "2026-11-09",
+   "Estonia": "2026-11-16",
    "Ethiopia": "2026-11-09",
    "Falkland Islands": "2026-11-09",
    "Faroe Islands": "2026-11-05",
@@ -599,7 +599,7 @@
    "Norfolk Island": "2026-11-08",
    "Norway": "2026-11-09",
    "Oman": "2026-11-08",
-   "Panama": "2026-11-09",
+   "Panama": "2026-11-16",
    "Pitcairn Islands": "2026-11-09",
    "Poland": "2026-11-09",
    "Portugal": "2026-11-09",
@@ -1420,9 +1420,9 @@
  ],
  "review_sentence": [],
  "stats": {
-  "run_date": "2026-11-15",
+  "run_date": "2026-11-16",
   "destinations_checked": 2,
-  "fetches": 4,
+  "fetches": 6,
   "fetch_failures": 0,
   "failure_rate": 0,
   "sentences_checked": 20,
@@ -1431,7 +1431,7 @@
   "dates_moved": 3,
   "published": true,
   "pages_read": {
-   "plain": 4,
+   "plain": 6,
    "pdf": 0,
    "browser": 0
   }
