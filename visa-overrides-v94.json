@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T07:24:05Z",
+  "generated_at": "2026-11-16T09:22:02Z",
   "entries": [
     {
       "passport": "UK",
@@ -244,6 +244,15 @@
       "destination": "Bahrain",
       "fields": {
         "note": "Visa: Bahrain's own eligibility engine (evisa.gov.bh) shows two visas for a New Zealand passport on a general tourist visit, both obtainable at the Arrival Counter: Visit Visa 2 Weeks Single Entry (2-week stay) and Visit Visa Three Months Multiple Entry (1 month per entry).\nOnline: The same nationality also qualifies for four visas online, including One Year and 5 Year multiple-entry options allowing 90 days per visit. Applying in advance buys a longer stay than turning up does.\nCountry lists: Ignore Bahrain's published country lists as a guide to eligibility. They name all 204 countries and mark every one “conditions apply”.\nFee: The fees shown are Bahrain’s published eVisa fees. That fee list does not cover the Arrival Counter, so check the counter fee when you arrive.",
+        "ext_cost": "Not verified"
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Bahrain",
+      "fields": {
+        "note": "Good to know: Bahrain's published country lists are no use as a guide. They name all 204 countries and mark every one \"conditions apply\".\nSource: the figures below come from Bahrain's own eligibility engine, queried for this nationality.\nVisa: applying online buys a longer stay than turning up does. UK passports get the widest on-arrival range of the four, including a 6-month multiple-entry visa issued at the counter.",
+        "extension": "Not verified",
         "ext_cost": "Not verified"
       }
     },
@@ -673,6 +682,22 @@
     },
     {
       "passport": "CA",
+      "destination": "Bahrain",
+      "fields": {
+        "extension": "Not verified",
+        "ext_cost": "Not verified"
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Bahrain",
+      "fields": {
+        "extension": "Not verified",
+        "ext_cost": "Not verified"
+      }
+    },
+    {
+      "passport": "IE",
       "destination": "Bahrain",
       "fields": {
         "extension": "Not verified",
