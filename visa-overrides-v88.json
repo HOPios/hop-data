@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T05:50:26Z",
+  "generated_at": "2026-11-16T06:00:06Z",
   "entries": [
     {
       "passport": "CA",
@@ -2401,7 +2401,9 @@
       "passport": "UK",
       "destination": "Belarus",
       "fields": {
-        "note": "Visa: visa-free entry by air only, through six airports: Minsk National, Brest, Gomel, Grodno, Mogilev and Vitebsk. It does not apply on flights to or from Russia, which carry no border control.\nValid until: the visa-free entry is a Belarusian decision running to 31 Dec 2026.\nPassport: ordinary passport valid at least 3 months from the date you arrive.\nInsurance: medical insurance required.\nPublished only to 31 Dec 2026."
+        "note": "Visa: visa-free for up to 30 days.\nBy air: enter and leave only through Minsk National, Brest, Gomel, Grodno, Mogilev or Vitebsk. This does not apply to flights to or from Russia, which carry no border control.\nBy road or rail: the United Kingdom is also on Belarus's 38-state list. Any international road or rail crossing, 30 days per entry, up to 90 days in a calendar year, until 31 Dec 2026 inclusive.\nAir route also needs: an ordinary passport valid at least 90 days beyond departure, medical insurance of at least EUR 10,000 valid in Belarus, and proof of funds.\nPublished only to 31 Dec 2026 (road and rail route).",
+        "stay": "30 days. By air: enter and leave only through six airports. By road or rail: 30 days per entry, 90 days in a calendar year, to 31 Dec 2026.",
+        "cost": "Free"
       }
     },
     {
@@ -3173,7 +3175,8 @@
       "fields": {
         "stay": "Up to 30 days, the arrival day and the departure day both counting, entering and leaving only through the six named airports (not on flights from or to Russia); cannot be extended",
         "extension": "Not possible: the stay cannot be extended",
-        "note": "Visa-free only if you enter and exit through designated airports, including Minsk National."
+        "note": "Visa: visa-free for up to 30 days, only if you enter and leave through Minsk National, Brest, Gomel, Grodno, Mogilev or Vitebsk. Not on flights to or from Russia.\nPassport: ordinary passport valid at least 90 days beyond departure.\nInsurance and funds: medical insurance of at least EUR 10,000 valid in Belarus, and proof of funds.",
+        "cost": "Not required"
       }
     },
     {
@@ -3485,7 +3488,8 @@
         "visa": "vr",
         "note": "Visa-free: entry through the Belarusian airports is visa-free for up to 30 days, only for Indian citizens who hold a valid multiple visa of the EU member states or Schengen zone with a mark in the passport from crossing the border of these states.\nBring: a ticket with confirmation of departure from the Belarusian airports within 30 days from the date of entry.\nGood to know: not usable when arriving via Moscow (no passport control).",
         "cost": "Not verified — no fee published for Indian passports on the visa-free page",
-        "apply": "Not verified — the page names no application route for Indian passports; visa-free entry needs the Schengen-visa condition in the note"
+        "apply": "Not verified — the page names no application route for Indian passports; visa-free entry needs the Schengen-visa condition in the note",
+        "stay": "30 days (visa-free air route only)"
       }
     },
     {
@@ -5177,7 +5181,8 @@
       "destination": "Djibouti",
       "fields": {
         "note": "Visa: on arrival, paid in cash in US dollars. This is currently available.\nE-visa: evisa.gouv.dj is a valid alternative for pre-approval before travel.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.",
-        "cost": "USD 23 to 30 on arrival"
+        "cost": "USD 23 to 30 on arrival",
+        "apply": "On arrival at the airport, or apply for a visa before you travel (evisa.gouv.dj)"
       }
     },
     {
@@ -7118,7 +7123,7 @@
       "passport": "KR",
       "destination": "Belarus",
       "fields": {
-        "note": "Visa: visa-free for up to 30 days, by air only. You must both arrive and leave through one of Belarus's designated airports: Minsk National, Brest, Gomel, Grodno, Mogilev or Vitebsk.\nNot covered: flights to or from Russia, which carry no border control, and entry overland.\nInsurance: medical insurance of at least EUR 10,000, valid in Belarus, is mandatory."
+        "note": "Visa: visa-free for up to 30 days, by air only. You must both arrive and leave through one of Belarus's designated airports: Minsk National, Brest, Gomel, Grodno, Mogilev or Vitebsk.\nNot covered: flights to or from Russia, which carry no border control, and entry overland.\nInsurance: medical insurance of at least EUR 10,000, valid in Belarus, is mandatory.\nPassport and funds: an ordinary passport valid at least 90 days beyond departure, and proof of funds."
       }
     },
     {
@@ -8413,21 +8418,24 @@
       "passport": "DE",
       "destination": "Belarus",
       "fields": {
-        "note": "Visa-free under Belarus's own waiver for European countries — not EU free movement, so the 30-day and 90-day caps apply.\nPublished only to 31 Dec 2026."
+        "note": "Visa: visa-free for up to 30 days, under Belarus's own waiver for European countries, not EU free movement.\nBy road or rail: any international crossing, 30 days per entry, up to 90 days in a calendar year, until 31 Dec 2026 inclusive.\nBy air: enter and leave only through Minsk National, Brest, Gomel, Grodno, Mogilev or Vitebsk, not on flights to or from Russia. Needs an ordinary passport valid at least 90 days beyond departure, medical insurance of at least EUR 10,000 and proof of funds.\nPublished only to 31 Dec 2026 (road and rail route).",
+        "stay": "30 days. By road or rail: 30 days per entry, 90 days in a calendar year, to 31 Dec 2026. By air: only through six airports."
       }
     },
     {
       "passport": "IE",
       "destination": "Belarus",
       "fields": {
-        "note": "Ireland is named directly on Belarus's own 38-state visa-free list — a bilateral Belarusian waiver, not EU free movement, so Irish citizens are capped at 30/90 days like most nationalities on that list (Poland, Lithuania and Latvia get 90 days).\nPublished only to 31 Dec 2026."
+        "note": "Visa: visa-free for up to 30 days. Ireland is named on Belarus's own 38-state visa-free list, a Belarusian waiver, not EU free movement. Poland, Lithuania and Latvia get 90 days.\nBy road or rail: any international crossing, 30 days per entry, up to 90 days in a calendar year, until 31 Dec 2026 inclusive.\nBy air: enter and leave only through Minsk National, Brest, Gomel, Grodno, Mogilev or Vitebsk, not on flights to or from Russia. Needs an ordinary passport valid at least 90 days beyond departure, medical insurance of at least EUR 10,000 and proof of funds.\nPublished only to 31 Dec 2026 (road and rail route).",
+        "stay": "30 days. By road or rail: 30 days per entry, 90 days in a calendar year, to 31 Dec 2026. By air: only through six airports."
       }
     },
     {
       "passport": "NL",
       "destination": "Belarus",
       "fields": {
-        "note": "The Netherlands is named directly on Belarus's own 38-state visa-free list — a bilateral Belarusian waiver, not EU free movement, so Dutch citizens are capped at 30/90 days like most nationalities on that list (Poland, Lithuania and Latvia get 90 days).\nPublished only to 31 Dec 2026."
+        "note": "Visa: visa-free for up to 30 days. The Netherlands is named on Belarus's own 38-state visa-free list, a Belarusian waiver, not EU free movement. Poland, Lithuania and Latvia get 90 days.\nBy road or rail: any international crossing, 30 days per entry, up to 90 days in a calendar year, until 31 Dec 2026 inclusive.\nBy air: enter and leave only through Minsk National, Brest, Gomel, Grodno, Mogilev or Vitebsk, not on flights to or from Russia. Needs an ordinary passport valid at least 90 days beyond departure, medical insurance of at least EUR 10,000 and proof of funds.\nPublished only to 31 Dec 2026 (road and rail route).",
+        "stay": "30 days. By road or rail: 30 days per entry, 90 days in a calendar year, to 31 Dec 2026. By air: only through six airports."
       }
     },
     {
