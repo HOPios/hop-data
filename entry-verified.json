@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-16T07:38:16.685Z",
+ "generated_at": "2026-11-17T02:07:13.541Z",
  "dates": {
   "AU": {
    "Albania": "2026-11-15",
@@ -545,7 +545,7 @@
    "Eritrea": "2026-11-16",
    "Estonia": "2026-11-16",
    "Eswatini": "2026-11-16",
-   "Ethiopia": "2026-11-16",
+   "Ethiopia": "2026-11-17",
    "Falkland Islands": "2026-11-16",
    "Faroe Islands": "2026-11-16",
    "Fiji": "2026-11-16",
@@ -774,6 +774,7 @@
    "Aruba": "2026-11-16",
    "Australia": "2026-11-15",
    "Austria": "2026-11-16",
+   "Azerbaijan": "2026-11-16",
    "Bahamas": "2026-11-16",
    "Bahrain": "2026-11-16",
    "Barbados": "2026-11-16",
@@ -1057,7 +1058,7 @@
    "Palau": "2026-11-16",
    "Panama": "2026-11-16",
    "Paraguay": "2026-11-16",
-   "Peru": "2026-11-16",
+   "Peru": "2026-11-17",
    "Philippines": "2026-11-16",
    "Pitcairn Islands": "2026-11-16",
    "Poland": "2026-11-16",
@@ -1118,6 +1119,7 @@
    "Argentina": "2026-11-16",
    "Armenia": "2026-11-16",
    "Austria": "2026-11-16",
+   "Azerbaijan": "2026-11-16",
    "Bahamas": "2026-11-16",
    "Bangladesh": "2026-11-16",
    "Barbados": "2026-11-16",
@@ -1590,19 +1592,20 @@
  ],
  "review_sentence": [],
  "stats": {
-  "run_date": "2026-11-16",
-  "method": "page",
-  "pages": 765,
-  "entries_checked": 1541,
-  "fetches": 812,
-  "fetch_failures": 11,
-  "failure_rate": 0.0135,
-  "unchanged": 1514,
-  "changed": 1,
-  "held": 1,
-  "unreachable_entries": 17,
-  "manual_waiting": 0,
-  "dates_moved": 12,
-  "published": true
+  "run_date": "2026-11-17",
+  "destinations_checked": 2,
+  "fetches": 4,
+  "fetch_failures": 0,
+  "failure_rate": 0,
+  "sentences_checked": 21,
+  "sentences_found": 21,
+  "entries_checked": 2,
+  "dates_moved": 2,
+  "published": true,
+  "pages_read": {
+   "plain": 2,
+   "pdf": 0,
+   "browser": 2
+  }
  }
 }
