@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-17T02:07:13.541Z",
+ "generated_at": "2026-11-17T04:10:35.138Z",
  "dates": {
   "AU": {
    "Albania": "2026-11-15",
@@ -1600,7 +1600,7 @@
   "sentences_checked": 21,
   "sentences_found": 21,
   "entries_checked": 2,
-  "dates_moved": 2,
+  "dates_moved": 0,
   "published": true,
   "pages_read": {
    "plain": 2,
