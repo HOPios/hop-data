@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T15:01:39Z",
+  "generated_at": "2026-11-17T01:45:31Z",
   "entries": [
     {
       "passport": "KR",
@@ -157,7 +157,7 @@
       "passport": "NZ",
       "destination": "Azerbaijan",
       "fields": {
-        "note": "New Zealand is on the ASAN e-visa eligible list. The single-entry e-visa is issued within 3 working days, or within 3 hours on the urgent route, for a stay of up to 30 days. The ASAN system also issues multiple-entry e-visas.",
+        "note": "New Zealand is on the ASAN e-visa eligible list. The single-entry e-visa is issued within 3 working days, or within 3 hours on the urgent route, for a stay of up to 30 days.",
         "stay": "Up to 30 days (single-entry e-visa)"
       }
     },
@@ -165,35 +165,35 @@
       "passport": "AU",
       "destination": "Azerbaijan",
       "fields": {
-        "note": "Apply for an e-visa through the official ASAN portal (evisa.gov.az). The single-entry e-visa allows a stay of up to 30 days and is valid for up to 90 days. The ASAN system also issues multiple-entry e-visas."
+        "note": "Apply for an e-visa through the official ASAN portal (evisa.gov.az). The single-entry e-visa allows a stay of up to 30 days and is valid for up to 90 days."
       }
     },
     {
       "passport": "US",
       "destination": "Azerbaijan",
       "fields": {
-        "note": "Apply for an e-visa through the official ASAN portal (evisa.gov.az). The single-entry e-visa allows a stay of up to 30 days and is valid for up to 90 days. The ASAN system also issues multiple-entry e-visas."
+        "note": "Apply for an e-visa through the official ASAN portal (evisa.gov.az). The single-entry e-visa allows a stay of up to 30 days and is valid for up to 90 days."
       }
     },
     {
       "passport": "CA",
       "destination": "Azerbaijan",
       "fields": {
-        "note": "Canada is named on the ASAN e-visa eligible list. The single-entry e-visa allows a stay of up to 30 days and is valid for up to 90 days. The ASAN system also issues multiple-entry e-visas."
+        "note": "Canada is named on the ASAN e-visa eligible list. The single-entry e-visa allows a stay of up to 30 days and is valid for up to 90 days."
       }
     },
     {
       "passport": "NL",
       "destination": "Azerbaijan",
       "fields": {
-        "note": "Visa required, applied for at evisa.gov.az. Stays over 15 days need registration with the State Migration Service (migration.gov.az)."
+        "note": "A visa is required; apply at evisa.gov.az. Stays over 15 days need registration at the place of residence."
       }
     },
     {
       "passport": "IE",
       "destination": "Azerbaijan",
       "fields": {
-        "note": "Visa required — apply online at evisa.gov.az. Visas are valid for 90 days; stays must not exceed 30 days in total."
+        "note": "A visa is required. Apply online at evisa.gov.az. The single-entry e-visa allows a stay of up to 30 days and is valid for up to 90 days."
       }
     },
     {
