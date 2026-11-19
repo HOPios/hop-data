@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "track": 2,
-  "version": 2,
-  "published": "2026-11-17",
+  "version": 3,
+  "published": "2026-11-19",
   "privacy": {
     "title": "Hop Privacy Policy",
     "subtitle": "You don’t need an account. Your trips, bookings and documents stay in Hop on your phone.",
-    "applies_from": "2026-11-17",
-    "version_line": "Version 2, applying from 17 November 2026",
+    "applies_from": "2026-11-19",
+    "version_line": "Version 3, applying from 19 November 2026",
     "body": [
       {
         "type": "paragraph",
         "lead": "The short version.",
-        "text": "You don’t create a Hop account. Your trips, bookings, settings and documents are kept in Hop on your device. To run Hop, manage Hop Premium and answer you, we handle a small amount of technical, subscription and support information, as this policy explains. Hop has no ads and no advertising trackers, and we don’t sell your personal information or use it for advertising."
+        "text": "You don’t create a Hop account. Your trips, bookings, settings and documents are kept in Hop on your device. To run Hop, manage Hop Premium and answer you, we handle a small amount of technical, subscription and support information, as this policy explains. Hop has no ads and no advertising trackers, and we don’t sell your personal information or use it for advertising. From Hop 1.2.2, Hop counts which parts of the app are used, without knowing who you are, and you can turn that off."
       },
       {
         "type": "paragraph",
@@ -22,7 +22,7 @@
       {
         "type": "paragraph",
         "lead": "What stays on your device.",
-        "text": "Your chosen passport; your settings and display choices (such as your theme, which tips you’ve already seen and whether Explore shows the map or the list); your saved trips and their details, including stops, places, notes and the bookings you add; your travel history (the countries you’ve been to, with any years and months you add); your currency picks and favourites; the last exchange rates Hop downloaded; the latest copy of these legal texts and which version you’ve agreed to; whether your Hop Premium subscription was active when Hop last checked and the date it runs to; the random Support ID described below, once it exists; Premium photos you have opened or saved; and a few technical settings. These are kept in Hop’s own storage on your phone. Photos and PDFs you attach to a stop, a trip or a booking (a visa, an approval, insurance, a booking confirmation) are kept there too."
+        "text": "Your chosen passport; your settings and display choices (such as your theme, which tips you’ve already seen and whether Explore shows the map or the list, and whether usage counting is on); your saved trips and their details, including stops, places, notes and the bookings you add; your travel history (the countries you’ve been to, with any years and months you add); your currency picks and favourites; the last exchange rates Hop downloaded; the latest copy of these legal texts and which version you’ve agreed to; whether your Hop Premium subscription was active when Hop last checked and the date it runs to; the random Support ID described below, once it exists; Premium photos you have opened or saved; and a few technical settings. These are kept in Hop’s own storage on your phone. Photos and PDFs you attach to a stop, a trip or a booking (a visa, an approval, insurance, a booking confirmation) are kept there too."
       },
       {
         "type": "paragraph",
@@ -99,7 +99,7 @@
       {
         "type": "paragraph",
         "lead": "Counting how Hop is used.",
-        "text": "Hop has no analytics of its own and sends no count of how often it’s opened, or by whom, to us or anyone else. We see how many people subscribe and renew through RevenueCat, as described above."
+        "text": "From Hop 1.2.2, to learn which parts of Hop are useful, and how use changes after our posts, Hop sends a short count to our own counter, run for us by Cloudflare, when you open Hop; open a destination (and from where: Explore, Search, Trips or the map); open one of Hop’s tabs; use search; open the Hop Premium screen (and from where); choose a plan; start a trial, buy, cancel or don’t complete a purchase; tap Restore Purchases; or share a trip or your travel map. Each count says only what happened, the destination’s country code where there is one, whether a search result was tapped, the passport you chose in Hop, Hop’s version, whether you use iPhone or Android, the day, and the country you’re in, which Cloudflare works out from your IP address. It never includes what you type in search, your trips or documents, a name, an ID of any kind or your RevenueCat ID, and Hop stores nothing on your phone to recognise you next time, so counts can’t be linked to each other or to you. Our counter doesn’t store your IP address. We see only totals, such as how many people with a given passport opened a destination on a given day. You can turn counting off in Hop’s Settings, under Legal. We also see how many people subscribe and renew through RevenueCat, as described above."
       },
       {
         "type": "paragraph",
@@ -139,6 +139,12 @@
             "Up to 2 years after our last reply, longer only if needed for a complaint or legal claim"
           ],
           [
+            "Usage counts (no ID; Cloudflare sees your IP address and works out your country, but our counter keeps only the country)",
+            "To see which parts of Hop are used and how use changes after our posts",
+            "Our legitimate interest in improving Hop and knowing what works",
+            "Single counts deleted within 3 months; daily totals kept up to 2 years"
+          ],
+          [
             "Premium photo requests and visits to hoptravelapp.com (your IP address and the photo or page requested, seen by Cloudflare)",
             "To deliver the photos you open and the website you visit",
             "Performing our contract with you (photos); our legitimate interest in running our website (website)",
@@ -165,7 +171,7 @@
       {
         "type": "paragraph",
         "lead": "Where your information is processed.",
-        "text": "Our service providers process information outside Australia, mainly in the United States: RevenueCat (subscription records), under a data processing agreement that includes the EU Standard Contractual Clauses and the UK International Data Transfer Addendum; and Google Workspace (email), under Google’s data processing terms, which also include the EU Standard Contractual Clauses. You can ask us for a copy of the safeguards we rely on. Cloudflare serves Hop’s Premium photos and the Hop website; photo requests are handled for us under Cloudflare’s data processing terms, Hop does not receive them, and how long Cloudflare keeps that data is set by its own privacy policy (cloudflare.com/privacypolicy). When your device or browser fetches public data files, legal texts or exchange rates, GitHub, jsDelivr, ExchangeRate-API or Frankfurter receives your IP address directly. Apple and Google handle testing, purchases, offer codes, billing logs and app statistics as independent businesses under their own terms."
+        "text": "Our service providers process information outside Australia, mainly in the United States: RevenueCat (subscription records), under a data processing agreement that includes the EU Standard Contractual Clauses and the UK International Data Transfer Addendum; and Google Workspace (email), under Google’s data processing terms, which also include the EU Standard Contractual Clauses. You can ask us for a copy of the safeguards we rely on. Cloudflare serves Hop’s Premium photos and the Hop website, and runs our usage counter; photo requests and usage counts are handled for us under Cloudflare’s data processing terms, Hop does not receive photo requests, and how long Cloudflare keeps that data is set by its own privacy policy (cloudflare.com/privacypolicy). When your device or browser fetches public data files, legal texts or exchange rates, GitHub, jsDelivr, ExchangeRate-API or Frankfurter receives your IP address directly. Apple and Google handle testing, purchases, offer codes, billing logs and app statistics as independent businesses under their own terms."
       },
       {
         "type": "paragraph",
@@ -184,16 +190,16 @@
       }
     ],
     "change": "significant",
-    "summary": "The Purchases section now also lists what RevenueCat receives with each request: your app store’s country and basic details about your phone.",
+    "summary": "We now count, anonymously, which parts of Hop are used (from Hop 1.2.2). No ID, and you can turn it off in Settings, under Legal.",
     "what_changed": [
-      "The Purchases section now also lists what RevenueCat receives with each request: your app store’s country and basic details about your phone."
+      "We now count, anonymously, which parts of Hop are used (from Hop 1.2.2). No ID, and you can turn it off in Settings, under Legal."
     ]
   },
   "terms": {
     "title": "Hop Terms of Service",
     "subtitle": "The short version: Hop is a travel reference. Always confirm the rules with official sources before you book and again before you travel.",
-    "applies_from": "2026-11-17",
-    "version_line": "Version 2, applying from 17 November 2026",
+    "applies_from": "2026-11-19",
+    "version_line": "Version 3, applying from 19 November 2026",
     "body": [
       {
         "type": "heading",
@@ -710,8 +716,8 @@
   },
   "disclaimer": {
     "title": "Hop Disclaimer",
-    "applies_from": "2026-11-17",
-    "version_line": "Version 2, applying from 17 November 2026",
+    "applies_from": "2026-11-19",
+    "version_line": "Version 3, applying from 19 November 2026",
     "body": [
       {
         "type": "paragraph",
@@ -845,6 +851,23 @@
       "disclaimer": {
         "change": "material",
         "summary": "Hop Group Pty Ltd now provides Hop, and the Terms now cover paid Hop Premium: how it renews, how to cancel and how refunds work.",
+        "applies_from": "2026-11-17"
+      }
+    },
+    {
+      "version": 2,
+      "applies_from": "2026-11-17",
+      "privacy": {
+        "change": "significant",
+        "summary": "The Purchases section now also lists what RevenueCat receives with each request: your app store’s country and basic details about your phone.",
+        "applies_from": "2026-11-17"
+      },
+      "terms": {
+        "change": "minor",
+        "applies_from": "2026-11-17"
+      },
+      "disclaimer": {
+        "change": "minor",
         "applies_from": "2026-11-17"
       }
     }
