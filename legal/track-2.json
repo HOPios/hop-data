@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "track": 2,
-  "version": 3,
-  "published": "2026-11-19",
+  "version": 4,
+  "published": "2026-11-20",
   "privacy": {
     "title": "Hop Privacy Policy",
     "subtitle": "You don’t need an account. Your trips, bookings and documents stay in Hop on your phone.",
-    "applies_from": "2026-11-19",
-    "version_line": "Version 3, applying from 19 November 2026",
+    "applies_from": "2026-11-20",
+    "version_line": "Version 4, applying from 20 November 2026",
     "body": [
       {
         "type": "paragraph",
@@ -99,7 +99,7 @@
       {
         "type": "paragraph",
         "lead": "Counting how Hop is used.",
-        "text": "From Hop 1.2.2, to learn which parts of Hop are useful, and how use changes after our posts, Hop sends a short count to our own counter, run for us by Cloudflare, when you open Hop; open a destination (and from where: Explore, Search, Trips or the map); open one of Hop’s tabs; use search; open the Hop Premium screen (and from where); choose a plan; start a trial, buy, cancel or don’t complete a purchase; tap Restore Purchases; or share a trip or your travel map. Each count says only what happened, the destination’s country code where there is one, whether a search result was tapped, the passport you chose in Hop, Hop’s version, whether you use iPhone or Android, the day, and the country you’re in, which Cloudflare works out from your IP address. It never includes what you type in search, your trips or documents, a name, an ID of any kind or your RevenueCat ID, and Hop stores nothing on your phone to recognise you next time, so counts can’t be linked to each other or to you. Our counter doesn’t store your IP address. We see only totals, such as how many people with a given passport opened a destination on a given day. You can turn counting off in Hop’s Settings, under Legal. We also see how many people subscribe and renew through RevenueCat, as described above."
+        "text": "From Hop 1.2.2, to learn which parts of Hop are useful, and how use changes after our posts, Hop sends a short count to our own counter, run for us by Cloudflare, when you open Hop (and, from Hop 1.2.3, whether you’re online at the time); open a destination (and from where: Explore, Search, Trips or the map, and from Hop 1.2.3 also the Check tab or the destination of the day); open one of Hop’s tabs; use search; open the Hop Premium screen (and from where); choose a plan; start a trial, buy, cancel or don’t complete a purchase; tap Restore Purchases; share a trip or your travel map; and, from Hop 1.2.3, tap an official link such as a government visa or travel-advice page (and which kind), create a trip or add a stop to one, use Auto-fill (and whether it worked), tap Redeem code, mark a place as visited, or when something Hop downloads, such as travel advice, exchange rates or a Premium photo, fails to load. Each count says only what happened, the destination’s country code where there is one, whether a search result was tapped, the passport you chose in Hop, Hop’s version, whether you use iPhone or Android, the day, and the country you’re in, which Cloudflare works out from your IP address. It never includes what you type in search, your trips or documents, a name, an ID of any kind or your RevenueCat ID, and Hop stores nothing on your phone to recognise you next time, so counts can’t be linked to each other or to you. Our counter doesn’t store your IP address. We see only totals, such as how many people with a given passport opened a destination on a given day. You can turn counting off in Hop’s Settings, under Legal. We also see how many people subscribe and renew through RevenueCat, as described above."
       },
       {
         "type": "paragraph",
@@ -189,17 +189,17 @@
         "text": "We may update this policy without an app update: Hop downloads the current version when you’re online, keeps it for offline use and shows the date it applies from. If a change is significant, Hop tells you in the app before you carry on. You can read this policy in Hop and at hoptravelapp.com/privacy. Every earlier version, with the date it applied from, is kept at hoptravelapp.com/legal/earlier-versions, and we’ll send you a copy if you ask. Questions: support@hoptravelapp.com."
       }
     ],
-    "change": "significant",
-    "summary": "We now count, anonymously, which parts of Hop are used (from Hop 1.2.2). No ID, and you can turn it off in Settings, under Legal.",
+    "change": "minor",
+    "summary": "Hop 1.2.3 counts a few more things: places opened from the Check tab or the destination of the day, official links tapped, trips created and stops added, whether Auto-fill worked, Redeem code taps, places marked as visited, whether Hop was opened offline, and downloads that fail. Still no ID, and you can turn counting off in Settings.",
     "what_changed": [
-      "We now count, anonymously, which parts of Hop are used (from Hop 1.2.2). No ID, and you can turn it off in Settings, under Legal."
+      "Hop 1.2.3 counts a few more things: places opened from the Check tab or the destination of the day, official links tapped, trips created and stops added, whether Auto-fill worked, Redeem code taps, places marked as visited, whether Hop was opened offline, and downloads that fail. Still no ID, and you can turn counting off in Settings."
     ]
   },
   "terms": {
     "title": "Hop Terms of Service",
     "subtitle": "The short version: Hop is a travel reference. Always confirm the rules with official sources before you book and again before you travel.",
-    "applies_from": "2026-11-19",
-    "version_line": "Version 3, applying from 19 November 2026",
+    "applies_from": "2026-11-20",
+    "version_line": "Version 4, applying from 20 November 2026",
     "body": [
       {
         "type": "heading",
@@ -716,8 +716,8 @@
   },
   "disclaimer": {
     "title": "Hop Disclaimer",
-    "applies_from": "2026-11-19",
-    "version_line": "Version 3, applying from 19 November 2026",
+    "applies_from": "2026-11-20",
+    "version_line": "Version 4, applying from 20 November 2026",
     "body": [
       {
         "type": "paragraph",
@@ -869,6 +869,23 @@
       "disclaimer": {
         "change": "minor",
         "applies_from": "2026-11-17"
+      }
+    },
+    {
+      "version": 3,
+      "applies_from": "2026-11-19",
+      "privacy": {
+        "change": "significant",
+        "summary": "We now count, anonymously, which parts of Hop are used (from Hop 1.2.2). No ID, and you can turn it off in Settings, under Legal.",
+        "applies_from": "2026-11-19"
+      },
+      "terms": {
+        "change": "minor",
+        "applies_from": "2026-11-19"
+      },
+      "disclaimer": {
+        "change": "minor",
+        "applies_from": "2026-11-19"
       }
     }
   ]
