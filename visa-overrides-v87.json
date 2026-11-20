@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-17T01:45:31Z",
+  "generated_at": "2026-11-20T10:31:25Z",
   "entries": [
     {
       "passport": "CA",
@@ -2254,7 +2254,7 @@
       "destination": "Kazakhstan",
       "fields": {
         "apply": "Not required · an Electronic Travel Authorization (QazETA) is recommended: apply no later than 72 hours before the planned travel date",
-        "note": "Visa: Canada is named in Kazakhstan's visa-regime table as visa-free up to 30 days for ordinary passports.\nStay: the 30 days is per entry, but total stay must not exceed 90 days in any 180-day period.\nRegistration: an arrival notification is required within 3 working days, but it is the duty of the receiving party (your hotel or host), not you. Kazakhstan states a foreign citizen does not need to apply to the migration service personally.\nETA: Kazakhstan is piloting an Electronic Travel Authorization (ETA), QazETA. Canada's advice recommends getting one before you travel. It is currently voluntary and free of charge, but may become mandatory and could carry fees. An ETA does not guarantee entry.",
+        "note": "Visa: Canada is named in Kazakhstan's visa-regime table as visa-free up to 30 days for ordinary passports.\nStay: the 30 days is per entry, but total stay must not exceed 90 days in any 180-day period.\nRegistration: an arrival notification is required within 3 working days, but it is the duty of the receiving party (your hotel or host), not you. Kazakhstan states a foreign citizen does not need to apply to the migration service personally.\nETA: Kazakhstan is piloting an Electronic Travel Authorization (ETA), QazETA. Canada's advice recommends getting one before you travel. As of July 1, 2027, an ETA will be required to enter the country. This service is currently free of charge. An ETA does not guarantee entry.",
         "stay": "30 days per entry, within 90 per 180"
       }
     },
