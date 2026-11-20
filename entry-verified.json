@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-19T02:48:02.003Z",
+ "generated_at": "2026-11-20T02:35:17.546Z",
  "dates": {
   "AU": {
    "Albania": "2026-11-15",
@@ -773,7 +773,7 @@
    "Armenia": "2026-11-16",
    "Aruba": "2026-11-16",
    "Australia": "2026-11-15",
-   "Austria": "2026-11-16",
+   "Austria": "2026-11-20",
    "Azerbaijan": "2026-11-16",
    "Bahamas": "2026-11-16",
    "Bahrain": "2026-11-16",
@@ -1168,7 +1168,7 @@
    "Kazakhstan": "2026-11-16",
    "Kenya": "2026-11-16",
    "Kiribati": "2026-11-16",
-   "Latvia": "2026-11-16",
+   "Latvia": "2026-11-20",
    "Lebanon": "2026-11-16",
    "Liechtenstein": "2026-11-16",
    "Lithuania": "2026-11-16",
@@ -1592,20 +1592,20 @@
  ],
  "review_sentence": [],
  "stats": {
-  "run_date": "2026-11-19",
+  "run_date": "2026-11-20",
   "destinations_checked": 2,
-  "fetches": 5,
+  "fetches": 6,
   "fetch_failures": 0,
   "failure_rate": 0,
-  "sentences_checked": 21,
-  "sentences_found": 21,
+  "sentences_checked": 15,
+  "sentences_found": 15,
   "entries_checked": 2,
   "dates_moved": 2,
   "published": true,
   "pages_read": {
    "plain": 5,
    "pdf": 0,
-   "browser": 0
+   "browser": 1
   }
  }
 }
