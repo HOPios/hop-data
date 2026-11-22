@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-22T07:39:29Z",
+  "generated_at": "2026-11-22T07:53:27Z",
   "entries": [
     {
       "passport": "AU",
@@ -36,6 +36,13 @@
       "destination": "Saint Helena",
       "fields": {
         "note": "No visa needed. An entry fee of GBP £20.00 is chargeable — entry permission is still subject to an Immigration Officer's discretion on arrival. Access is a weekly SA Airlink flight from Johannesburg only. Comprehensive medical insurance strongly advised. Ascension and Tristan da Cunha have separate, stricter permit rules."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "United Arab Emirates",
+      "fields": {
+        "stay": "30-day visit visa"
       }
     },
     {
@@ -116,6 +123,14 @@
         "cost": "Free",
         "apply": "A permit allowing a 30-day stay is issued on arrival at the airport",
         "note": "Free visa on arrival (permit) issued"
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "United Arab Emirates",
+      "fields": {
+        "stay": "30-day visit visa free of charge",
+        "note": "Simply disembark your flight at Dubai International airport and proceed to immigration, where your passport will be stamped with a 30-day visit visa free of charge. Passport must be valid at least six months from arrival."
       }
     },
     {
