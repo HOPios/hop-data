@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-22T07:53:27Z",
+  "generated_at": "2026-11-22T08:08:34Z",
   "entries": [
     {
       "passport": "AU",
@@ -99,6 +99,16 @@
       "destination": "Saint Lucia",
       "fields": {
         "extension": "No extension in normal case."
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Thailand",
+      "fields": {
+        "visa": "vf",
+        "stay": "30 days",
+        "apply": "Visa Exemption — enter under the 30-day visa exemption scheme for Indian passport holders entering Thailand for tourism purposes (effective from 15 September 2026); TDAC registration (free) is also required separately, before arrival.",
+        "note": "The 30-day visa exemption scheme for Indian passport holders entering Thailand for tourism purposes officially takes effect on 15 September 2026. TDAC (free) is mandatory and separate from the visa exemption."
       }
     },
     {
