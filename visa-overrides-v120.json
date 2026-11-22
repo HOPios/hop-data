@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-22T02:51:16Z",
+  "generated_at": "2026-11-22T07:39:29Z",
   "entries": [
+    {
+      "passport": "AU",
+      "destination": "Costa Rica",
+      "fields": {
+        "stay": "tourist visit of less than 90 days"
+      }
+    },
     {
       "passport": "AU",
       "destination": "El Salvador",
@@ -39,12 +46,37 @@
       }
     },
     {
+      "passport": "IE",
+      "destination": "Costa Rica",
+      "fields": {
+        "stay": "Up to 90 days",
+        "extension": "Not permitted — the 90 days cannot be extended"
+      }
+    },
+    {
       "passport": "IN",
       "destination": "Anguilla",
       "fields": {
         "apply": "go to evisa.gov.ai and get your visa in three easy steps. Apply online, Confirm pay and Print. It takes 8 - 10 business days for processing.",
         "extension": "Persons needing to extend their stay in Anguilla must collect and complete an Extension of Stay Form 1-1 application. A photo must be submitted with the application along with a passport and an itinerary.",
         "ext_cost": "As of May 1, 2007, the fee for Extension of stay has increased to EC$150.00. The fee for persons requesting multiple month extensions will be pro-rated based on the number of months applied."
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "El Salvador",
+      "fields": {
+        "apply": "The requirements must be sent to the nearest Diplomatic and Consular Representation to carry out the visa application procedure.",
+        "note": "Foreigners who wish to enter El Salvador temporarily and who, according to the type of passport they hold, require a consular visa, must meet the requirements, based on the category of visa to be requested",
+        "visa": "vr"
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Mauritius",
+      "fields": {
+        "note": "Visa on Arrival. Mauritius lists only Guyana as needing a visa.",
+        "visa": "voa"
       }
     },
     {
@@ -63,11 +95,34 @@
       }
     },
     {
+      "passport": "KR",
+      "destination": "Mauritius",
+      "fields": {
+        "stay": "90 days"
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Tonga",
+      "fields": {
+        "cost": "Free",
+        "apply": "A permit allowing a 30-day stay is issued on arrival at the airport",
+        "note": "Free visa on arrival (permit) issued"
+      }
+    },
+    {
       "passport": "UK",
       "destination": "Tajikistan",
       "fields": {
         "extension": "The electronic visa is not subject to extension.",
         "ext_cost": "The electronic visa is not subject to extension."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Venezuela",
+      "fields": {
+        "note": "Entry on the tourist card for exempt nationalities — carry evidence of your return or onward travel ticket and funds. Consular help on the ground is minimal; check current entry conditions before booking."
       }
     },
     {
@@ -132,6 +187,15 @@
       }
     },
     {
+      "passport": "NL",
+      "destination": "Kazakhstan",
+      "fields": {
+        "apply": "Up to 30 days: no visa needed, but from 1 July 2027 you are required to apply for an Electronic Travel Authorisation (ETA): see the QazETA website. Longer: visa from the Kazakh Embassy in The Hague",
+        "note": "No visa is needed for stays up to 30 days on a Dutch passport. From 1 July 2027 you are required to apply for an Electronic Travel Authorisation (ETA); the Dutch advice points to the QazETA website. Longer stays need a visa from the Kazakh Embassy in The Hague. Passport must be valid at least 6 months from departure.",
+        "visa": "vf"
+      }
+    },
+    {
       "passport": "NZ",
       "destination": "Mongolia",
       "fields": {
@@ -155,6 +219,18 @@
       }
     },
     {
+      "passport": "IN",
+      "destination": "Pakistan",
+      "fields": {
+        "note": "A non-extendable tourist visa valid for 14 days is issued by the Pakistan High Commission, New Delhi through approved tour operators or travel agents.",
+        "stay": "14 days, not extendable",
+        "apply": "Through approved tour operators or travel agents (Pakistan High Commission, New Delhi)",
+        "extension": "Not possible",
+        "cost": "The fee at present is Rs.15/- inclusive of all charges for issuance, extension or transit visas."
+      },
+      "checked": "2026-11-13"
+    },
+    {
       "passport": "NZ",
       "destination": "Pakistan",
       "fields": {
@@ -173,12 +249,30 @@
       }
     },
     {
+      "passport": "NL",
+      "destination": "Liberia",
+      "fields": {
+        "apply": "Apply for a visa at the embassy of Liberia in Brussels, Belgium.",
+        "note": "Visa: there is no Liberian embassy in the Netherlands. Use the online Visa on Arrival portal.\nChildren also need a valid passport and a visa for a trip to Liberia.\nPassport: valid at least 6 months.\nOn arrival: fingerprints and face captured.\nYellow fever: certificate required of every arriving traveller aged 9 months and over.",
+        "visa": "vr"
+      }
+    },
+    {
       "passport": "IE",
       "destination": "Liberia",
       "fields": {
-        "apply": "Online through Liberia's official visa-on-arrival system (Hop has no working official link at present); show the approval PDF (QR code) at the airport's Visa on Arrival counter",
-        "note": "Passport: valid 6+ months.\nVisa: apply online for the Visa on Arrival at least 7 days and no more than 3 months before travel. Approval is valid 3 months for a single visit, only at Roberts International Airport (ROB), Monrovia.\nOn arrival: fingerprints and face are captured.\nYellow fever: vaccination certificate required for every arriving traveller aged 9 months and over.",
-        "cost": "$100 USD, non-refundable"
+        "apply": "Visa applications from Ireland should be submitted to the Embassy of the Republic of Liberia in London.",
+        "note": "Passport: valid 6+ months.\nVisa: Irish citizens require a valid visa to enter Liberia.\nOn arrival: fingerprints and face are captured.\nYellow fever: vaccination certificate required for every arriving traveller aged 9 months and over.",
+        "cost": "$100 USD, non-refundable",
+        "visa": "vr"
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Cabo Verde",
+      "fields": {
+        "note": "Visa: 30-day tourist visa is granted at the time of entry into Cabo Verde, but EASE online pre-registration is mandatory.\nFee: the CVE 3,400 TSA fee applies on international flights.\nBefore you fly: some airline systems (Timatic) still ask Indian passports for a visa, so carry your EASE registration and check with your airline.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk.",
+        "visa": "voa"
       }
     },
     {
@@ -187,6 +281,54 @@
       "fields": {
         "note": "Visa: apply online at voyage.gouv.tg at least 7 working days before your flight. Togo no longer issues visas on arrival.\nExemption: African passport holders are exempt for stays of up to 30 days. Australia is not.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.",
         "stay": "1 to 15 days Single 25 000 Fr CFA 1 to 15 days Multiple 35 000 Fr CFA 16 to 30 days Multiple 45 000 Fr CFA 31 to 90 days Multiple 65 000 Fr CFA"
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Bolivia",
+      "fields": {
+        "note": "Visa: required in advance from the Bolivian Embassy or Consulate in New Delhi.\nBring: a passport valid 6+ months, a sworn declaration form, proof of accommodation or a DIGEMIG-registered invitation letter, and proof of funds.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from a country with yellow fever risk.\nVisa on arrival: granted for a maximum 60 days period.",
+        "stay": "maximum 60 days (up to 90 per year)",
+        "apply": "Visa-on-arrival",
+        "visa": "voa"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Djibouti",
+      "fields": {
+        "note": "Visa: on arrival, paid in cash in US dollars. This is currently available.\nE-visa: The Djiboutian eVisa site is still up and accepting applications, but we have received reports that applications do not go through successfully.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.",
+        "cost": "$23 on arrival",
+        "apply": "On arrival at the airport, or apply for a visa before you travel (evisa.gouv.dj)"
+      }
+    },
+    {
+      "passport": "DE",
+      "destination": "Eswatini",
+      "fields": {
+        "note": "Visa: not needed.\nPassport: travel documents must still be valid for at least six months at the time of entry and have at least two to three free pages.\nEntry stamp: check it carries the correct date. A wrong date can lead to refused re-entry for up to a year.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk.",
+        "apply": "Visa on entry (\"on arrival\"): for tourist stays, this is issued on entry (\"on arrival\") at the border for 30 days.",
+        "extension": "Possible — a maximum of a further 90 days, from the Ministry of Home Affairs",
+        "visa": "voa"
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Eswatini",
+      "fields": {
+        "note": "Visa: required. India is not on Eswatini's visa-exempt list.\nApply: before you travel, online through Eswatini's eVisa portal (Ministry of Home Affairs; processing typically 2–5 business days) or through the Eswatini High Commission in Kuala Lumpur, Malaysia.\nVisa on arrival: there is none.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit through, a country with yellow fever risk.",
+        "stay": "The eVisa for Eswatini is valid for a single entry within 90 days from the date of issuance, and allows for a stay of up to 30 days.",
+        "extension": "No, eVisas for Eswatini cannot be extended. If you need to stay longer than the permitted 30 days, you will need to apply for a visa extension or exit and re-enter the country.",
+        "ext_cost": "Not verified — eVisas for Eswatini cannot be extended"
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Madagascar",
+      "fields": {
+        "note": "Visa: on arrival at Ivato airport, or in advance from a Malagasy mission or the e-visa portal. Airport processing can be slow.\nBring: two blank passport pages and a return ticket.\nFree 15-day visa: For trips shorter than 15 days there's no visa fee, however you'll need to pay a 10 euro administration fee for border control formalities.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.",
+        "stay": "up to 60 days",
+        "cost": "For trips shorter than 15 days there's no visa fee, however you'll need to pay a 10 euro administration fee for border control formalities; USD 41 or EUR 35 (16 days to 30 days); USD 47 or EUR 40 (31 days to 60 days); or USD 59 or EUR 50 (61 days to 90 days). Prices are the same whether paid online in advance or on arrival."
       }
     },
     {
