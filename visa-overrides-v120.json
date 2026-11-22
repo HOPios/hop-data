@@ -1,7 +1,119 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-21T02:08:38Z",
+  "generated_at": "2026-11-22T02:50:59Z",
   "entries": [
+    {
+      "passport": "AU",
+      "destination": "El Salvador",
+      "fields": {
+        "cost": "You'll need to purchase a tourist card at the airport."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Jordan",
+      "fields": {
+        "stay": "Single-entry visas valid for 90 days",
+        "apply": "Single-entry visas valid for 90 days can be obtained at Amman's Queen Alia International Airport or at any border crossing. The visa fee must be paid for in cash at land border crossings. Exchange services and card facilities are available at the airport, but may not always be available at the land crossings."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Nicaragua",
+      "fields": {
+        "cost": "You'll need to purchase a tourist card at the airport."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Saint Helena",
+      "fields": {
+        "note": "No visa needed. An entry fee of GBP £20.00 is chargeable — entry permission is still subject to an Immigration Officer's discretion on arrival. Access is a weekly SA Airlink flight from Johannesburg only. Comprehensive medical insurance strongly advised. Ascension and Tristan da Cunha have separate, stricter permit rules."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Antarctica",
+      "fields": {
+        "note": "Entry is arranged entirely through your tour operator, who holds the necessary permits under the Antarctic Treaty System; there is no independent visa process. Should you need to apply for a permit yourself, you must submit your request to the Antarctic Environmental Program at Environment Canada. Season runs October–April only."
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Anguilla",
+      "fields": {
+        "apply": "go to evisa.gov.ai and get your visa in three easy steps. Apply online, Confirm pay and Print. It takes 8 - 10 business days for processing.",
+        "extension": "Persons needing to extend their stay in Anguilla must collect and complete an Extension of Stay Form 1-1 application. A photo must be submitted with the application along with a passport and an itinerary.",
+        "ext_cost": "As of May 1, 2007, the fee for Extension of stay has increased to EC$150.00. The fee for persons requesting multiple month extensions will be pro-rated based on the number of months applied."
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Russia",
+      "fields": {
+        "stay": "a single entry with a stay of up to 16 days, including the days of arrival and departure",
+        "note": "The unified e-visa of the Russian Federation permits Indian citizens a single entry with a stay of up to 16 days, including the days of arrival and departure."
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Saint Lucia",
+      "fields": {
+        "extension": "No extension in normal case."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Tajikistan",
+      "fields": {
+        "extension": "The electronic visa is not subject to extension.",
+        "ext_cost": "The electronic visa is not subject to extension."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Dominica",
+      "fields": {
+        "note": "No visa is required for stays less than 6 months if you have an onward or return ticket, confirmation of accommodation, and can produce evidence of your ability to maintain yourself."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Qatar",
+      "fields": {
+        "cost": "with a cost of $21 per person",
+        "stay": "The visa is valid for 90 days from the date of issuance and entitles the holder to spend up to 90 days in Qatar, or multiple entries during the 90-day validity."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Saint Helena",
+      "fields": {
+        "note": "No visa needed, An entry fee of GBP £20.00 is chargeable — entry permission is still subject to an Immigration Officer's discretion on arrival. Access is a weekly SA Airlink flight from Johannesburg only. Comprehensive medical insurance strongly advised. Ascension and Tristan da Cunha have separate, stricter permit rules."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Saint Lucia",
+      "fields": {
+        "note": "No visa. The stay is 6 WEEKS, not three months — shorter than most of the Caribbean. A return ticket is required of all visitors, and the online customs and immigration form at travelslu.govt.lc can be completed wherever the internet is available."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Uganda",
+      "fields": {
+        "note": "Apply online before travel; biometrics are captured on arrival. All travelers to Uganda must have a valid yellow fever immunization card. The East Africa Tourist Visa (USD 100, multiple entry, 90 days) covers Uganda, Kenya and Rwanda only."
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Philippines",
+      "fields": {
+        "ext_cost": "PHP 3,030 for the first 29-day extension, then extendable up to 36 months",
+        "note": "Visa-free up to 30 days under Executive Order 408 — may be admitted into the Philippines even with passports of less than six (6) months validity from date of arrival and a return or onward ticket required. eTravel registration is mandatory and can only be filed within the 72 hours before arrival."
+      }
+    },
     {
       "passport": "KR",
       "destination": "Saint Lucia",
@@ -24,6 +136,73 @@
       "destination": "Mongolia",
       "fields": {
         "note": "IMPORTANT: this is a time-limited exemption — Mongolia's own list is headed 'in 2026'. If it is not renewed, New Zealanders revert to needing a visa from 1 January 2027. Re-check before booking anything late in the year.\nPublished only to 31 Dec 2026."
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "Saint Helena",
+      "fields": {
+        "visa": "vf",
+        "note": "Visa: St Helena runs an entry permit system, not a visa system. Every visitor needs one, whatever their nationality. Canadians are not on the list of passports needing an e-visa in advance, so you get a Short Term Entry Permit on arrival.\nFee: A GBP 20 entry fee is charged.\nInsurance: Medical insurance covering evacuation to GBP 175,000 is mandatory.\nPassport: valid on the date of entry into St Helena and will remain valid for at least 6 months after the expiry of the entry permit.\nBring: Pre-arranged accommodation and sufficient funds.\nGood to know: Access is a weekly Saturday flight from Johannesburg, so a missed flight means a week's wait."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Saint Helena",
+      "fields": {
+        "visa": "vf",
+        "note": "Visa: New Zealand is not on the list of passports needing an e-visa in advance, so the permit is issued on arrival.\nFee: GBP 20 entry fee.\nConditions: medical insurance covering aeromedical evacuation to GBP 175,000, proof of onward travel, pre-arranged accommodation and sufficient funds.\nPassport: must remain valid for at least 6 months after the expiry of the entry permit.\nGetting there: weekly flight from Johannesburg."
+      }
+    },
+    {
+      "passport": "NZ",
+      "destination": "Pakistan",
+      "fields": {
+        "stay": "Three months validity and stay, double entry; extendable to a maximum of six months including the initial period. Visa on arrival is also available.",
+        "note": "Apply online in advance. New Zealand also appears on Pakistan's visa-on-arrival list, but that route should not be relied on — the same official pages read inconsistently and there is unconfirmed reporting that an on-arrival scheme was suspended. There is no visa-free entry. Applicants from 175 countries would be able to apply E-Visa, which will be augmented with Electronic Travel Authorization (ETA)"
+      },
+      "checked": "2026-11-13"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Liberia",
+      "fields": {
+        "apply": "Apply online before travel through Liberia's official visa-on-arrival system; Hop has no working official link at present",
+        "note": "Visa: There is no Liberian embassy in New Zealand, so New Zealanders use the official online visa-on-arrival system. Apply and pay online before flying, and the sticker is issued at the airport. It is not a walk-up visa.\nYellow fever: A vaccination certificate is required of every arriving traveller aged 9 months and over.",
+        "cost": "$100 USD, non-refundable"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Liberia",
+      "fields": {
+        "apply": "Online through Liberia's official visa-on-arrival system (Hop has no working official link at present); show the approval PDF (QR code) at the airport's Visa on Arrival counter",
+        "note": "Passport: valid 6+ months.\nVisa: apply online for the Visa on Arrival at least 7 days and no more than 3 months before travel. Approval is valid 3 months for a single visit, only at Roberts International Airport (ROB), Monrovia.\nOn arrival: fingerprints and face are captured.\nYellow fever: vaccination certificate required for every arriving traveller aged 9 months and over.",
+        "cost": "$100 USD, non-refundable"
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Togo",
+      "fields": {
+        "note": "Visa: apply online at voyage.gouv.tg at least 7 working days before your flight. Togo no longer issues visas on arrival.\nExemption: African passport holders are exempt for stays of up to 30 days. Australia is not.\nYellow fever: certificate needed only if you are aged 9 months or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.",
+        "stay": "1 to 15 days Single 25 000 Fr CFA 1 to 15 days Multiple 35 000 Fr CFA 16 to 30 days Multiple 45 000 Fr CFA 31 to 90 days Multiple 65 000 Fr CFA"
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Sao Tome and Principe",
+      "fields": {
+        "note": "Visa: India doesn't qualify for São Tomé's 15-day visa exemption.\nApply: request the Autorização de Entrada online via eVisaST (no consulate in India). Decision in 7 working days, pay at the border on arrival.\nPassport: valid 3+ months beyond the stay. A return or onward ticket is mandatory.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk.",
+        "cost": "Tourist visa. (Single Entry Fees 20 Euro)"
+      }
+    },
+    {
+      "passport": "CA",
+      "destination": "United States",
+      "fields": {
+        "note": "Visa: Canadians need no US visa and are not Visa Waiver Program travellers, so ESTA does not apply.\nGood to know: Since 11 April 2025, and under a final rule effective 29 June 2026, any foreign national aged 14 or over who stays 30 days or longer must be registered and fingerprinted. DHS named Canadians specifically as the gap. Many are admitted at land borders with no I-94, so they were never registered.\nForm G-325R: if you did not get an I-94 or an admission stamp, file Form G-325R with USCIS before day 30. Snowbirds driving south for the winter are squarely inside this.\nBring: Registered travellers 18 and over must carry their evidence of registration at all times. Wilful failure to register is punishable by a fine of up to USD 5,000 or six months' imprisonment.\nGood to know: This is about citizenship. Canadian permanent residents who are not citizens do need a visa.",
+        "stay": "Set by the CBP officer on admission; 6 months"
       }
     },
     {
@@ -54,10 +233,41 @@
     },
     {
       "passport": "UK",
+      "destination": "Suriname",
+      "fields": {
+        "note": "Visa: not plain visa-free. British travellers must buy Suriname's Entry Fee voucher online through VFS Global before departure and show it at check-in. Airlines have checked it since 15 January 2024. Apply at least 72 hours ahead.\nFee: single-entry by default. A multiple-entry voucher covering 5 entries in 3 months is sold separately. Children under 3 are exempt from the fee.\nPassport: needs 6 months validity and 1 blank page.",
+        "cost": "54 US dollars or EUR 50, plus USD 8 or EUR 8 service fee"
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Sudan",
+      "fields": {
+        "note": "Visa: not granted automatically. Getting a visa can take several months. Sudanese missions list business, official, work, humanitarian and tourist visas.\nAfter arrival: register with the Aliens' Registration Office within 3 days.\nTravel permit: internal travel needs a separate permit."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Trinidad and Tobago",
+      "fields": {
+        "note": "Visa: Australia is excluded by name from Trinidad and Tobago's Commonwealth exemption. The Airports Authority list admits Commonwealth citizens but names eleven exceptions: Fiji, South Africa, Mozambique, Sri Lanka, New Zealand, Tanzania, Australia, Nigeria, Uganda, Cameroon and Papua New Guinea. Australia does not appear on the Ministry of Homeland Security's visa-free country list either.\nCommon mistake: assuming Commonwealth citizens are exempt gets this wrong.",
+        "cost": "The multiple entry e-visa fee is TTD800."
+      }
+    },
+    {
+      "passport": "UK",
       "destination": "Mongolia",
       "fields": {
         "note": "Visa-free for tourism up to 30 days under Mongolia's temporary exemption list, in force to end-2026 — check before booking 2027 travel.\nPublished only to 31 Dec 2026.",
         "apply": "Not required (visa-free) — present passport at any Mongolian port of entry."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Haiti",
+      "fields": {
+        "ext_cost": "Not verified",
+        "note": "No visa for stays under 90 days; formalities are completed on arrival. You'll need to pay the USD 10 tourist fee at the airport in cash — a fee, not a visa, and it cannot be bought in advance."
       }
     },
     {
