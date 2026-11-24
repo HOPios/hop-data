@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-22T08:08:34Z",
+  "generated_at": "2026-11-24T02:54:47Z",
   "entries": [
     {
       "passport": "AU",
@@ -90,8 +90,8 @@
       "passport": "IN",
       "destination": "Mauritius",
       "fields": {
-        "note": "Visa on Arrival. Mauritius lists only Guyana as needing a visa.",
-        "visa": "voa"
+        "visa": "vf",
+        "note": "Visa-free. The Mauritius passport office's visa requirements list says \"No visa required.\" for India."
       }
     },
     {
@@ -139,6 +139,7 @@
       "passport": "NZ",
       "destination": "United Arab Emirates",
       "fields": {
+        "visa": "vf",
         "stay": "30-day visit visa free of charge",
         "note": "Simply disembark your flight at Dubai International airport and proceed to immigration, where your passport will be stamped with a 30-day visit visa free of charge. Passport must be valid at least six months from arrival."
       }
@@ -2139,7 +2140,7 @@
       "destination": "Taiwan",
       "fields": {
         "stay": "30 days on a TAC; not verified for a visitor visa",
-        "note": "Visa: not visa-exempt.\nTravel Authorization Certificate (TAC): if you hold a valid visa or residence card from the US, UK, Canada, Australia, New Zealand, Japan, Korea or an EU/Schengen country (or one that expired under 10 years ago), or an ROC visa from the past 10 years, you can apply online. It gives 14 days per stay, is valid 90 days with multiple entries, and allows at most six entries a calendar year.\nOtherwise: apply for a visitor visa at the Taipei Economic and Cultural Center in India.\neVisa: exists only for group tours with a Tourism Administration-designated agency, or business visits recommended by the Taiwan External Trade Development Council."
+        "note": "Visa: not visa-exempt.\nTravel Authorization Certificate (TAC): if you hold a valid visa or residence card from the US, UK, Canada, Australia, New Zealand, Japan, Korea or an EU/Schengen country (or one that expired under 10 years ago), or an ROC visa from the past 10 years, you can apply online. It gives 14 days per stay, is valid 90 days with multiple entries, and allows at most six entries a calendar year.\nOtherwise: apply for a visitor visa at the Taipei Economic and Cultural Center in India.\neVisa: exists only for group tours with a Tourism Administration-designated agency, or business visits recommended by the Taiwan External Trade Development Council.\nTaiwan's Bureau of Consular Affairs page (dated 30 Dec 2015) says nationals of India who possess a valid resident/visitor visa (including an electronic one) or resident certificate (including a permanent one) issued by the U.S.A., Canada, Japan, the U.K., Schengen Agreement countries, Australia or New Zealand are eligible for the visa exemption program."
       }
     },
     {
@@ -3131,14 +3132,16 @@
       "passport": "AU",
       "destination": "Peru",
       "fields": {
-        "stay": "90 days, extendable once for an equal period, within 365 days of first entry"
+        "stay": "90 days, extendable once for an equal period, within 365 days of first entry",
+        "ext_cost": "~US$20 per month; extendable once by the same period"
       }
     },
     {
       "passport": "US",
       "destination": "Peru",
       "fields": {
-        "stay": "90 days, extendable once for an equal period, within 365 days of first entry"
+        "stay": "90 days, extendable once for an equal period, within 365 days of first entry",
+        "ext_cost": "~US$20 per month; extendable once by the same period"
       }
     },
     {
@@ -3180,16 +3183,14 @@
       "passport": "AU",
       "destination": "Christmas Island",
       "fields": {
-        "visa": "vf",
-        "note": "Australian territory: domestic travel, no visa needed."
+        "note": "Australian territory: no passport or visa needed from the mainland. The Department of Infrastructure says \"Passports and visas are not required when travelling to Christmas Island from the Australian mainland.\""
       }
     },
     {
       "passport": "AU",
       "destination": "Cocos (Keeling) Islands",
       "fields": {
-        "visa": "vf",
-        "note": "Australian territory: domestic travel, no visa needed."
+        "note": "Australian territory: no passport or visa needed from the mainland. The Department of Infrastructure says \"Passports and visas are not required when travelling to the Cocos (Keeling) Islands from the Australian mainland.\""
       }
     },
     {
@@ -3447,7 +3448,8 @@
       "passport": "IN",
       "destination": "Zimbabwe",
       "fields": {
-        "note": "Visa: get a visa on arrival, or apply online in advance at evisa.gov.zw (about 7 working days; apply at least 3 weeks ahead).\nMultiple entry: not issued at the port and must be pre-applied online.\nKAZA UniVisa: an e-visa valid 3 months from issue. It covers Zimbabwe and Zambia, plus Botswana day trips at Kazungula."
+        "note": "Visa: get a visa on arrival, or apply online in advance at evisa.gov.zw (about 7 working days; apply at least 3 weeks ahead).\nMultiple entry: not issued at the port and must be pre-applied online.\nKAZA UniVisa: an e-visa valid 3 months from issue. It covers Zimbabwe and Zambia, plus Botswana day trips at Kazungula.",
+        "stay": "30 days, single entry"
       }
     },
     {
@@ -5267,7 +5269,8 @@
       "passport": "AU",
       "destination": "Bolivia",
       "fields": {
-        "note": "No tourist visa for Group I nationals. Passport valid 6+ months. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk. The 90 days is an annual allowance, not per entry."
+        "note": "No tourist visa for Group I nationals. Passport valid 6+ months. A yellow fever certificate is needed only if you are aged 1 year or over and arrive from a country with yellow fever risk. The 90 days is an annual allowance, not per entry.",
+        "stay": "30 days on entry; an extension can be requested, up to 90 days per calendar year"
       }
     },
     {
@@ -6857,7 +6860,9 @@
       "passport": "CA",
       "destination": "Peru",
       "fields": {
-        "note": "Visa: Peru's own consular table lists Canada as tourist-exempt up to 90 days. A business visit still requires a visa.\nEntry card: entry and exit are recorded on the Tarjeta Andina de Migración, now digital. Printed forms have been abolished at Jorge Chávez airport and the authorised seaports, so your passport may not be stamped.\nOverstay: overstaying carries a per-day fine payable on exit."
+        "note": "Visa: Peru's own consular table lists Canada as tourist-exempt up to 90 days. A business visit still requires a visa.\nEntry card: entry and exit are recorded on the Tarjeta Andina de Migración, now digital. Printed forms have been abolished at Jorge Chávez airport and the authorised seaports, so your passport may not be stamped.\nOverstay: overstaying carries a per-day fine payable on exit.",
+        "stay": "90 days, extendable once by the same period, within 365 days of first entry",
+        "extension": "Extendable once by the same period, within 365 days of first entry"
       }
     },
     {
@@ -7313,7 +7318,7 @@
       "passport": "IN",
       "destination": "Colombia",
       "fields": {
-        "note": "Visa: Visa V (Visitor) required, unless you hold a valid Schengen or US residence permit, or a Schengen or US visa with at least 180 days' validity left on arrival. Then you may be allowed in without a visa.\nTransit: a transit visa is needed even for direct airport transit.\nBefore you fly: Check-Mig online pre-registration is recommended."
+        "note": "Visa: Visa V (Visitor) required, unless you hold a valid Schengen or US residence permit, or a Schengen or US visa with at least 180 days' validity left on arrival. Then you may be allowed in without a visa.\nTransit: a transit visa is needed even for direct airport transit.\nBefore you fly: Check-Mig online pre-registration is recommended.\nResolucion 5488 of 2022, article 3, literal C (as modified by Resolucion 3717 of 2023), lists India among the nationals who may be authorised to enter without a visa and stay temporarily if they hold a valid residence permit in a Schengen state or in the United States, or a Schengen or United States visa with a minimum validity of 180 days when entering Colombia."
       }
     },
     {
@@ -7630,7 +7635,8 @@
       "passport": "NZ",
       "destination": "Guam",
       "fields": {
-        "note": "Visa: Guam counts as the United States for Visa Waiver Program purposes, so a New Zealander flies in on an approved ESTA and is admitted for up to 90 days.\nOther option: There is a separate Guam-CNMI waiver that gives only 45 days and only for Guam and the Northern Marianas. ESTA is the better route.\nFee: The ESTA fee is adjusted for inflation annually, so re-check it."
+        "note": "Visa: Guam counts as the United States for Visa Waiver Program purposes, so a New Zealander flies in on an approved ESTA and is admitted for up to 90 days.\nOther option: There is a separate Guam-CNMI waiver that gives only 45 days and only for Guam and the Northern Marianas. ESTA is the better route.\nFee: The ESTA fee is adjusted for inflation annually, so re-check it.",
+        "stay": "45 days (G-CNMI) or 90 days (ESTA)"
       }
     },
     {
@@ -7854,7 +7860,8 @@
       "passport": "NZ",
       "destination": "Northern Mariana Islands",
       "fields": {
-        "note": "Visa: the Northern Marianas count as the United States for Visa Waiver Program purposes, so a New Zealander travels on an approved ESTA and is admitted for up to 90 days.\nGuam-CNMI waiver: a separate waiver gives only 45 days for those islands alone.\nBefore you fly: an approved ESTA is needed before boarding, and an e-passport is mandatory."
+        "note": "Visa: the Northern Marianas count as the United States for Visa Waiver Program purposes, so a New Zealander travels on an approved ESTA and is admitted for up to 90 days.\nGuam-CNMI waiver: a separate waiver gives only 45 days for those islands alone.\nBefore you fly: an approved ESTA is needed before boarding, and an e-passport is mandatory.",
+        "stay": "45 days (G-CNMI) or 90 days (ESTA)"
       }
     },
     {
@@ -7882,7 +7889,9 @@
       "passport": "NZ",
       "destination": "Peru",
       "fields": {
-        "note": "Stay: two numbers apply, and both matter. Peru's law sets 183 days accumulated in any 365-day period, not per visit, so multiple trips draw down the same allowance. But Peru's own consular table shows 90 days for New Zealand tourists, and the officer at the border sets what you actually get. Plan on 90.\nWork: tourist status does not permit any paid work."
+        "note": "Stay: 90 days, extendable once by the same period, within 365 days of first entry (Peru's foreign ministry table). Business visits still need a visa.",
+        "stay": "90 days",
+        "extension": "Extendable once by the same period, within 365 days of first entry"
       }
     },
     {
@@ -8899,7 +8908,10 @@
       "passport": "UK",
       "destination": "Peru",
       "fields": {
-        "note": "Visa-free — up to 90 days per entry, max 183 days per rolling 365. Entry registered digitally (TAM). State of Emergency in Lima & Callao."
+        "note": "Visa-free: 90 days, extendable once by the same period, within 365 days of first entry. Entry registered digitally (TAM). State of Emergency in Lima & Callao.",
+        "stay": "90 days, extendable once by the same period, within 365 days of first entry",
+        "extension": "Extendable once by the same period, within 365 days of first entry",
+        "ext_cost": "Not verified — no official fee published"
       }
     },
     {
@@ -9144,6 +9156,60 @@
       "destination": "Azerbaijan",
       "fields": {
         "note": "Standard ASAN e-visa. Anyone staying more than 15 days must register at the place of residence."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Jamaica",
+      "fields": {
+        "stay": "No visa for tourism or business stays of less than 90 days",
+        "note": "No visa required under PICA's entry table. What the officer stamps governs. Complete the electronic C5 passenger declaration before arrival."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Oman",
+      "fields": {
+        "visa": "voa",
+        "note": "Australian citizens visiting Oman for up to 14 days for the purpose of tourism may be eligible for a free-of-charge entry visa. This is subject to the following conditions/requirements: evidence of your confirmed accommodation booking, evidence of health insurance to cover your stay, evidence of your return ticket, and a passport valid for more than six months. You need a valid visa to enter Oman if you're planning to stay for more than 14 days. Visit visas are available on arrival at the airport."
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Peru",
+      "fields": {
+        "stay": "90 days, extendable once by the same period, within 365 days of first entry",
+        "extension": "Extendable once by the same period, within 365 days of first entry",
+        "note": "No visa needed for stays up to 90 days, extendable once by the same period, within 365 days of first entry."
+      }
+    },
+    {
+      "passport": "KR",
+      "destination": "Peru",
+      "fields": {
+        "stay": "90 days, extendable once by the same period, within 365 days of first entry",
+        "extension": "Extendable once by the same period, within 365 days of first entry"
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Uzbekistan",
+      "fields": {
+        "note": "Not visa-free: ordinary passports need an e-visa. A 5-day visa-free transit applies when flying onward with Uzbekistan Airways from a Uzbek international airport.\nFrom 1 September 2026 a visa-free regime of up to 30 days from the date of entry, within the validity of the foreign visa concerned, applies to citizens of India who hold a valid multiple-entry business or tourist entry visa of Australia, the United States, the United Kingdom, Canada, the Republic of Korea, a Schengen Agreement state, New Zealand or Japan, and who present an air ticket to their own or a third country (Government portal of the Republic of Uzbekistan, notes item 10)."
+      }
+    },
+    {
+      "passport": "IN",
+      "destination": "Uruguay",
+      "fields": {
+        "note": "A consular tourism visa is required, with prior authorisation from Uruguay's National Migration Directorate. Allow at least 20 working days from the application for the authorisation.\nUruguay's visa regime page, footnote (12): holders of an ordinary chip passport of India with a valid visa of the USA, Canada, the United Kingdom and/or the Schengen area, who travel temporarily to Uruguay for tourism, business or congresses, conventions and seminars, may enter without a Uruguayan consular visa if the first entry is through Carrasco, Montevideo, Colonia or Laguna del Sauce."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Cayman Islands",
+      "fields": {
+        "stay": "Up to six months, officer's discretion"
       }
     }
   ],
@@ -9481,6 +9547,12 @@
         "blurb": "Standard e-visa processing is three working days, with a three-hour urgent option."
       },
       "checked": "2026-11-16"
+    },
+    {
+      "destination": "Peru",
+      "fields": {
+        "blurb": "Peru's foreign ministry table gives Australian, New Zealand and US passport holders 90 days on entry, extendable once by the same period within 365 days of first entry. The 183 days that cannot be extended apply only to the rows the table marks 183**. Entry is registered digitally on the TAM rather than by stamp, and tourist status does not permit any paid work."
+      }
     }
   ]
 }
