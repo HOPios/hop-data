@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-24T02:54:47Z",
+  "generated_at": "2026-11-24T06:30:58Z",
   "entries": [
     {
       "passport": "AU",
@@ -596,6 +596,17 @@
       }
     },
     {
+      "passport": "US",
+      "destination": "Malawi",
+      "fields": {
+        "note": "Visa: visas are not required for U.S. citizens visiting Malawi for less than 30 days.\nEntry fee: U.S. citizens should be prepared to pay an entry fee in US dollars of $50 per adult and $25 per child. The entry fee policy is not implemented consistently, and credit card machines may not be available to pay this entry fee.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit more than 12 hours through, a country with yellow fever risk.",
+        "visa": "vf",
+        "stay": "Visits of less than 30 days",
+        "cost": "Entry fee in US dollars of $50 per adult and $25 per child",
+        "apply": "Not required for visits of less than 30 days"
+      }
+    },
+    {
       "passport": "UK",
       "destination": "New Caledonia",
       "fields": {
@@ -614,7 +625,8 @@
       "destination": "Sao Tome and Principe",
       "fields": {
         "note": "Visa: India doesn't qualify for São Tomé's 15-day visa exemption.\nApply: request the Autorização de Entrada online via eVisaST (no consulate in India). Decision in 7 working days, pay at the border on arrival.\nPassport: valid 3+ months beyond the stay. A return or onward ticket is mandatory.\nYellow fever: certificate needed only if you are aged 1 year or over and arrive from, or transit through, a country with yellow fever risk.",
-        "cost": "Tourist visa. (Single Entry Fees 20 Euro)"
+        "cost": "Tourist visa. (Single Entry Fees 20 Euro)",
+        "stay": "30 days"
       }
     },
     {
@@ -712,6 +724,14 @@
         "note": "Visa: one-month visa issued free at the port of entry under General Security's nationality rules.\nOverstay: if you overstay by less than one month, you can leave and pay a fine at departure. If you overstay by more than one month, you must contact General Security's bureau of Arabs and foreigners before you are allowed to leave.",
         "cost": "Free (VOA)",
         "apply": "At the port of entry (visa on arrival) — no advance application required."
+      }
+    },
+    {
+      "passport": "UK",
+      "destination": "Saint Pierre and Miquelon",
+      "fields": {
+        "note": "Visa: visa-free.\nGood to know: a small French archipelago off Newfoundland, the last remnant of New France. Not in Schengen.\nGetting there: access is via Canada (ferry from Fortune, Newfoundland, or flights from Montreal and Halifax), so you must also meet Canada's entry rules, including an eTA.\nSeasonal flight: a direct flight from Paris CDG also operates in summer (weekly, roughly late June to early September, run by Air Saint-Pierre with ASL Airlines France). Check current dates before relying on it.",
+        "stay": "Up to 90 days"
       }
     },
     {
@@ -1298,6 +1318,37 @@
       "destination": "Cayman Islands",
       "fields": {
         "stay": "Up to six months, officer's discretion"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Tuvalu",
+      "fields": {
+        "stay": "Maximum one-month stay",
+        "note": "No visa required; every visitor is issued a Visitors Permit for a maximum one-month stay. Irish passport holders pay the standard AUD 100 fee. Passport must be valid 6+ months beyond arrival."
+      }
+    },
+    {
+      "passport": "AU",
+      "destination": "Benin",
+      "fields": {
+        "stay": "30 days or 90 days"
+      }
+    },
+    {
+      "passport": "US",
+      "destination": "Benin",
+      "fields": {
+        "stay": "30 days or 90 days"
+      }
+    },
+    {
+      "passport": "NL",
+      "destination": "Kuwait",
+      "fields": {
+        "visa": "ev",
+        "note": "Passport must be valid at least 6 months from date of entry. A recent passport-standard photo, a confirmed round-trip flight ticket and proof of accommodation in Kuwait are required for the e-visa application.",
+        "apply": "Online e-visa at kuwaitvisa.moi.gov.kw"
       }
     }
   ],
