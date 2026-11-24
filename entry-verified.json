@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-24T03:12:05.800Z",
+ "generated_at": "2026-11-24T05:30:25.151Z",
  "dates": {
   "AU": {
    "Albania": "2026-11-15",
@@ -2370,18 +2370,19 @@
  "review_sentence": [],
  "stats": {
   "run_date": "2026-11-24",
-  "method": "page",
-  "pages": 1114,
-  "entries_checked": 2163,
-  "fetches": 1152,
-  "fetch_failures": 11,
-  "failure_rate": 0.0095,
-  "unchanged": 2029,
-  "changed": 39,
-  "held": 1,
-  "unreachable_entries": 4,
-  "manual_waiting": 68,
-  "dates_moved": 1891,
-  "published": true
+  "destinations_checked": 2,
+  "fetches": 4,
+  "fetch_failures": 0,
+  "failure_rate": 0,
+  "sentences_checked": 21,
+  "sentences_found": 21,
+  "entries_checked": 2,
+  "dates_moved": 0,
+  "published": true,
+  "pages_read": {
+   "plain": 2,
+   "pdf": 0,
+   "browser": 2
+  }
  }
 }
