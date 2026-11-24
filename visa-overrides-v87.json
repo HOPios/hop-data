@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-24T06:30:58Z",
+  "generated_at": "2026-11-24T09:30:27Z",
   "entries": [
     {
       "passport": "AU",
@@ -9590,6 +9590,13 @@
       "fields": {
         "blurb": "Peru's foreign ministry table gives Australian, New Zealand and US passport holders 90 days on entry, extendable once by the same period within 365 days of first entry. The 183 days that cannot be extended apply only to the rows the table marks 183**. Entry is registered digitally on the TAM rather than by stamp, and tourist status does not permit any paid work."
       }
+    },
+    {
+      "destination": "Zimbabwe",
+      "fields": {
+        "official_link": null
+      },
+      "checked": "2026-11-24"
     }
   ]
 }
