@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-25T02:14:33Z",
+  "generated_at": "2026-11-25T02:38:11Z",
   "entries": [
     {
       "passport": "AU",
@@ -141,8 +141,10 @@
       "destination": "Tajikistan",
       "fields": {
         "extension": "The electronic visa is not subject to extension.",
-        "ext_cost": "The electronic visa is not subject to extension."
-      }
+        "ext_cost": "The electronic visa is not subject to extension.",
+        "stay": "Not more than 60 days"
+      },
+      "checked": "2026-11-25"
     },
     {
       "passport": "UK",
@@ -320,6 +322,15 @@
       }
     },
     {
+      "passport": "KR",
+      "destination": "Moldova",
+      "fields": {
+        "stay": "90 days in any 6 months",
+        "note": "Visa-free. Passport valid 3+ months beyond departure; carry evidence of means."
+      },
+      "checked": "2026-11-25"
+    },
+    {
       "passport": "CA",
       "destination": "North Korea",
       "fields": {
@@ -352,6 +363,24 @@
       "fields": {
         "note": "Mexico charges all visitors an immigration fee, included in your ticket if you arrive on a commercial flight."
       }
+    },
+    {
+      "passport": "CA",
+      "destination": "Montserrat",
+      "fields": {
+        "stay": "Set by the immigration officer on entry, up to 6 months",
+        "note": "Visa: Canada is named on the Government of Montserrat immigration portal's list of countries that do not require a visa.\nETA: Montserrat sets its own policy. The UK ETA does not apply here.\nStay: the Immigration Act lets an immigration officer grant a permit to remain in Montserrat for such period not exceeding six months as may be specified in the permit."
+      },
+      "checked": "2026-11-25"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Montserrat",
+      "fields": {
+        "stay": "Set by the immigration officer on entry, up to 6 months",
+        "note": "New Zealand is on Montserrat's own visa-not-required list. Separately, every traveller must complete the online Immigration and Customs Form, available 72 hours before travel, and present the receipt on arrival — that is a declaration, not a visa. Montserrat's Immigration Act lets an immigration officer grant a visitor a permit to remain in Montserrat for such period not exceeding six months as may be specified in the permit."
+      },
+      "checked": "2026-11-25"
     },
     {
       "passport": "AU",
@@ -1357,6 +1386,46 @@
       "fields": {
         "stay": "Up to six months"
       }
+    },
+    {
+      "passport": "DE",
+      "destination": "Saint Kitts and Nevis",
+      "fields": {
+        "stay": "Up to 90 days per half-year"
+      },
+      "checked": "2026-11-25"
+    },
+    {
+      "passport": "NL",
+      "destination": "Saint Kitts and Nevis",
+      "fields": {
+        "stay": "90 days or less"
+      },
+      "checked": "2026-11-25"
+    },
+    {
+      "passport": "IN",
+      "destination": "Paraguay",
+      "fields": {
+        "stay": "Up to 90 days"
+      },
+      "checked": "2026-11-25"
+    },
+    {
+      "passport": "IE",
+      "destination": "Malaysia",
+      "fields": {
+        "stay": "Less than 3 months"
+      },
+      "checked": "2026-11-25"
+    },
+    {
+      "passport": "US",
+      "destination": "Canada",
+      "fields": {
+        "stay": "Less than 180 days"
+      },
+      "checked": "2026-11-25"
     }
   ],
   "destinations": [
