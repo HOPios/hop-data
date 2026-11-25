@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-25T02:55:43.086Z",
+ "generated_at": "2026-11-25T04:33:59.756Z",
  "dates": {
   "AU": {
    "Albania": "2026-11-15",
@@ -659,7 +659,7 @@
    "France": "2026-11-25",
    "French Guiana": "2026-11-25",
    "French Polynesia": "2026-11-25",
-   "Gambia": "2026-11-18",
+   "Gambia": "2026-11-25",
    "Georgia": "2026-11-25",
    "Germany": "2026-11-25",
    "Greece": "2026-11-25",
@@ -2451,18 +2451,19 @@
  "review_sentence": [],
  "stats": {
   "run_date": "2026-11-25",
-  "method": "page",
-  "pages": 1132,
-  "entries_checked": 2180,
-  "fetches": 1182,
-  "fetch_failures": 8,
-  "failure_rate": 0.0068,
-  "unchanged": 2072,
-  "changed": 19,
-  "held": 1,
-  "unreachable_entries": 18,
-  "manual_waiting": 68,
-  "dates_moved": 62,
-  "published": true
+  "destinations_checked": 1,
+  "fetches": 1,
+  "fetch_failures": 0,
+  "failure_rate": 0,
+  "sentences_checked": 7,
+  "sentences_found": 7,
+  "entries_checked": 1,
+  "dates_moved": 1,
+  "published": true,
+  "pages_read": {
+   "plain": 1,
+   "pdf": 0,
+   "browser": 0
+  }
  }
 }
