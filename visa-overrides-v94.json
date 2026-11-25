@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-24T09:30:27Z",
+  "generated_at": "2026-11-25T02:14:33Z",
   "entries": [
     {
       "passport": "AU",
@@ -1324,7 +1324,7 @@
       "passport": "IE",
       "destination": "Tuvalu",
       "fields": {
-        "stay": "Maximum one-month stay",
+        "stay": "Maximum one month stay",
         "note": "No visa required; every visitor is issued a Visitors Permit for a maximum one-month stay. Irish passport holders pay the standard AUD 100 fee. Passport must be valid 6+ months beyond arrival."
       }
     },
@@ -1349,6 +1349,13 @@
         "visa": "ev",
         "note": "Passport must be valid at least 6 months from date of entry. A recent passport-standard photo, a confirmed round-trip flight ticket and proof of accommodation in Kuwait are required for the e-visa application.",
         "apply": "Online e-visa at kuwaitvisa.moi.gov.kw"
+      }
+    },
+    {
+      "passport": "IE",
+      "destination": "Cayman Islands",
+      "fields": {
+        "stay": "Up to six months"
       }
     }
   ],
