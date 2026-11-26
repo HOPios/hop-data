@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-25T02:38:11Z",
+  "generated_at": "2026-11-26T03:05:58Z",
   "entries": [
     {
       "passport": "AU",
@@ -3816,9 +3816,10 @@
       "destination": "Liberia",
       "fields": {
         "apply": "Apply for a visa at the embassy of Liberia in Brussels, Belgium.",
-        "note": "Visa: there is no Liberian embassy in the Netherlands. Use the online Visa on Arrival portal.\nChildren also need a valid passport and a visa for a trip to Liberia.\nPassport: valid at least 6 months.\nOn arrival: fingerprints and face captured.\nYellow fever: certificate required of every arriving traveller aged 9 months and over.",
+        "note": "Visa: there is no Liberian embassy in the Netherlands. Apply for a visa at the embassy of Liberia in Brussels, Belgium.\nChildren also need a valid passport and a visa for a trip to Liberia.\nPassport: valid at least 6 months.\nOn arrival: fingerprints and face captured.\nYellow fever: certificate required of every arriving traveller aged 9 months and over.",
         "visa": "vr"
-      }
+      },
+      "checked": "2026-11-26"
     },
     {
       "passport": "IE",
@@ -9394,9 +9395,10 @@
       "passport": "NL",
       "destination": "Saint Kitts and Nevis",
       "fields": {
-        "stay": "90 days or less"
+        "stay": "90 days or less",
+        "note": "Every visitor must present an approved eTA before departing their country of origin and on arrival in Saint Kitts and Nevis. Citizens of member states of the Organisation of Eastern Caribbean States (OECS) do not need to apply for an eTA."
       },
-      "checked": "2026-11-25"
+      "checked": "2026-11-26"
     },
     {
       "passport": "IN",
@@ -9421,6 +9423,55 @@
         "stay": "Less than 180 days"
       },
       "checked": "2026-11-25"
+    },
+    {
+      "passport": "IN",
+      "destination": "Tajikistan",
+      "fields": {
+        "stay": "Not more than 60 days"
+      },
+      "checked": "2026-11-26"
+    },
+    {
+      "passport": "IN",
+      "destination": "Moldova",
+      "fields": {
+        "stay": "Up to 90 days in any 180-day period"
+      },
+      "checked": "2026-11-26"
+    },
+    {
+      "passport": "UK",
+      "destination": "Turks and Caicos Islands",
+      "fields": {
+        "stay": "Up to 90 days"
+      },
+      "checked": "2026-11-26"
+    },
+    {
+      "passport": "US",
+      "destination": "Turks and Caicos Islands",
+      "fields": {
+        "stay": "Under 90 days"
+      },
+      "checked": "2026-11-26"
+    },
+    {
+      "passport": "NL",
+      "destination": "Turks and Caicos Islands",
+      "fields": {
+        "stay": "90 days or less"
+      },
+      "checked": "2026-11-26"
+    },
+    {
+      "passport": "DE",
+      "destination": "Turks and Caicos Islands",
+      "fields": {
+        "stay": "Up to 30 days; can be extended to 60",
+        "extension": "Possible — to a maximum of 60 days, at the Immigration office"
+      },
+      "checked": "2026-11-26"
     }
   ],
   "destinations": [
