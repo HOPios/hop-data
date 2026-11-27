@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-26T03:05:58Z",
+  "generated_at": "2026-11-27T02:16:13Z",
   "entries": [
     {
       "passport": "AU",
@@ -9308,9 +9308,10 @@
       "passport": "IN",
       "destination": "Tajikistan",
       "fields": {
-        "stay": "Not more than 60 days"
+        "stay": "Not more than 60 days",
+        "note": "Not visa-free: an e-Visa or a visa on arrival. Stays beyond 10 days require registration with local authorities."
       },
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "passport": "IN",
@@ -9324,34 +9325,63 @@
       "passport": "UK",
       "destination": "Turks and Caicos Islands",
       "fields": {
-        "stay": "Up to 90 days"
+        "stay": "Up to 90 days",
+        "note": "Visa-free. UK ETA does NOT apply here; TCI runs its own immigration."
       },
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "passport": "US",
       "destination": "Turks and Caicos Islands",
       "fields": {
-        "stay": "Under 90 days"
+        "stay": "Under 90 days",
+        "note": "Visa-free but passport required — a driver's licence or birth certificate will not do. USD is the local currency."
       },
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "passport": "NL",
       "destination": "Turks and Caicos Islands",
       "fields": {
-        "stay": "90 days or less"
+        "stay": "90 days or less",
+        "extension": "A stay of more than 90 days needs a visa — contact the British embassy in The Hague for visa information",
+        "ext_cost": "Not verified — no extension fee published"
       },
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
     },
     {
       "passport": "DE",
       "destination": "Turks and Caicos Islands",
       "fields": {
         "stay": "Up to 30 days; can be extended to 60",
-        "extension": "Possible — to a maximum of 60 days, at the Immigration office"
+        "extension": "Possible — to a maximum of 60 days, at the Immigration office",
+        "ext_cost": "Not verified — no extension fee published"
       },
-      "checked": "2026-11-26"
+      "checked": "2026-11-27"
+    },
+    {
+      "passport": "IN",
+      "destination": "Guadeloupe",
+      "fields": {
+        "note": "A visa issued by a French authority is required. Indian passport holders need no visa if the passport carries a multiple-entry visa, valid for between six months and five years, issued by a French consular authority, or if they hold a valid residence permit or long-stay visa issued by France or another Schengen state (stays of no more than three months in any six)."
+      },
+      "checked": "2026-11-27"
+    },
+    {
+      "passport": "IN",
+      "destination": "Saint Pierre and Miquelon",
+      "fields": {
+        "note": "A visa issued by a French authority is required. Indian passport holders need no visa if the passport carries a multiple-entry visa, valid for between six months and five years, issued by a French consular authority, or if they hold a valid residence permit or long-stay visa issued by France or another Schengen state (stays of no more than three months in any six). Holders of a Canadian identity document arriving directly from Canada need no passport or visa for a stay of no more than three months in any six. Travel through Canada may need a Canadian visa, which is Canada's rule, not France's."
+      },
+      "checked": "2026-11-27"
+    },
+    {
+      "passport": "NZ",
+      "destination": "Canada",
+      "fields": {
+        "note": "No visa, but you need an eTA to board a flight to or through Canada. It is linked to your passport and lasts up to 5 years or until the passport expires. No eTA is needed if you arrive by car, bus, train or boat (except by sea from Saint-Pierre-et-Miquelon, other than cruise ships). A border officer may grant more or less than 6 months."
+      },
+      "checked": "2026-11-27"
     }
   ],
   "destinations": [
